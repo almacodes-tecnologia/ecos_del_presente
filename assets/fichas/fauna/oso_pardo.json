@@ -1,0 +1,164 @@
+{
+  "id": "oso_pardo",
+  "nombre": "Oso Pardo",
+  "nombreCientifico": "Ursus arctos",
+  "fechaInformacion": "2025",
+
+  "imagen": "oso_pardo.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El oso pardo (*Ursus arctos*) es uno de los carnívoros terrestres más grandes del mundo, un gran mamífero omnívoro con una amplia distribución que abarca América del Norte (donde es conocido como oso Grizzly o Kodiak), Europa y Asia. ",
+    "Es famoso por su fuerza, su capacidad de hibernación y su dieta altamente adaptable que varía según la estación y la disponibilidad de recursos."
+  ],
+
+  "descripcionLarga": [
+    "El oso pardo es un mamífero de cuerpo robusto y musculoso, con un pelaje grueso que varía del marrón claro al casi negro. Una característica distintiva es la gran joroba muscular que tiene sobre los hombros, la cual le proporciona una enorme fuerza para excavar y golpear.",
+    "A pesar de su enorme tamaño y apariencia lenta, es sorprendentemente rápido en distancias cortas. Posee garras largas y no retráctiles, ideales para arrancar raíces, cavar y defenderse.",
+    "Aunque pertenece al orden Carnivora, su dieta es predominantemente omnívora, incluyendo una gran variedad de vegetación, raíces, insectos, peces (especialmente salmón en algunas subespecies) y, ocasionalmente, grandes mamíferos. Es un animal solitario y territorial."
+  ],
+
+  "observaciones": [
+    "Las subespecies más grandes, como el oso Kodiak o el Grizzly, son icónicas en América del Norte.",
+    "La hibernación no es un sueño verdadero, sino un estado de letargo profundo donde su ritmo cardíaco y metabolismo disminuyen drásticamente, sobreviviendo de sus reservas de grasa sin comer, beber ni defecar durante meses.",
+    "Son potencialmente peligrosos si se les sorprende, especialmente las hembras con crías, que defienden ferozmente a sus oseznos."
+  ],
+
+  "longevidad": {
+    "enLibertad": "20-30 años",
+    "enCautividad": "30-40 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Carnivora",
+    "familia": "Ursidae",
+    "genero": "Ursus",
+    "especie": "U. arctos"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable o en aumento globalmente, pero en declive y fragmentada en algunas regiones de Europa y Asia.",
+    "amenazasPrincipales": [
+      "Pérdida y fragmentación de hábitat (lo que aísla genéticamente a las poblaciones).",
+      "Conflictos con humanos, especialmente con la ganadería y la tala de bosques.",
+      "Caza ilegal o mal regulada."
+    ],
+    "esfuerzosConservacion": [
+      "Creación de parques nacionales y reservas (como Yellowstone) para proteger grandes extensiones de hábitat.",
+      "Programas de reintroducción y manejo de conflictos (en Europa).",
+      "Protección legal estricta y monitoreo poblacional (telemetría)."
+    ],
+    "descripcionConservacion": [
+      "A pesar de estar catalogado globalmente como 'Preocupación Menor', el oso pardo se extinguió en muchas de sus áreas históricas. La conservación se centra en asegurar corredores ecológicos y minimizar la mortalidad inducida por humanos, especialmente en las poblaciones europeas más pequeñas."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "180-360 kg (Grizzly y Europeo); 300-680 kg (Kodiak)",
+      "hembraAdulta": "120-250 kg",
+      "maximoRegistrado": "Aprox. 680 kg (Oso Kodiak)"
+    },
+    "alturaHombro": {
+      "macho": "90-150 cm",
+      "hembra": "85-140 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "1.8-2.8 m (cuerpo) + 7-15 cm (cola)",
+      "hembra": "1.7-2.4 m"
+    },
+    "colorPelaje": "Marrón con grandes variaciones (desde tonos rubios en algunas subespecies hasta marrón oscuro).",
+    "caracteristicasEspeciales": "Joroba muscular distintiva en el hombro; Garras largas no retráctiles; Capacidad de hiperfagia e hibernación.",
+    "morfologia": [
+      "Cuerpo robusto y musculoso, con una joroba característica sobre los hombros.",
+      "Garras largas y poderosas (hasta 10 cm) para excavar en busca de raíces o madrigueras.",
+      "Cabeza grande con hocico prominente, dotado de un sentido del olfato superior (seis veces mejor que el de un perro rastreador)."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques boreales, montañas, tundra, praderas, zonas costeras.",
+    "distribucionGeografica": [
+      "América del Norte (Alaska, Canadá, EE. UU. continental), Europa (Rusia, Escandinavia, Cárpatos, Península Ibérica, Balcanes), Asia."
+    ],
+    "adaptacionesHabitat": "Dieta extremadamente flexible; Capacidad de acumular grandes reservas de grasa (hiperfagia) para sobrevivir a la hibernación en climas fríos.",
+    "descripcionHabitat": [
+      "Requiere vastas áreas de territorio, desde los densos bosques de coníferas hasta las tundras árticas.",
+      "La proximidad a ríos con salmón es crucial para las poblaciones costeras (como los Kodiak), ya que proporciona una rica fuente de proteínas y grasas antes de la hibernación."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Omnívoro oportunista (Carnívoro generalista)",
+    "presasComunes": [
+      "Vegetación (bayas, raíces, tubérculos, hierbas).",
+      "Insectos y larvas.",
+      "Peces (especialmente salmón y trucha).",
+      "Pequeños mamíferos y, ocasionalmente, presas grandes (alces, ciervos) o carroña."
+    ],
+    "estrategiaCaza": "Caza ocasional (emboscada o persecución corta) y forrajeo intensivo (recolección, excavación).",
+    "descripcionDieta": [
+      "El 90% de su dieta en ciertas épocas puede ser vegetal (frutas). En otras regiones o épocas, el consumo de carne y pescado es vital.",
+      "Dedica gran parte del día a acumular grasa en el otoño (hiperfagia) para prepararse para el largo período de hibernación."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario y territorial (excepto madres con crías o durante el apareamiento).",
+    "rolMacho": "Defiende grandes territorios, busca hembras para aparearse y ocasionalmente puede matar crías de otros machos.",
+    "rolHembra": "Responsable exclusiva del cuidado y educación de las crías, lo que puede durar hasta 2.5 años.",
+    "actividadDiaria": "Principalmente diurna y crepuscular; los hábitos pueden volverse nocturnos en áreas con alta presión humana.",
+    "comunicacion": [
+      "Vocalizaciones (rugidos, gruñidos, bufidos).",
+      "Comunicación olfativa (marcado de árboles con olor y rasguños).",
+      "Posturas corporales y señalamiento de garra en troncos."
+    ],
+    "descripcionComportamiento": [
+      "El oso pardo es generalmente solitario. Los únicos lugares donde se congregan son fuentes de comida abundante, como los ríos de Alaska durante la migración del salmón.",
+      "La hibernación es una adaptación crucial para sobrevivir a la escasez de alimentos invernal. Las hembras dan a luz durante este período en la guarida."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario (con implantación diferida)",
+    "madurezSexual": {
+      "macho": "4-6 años",
+      "hembra": "3-5 años"
+    },
+    "periodoGestacion": "6-9 meses (la gestación activa solo dura 8-10 semanas, después de la implantación).",
+    "tamanoCamada": "1-3 crías (raramente 4).",
+    "cuidadoCrias": "La madre cuida intensamente de las crías, que nacen ciegos e indefensos en la guarida durante la hibernación, y permanecen con ella durante 1.5 a 2.5 años.",
+    "descripcionReproduccion": [
+      "La cópula ocurre en verano, pero el óvulo fecundado (blastocisto) no se implanta en el útero hasta el otoño (implantación diferida), lo que asegura que las crías nazcan durante la hibernación en un entorno seguro y cálido.",
+      "La hembra debe alcanzar un umbral de grasa corporal suficiente en otoño para que el embrión se implante y la gestación continúe."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Especie clave. Actúa como ingeniero del ecosistema: dispersa semillas (después de comer frutos), remueve el suelo (al excavar en busca de raíces) y transporta nutrientes marinos tierra adentro (al llevar salmón a los bosques).",
+    "Controla poblaciones de ungulados y otros mamíferos, manteniendo la salud del ecosistema forestal y montañoso."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 6,
+    "inteligencia": 6,
+    "adaptabilidad": 8,
+    "fuerza": 9,
+    "velocidad": 5,
+    "tamano": 8,
+    "majestuosidad": 7,
+    "rareza": 6,
+    "supervivencia": 7,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "El oso pardo puede correr a velocidades de hasta 56 km/h (35 mph), a pesar de su gran tamaño.",
+    "El sentido del olfato del oso pardo es uno de los mejores del reino animal, esencial para encontrar comida a kilómetros de distancia.",
+    "La subespecie más grande es el oso Kodiak, que habita en Alaska, y es comparable en tamaño al oso polar."
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "cobra_real",
+  "nombre": "Cobra Real",
+  "nombreCientifico": "Ophiophagus hannah",
+  "fechaInformacion": "2025",
+
+  "imagen": "cobra_real.webp",
+
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La Cobra Real es la serpiente venenosa más larga del mundo y la única conocida que construye un nido para sus crías.",
+    "Es conocida por su capacidad para erguirse y mostrar su distintiva capucha, lo que la convierte en una figura icónica de los bosques asiáticos."
+  ],
+
+  "descripcionLarga": [
+    "La Cobra Real (*Ophiophagus hannah*) es una de las serpientes más icónicas del planeta debido a su impresionante tamaño, comportamiento de anidación y veneno neurotóxico extremadamente potente. Al sentirse amenazada, adopta una postura defensiva, elevando hasta un tercio de su cuerpo y extendiendo la piel de su cuello para formar la distintiva capucha .",
+    "Es una **especie ofiófaga**, lo que significa que se alimenta casi exclusivamente de otras serpientes, incluyendo a menudo ejemplares venenosos de kraits y otras cobras, lo que subraya su dominio como superdepredador.",
+    "A pesar de su reputación, es una especie generalmente cautelosa que prefiere evitar el contacto humano. Habita bosques tropicales y zonas húmedas de Asia. Su veneno es menos tóxico que el de otras cobras, pero la enorme cantidad que puede inyectar en una sola mordida la hace letal, capaz de matar a un elefante adulto o a una docena de humanos."
+  ],
+
+  "observaciones": [
+    "Es la única serpiente del mundo que construye activamente un nido, creando un montículo de hojarasca y ramas para incubar sus huevos.",
+    "El veneno es predominantemente neurotóxico (afecta al sistema nervioso), causando parálisis rápida, fallo respiratorio y paro cardíaco.",
+    "Es capaz de emitir un silbido grave y resonante (un gruñido), resultado de la resonancia en sus tráqueas, que es único entre las serpientes."
+  ],
+
+  "longevidad": {
+    "enLibertad": "20 años",
+    "enCautividad": "Hasta 25 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Reptilia",
+    "orden": "Squamata",
+    "familia": "Elapidae",
+    "genero": "Ophiophagus",
+    "especie": "Ophiophagus hannah"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Vulnerable (VU)",
+    "tendenciaPoblacion": "Decreciente",
+    "amenazasPrincipales": [
+      "Pérdida de hábitat acelerada debido a la deforestación y la expansión de plantaciones (ej. aceite de palma).",
+      "Caza directa y persecución por miedo y para el comercio ilegal (medicina tradicional y mascotas).",
+      "Conflictos con humanos en áreas rurales donde se busca alimento."
+    ],
+    "esfuerzosConservacion": [
+      "Protección legal estricta en países clave como la India.",
+      "Programas de preservación de bosques y bambuzales que son su hábitat preferido.",
+      "Educación pública para reducir la matanza por miedo y programas de rescate y reubicación."
+    ],
+    "descripcionConservacion": [
+      "La Cobra Real está experimentando un severo declive en sus poblaciones, principalmente por la destrucción de sus corredores biológicos.",
+      "El estado Vulnerable indica un alto riesgo de extinción en la naturaleza si las amenazas actuales persisten."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "5–10 kg",
+      "hembraAdulta": "4–8 kg",
+      "maximoRegistrado": "12 kg"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "3,5–4,5 m (máx. registrado 5,85 m)",
+      "hembra": "3–4 m"
+    },
+    "colorPelaje": null,
+    "caracteristicasEspeciales": "Capucha expandible; dientes frontales fijos (colmillos) de hasta 10 mm; coloración variable (verde oliva, marrón, negro) con bandas claras.",
+    "morfologia": [
+      "Cuerpo largo y esbelto con escamas lisas.",
+      "La capucha se forma por la expansión de las costillas cervicales.",
+      "Colmillos fijos y huecos (proteroglifos) en la parte frontal de la mandíbula superior, conectados a glándulas de veneno.",
+      "Ojos grandes para una mejor visión diurna."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques tropicales primarios y secundarios, bambuzales, manglares",
+    "distribucionGeografica": [
+      "India, el sudeste asiático (hasta Filipinas e Indonesia) y el sur de China."
+    ],
+    "adaptacionesHabitat": "Excelente trepadora y nadadora. Prefiere áreas con densa cobertura vegetal que proporcionan refugio y una alta población de presas.",
+    "descripcionHabitat": [
+      "Prefiere zonas montañosas y boscosas. Suelen estar cerca de fuentes de agua, ya que son excelentes nadadoras.",
+      "Necesita grandes territorios debido a su dieta especializada y su tamaño."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Ofiófago)",
+    "presasComunes": [
+      "Otras serpientes (especies venenosas y no venenosas)",
+      "Serpientes de la rata",
+      "Pitones juveniles",
+      "Lagartos varanos (ocasionalmente)"
+    ],
+    "estrategiaCaza": "Caza activa. Rastrea a otras serpientes usando su órgano de Jacobson y su lengua bífida para el rastreo químico. Inmoviliza a la presa rápidamente con su neurotoxina.",
+    "descripcionDieta": [
+      "Su dieta es estrictamente ofiófaga. Esta especialización la coloca en la cima de la cadena alimenticia de reptiles en su ecosistema.",
+      "Puede sobrevivir varios meses sin alimento si la disponibilidad de presas es baja, aprovechando su metabolismo lento."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitaria",
+    "rolMacho": "Defiende territorios amplios y compite por hembras, a menudo luchando con otros machos erguidos, pero sin morderse (un ritual).",
+    "rolHembra": "Construye un nido elaborado y lo protege con ferocidad, ayunando durante el periodo de incubación.",
+    "actividadDiaria": "Diurno; es una de las pocas serpientes activas principalmente durante el día.",
+    "comunicacion": [
+      "Silbido audible único y posturas defensivas.",
+      "Detección química de parejas y presas."
+    ],
+    "descripcionComportamiento": [
+      "Es famosa por su exhibición defensiva. Si la amenaza persiste, puede atacar, liberando grandes dosis de veneno.",
+      "El macho y la hembra pueden permanecer juntos tras el apareamiento, lo cual es inusual."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "4–5 años",
+      "hembra": "4–5 años"
+    },
+    "periodoGestacion": "Incubación de 60–90 días.",
+    "tamanoCamada": "20–40 huevos (hasta 50).",
+    "cuidadoCrias": "La hembra protege el nido de forma agresiva hasta justo antes de la eclosión, momento en el que lo abandona para evitar comerse a sus crías.",
+    "descripcionReproduccion": [
+      "La hembra construye el nido en forma de montículo de hojarasca y lo defiende fieramente. El calor de la descomposición vegetal ayuda a incubar los huevos.",
+      "Los recién nacidos son totalmente independientes y ya poseen veneno mortal."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Controla poblaciones de otras serpientes, incluidas las más peligrosas para los humanos, regulando el ecosistema de reptiles.",
+    "Actúa como un superdepredador, asegurando el equilibrio biológico en los bosques tropicales."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 8,
+    "inteligencia": 7,
+    "adaptabilidad": 6,
+    "fuerza": 7,
+    "velocidad": 6,
+    "tamano": 7,
+    "majestuosidad": 9,
+    "rareza": 6,
+    "supervivencia": 8,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "La palabra *Ophiophagus* significa 'comedora de serpientes'.",
+    "Es la única serpiente venenosa que puede elevarse lo suficiente para mirar a los ojos a un humano adulto.",
+    "La dosis de veneno que inyecta en una sola mordida es tan grande que puede ser letal para 20 humanos o un elefante adulto en pocas horas.",
+    "El ritual de lucha entre machos es conocido como 'danza de cobras' y no involucra mordeduras venenosas."
+  ]
+}

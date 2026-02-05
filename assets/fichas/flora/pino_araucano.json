@@ -1,0 +1,115 @@
+{
+  "id": "pino_araucano",
+  "nombre": "Pino-Araucano",
+  "nombreCientifico": "Araucaria araucana",
+  "fechaInformacion": "2025",
+  "imagen": "pino_araucano.webp",
+  "introduccionPlanta": [
+    "El Pino-Araucano (Pehuén) es un 'fósil viviente' y árbol nacional de Chile, famoso por su silueta única, sus hojas afiladas y su longevidad milenaria.",
+    "Es endémico de los Andes de Chile y Argentina y tiene un profundo significado cultural y alimenticio para el pueblo Mapuche."
+  ],
+  "descripcionLarga": [
+    "El pino-araucano (*Araucaria araucana*), conocido también como 'pehuén' por el pueblo mapuche, es un imponente árbol conífero perenne y dioico, considerado un fósil viviente debido a su antigua historia evolutiva. Endémico de la cordillera de los Andes en el sur de Chile y el suroeste de Argentina, se alza majestuosamente en paisajes volcánicos y bosques fríos.",
+    "Su distintiva silueta con ramas en forma de candelabro y su corteza gruesa y rugosa, que recuerda a la piel de un elefante, lo hacen inconfundible. Las hojas son duras, punzantes y se superponen densamente a lo largo de las ramas, una adaptación que le ha permitido sobrevivir a lo largo de milenios. Su ciclo de vida es extraordinariamente largo, pudiendo vivir más de un milenio.",
+    "La reproducción del pino-araucano se basa en la producción de grandes conos femeninos, que maduran en piñas que albergan piñones. Estas semillas, ricas en nutrientes, no solo son esenciales para la supervivencia de la especie, sino que también son un alimento ancestral de gran valor cultural y alimenticio para el pueblo mapuche. A pesar de su resiliencia natural a las bajas temperaturas y a su longevidad, la especie se encuentra en peligro debido a la amenaza de los incendios forestales y a la tala ilegal histórica. Hoy en día, su protección es una prioridad en ambos países, reconociendo su valor ecológico y su profundo simbolismo cultural."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Pinophyta",
+    "clase": "Pinopsida",
+    "orden": "Pinales",
+    "familia": "Araucariaceae",
+    "genero": "Araucaria",
+    "especie": "A. araucana"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN)",
+    "tendenciaPoblacion": "Estable, pero con amenazas latentes.",
+    "amenazasPrincipales": [
+      "Incendios forestales (la amenaza más significativa y frecuente)",
+      "Tala ilegal histórica y pérdida de hábitat",
+      "Sobreexplotación de sus semillas (piñones)",
+      "Especies invasoras"
+    ],
+    "esfuerzosConservacion": [
+      "Creación de parques nacionales y reservas (Parque Nacional Conguillío, etc.)",
+      "Legislación estricta para prohibir la tala",
+      "Programas de reforestación y educación ambiental",
+      "Monitoreo de poblaciones y sanidad forestal"
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol conífero, perenne, dioico (pies masculinos y femeninos separados).",
+    "alturaPromedio": "30 - 50 m (100 - 165 ft); algunos ejemplares pueden superar los 60 m.",
+    "colorFollaje": "Verde oscuro.",
+    "tipoRaiz": "Pivotante, fuerte, adaptada a suelos volcánicos.",
+    "tallos": "Tronco recto y cilíndrico, cubierto de corteza gruesa y rugosa (textura de 'piel de elefante').",
+    "hojas": "Duras, perennes, de forma triangular y muy afiladas (espinosas), que se superponen y cubren las ramas densamente.",
+    "flores": {
+      "forma": "Conos (piñas). Los masculinos son cilíndricos. Los femeninos son globosos y grandes.",
+      "colores": "Marrón-amarillento (masculinos); verde al principio, marrón al madurar (femeninos).",
+      "fragancia": "Poco perceptible (resinosa).",
+      "tamano": "Conos masculinos de 8-12 cm de largo; conos femeninos (piñas) de hasta 20 cm de diámetro."
+    },
+    "frutos": "Cono leñoso (piña) que contiene las semillas comestibles (piñones)."
+  },
+  "habitat": {
+    "tipo": "Bosques templados, de clima húmedo y fresco (bosques subantárticos).",
+    "distribucionGeografica": [
+      "Endémica de los Andes del sur de Chile (principalmente IX y X Región) y suroeste de Argentina."
+    ],
+    "preferenciasSuelo": "Suelos volcánicos, bien drenados y ácidos. Tolera suelos pobres.",
+    "preferenciasLuz": "Requiere pleno sol. Toleran las condiciones de frío extremo y nieve."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Principalmente por semillas (piñones), que tienen una buena tasa de germinación.",
+      "También puede propagarse por esquejes o injertos."
+    ],
+    "riego": "Requiere humedad, especialmente cuando es joven. Los árboles maduros son tolerantes a la sequía una vez establecidos.",
+    "poda": "No requiere poda. Las ramas inferiores caen de forma natural con el tiempo.",
+    "fertilizacion": "No es necesaria en su hábitat natural. En jardinería, se puede aplicar un fertilizante para coníferas.",
+    "plagasComunes": [
+      "Pocas plagas significativas (varios insectos pueden alimentarse de los conos)."
+    ],
+    "enfermedadesComunes": [
+      "Principalmente afectado por hongos en condiciones de estrés hídrico o daño."
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de paisaje distintivo en grandes parques y jardines, especialmente en climas templados.",
+    "culinario": [
+      "Sus semillas (piñones) son comestibles, muy nutritivas y un alimento básico para los pueblos originarios de la región (Mapuche)."
+    ],
+    "medicinal": [
+      "No tiene usos medicinales directos conocidos."
+    ],
+    "industrial": [
+      "Madera (históricamente) para construcción y carpintería, aunque la tala está prohibida actualmente."
+    ],
+    "simbolismo": "Resistencia, longevidad, valor cultural y sagrado para el pueblo mapuche. Emblema de la flora de la región andina."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Los conos se forman en primavera, la maduración de la piña puede tomar 2-3 años.",
+    "cicloVida": "Perenne, de extremada longevidad (más de 1.000 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 5,
+    "vitalidad": 5,
+    "resistencia": 5,
+    "impactoEcologico": 5,
+    "misticismo": 5,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 5
+  },
+  "curiosidades": [
+    "Es uno de los árboles más antiguos del mundo, con una historia evolutiva que se remonta al período Jurásico (200 millones de años).",
+    "El pino-araucano es conocido por sus afiladas hojas, que se mantienen en la planta durante años y le dan una apariencia de 'dragón' o 'cola de mono'.",
+    "Es el árbol nacional de Chile y está estrictamente protegido por ley, prohibiendo su tala.",
+    "Sus semillas o piñones son una importante fuente de alimento y son objeto de una ceremonia ancestral para el pueblo mapuche.",
+    "Puede vivir más de 1.000 años, lo que lo convierte en un verdadero testigo del tiempo."
+  ]
+}

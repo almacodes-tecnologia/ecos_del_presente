@@ -1,0 +1,165 @@
+{
+  "id": "gorila_de_costa",
+  "nombre": "Gorila del Río Cross",
+  "nombreCientifico": "Gorilla gorilla diehli",
+  "fechaInformacion": "2025",
+
+  "imagen": "gorila_de_costa.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El Gorila del Río Cross (*Gorilla gorilla diehli*) es una de las subespecies de gorila más raras y críticamente amenazadas del mundo, endémica de una pequeña región fronteriza entre Camerún y Nigeria.",
+    "Se distingue del gorila occidental de llanura por un cráneo ligeramente más pequeño y, a menudo, dientes más grandes."
+  ],
+
+  "descripcionLarga": [
+    "El Gorila del Río Cross es un primate de gran tamaño con un cuerpo robusto y extremidades largas y musculosas. Se mueve principalmente mediante el 'caminado de nudillos' (knuckle-walking). ",
+    "Habita en bosques tropicales densos y fragmentados en la cabecera del río Cross. Su población es alarmantemente reducida (estimada en menos de 300 individuos), lo que aumenta el riesgo de endogamia.",
+    "Como todos los gorilas, los machos dominantes desarrollan una franja distintiva de pelo plateado en la espalda al alcanzar la madurez, siendo conocidos como **'espalda plateada'**."
+  ],
+
+  "observaciones": [
+    "Es extremadamente sensible a la pérdida de hábitat y a la caza furtiva. La construcción de caminos para la tala ha fragmentado su hábitat y facilitado el acceso a los cazadores.",
+    "Su estudio es limitado, pero se sabe que son más cautelosos y menos habituados a los humanos que otras subespecies de gorila.",
+    "Se cree que construyen nidos en árboles y en el suelo de manera más dispersa debido a la presión humana."
+  ],
+
+  "longevidad": {
+    "enLibertad": "35-40 años",
+    "enCautividad": "40-50 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Primates",
+    "familia": "Hominidae",
+    "genero": "Gorilla",
+    "especie": "G. gorilla",
+    "subespecie": "G. g. diehli"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro Crítico (CR)",
+    "tendenciaPoblacion": "Disminuyendo",
+    "amenazasPrincipales": [
+      "Deforestación y fragmentación del hábitat, impidiendo el flujo genético entre los pequeños grupos.",
+      "Caza furtiva para el comercio de carne de animales silvestres ('bushmeat').",
+      "Enfermedades transmitidas por humanos, como el virus del Ébola (riesgo potencial)."
+    ],
+    "esfuerzosConservacion": [
+      "Establecimiento de Áreas Protegidas Binacionales (Camerún/Nigeria) para asegurar la conectividad.",
+      "Programas intensivos de monitoreo, incluyendo el uso de trampas de cámara y análisis genéticos no invasivos.",
+      "Educación y desarrollo de alternativas económicas para las comunidades locales."
+    ],
+    "descripcionConservacion": [
+      "El Gorila del Río Cross es uno de los 25 primates más amenazados del mundo, con menos de 300 individuos distribuidos en 11-13 grupos aislados. Su supervivencia depende de la protección estricta de sus bosques fragmentados y de asegurar la conexión entre los grupos.",
+      "Su baja tasa reproductiva hace que la recuperación de la población sea extremadamente lenta."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "140-200 kg",
+      "hembraAdulta": "60-90 kg",
+      "maximoRegistrado": "210 kg"
+    },
+    "alturaHombro": {
+      "macho": "160-175 cm (de pie)",
+      "hembra": "120-140 cm (de pie)"
+    },
+    "longitudCuerpoCola": {
+      "macho": "1.2-1.8 m",
+      "hembra": "1-1.5 m"
+    },
+    "colorPelaje": "Negro grisáceo o marrón oscuro. Los machos 'espalda plateada' desarrollan una capa de pelo blanco/plateado desde los 12 años.",
+    "caracteristicasEspeciales": "Macho 'Espalda Plateada' (Silverback); Cráneo más pequeño y dientes más grandes que otros gorilas; Caminado de nudillos.",
+    "morfologia": [
+      "Cuerpo extremadamente robusto con un tórax ancho. Brazos largos más largos que las piernas, adaptados al desplazamiento arbóreo y semi-terrestre.",
+      "Manos y pies grandes con pulgares oponibles. Caninos grandes y puntiagudos, especialmente en el macho espalda plateada.",
+      "Frente más aplanada y arcos superciliares más prominentes que otros gorilas."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques tropicales húmedos de tierras bajas y montañas bajas",
+    "distribucionGeografica": [
+      "Región fronteriza entre Camerún y Nigeria (Cabecera del Río Cross, incluyendo el Parque Nacional Cross River y el Parque Nacional Takamanda)."
+    ],
+    "adaptacionesHabitat": "Dieta variada que incluye mucha vegetación fibrosa en la época seca. Capacidad de construir nidos nocturnos diarios.",
+    "descripcionHabitat": [
+      "Habita bosques densos tropicales y zonas de transición entre el bosque y la sabana. La baja densidad de población en áreas aisladas es una característica clave de su distribución.",
+      "Requiere áreas con suficiente follaje bajo para la alimentación y árboles seguros para la construcción de nidos."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro omnívoro (Principalmente folívoro/frugívoro)",
+    "presasComunes": [
+      "Frutas maduras y tiernas (si disponibles)",
+      "Hojas y brotes tiernos (forraje), incluyendo corteza y médula vegetal",
+      "Pequeños invertebrados (hormigas, termitas) y larvas de insectos"
+    ],
+    "estrategiaCaza": null,
+    "descripcionDieta": [
+      "Su dieta es más flexible y menos dependiente de la fruta que la de los chimpancés, lo que le permite sobrevivir en bosques fragmentados.",
+      "La ingesta de frutos asegura la dispersión de semillas, jugando un papel vital en la regeneración del bosque."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Grupos familiares pequeños (típicamente 4-8 individuos), liderados por un macho alfa ('espalda plateada') y varias hembras.",
+    "rolMacho": "El 'espalda plateada' protege al grupo de amenazas, media conflictos, y toma decisiones de movimiento y alimentación. Es el único reproductor.",
+    "rolHembra": "Cuida a la cría (fuerte inversión parental) y contribuye a la búsqueda de alimento. Mantiene la cohesión social interna.",
+    "actividadDiaria": "Diurna; se dedica a la alimentación, la socialización y la construcción de un nuevo nido nocturno cada noche.",
+    "comunicacion": [
+      "Vocalizaciones complejas (gruñidos, rugidos, chillidos), hasta 25 tipos distintos.",
+      "Gestos corporales y expresiones faciales.",
+      "Golpes en el pecho (chest-beating) como exhibición de fuerza, advertencia o juego ."
+    ],
+    "descripcionComportamiento": [
+      "Los gorilas son conocidos por su inteligencia social y su naturaleza generalmente pacífica si no son provocados.",
+      "El macho dominante realiza el 'golpe en el pecho' para intimidar a rivales o a otros animales, un despliegue vocal y visual."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "10-12 años (alcanza el estatus 'espalda plateada' y la reproducción a los 15+)",
+      "hembra": "8-10 años (primer parto a los 10+ años)"
+    },
+    "periodoGestacion": "8.5 meses",
+    "tamanoCamada": "1 cría",
+    "cuidadoCrias": "La cría permanece con la madre durante 3-4 años (hasta el destete). El intervalo entre nacimientos es de 4-6 años.",
+    "descripcionReproduccion": [
+      "La baja tasa de reproducción y el largo intervalo entre nacimientos hacen que esta subespecie sea muy vulnerable a la pérdida de adultos.",
+      "El macho espalda plateada proporciona protección, lo que es vital para la supervivencia de la cría."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Es un dispersor clave de semillas de grandes frutos, lo que es fundamental para la biodiversidad y la regeneración de los bosques tropicales fragmentados.",
+    "Como gran herbívoro, su forrajeo influye en la estructura de la vegetación de sotobosque."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 6,
+    "inteligencia": 9,
+    "adaptabilidad": 5,
+    "fuerza": 9,
+    "velocidad": 3,
+    "tamano": 8,
+    "majestuosidad": 8,
+    "rareza": 9,
+    "supervivencia": 4,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "El Gorila del Río Cross es el gorila más amenazado del mundo, con menos de 300 individuos en estado salvaje.",
+    "Los machos dominantes se llaman 'espalda plateada' y su desarrollo completo no ocurre hasta los 15 años o más.",
+    "El 'golpe en el pecho' es una de las exhibiciones de comunicación más icónicas y es usado para evaluar el tamaño corporal y la fuerza del macho."
+  ]
+}

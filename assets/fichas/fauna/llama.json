@@ -1,0 +1,159 @@
+{
+  "id": "llama",
+  "nombre": "Llama",
+  "nombreCientifico": "Lama glama",
+  "fechaInformacion": "2025",
+
+  "imagen": "llama.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La llama (*Lama glama*) es un camélido domesticado originario de los Andes de Sudamérica, descendiente del guanaco salvaje. Es un pilar de las culturas andinas, utilizado como animal de carga, fuente de fibra y alimento.",
+    "Junto con la alpaca, el guanaco y la vicuña, forma el grupo de los camélidos sudamericanos, siendo la llama el más grande de los domesticados."
+  ],
+
+  "descripcionLarga": [
+    "La llama es un camélido doméstico conocido por su cuello y patas largas, orejas grandes y curvadas y un pelaje denso y lanudo. Históricamente, se ha criado durante miles de años (desde el Imperio Inca y culturas previas) por su capacidad de transportar cargas ligeras en terrenos difíciles de gran altitud, su lana y su carne.",
+    "A diferencia de los camélidos del Viejo Mundo (dromedarios y camellos), carecen de joroba. Son animales sociales, viven en grupos jerárquicos y se comunican mediante diversas vocalizaciones y lenguaje corporal. ",
+    "Son muy adaptables a las distintas altitudes y los climas fríos y secos de la puna andina."
+  ],
+
+  "observaciones": [
+    "Son generalmente dóciles y curiosos, pero pueden escupir una mezcla de saliva y contenido estomacal cuando se sienten amenazadas, invadidas territorialmente o molestas (especialmente si están siendo sobrecargadas).",
+    "La llama es una especie doméstica y, por lo tanto, no se encuentra en estado salvaje ni se evalúa bajo los criterios estándar de la UICN.",
+    "Su fibra, aunque más áspera que la de la alpaca, es fuerte y se utiliza para tejidos, cuerdas y alfombras."
+  ],
+
+  "longevidad": {
+    "enLibertad": "No aplica (Doméstica)",
+    "enCautividad": "20-25 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Artiodactyla",
+    "familia": "Camelidae",
+    "genero": "Lama",
+    "especie": "L. glama"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Doméstico (D)",
+    "tendenciaPoblacion": "Estable",
+    "amenazasPrincipales": [
+      "No aplica a nivel de especie; los desafíos se relacionan con la cría sostenible y la demanda del mercado."
+    ],
+    "esfuerzosConservacion": [
+      "Programas de manejo y mejora genética por parte de comunidades andinas para mantener su resistencia a la altura y la calidad de la fibra."
+    ],
+    "descripcionConservacion": [
+      "La llama no se considera en peligro debido a su domesticación y manejo. Su abundancia está ligada a la actividad ganadera en la región andina. El desafío es proteger a sus parientes salvajes, el guanaco y la vicuña."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "130-200 kg",
+      "hembraAdulta": "120-180 kg",
+      "maximoRegistrado": "200 kg"
+    },
+    "alturaHombro": {
+      "macho": "1.2 m",
+      "hembra": "1.1 m"
+    },
+    "longitudCuerpoCola": {
+      "macho": "1.7-1.8 m (total)",
+      "hembra": "1.6-1.7 m (total)"
+    },
+    "colorPelaje": "Varía ampliamente: blanco, marrón, gris, negro o mezclas (moteado, pinto).",
+    "caracteristicasEspeciales": "Adaptada a la altura (glóbulos rojos ovalados); Conocida por escupir; No tiene joroba; Usada como animal de carga.",
+    "morfologia": [
+      "Cuerpo largo y delgado, cuello largo y patas fuertes. Pies de dos dedos con almohadillas duras (a diferencia de las pezuñas).",
+      "Orejas largas y curvas ('en forma de plátano'), importantes para la comunicación visual.",
+      "Ojos grandes y expresivos."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Altiplanos, pastizales andinos, estepas y áreas de puna.",
+    "distribucionGeografica": [
+      "Principalmente Perú, Bolivia, Chile, Argentina y Ecuador. También se crían en Norteamérica y Europa."
+    ],
+    "adaptacionesHabitat": "Excepcional resistencia a la altura (hipoxia), bajas temperaturas y alimentación con pastos pobres en nutrientes.",
+    "descripcionHabitat": [
+      "Se adapta a altitudes de 2.500-4.000 m sobre el nivel del mar, donde la presión parcial de oxígeno es baja.",
+      "Requieren grandes áreas de pastoreo para sostener a los rebaños."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro (Rumiante modificado/Pseudorumiante)",
+    "presasComunes": [
+      "Pastos duros y toscos (gramíneas) de altura.",
+      "Hierbas, líquenes y arbustos bajos.",
+      "Materia vegetal fibrosa."
+    ],
+    "estrategiaCaza": "N/A (Pastoreo)",
+    "descripcionDieta": [
+      "Su dieta se basa en la vegetación de altura. Tienen un estómago de tres compartimentos (no cuatro, como los rumiantes verdaderos) que les permite digerir eficazmente pastos fibrosos.",
+      "Son ramoneadores y pastoreadores, adaptándose a pastos pobres."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Grupos sociales jerárquicos (rebaños).",
+    "rolMacho": "Protección del rebaño contra depredadores y otros machos.",
+    "rolHembra": "Cuidado de crías; suelen formar grupos de guardería.",
+    "actividadDiaria": "Diurna (alimentación y movimiento).",
+    "comunicacion": [
+      "Vocalizaciones suaves ('humming' o tarareo) para la comunicación diaria.",
+      "Señales visuales y posturas para marcar jerarquías.",
+      "Escupitajos de advertencia o defensa."
+    ],
+    "descripcionComportamiento": [
+      "Son sociales e inteligentes, y pueden ser entrenadas fácilmente. La jerarquía se establece mediante el escupitajo y la lucha de cuellos.",
+      "El macho líder protege a su grupo de hembras y crías."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "3-4 años (social y físicamente)",
+      "hembra": "2-3 años"
+    },
+    "periodoGestacion": "11-12 meses (aproximadamente 350 días).",
+    "tamanoCamada": "1 cría ('cria' o 'llama-hijo').",
+    "cuidadoCrias": "La cría permanece con la madre hasta el destete (5-6 meses), pero pueden ser dependientes por más tiempo. La cría nace sin la asistencia de la madre (parto de pie).",
+    "descripcionReproduccion": [
+      "Las llamas son ovuladoras inducidas: la ovulación es desencadenada por el acto de la cópula.",
+      "La cría puede ponerse de pie y correr poco después de nacer, esencial para la supervivencia en la naturaleza, incluso en animales domésticos."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Aunque doméstico, el pastoreo de llamas es menos destructivo para la vegetación andina que el ganado vacuno, ayudando a mantener los delicados pastizales de altura (gracias a sus patas acolchadas).",
+    "Es una especie domesticada fundamental que permite la subsistencia de las comunidades locales en entornos de gran altitud."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 5,
+    "adaptabilidad": 8,
+    "fuerza": 5,
+    "velocidad": 5,
+    "tamano": 5,
+    "majestuosidad": 5,
+    "rareza": 4,
+    "supervivencia": 8,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "La llama es una de las especies de ganado más antiguas del mundo, domesticada hace más de 4.000 años.",
+    "Pueden transportar entre 25% y 30% de su peso corporal, pero si se sobrecargan, simplemente se niegan a moverse, a menudo escupiendo.",
+    "Su sangre contiene una alta concentración de glóbulos rojos ovalados, lo que les permite captar el oxígeno de manera eficiente en las altas altitudes."
+  ]
+}

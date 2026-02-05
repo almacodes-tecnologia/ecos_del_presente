@@ -1,0 +1,163 @@
+{
+  "id": "pez_payaso_comun",
+  "nombre": "Pez Payaso Común",
+  "nombreCientifico": "Amphiprion ocellaris",
+  "fechaInformacion": "2025",
+
+  "imagen": "pez_payaso.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El pez payaso común (*Amphiprion ocellaris*) es un pequeño pez tropical emblemático, conocido por su llamativa coloración naranja con tres franjas blancas y su fascinante relación de mutualismo con la anémona de mar. ",
+    "Su biología social única incluye el hermafroditismo protándrico, donde el pez macho puede cambiar de sexo para convertirse en la hembra líder del grupo."
+  ],
+
+  "descripcionLarga": [
+    "El pez payaso es un pez óseo de la familia Pomacentridae (pez damisela), nativo de las aguas cálidas del Indo-Pacífico. Se caracteriza por un cuerpo ovalado y una coloración naranja brillante con tres franjas blancas ribeteadas de negro. Esta coloración le proporciona un camuflaje disruptivo entre los tentáculos de la anémona.",
+    "La relación con la anémona marina es una simbiosis crucial (mutualismo): el pez payaso está cubierto por una capa de mucosidad que lo protege de las células urticantes (nematocistos) de la anémona. A cambio de protección contra depredadores, el pez payaso limpia la anémona y la ventila, e incluso puede proporcionarle alimento.",
+    "El tamaño adulto es pequeño, generalmente entre 7 y 10 cm. Viven en pequeños grupos jerárquicos centrados en una sola anémona, que actúan como su hogar y refugio de por vida."
+  ],
+
+  "observaciones": [
+    "La especie es **hermafrodita secuencial protándrica**: todos los peces nacen machos, y el pez más grande y dominante del grupo se convierte en la hembra líder. Si la hembra muere, el macho dominante cambia de sexo para ocupar su lugar.",
+    "La jerarquía del grupo está estrictamente controlada: la hembra es la más grande, seguida por el macho reproductor (la segunda más grande), y el resto son machos inmaduros y no reproductores.",
+    "Su supervivencia depende de la presencia de las especies de anémonas huésped compatibles, como *Heteractis magnifica* o *Stichodactyla gigantea*."
+  ],
+
+  "longevidad": {
+    "enLibertad": "6-10 años",
+    "enCautividad": "10-15 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Actinopterygii",
+    "orden": "Perciformes",
+    "familia": "Pomacentridae",
+    "genero": "Amphiprion",
+    "especie": "A. ocellaris"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable globalmente.",
+    "amenazasPrincipales": [
+      "Degradación y blanqueamiento de arrecifes de coral (lo que mata a las anémonas huésped).",
+      "Captura masiva para acuariofilia (aunque la mayoría de los ejemplares de acuario son criados en cautividad).",
+      "Efectos del cambio climático sobre la temperatura del agua y la acidificación oceánica."
+    ],
+    "esfuerzosConservacion": [
+      "Protección de Áreas Marinas Protegidas (AMP) para preservar los arrecifes y las anémonas.",
+      "Promoción de la acuicultura del pez payaso para reducir la presión de captura en el medio silvestre.",
+      "Investigación sobre la resistencia del pez payaso y su anémona a los cambios ambientales."
+    ],
+    "descripcionConservacion": [
+      "Gracias a su amplio rango de distribución y al éxito de los programas de cría en cautividad, el pez payaso no está en peligro. Sin embargo, su destino a largo plazo está ligado a la supervivencia de los arrecifes de coral y de las anémonas."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "10-12 g",
+      "hembraAdulta": "15-20 g (más grande que el macho reproductor)",
+      "maximoRegistrado": "25 g"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "7-10 cm",
+      "hembra": "7-10 cm (la hembra es siempre la más grande del grupo)"
+    },
+    "colorPelaje": "(Escamas). Naranja brillante con tres franjas verticales blancas bordeadas de negro.",
+    "caracteristicasEspeciales": "Mimetismo; Mutualismo con anémona; Hermafroditismo protándrico; Capa protectora de mucosidad.",
+    "morfologia": [
+      "Cuerpo ovalado y comprimido lateralmente, bien adaptado para maniobrar en espacios reducidos y entre tentáculos.",
+      "Aletas pectorales anchas y redondeadas que permiten un nado rápido y preciso.",
+      "La boca pequeña es ideal para picotear plancton, algas y desechos."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Arrecifes de coral poco profundos, lagunas protegidas y laderas de arrecifes (siempre cerca de la anémona huésped).",
+    "distribucionGeografica": [
+      "Indo-Pacífico occidental (desde el sudeste asiático hasta el norte de Australia)."
+    ],
+    "adaptacionesHabitat": "Adaptación a un rango de anémonas huésped; Tolerancia a las toxinas del cnidario.",
+    "descripcionHabitat": [
+      "Prefiere zonas protegidas y bien iluminadas de los arrecifes, que facilitan el crecimiento de las algas de las que se alimentan indirectamente las anémonas.",
+      "Solo habitan en una de las diez especies de anémonas con las que pueden convivir."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Omnívoro",
+    "presasComunes": [
+      "Zooplancton (copépodos, larvas)",
+      "Pequeños crustáceos y organismos sésiles (bentos)",
+      "Algas filamentosas y diatomeas",
+      "Detritos orgánicos y restos de comida de la anémona."
+    ],
+    "estrategiaCaza": "Acecha y captura presas pequeñas cerca de la anémona o en la columna de agua circundante. Nunca se aventura lejos de su protección.",
+    "descripcionDieta": [
+      "Su dieta variada le permite obtener nutrientes del plancton y las algas que crecen en la anémona o en las rocas circundantes.",
+      "Aproximadamente el 25% de la dieta de la anémona proviene de los detritos generados por el pez payaso."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Pequeños grupos (generalmente 2 a 6 individuos) con estricta jerarquía de tamaño.",
+    "rolMacho": "El macho dominante (segundo en tamaño) es la pareja reproductora de la hembra. Se encarga de la limpieza de la anémona y el cuidado de los huevos.",
+    "rolHembra": "La hembra es la líder absoluta (la más grande). Es la única reproductora del grupo y controla la jerarquía.",
+    "actividadDiaria": "Diurno; activo durante las horas de luz. Se refugia profundamente en la anémona por la noche.",
+    "comunicacion": [
+      "Movimientos de aletas y cuerpo para indicar jerarquía (el macho se 'doblega' ante la hembra).",
+      "Señales acústicas (chasquidos de dientes) y visuales para intimidar a otros peces payaso o depredadores."
+    ],
+    "descripcionComportamiento": [
+      "El pez payaso es muy territorial y defiende su anémona contra otros peces, incluso más grandes.",
+      "Si la hembra líder muere, el macho reproductor dominante aumenta rápidamente su tamaño y cambia de sexo para convertirse en la nueva hembra. El siguiente macho más grande asciende para ser el macho reproductor."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Oviparo (Peces teleósteos)",
+    "madurezSexual": {
+      "macho": "1 año",
+      "hembra": "1-2 años (después de cambiar de sexo)"
+    },
+    "periodoGestacion": "7-10 días (desde la puesta hasta la eclosión).",
+    "tamanoCamada": "100-400 huevos por puesta, que ocurren típicamente cada luna llena.",
+    "cuidadoCrias": "El macho se encarga de la nidificación, limpiando el sustrato, ventilando los huevos (con aleteos) y protegiéndolos de depredadores hasta que eclosionan.",
+    "descripcionReproduccion": [
+      "La puesta de huevos se realiza en la base de la anémona o en una roca cercana. Los huevos son de color naranja brillante o rojo.",
+      "Tras la eclosión, las crías tienen una fase larvaria planctónica antes de buscar una anémona para establecerse y unirse a un grupo social."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Contribuye a la biodiversidad y la complejidad de los arrecifes de coral a través de su mutualismo con la anémona.",
+    "Su presencia y actividad ayudan a mantener la salud de las anémonas, que son importantes especies estructurales en el arrecife."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 3,
+    "adaptabilidad": 7,
+    "fuerza": 1,
+    "velocidad": 3,
+    "tamano": 1,
+    "majestuosidad": 5,
+    "rareza": 4,
+    "supervivencia": 6,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Mantiene una relación simbiótica con la anémona. El pez payaso ha desarrollado inmunidad a los nematocistos (células urticantes) de la anémona.",
+    "Su mecanismo de cambio de sexo (protandría) garantiza que siempre haya una hembra madura en el grupo cuando la anterior desaparece, asegurando la reproducción continua.",
+    "Es uno de los pocos peces que puede vivir en el ambiente venenoso de los tentáculos de la anémona."
+  ]
+}

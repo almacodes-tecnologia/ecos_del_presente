@@ -1,0 +1,167 @@
+{
+  "id": "atun_rojo",
+  "nombre": "Atún Rojo",
+  "nombreCientifico": "Thunnus thynnus",
+  "fechaInformacion": "2025",
+
+  "imagen": "atun_rojo.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El atún rojo es un pez oceánico de gran tamaño y gran valor comercial, conocido por su fuerza y velocidad.",
+    "Habita en aguas templadas y subtropicales del Atlántico y el Mediterráneo."
+  ],
+
+  "descripcionLarga": [
+    "El atún rojo es un pez migratorio que puede alcanzar longitudes de hasta 3 metros y pesos de más de 600 kg, siendo uno de los peces más grandes y poderosos de los océanos.",
+    "Tiene un cuerpo fusiforme y musculoso, adaptado para nadar a alta velocidad en largas distancias.",
+    "Se alimenta de peces más pequeños, cefalópodos y crustáceos, y es capaz de mantener una temperatura corporal superior a la del agua circundante, lo que le confiere una gran ventaja depredadora."
+  ],
+
+  "observaciones": [
+    "Es una especie muy valorada en la pesca comercial y especialmente en la gastronomía japonesa (sushi y sashimi).",
+    "El sobrepescado ha reducido significativamente sus poblaciones en varias regiones.",
+    "Se encuentra catalogado como especie migratoria con rutas extensas y precisas, recorriendo miles de kilómetros entre zonas de alimentación y reproducción."
+  ],
+
+  "longevidad": {
+    "enLibertad": "15-30 años",
+    "enCautividad": "No aplica"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Actinopterygii",
+    "orden": "Scombriformes",
+    "familia": "Scombridae",
+    "genero": "Thunnus",
+    "especie": "T. thynnus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN)",
+    "tendenciaPoblacion": "Disminuyendo",
+    "amenazasPrincipales": [
+      "Sobrepesca industrial",
+      "Pesca ilegal",
+      "Degradación de hábitats marinos",
+      "Cambio climático afectando corrientes y reproducción"
+    ],
+    "esfuerzosConservacion": [
+      "Regulación y cuotas de pesca por organismos internacionales (ej. ICCAT)",
+      "Áreas marinas protegidas específicas para desove",
+      "Monitoreo y seguimiento de poblaciones",
+      "Cría en cautividad y programas de repoblación"
+    ],
+    "descripcionConservacion": [
+      "El atún rojo ha sufrido un fuerte declive debido a la sobreexplotación pesquera. Aunque las regulaciones recientes han mostrado cierta mejora en algunas poblaciones, la especie sigue catalogada como En Peligro (EN).",
+      "Esfuerzos internacionales se centran en proteger sus zonas de desove y controlar estrictamente las capturas."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "150-450 kg",
+      "hembraAdulta": "150-500 kg",
+      "maximoRegistrado": "679 kg"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "2-3 m",
+      "hembra": "2-3.3 m"
+    },
+    "colorPelaje": "Azul oscuro iridiscente dorsal, plateado ventral",
+    "caracteristicasEspeciales": "Ojos grandes, aletas retractiles y pequeños 'aletines' tras la segunda dorsal y anal. Es uno de los pocos peces capaces de termorregulación parcial.",
+    "morfologia": [
+      "Cuerpo fusiforme y musculoso, ideal para nadar largas distancias a gran velocidad.",
+      "Aletas dorsales y pectorales fuertes y retráctiles, adaptadas para reducir la resistencia del agua.",
+      "Capacidad de termorregulación parcial que le permite mantener músculos calientes y nadar más rápido que muchos otros peces."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Aguas abiertas oceánicas (pelágico), templadas y subtropicales",
+    "distribucionGeografica": [
+      "Océano Atlántico Norte y Sur",
+      "Mar Mediterráneo"
+    ],
+    "adaptacionesHabitat": "Nadador rápido y migratorio (Termorregulador parcial).",
+    "descripcionHabitat": [
+      "Pez pelágico que vive en la columna de agua abierta, migrando miles de kilómetros anualmente entre zonas de alimentación (norte) y de reproducción (sur y Mediterráneo).",
+      "Generalmente forma bancos pequeños, pero los individuos grandes suelen ser más solitarios."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Depredador ápice)",
+    "presasComunes": [
+      "Caballa y Sardina (peces pequeños)",
+      "Cefalópodos (calamares, pulpos)",
+      "Crustáceos"
+    ],
+    "estrategiaCaza": "Persecución activa y emboscada. Utiliza su velocidad para atrapar presas pelágicas rápidas.",
+    "descripcionDieta": [
+      "Se alimenta principalmente de peces que se mueven en bancos densos, cefalópodos y crustáceos.",
+      "Su velocidad y resistencia le permiten cazar eficazmente en mar abierto."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Migratorio, forma bancos pequeños o se mantiene solitario (adultos)",
+    "rolMacho": "Participa en las migraciones y la liberación de esperma durante el desove.",
+    "rolHembra": "Libera millones de huevos en las zonas de desove.",
+    "actividadDiaria": "Activa durante el día, con movimientos migratorios extensos estacionales",
+    "comunicacion": [
+      "Señales químicas (feromonas) durante el desove.",
+      "Vibraciones o interacciones físicas dentro del banco."
+    ],
+    "descripcionComportamiento": [
+      "Es un nadador extremadamente rápido y resistente, esencial para sus largas migraciones.",
+      "Muestra un fuerte comportamiento migratorio estacional entre áreas de alimentación (aguas ricas y frías) y de reproducción (aguas cálidas)."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo (Desove pelágico)",
+    "madurezSexual": {
+      "macho": "4-5 años",
+      "hembra": "4-5 años"
+    },
+    "periodoGestacion": "Desove masivo en mar abierto (primavera/verano)",
+    "tamanoCamada": "Millones de huevos por temporada por hembra",
+    "cuidadoCrias": "Ausente; los huevos y larvas son planctónicas",
+    "descripcionReproduccion": [
+      "Se reproduce en mar abierto, liberando millones de huevos que flotan en el agua. La fertilización es externa.",
+      "No existe cuidado parental; la supervivencia depende de la cantidad de huevos y de la suerte, lo que justifica la liberación masiva."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Depredador ápice de océano abierto, regulando poblaciones de peces pelágicos y manteniendo equilibrio en la cadena alimentaria marina.",
+    "Su presencia es un indicador clave de la salud de los grandes ecosistemas oceánicos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 5,
+    "inteligencia": 6,
+    "adaptabilidad": 7,
+    "fuerza": 9,
+    "velocidad": 9,
+    "tamano": 9,
+    "majestuosidad": 8,
+    "rareza": 6,
+    "supervivencia": 5,
+    "impactoEcologico": 9
+  },
+
+  "curiosidades": [
+    "Puede nadar a velocidades superiores a 70 km/h.",
+    "Tiene capacidad de termorregulación parcial, calentando sus músculos de natación para mayor eficiencia.",
+    "Un ejemplar adulto puede pesar tanto como un coche pequeño.",
+    "El sobrepescado ha llevado a regulaciones internacionales para proteger la especie."
+  ]
+}

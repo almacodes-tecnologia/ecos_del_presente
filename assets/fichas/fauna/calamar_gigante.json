@@ -1,0 +1,166 @@
+{
+  "id": "calamar_gigante",
+  "nombre": "Calamar Gigante",
+  "nombreCientifico": "Architeuthis dux",
+  "fechaInformacion": "2025",
+
+  "imagen": "calamar_gigante.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El calamar gigante es un molusco de aguas profundas conocido por su enorme tamaño y tentáculos poderosos.",
+    "Es una de las criaturas más elusivas y misteriosas del planeta, base de numerosas leyendas marinas."
+  ],
+
+  "descripcionLarga": [
+    "Habita en los océanos profundos del mundo (zonas batiales), a menudo a más de 300 metros de profundidad, donde la luz solar es escasa o inexistente.",
+    "Es uno de los invertebrados más grandes conocidos. Su cuerpo alargado y musculoso posee ocho brazos y dos tentáculos de caza mucho más largos, equipados con ventosas y anillos dentados para sujetar presas.",
+    "Su tamaño máximo y su comportamiento depredador lo colocan en la cima de la cadena alimentaria de las profundidades, siendo solo amenazado por el Cachalote (su principal depredador)."
+  ],
+
+  "observaciones": [
+    "A pesar de su tamaño, es extremadamente difícil de observar en vida debido a su hábitat profundo y solo ha sido filmado en contadas ocasiones.",
+    "Su principal depredador conocido es el Cachalote, en cuyos estómagos se han encontrado restos de picos de calamares gigantes.",
+    "Los ejemplares varados o encontrados muertos en la superficie a menudo presentan daños por la descompresión."
+  ],
+
+  "longevidad": {
+    "enLibertad": "Se estima entre 5 y 10 años",
+    "enCautividad": "Desconocida; no ha sobrevivido en cautiverio"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Mollusca",
+    "clase": "Cephalopoda",
+    "orden": "Oegopsida",
+    "familia": "Architeuthidae",
+    "genero": "Architeuthis",
+    "especie": "A. dux"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Datos Insuficientes (DD)",
+    "tendenciaPoblacion": "Desconocida (La dificultad para estudiar la población es extrema)",
+    "amenazasPrincipales": [
+      "Captura incidental y accidental en redes de pesca de arrastre profundo",
+      "Contaminación sonora oceánica (dificulta la caza y reproducción)",
+      "Cambio climático afectando las corrientes profundas"
+    ],
+    "esfuerzosConservacion": [
+      "Monitoreo de poblaciones mediante cámaras y ROVs (Vehículos Operados Remotamente)",
+      "Estudios genéticos para determinar la distribución global",
+      "Investigación científica para comprender su ciclo de vida"
+    ],
+    "descripcionConservacion": [
+      "Debido a que vive en la oscuridad del océano profundo, no hay datos suficientes para determinar su estado de conservación (DD).",
+      "Su enorme distribución global sugiere que la especie podría no estar en peligro inmediato, pero las amenazas de la pesca de profundidad son reales."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "Hasta 250 kg",
+      "hembraAdulta": "Hasta 300 kg",
+      "maximoRegistrado": "300 kg"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "10-13 m (incluyendo tentáculos)",
+      "hembra": "12-14 m (incluyendo tentáculos)"
+    },
+    "colorPelaje": "Rojizo oscuro (debido al amonio en su cuerpo) o púrpura.",
+    "caracteristicasEspeciales": "Ojos enormes (los más grandes del reino animal); ocho brazos y dos tentáculos de caza extremadamente largos.",
+    "morfologia": [
+      "Cuerpo alargado y musculoso (manto), con dos aletas caudales.",
+      "Ojos gigantes adaptados a captar la mínima luz bioluminiscente de las profundidades.",
+      "Tentáculos con anillos dentados para atrapar y sujetar presas, incluso con la presión de las profundidades."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Océanos profundos (zona batial), pelágico",
+    "distribucionGeografica": [
+      "Océano Atlántico Norte y Sur",
+      "Océano Pacífico",
+      "Océano Índico"
+    ],
+    "adaptacionesHabitat": "Metabolismo lento, grandes ojos para la oscuridad y flotabilidad neutral gracias a un alto contenido de amonio en su tejido.",
+    "descripcionHabitat": [
+      "Vive en aguas profundas y frías (a menudo entre 300 y 1000 metros), evitando la superficie.",
+      "Se desplaza lentamente para conservar energía, utilizando la propulsión a chorro solo para ataques rápidos o escapes."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Depredador de profundidad)",
+    "presasComunes": [
+      "Peces de profundidad (incluyendo chimaeras y peces linterna)",
+      "Otros calamares",
+      "Crustáceos y otros invertebrados"
+    ],
+    "estrategiaCaza": "Acecho, utilizando sus tentáculos para emboscar y arrastrar a la presa hacia su pico.",
+    "descripcionDieta": [
+      "Se alimenta de especies que encuentra en la oscuridad, usando sus potentes ventosas para sujetarlas mientras las lleva a su pico quitinoso y afilado.",
+      "La evidencia sugiere que es un cazador activo en lugar de un depredador que espera pasivamente."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario y altamente elusivo",
+    "rolMacho": "Reproducción",
+    "rolHembra": "Reproducción y desove",
+    "actividadDiaria": "Se presume nocturna o crepuscular para cazar, aprovechando la oscuridad.",
+    "comunicacion": [
+      "Posibles cambios de color y patrones (a pesar de la oscuridad, la bioluminiscencia es común).",
+      "Señales químicas (feromonas) durante el apareamiento."
+    ],
+    "descripcionComportamiento": [
+      "Es un depredador sigiloso. Los encuentros con otros calamares o grandes depredadores (excepto Cachalotes) son raros.",
+      "Su metabolismo es lento debido a la alta presión y baja temperatura de su hábitat."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "Se estima 3 años",
+      "hembra": "Se estima 3-4 años"
+    },
+    "periodoGestacion": "Desconocido (Oviposición en aguas profundas)",
+    "tamanoCamada": "Millones de huevos (se ha estimado una masa de huevos de 0.5-2 toneladas)",
+    "cuidadoCrias": "Ausente; los huevos flotan o se adhieren al lecho marino y se desarrollan solos.",
+    "descripcionReproduccion": [
+      "La hembra deposita una enorme cantidad de huevos en aguas profundas y, como muchos cefalópodos, se presume que muere poco después de reproducirse (semelparidad).",
+      "El ciclo reproductivo es uno de los mayores misterios de la especie."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Es el alimento principal de una de las criaturas más grandes del planeta, el cachalote, regulando así la cadena trófica de las profundidades.",
+    "Su depredación influye en las poblaciones de peces y calamares que viven en las profundidades mesopelágicas."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 5,
+    "inteligencia": 6,
+    "adaptabilidad": 7,
+    "fuerza": 9,
+    "velocidad": 5,
+    "tamano": 10,
+    "majestuosidad": 9,
+    "rareza": 10,
+    "supervivencia": 6,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "Tiene los ojos más grandes del reino animal, que pueden alcanzar hasta 27 cm de diámetro, similares al tamaño de un balón de fútbol.",
+    "Su cuerpo contiene cloruro de amonio, lo que le da una flotabilidad neutral, pero un sabor horrible, por lo que no es apreciado por la pesca comercial.",
+    "Durante mucho tiempo se consideró una criatura mítica, hasta que se documentó científicamente en el siglo XIX.",
+    "La longitud registrada más larga (tentáculos extendidos) se acerca a los 14 metros."
+  ]
+}

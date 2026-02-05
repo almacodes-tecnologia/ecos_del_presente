@@ -1,0 +1,87 @@
+{
+  "id": "bosque_mediterraneo",
+  "nombre": "Bosque Mediterráneo",
+  "imagenPrincipal": "bosque_mediterraneo.webp",
+  "descripcionDetallada": [
+    "El bosque mediterráneo es un bioma de gran belleza y alta biodiversidad, característico de zonas con veranos largos y secos e inviernos suaves y húmedos. Es un ecosistema único por la capacidad de su flora para resistir condiciones extremas de sequía y fuego.",
+    "La vegetación, predominantemente esclerófila (de hoja dura y perenne), ha desarrollado mecanismos de adaptación únicos como hojas pequeñas, cutículas gruesas o pubescencia para reducir la pérdida de agua por transpiración. Esto ha configurado un paisaje de matorral denso y bosque claro de gran valor ecológico."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Principalmente en la cuenca mediterránea, extendiéndose a regiones con climas similares como partes de California (Chaparral), Chile (Matorral Chileno), Sudáfrica (Fynbos) y Australia (Mallee).",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Vegetación esclerófila, con árboles como encinas y alcornoques en el estrato superior.",
+    "dominanciaAnimal": "Fauna adaptada a la sequía, con predominio de mamíferos herbóvoros (cérvidos) y mesodepredadores (jabalí), e importantes poblaciones de rapaces.",
+    "estratosVerticales": [
+      "Arbóreo: Altura variable (8-15m), dominado por especies perennifolias (encina, alcornoque) y pinos.",
+      "Arbustivo: Densos matorrales heliófilos de brezo, jara, lentisco y madroño.",
+      "Herbáceo: Diversidad de pastos, terófitos y especies bulbosas que florecen en la estación húmeda."
+    ],
+    "adaptacionesClave": "Hojas perennes y duras (esclerofilia), raíces profundas para alcanzar acuíferos, y pirofitismo (mecanismos para rebrotar tras incendios)."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Se define por el clima mediterráneo (Csa/Csb), único bioma donde la estación más cálida coincide con la más seca.",
+      "La insolación es muy elevada, superando a menudo las 2.500 horas anuales, lo que condiciona un alto estrés hídrico estival."
+    ],
+    "caracteristicas": [
+      "Inviernos suaves y húmedos con heladas ocasionales y escasas.",
+      "Veranos cálidos o muy calurosos con sequía estricta de 3 a 5 meses.",
+      "Otoños y primaveras variables con precipitaciones a veces de carácter torrencial."
+    ],
+    "precipitacionAnualRango": "350 - 900 mm",
+    "temperaturaMediaRango": "15 - 20°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos generalmente maduros pero frágiles, condicionados por el relieve accidentado y la litología local.",
+      "Presentan una vulnerabilidad alta a la desertificación si pierden la cubierta vegetal protectora."
+    ],
+    "caracteristicas": [
+      "Baja profundidad (leptosoles) y presencia frecuente de afloramientos rocosos.",
+      "Contenido moderado-bajo de materia orgánica concentrada en el horizonte superior.",
+      "Dificultad para retener agua debido a la textura pedregosa o arcillosa compacta."
+    ]
+  },
+
+  "faunaDestacada": [
+    "ciervo_iberico",
+    "jabali_europeo",
+    "aguila_real",
+    "conejo_comun",
+    "lince_iberico"
+  ],
+  "floraDestacada": [
+    "encina",
+    "alcornoque",
+    "lentisco",
+    "romero",
+    "madrono"
+  ],
+  "hongosDestacados": [
+    "amanita_caesarea",
+    "boletus_edulis",
+    "russula_cyanoxantha",
+    "lactarius_deliciosus"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Vulnerable debido a la presión humana histórica, el abandono rural y el cambio climático global.",
+    "amenazasPrincipales": [
+      "Cambio Climático: Aumento de la aridez y frecuencia de olas de calor extremo.",
+      "Fragmentación: Urbanismo e infraestructuras que rompen los corredores biológicos.",
+      "Incendios de Sexta Generación: Fuegos de alta intensidad que superan la capacidad de regeneración natural.",
+      "Sobrepastoreo o Abandono: Ambos extremos alteran la estructura natural del matorral y el bosque."
+    ],
+    "beneficiosEcosistemicos": [
+      "Regulación Hídrica: Esencial para la recarga de acuíferos y el control de escorrentías.",
+      "Protección del Suelo: Evita la erosión laminar y en cárcavas provocada por lluvias torrenciales.",
+      "Despensa Biológica: Producción de corcho, miel, aceites esenciales, frutos silvestres y setas.",
+      "Refugio de Biodiversidad: Alberga especies endémicas que no existen en ningún otro bioma del planeta."
+    ]
+  }
+}

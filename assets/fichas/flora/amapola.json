@@ -1,0 +1,112 @@
+{
+  "id": "amapola",
+  "nombre": "Amapola",
+  "nombreCientifico": "Papaver rhoeas",
+  "fechaInformacion": "2025",
+  "imagen": "amapola.webp",
+  "introduccionPlanta": [
+    "La Amapola es una hierba anual icónica de color rojo escarlata, conocida por sus pétalos efímeros y su papel como maleza común en los campos de cereal.",
+    "A diferencia de su prima, la amapola del opio, *Papaver rhoeas* no tiene propiedades narcóticas, pero es un poderoso símbolo de recuerdo, sueño y paz."
+  ],
+  "descripcionLarga": [
+    "La **amapola** (*Papaver rhoeas*) es una hierba anual de la familia de las adormideras, famosa por sus vibrantes y efímeras flores de color rojo escarlata. Común en campos de cereal, bordes de caminos y terrenos baldíos, se ha convertido en un símbolo de la flora silvestre y la resistencia de la naturaleza. Con su tallo delgado y peludo, y sus hojas profundamente lobuladas, se alza orgullosa para mostrar sus cuatro pétalos delicados, a menudo con una distintiva mancha negra en la base.",
+    "Aunque se parece a la amapola del opio, es una especie distinta y no contiene propiedades narcóticas. Su belleza fugaz es una de sus características más notorias: los pétalos se arrugan al abrirse y caen con la más mínima brisa, dejando atrás una cápsula de semillas que parece un salero. Esta cápsula alberga miles de diminutas semillas que aseguran su supervivencia y dispersión en la siguiente temporada.",
+    "El cultivo de la amapola es sencillo, ya que prospera en suelos pobres y bien drenados y necesita pleno sol. No requiere apenas cuidados y es resistente a la sequía. Aparte de su valor ornamental, sus semillas se utilizan en la cocina y en la medicina tradicional como un suave sedante. Históricamente, la amapola ha adquirido un profundo simbolismo, representando el recuerdo de los caídos en guerra, una memoria que florece cada primavera en los campos donde se libraron batallas."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Ranunculales",
+    "familia": "Papaveraceae",
+    "genero": "Papaver",
+    "especie": "P. rhoeas"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable. Ampliamente distribuida y común como mala hierba en cultivos.",
+    "amenazasPrincipales": [
+      "Uso de herbicidas en la agricultura intensiva.",
+      "Destrucción de su hábitat natural (campos de cultivo y bordes de caminos)."
+    ],
+    "esfuerzosConservacion": [
+      "Promoción de la agricultura ecológica y tradicional que permite la biodiversidad.",
+      "Creación de reservas de flora en entornos rurales."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Hierba anual, de tallo recto y peludo, que produce una única flor terminal.",
+    "alturaPromedio": "20 - 70 cm (8 - 28 in).",
+    "colorFollaje": "Verde grisáceo.",
+    "tipoRaiz": "Pivotante (corta) o fibrosa.",
+    "tallos": "Delgado, erecto y cubierto de finos pelos. Produce un látex blanco lechoso al cortarse.",
+    "hojas": "Pinnatífidas (divididas en lóbulos profundos), de color verde grisáceo y también con pelos.",
+    "flores": {
+      "forma": "Cuatro pétalos grandes y delgados que se abren en forma de copa.",
+      "colores": "Típicamente rojo brillante o escarlata, a veces con una mancha negra en la base.",
+      "fragancia": "Prácticamente inodora.",
+      "tamano": "5 - 10 cm (2 - 4 in) de diámetro."
+    },
+    "frutos": "Una cápsula globular, similar a una coctelera de sal, con un disco plano en la parte superior que contiene numerosas semillas diminutas."
+  },
+  "habitat": {
+    "tipo": "Campos de cultivo, bordes de caminos, praderas alteradas y terrenos baldíos.",
+    "distribucionGeografica": [
+      "Nativa de Europa, Asia y el norte de África.",
+      "Naturalizada en muchas partes del mundo con clima templado, como América del Norte y Australia."
+    ],
+    "preferenciasSuelo": "Suelos arcillosos o calizos, bien drenados y con buen sol.",
+    "preferenciasLuz": "Pleno sol. No crece bien en la sombra."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Exclusivamente por semillas, que se siembran directamente en otoño o principios de primavera.",
+      "Las semillas son muy pequeñas y se dispersan fácilmente."
+    ],
+    "riego": "Bajo. Una vez establecida, es muy tolerante a la sequía.",
+    "poda": "No requiere poda. (Se puede eliminar la flor marchita para evitar siembra descontrolada).",
+    "fertilizacion": "No es necesaria. Crece bien en suelos pobres.",
+    "plagasComunes": [
+      "Pulgones (ocasionalmente)."
+    ],
+    "enfermedadesComunes": [
+      "Muy resistente a enfermedades."
+    ]
+  },
+  "usos": {
+    "ornamental": "Jardines de estilo cottage, praderas florales, jardines silvestres.",
+    "culinario": [
+      "Las semillas son comestibles y se utilizan en panadería y repostería."
+    ],
+    "medicinal": [
+      "El látex de la amapola común no es narcótico. Se ha usado tradicionalmente como un leve sedante o para aliviar la tos."
+    ],
+    "industrial": [
+      "No tiene usos industriales a gran escala, a diferencia de la amapola del opio (*Papaver somniferum*)."
+    ],
+    "simbolismo": "Recuerdo, paz, sueño, y en los países de la Commonwealth, un poderoso símbolo de la memoria de los caídos en la guerra."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Entomófila (por insectos) o autopolinización.",
+    "momentoFloracion": "Final de primavera a principios de verano (mayo a julio en el hemisferio norte).",
+    "cicloVida": "Anual (completa su ciclo en un solo año)."
+  },
+  "atributosFantasia": {
+    "belleza": 4,
+    "rareza": 1,
+    "vitalidad": 4,
+    "resistencia": 5,
+    "impactoEcologico": 4,
+    "misticismo": 4,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "La amapola común (*Papaver rhoeas*) no es la misma especie que la amapola del opio (*Papaver somniferum*). *Papaver rhoeas* no contiene alcaloides narcóticos.",
+    "Sus pétalos son tan delicados que se caen con facilidad al ser cortados. Por ello, no se usa como flor de florero.",
+    "Es una planta pionera que coloniza rápidamente terrenos perturbados, campos arados y zonas de construcción.",
+    "El simbolismo de la amapola como recuerdo de la guerra proviene de la Primera Guerra Mundial, donde floreció en los campos de batalla de Flandes (Bélgica) tras la devastación de la tierra.",
+    "Una sola cápsula de amapola puede contener miles de semillas, lo que explica su gran capacidad de dispersión."
+  ]
+}

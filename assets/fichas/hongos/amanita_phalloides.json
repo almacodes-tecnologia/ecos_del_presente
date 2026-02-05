@@ -1,0 +1,42 @@
+{
+  "id": "amanita_phalloides",
+  "nombre": "Cicuta verde",
+  "nombreCientifico": "Amanita phalloides",
+  "familia": "Amanitaceae",
+  "imagen": "amanita_phalloides.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "La Amanita phalloides es el hongo más letal que existe. Contiene amatoxinas que causan un fallo hepático irreversible. Su apariencia engañosamente común la convierten en un peligro extremo para los recolectores inexpertos.",
+
+  "caracteristicas": {
+    "sombrero": "5-15 cm de diámetro. De forma convexa a aplanada. Su color más típico es el verde oliváceo, pero puede variar a amarillento o incluso blanquecino. Presenta fibrillas radiales oscuras y superficie lisa.",
+    "laminas": "Blancas, densas y libres. Se mantienen blancas durante toda la vida del hongo, a diferencia de los champiñones.",
+    "pie": "Blanco con reflejos verdosos o amarillentos, a menudo con un dibujo en zig-zag (atigrado). Es cilíndrico y termina en un bulbo grueso.",
+    "anillo": "Presente, membranoso, colgante y de color blanco.",
+    "volva": "Muy característica, en forma de saco, blanca, amplia y persistente en la base del pie (a menudo enterrada).",
+    "esporada": "Blanca.",
+    "usoCultural": "Históricamente vinculada a asesinatos políticos en la antigua Roma y la Europa medieval. Se le conoce como el 'Ángel de la Muerte' por su letalidad absoluta."
+  },
+
+  "habitat": {
+    "tipo": "Principalmente bosques de frondosas (robles, encinas, castaños, hayas), aunque también puede aparecer en pinares.",
+    "relacionEcologica": "Micorrícica; forma una simbiosis vital con las raíces de árboles frondosos europeos.",
+    "distribucionGeografica": ["Originalmente de Europa, pero se ha extendido accidentalmente a América, Australia y África a través de raíces de árboles importados."],
+    "temporada": "Finales de verano y otoño.",
+    "altitudRango": "Desde el nivel del mar hasta media montaña."
+  },
+
+  "curiosidades": [
+    "Solo 30 gramos de este hongo (un ejemplar pequeño) son suficientes para causar la muerte de un adulto sano.",
+    "El envenenamiento tiene un periodo de latencia engañoso: los síntomas aparecen entre 6 y 24 horas después de la ingesta, cuando el daño en el hígado ya es grave.",
+    "Su nombre 'phalloides' significa 'con forma de falo', debido a la apariencia del hongo cuando emerge de su volva en forma de huevo."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 6,
+    "rareza": 4,
+    "simbolismo": 10,
+    "resistencia": 4,
+    "velocidadDeCrecimiento": 7,
+    "aura": 10
+  }
+}

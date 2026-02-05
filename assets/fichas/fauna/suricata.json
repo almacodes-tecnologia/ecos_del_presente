@@ -1,0 +1,163 @@
+{
+  "id": "suricata",
+  "nombre": "Suricata",
+  "nombreCientifico": "Suricata suricatta",
+  "fechaInformacion": "2025",
+
+  "imagen": "suricata.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La suricata (*Suricata suricatta*), también conocida como Meerkat, es un pequeño mamífero perteneciente a la familia de las mangostas, famoso por su compleja organización social y su postura erguida de vigilancia. ",
+    "Endémica de los desiertos y sabanas secas del sur de África, vive en clanes grandes y altamente cooperativos, donde la división del trabajo es clave para su supervivencia."
+  ],
+
+  "descripcionLarga": [
+    "La suricata es un animal diurno que habita en madrigueras complejas que excava en las vastas llanuras del Kalahari y otras zonas semiáridas. Su vida social es jerárquica, dominada por una pareja alfa. El resto del clan (que puede contar con más de 30 miembros) participa en tareas esenciales como la búsqueda de alimento, el cuidado de las crías y la vigilancia constante contra depredadores.",
+    "El comportamiento de 'centinela' es su rasgo más icónico. Un individuo se sube a un punto elevado (montículo o arbusto) y se para sobre sus patas traseras para escanear el cielo y el horizonte. Utiliza diferentes llamadas de alarma para señalar el tipo y la urgencia de la amenaza (por ejemplo, un ave rapaz o un depredador terrestre).",
+    "Su dieta, aunque clasificada como carnívora, es omnívora y la suricata es particularmente resistente al veneno de escorpiones y algunas serpientes, que forman parte de su menú habitual."
+  ],
+
+  "observaciones": [
+    "Son inmunes (o altamente resistentes) a grandes dosis de veneno de escorpiones, que cazan y comen regularmente.",
+    "Utilizan el sol para calentarse por las mañanas, colocándose erguidos y exponiendo sus vientres de piel fina.",
+    "La cría es cooperativa; los miembros subordinados actúan como 'niñeras' y alimentan a las crías de la pareja dominante."
+  ],
+
+  "longevidad": {
+    "enLibertad": "10 años",
+    "enCautividad": "Hasta 15 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia (Mamíferos)",
+    "orden": "Carnivora (Carnívoros)",
+    "familia": "Herpestidae (Mangostas)",
+    "genero": "Suricata",
+    "especie": "S. suricatta"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable (y potencialmente creciente en ciertas áreas).",
+    "amenazasPrincipales": [
+      "Depredación (principalmente aves rapaces y chacales).",
+      "Sequías severas que reducen la disponibilidad de presas.",
+      "Fragmentación del hábitat."
+    ],
+    "esfuerzosConservacion": [
+      "Monitoreo de poblaciones y estudio de su ecología social (ej. Proyecto Suricata Kalahari).",
+      "Protección de los grandes parques nacionales que cubren su distribución (ej. Parque Nacional del Kalahari Gemsbok)."
+    ],
+    "descripcionConservacion": [
+      "La suricata es una especie adaptable y su alta tasa reproductiva y estructura social la protegen de la extinción. La amenaza principal es el impacto de los cambios climáticos extremos y la reducción de hábitats abiertos."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "0.7-1 kg",
+      "hembraAdulta": "0.6-0.9 kg",
+      "maximoRegistrado": "1.1 kg"
+    },
+    "alturaHombro": {
+      "macho": "25-30 cm (Altura a la cruz)",
+      "hembra": "25-28 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "25-35 cm (Longitud del cuerpo); Cola: 17-25 cm",
+      "hembra": "25-33 cm (Longitud del cuerpo); Cola: 17-25 cm"
+    },
+    "colorPelaje": "Marrón o gris claro, con bandas oscuras (negro/marrón) transversales en la espalda. Puntas de las orejas negras. Anillos negros alrededor de los ojos.",
+    "caracteristicasEspeciales": "Ojos protegidos por anillos oscuros (como gafas de sol); Garras fuertes no retráctiles para excavar; Cola que funciona como trípode para la postura erguida.",
+    "morfologia": [
+      "Cuerpo pequeño, esbelto y alargado, con patas delgadas.",
+      "Cabeza pequeña y puntiaguda con orejas pequeñas y ojos grandes y oscuros.",
+      "Garras largas y curvadas, perfectamente adaptadas para la excavación de sustratos duros.",
+      "Cola larga y cónica, usada para el equilibrio al correr y para apoyarse al estar de centinela."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Llanuras secas, sabanas semiáridas y desiertos (ej. Desierto del Kalahari).",
+    "distribucionGeografica": [
+      "Sudáfrica (principalmente), Botsuana, Namibia y Angola del Sur."
+    ],
+    "adaptacionesHabitat": "Viven en grandes madrigueras subterráneas para protegerse de las temperaturas extremas y los depredadores. Termorregulación grupal (se acurrucan para el frío y se exponen al sol para calentarse).",
+    "descripcionHabitat": [
+      "Prefieren suelos duros y compactos donde puedan excavar complejos sistemas de túneles y cámaras.",
+      "Las madrigueras son reutilizadas y ampliadas continuamente, ofreciendo protección y refugio."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Omnívora (Principalmente Carnívora/Insectívora)",
+    "presasComunes": [
+      "Insectos (escarabajos, larvas, orugas).",
+      "Escorpiones (su presa favorita, debido a su inmunidad al veneno).",
+      "Arañas, pequeños reptiles (lagartos, serpientes) y roedores.",
+      "Raíces, bulbos y tubérculos (complemento hídrico y nutritivo)."
+    ],
+    "estrategiaCaza": "Exploración en grupo y excavación. La presa es inmovilizada rápidamente con la mordida.",
+    "descripcionDieta": [
+      "Pasan la mayor parte del día excavando en el suelo para encontrar invertebrados.",
+      "El conocimiento de la manada sobre fuentes de alimento ayuda a la supervivencia del grupo."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Altamente social (Eusocialidad facultativa). Viven en clanes o 'gangs' de hasta 50 individuos, con una jerarquía estricta.",
+    "rolMacho": "Defensa del territorio contra clanes rivales. Se turnan en la vigilancia.",
+    "rolHembra": "La hembra dominante es la única que cría la mayoría de las veces. Las hembras subordinadas actúan como niñeras y protectoras de las crías.",
+    "actividadDiaria": "Diurna; salen de la madriguera al amanecer y regresan al atardecer.",
+    "comunicacion": [
+      "Vocalizaciones complejas (más de 20 llamadas diferentes) para advertencias, socialización, ubicación y alarma.",
+      "Señales corporales y posturas (ej. la postura de centinela)."
+    ],
+    "descripcionComportamiento": [
+      "El comportamiento cooperativo es clave. La vigilancia y el cuidado aloparental (cuidado de crías por no-padres) son ejemplos de altruismo en el grupo.",
+      "Se acicalan (grooming) mutuamente para fortalecer los lazos sociales."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo",
+    "madurezSexual": {
+      "macho": "1 año",
+      "hembra": "1 año"
+    },
+    "periodoGestacion": "Aproximadamente 70-77 días.",
+    "tamanoCamada": "2-5 crías (pueden tener hasta 3 camadas al año).",
+    "cuidadoCrias": "Cuidado aloparental. Toda la manada participa en la protección, la alimentación (llevándoles presas vivas para que aprendan a cazar) y el calentamiento de las crías.",
+    "descripcionReproduccion": [
+      "La hembra dominante tiene derecho exclusivo a reproducirse; a menudo suprime la reproducción de las hembras subordinadas.",
+      "Las crías nacen ciegas e indefensas en la madriguera y no salen a la superficie hasta las 3-4 semanas de edad."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Controla poblaciones de insectos y pequeños vertebrados, afectando la ecología del suelo a través de su excavación.",
+    "Es una presa importante para grandes aves rapaces (águilas, halcones) y mamíferos depredadores (chacales)."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 3,
+    "inteligencia": 6,
+    "adaptabilidad": 8,
+    "fuerza": 2,
+    "velocidad": 7,
+    "tamano": 2,
+    "majestuosidad": 5,
+    "rareza": 6,
+    "supervivencia": 7,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Los anillos oscuros alrededor de sus ojos reducen el brillo del sol, ayudándoles a ver a lo lejos, una adaptación perfecta para su papel de centinela.",
+    "El rol de centinela no es obligatorio, sino voluntario; un individuo vigila mientras el resto se alimenta.",
+    "Son conocidos por ser valientes y atacarán a serpientes venenosas en grupo para proteger a su clan."
+  ]
+}

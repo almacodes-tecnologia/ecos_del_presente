@@ -1,0 +1,164 @@
+{
+  "id": "hipopotamo_comun",
+  "nombre": "Hipopótamo Común",
+  "nombreCientifico": "Hippopotamus amphibius",
+  "fechaInformacion": "2025",
+
+  "imagen": "hipopotamo_comun.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El hipopótamo común (*Hippopotamus amphibius*) es uno de los mamíferos terrestres más grandes y pesados de África, sólo superado por el elefante.",
+    "Es un animal semiacuático que pasa la mayor parte del día sumergido en el agua para regular su temperatura y proteger su piel sensible del sol."
+  ],
+
+  "descripcionLarga": [
+    "El hipopótamo habita en ríos, lagos y humedales de África subsahariana. A pesar de su cuerpo voluminoso, es extremadamente ágil en el agua y puede superar en velocidad a un humano en tierra (hasta 30 km/h) cuando se siente amenazado.",
+    "Su piel gruesa (hasta 6 cm de espesor) carece de glándulas sudoríparas, pero secreta un fluido rojizo llamado **'sudor de sangre'** (aunque no es sangre ni sudor). Este fluido, compuesto por ácidos hiposudóricos y norhiposudóricos, funciona como un potente protector solar biológico y agente antibacteriano. ",
+    "El hipopótamo es conocido por su comportamiento territorial en el agua y es responsable de más muertes humanas anuales en África que cualquier otro mamífero grande."
+  ],
+
+  "observaciones": [
+    "Aunque su dieta es estrictamente herbívora (pastos), es considerado uno de los animales más peligrosos debido a su extrema agresividad, especialmente al proteger su territorio acuático o sus crías.",
+    "Los colmillos caninos y los incisivos inferiores son modificados y crecen continuamente, utilizándose principalmente en combates territoriales entre machos, y no para alimentarse.",
+    "Su anatomía sugiere una relación evolutiva más cercana a las ballenas que a los cerdos, como se creía anteriormente."
+  ],
+
+  "longevidad": {
+    "enLibertad": "40-50 años",
+    "enCautividad": "50-60 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Artiodactyla (suborden Whippomorpha)",
+    "familia": "Hippopotamidae",
+    "genero": "Hippopotamus",
+    "especie": "H. amphibius"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Vulnerable (VU)",
+    "tendenciaPoblacion": "Decreciente",
+    "amenazasPrincipales": [
+      "Pérdida y degradación del hábitat acuático (sequías, represas).",
+      "Caza furtiva por carne y, principalmente, por el marfil de sus colmillos.",
+      "Conflictos con humanos, ya que invaden cultivos al alimentarse de noche."
+    ],
+    "esfuerzosConservacion": [
+      "Protección de humedales y ríos clave en parques nacionales.",
+      "Restricción a la caza y lucha contra el comercio ilegal de colmillos de hipopótamo.",
+      "Programas de concienciación y coexistencia con comunidades ribereñas."
+    ],
+    "descripcionConservacion": [
+      "La población ha disminuido drásticamente en varios países (especialmente en África occidental) debido a la inestabilidad política y la caza ilegal. Su estatus Vulnerable requiere una gestión activa para proteger sus hábitats acuáticos cruciales.",
+      "El comercio de marfil de hipopótamo ha aumentado la presión de la caza furtiva."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "1.500-1.800 kg (hasta 3.200 kg en promedio)",
+      "hembraAdulta": "1.300-1.500 kg",
+      "maximoRegistrado": "≈4.500 kg"
+    },
+    "alturaHombro": {
+      "macho": "130-165 cm",
+      "hembra": "120-150 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "3.3-3.8 m (cuerpo) + 35-50 cm (cola)",
+      "hembra": "3.0-3.5 m (cuerpo) + 35-50 cm (cola)"
+    },
+    "colorPelaje": "Gris pardo o gris morado, sin pelaje significativo, excepto por cerdas cortas en el hocico y la cola.",
+    "caracteristicasEspeciales": "Secreción de 'sudor de sangre' (protector solar y antibiótico); Ojos, orejas y nariz dorsales; Colmillos caninos muy grandes; Cuerpo semiacuático voluminoso.",
+    "morfologia": [
+      "Cuerpo voluminoso, casi cilíndrico, sostenido por patas cortas y robustas. Dedos palmeados para el desplazamiento en el fondo de los ríos.",
+      "**Anatomía Dorsal**: Ojos, orejas y fosas nasales están situados en el plano superior del cráneo, permitiéndole respirar y observar mientras el cuerpo permanece sumergido. ",
+      "Boca extremadamente amplia con caninos inferiores enormes, que pueden alcanzar los 50 cm."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Ríos, lagos, lagunas y humedales con agua dulce permanente y vegetación ribereña adyacente.",
+    "distribucionGeografica": [
+      "África subsahariana, desde la región del Sahel hasta Sudáfrica (con grandes concentraciones en África oriental)."
+    ],
+    "adaptacionesHabitat": "Vida semiacuática (hasta 16 horas diarias en el agua). El 'sudor' rosado evita el resecamiento y las infecciones de la piel fuera del agua.",
+    "descripcionHabitat": [
+      "Depende del agua profunda y fresca durante el día. Por la noche, camina varios kilómetros para pastar en pastizales cortos adyacentes.",
+      "Mantienen senderos y canales ribereños al moverse entre el agua y la tierra."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro (Graminívoro o 'devorador de pasto')",
+    "presasComunes": [
+      "Hierba corta (el pasto es el 90% de su dieta)."
+    ],
+    "estrategiaCaza": null,
+    "descripcionDieta": [
+      "Sale de noche para pastar y consume unos 35-50 kg de vegetación por noche. Es un animal de pastoreo, no de forrajeo.",
+      "Su boca especializada y sus poderosos labios prensiles cortan la hierba cerca del suelo, siendo muy eficiente."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Grupos sociales flexibles (hasta 30-100 individuos) liderados por un macho dominante en el agua (Pod). Los machos solteros suelen ser solitarios.",
+    "rolMacho": "Domina un tramo de río y defiende agresivamente a las hembras de su pod. Marca el territorio mediante un 'lanzamiento' de heces y orina con la cola.",
+    "rolHembra": "Cuida de las crías y permanece en el grupo. Son muy protectoras de sus jóvenes.",
+    "actividadDiaria": "Diurno en agua (descanso), nocturno en tierra (alimentación).",
+    "comunicacion": [
+      "Gruñidos y bufidos explosivos.",
+      "Vocalizaciones submarinas que viajan tanto por el aire como por el agua.",
+      "Apertura de la boca (yawn) como despliegue de amenaza.",
+      "Marcaje territorial (dispersión de heces con la cola)."
+    ],
+    "descripcionComportamiento": [
+      "Son muy territoriales en el agua, pero los pastizales en tierra son neutrales, lo que reduce los conflictos nocturnos.",
+      "Pueden correr distancias cortas a gran velocidad y son excelentes nadadores."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "7-9 años (reproducción efectiva a los 15 años)",
+      "hembra": "5-6 años"
+    },
+    "periodoGestacion": "8 meses",
+    "tamanoCamada": "1 cría",
+    "cuidadoCrias": "La cría nace y pasa las primeras semanas en el agua (o en pequeñas islas). Amamanta bajo el agua y en la superficie, permaneciendo con la madre hasta 18 meses.",
+    "descripcionReproduccion": [
+      "El parto y el apareamiento ocurren generalmente en el agua.",
+      "El intervalo entre crías es de aproximadamente dos años, lo que hace que la recuperación poblacional sea lenta."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Es un eslabón clave en el ecosistema fluvial, transportando grandes cantidades de nutrientes (estiércol) desde los pastizales terrestres de vuelta a los ríos (subsidio de nutrientes).",
+    "Ayuda a mantener la profundidad y el flujo de los canales fluviales y lagos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 7,
+    "inteligencia": 4,
+    "adaptabilidad": 6,
+    "fuerza": 9,
+    "velocidad": 5,
+    "tamano": 9,
+    "majestuosidad": 6,
+    "rareza": 4,
+    "supervivencia": 7,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Su 'sudor' rosado es en realidad un protector solar biológico y antibiótico natural.",
+    "Son capaces de permanecer sumergidos hasta 6 minutos y pueden dormir en el agua, saliendo a respirar por reflejo, incluso dormidos.",
+    "Son más propensos a atacar a un humano que un león o un leopardo.",
+    "A pesar de su peso, son capaces de correr a 30 km/h en tierra en distancias cortas."
+  ]
+}

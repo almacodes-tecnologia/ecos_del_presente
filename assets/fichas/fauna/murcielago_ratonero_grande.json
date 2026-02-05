@@ -1,0 +1,163 @@
+{
+  "id": "murcielago_ratonero",
+  "nombre": "Murciélago Ratonero Grande",
+  "nombreCientifico": "Myotis myotis",
+  "fechaInformacion": "2025",
+
+  "imagen": "murcielago_ratonero_grande.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El murciélago ratonero grande (*Myotis myotis*) es uno de los murciélagos más grandes de Europa y un mamífero nocturno esencial, conocido por ser un cazador altamente especializado en presas terrestres.",
+    "Se caracteriza por su vuelo lento y silencioso y el uso de su excepcional ecolocalización para detectar pequeños ruidos de insectos en el suelo."
+  ],
+
+  "descripcionLarga": [
+    "El murciélago ratonero grande destaca por su tamaño considerable y sus orejas muy alargadas que superan la longitud del hocico. Su pelaje es denso y de color pardo-grisáceo en el dorso y más claro (gris blanquecino) en el vientre. Es una especie longeva para su tamaño.",
+    "Es típicamente cavernícola y troglófilo, dependiendo de refugios subterráneos naturales (cuevas, simas) y artificiales (minas, bodegas, sótanos de edificios antiguos) para pasar el invierno (hibernación) y formar colonias de cría en verano.",
+    "A diferencia de muchos murciélagos que cazan insectos en vuelo, el *Myotis myotis* captura presas en el suelo (una estrategia conocida como 'gleaning'), detectando escarabajos y arañas mediante su finísimo oído."
+  ],
+
+  "observaciones": [
+    "Es extremadamente sensible a la alteración o destrucción de sus refugios, especialmente las colonias maternales de cría.",
+    "La bioacumulación de pesticidas en sus presas (coleópteros) es una amenaza seria para su salud y reproducción.",
+    "La especie realiza migraciones estacionales entre refugios de verano (cría) e invierno (hibernación), que pueden ser de hasta varios cientos de kilómetros."
+  ],
+
+  "longevidad": {
+    "enLibertad": "Hasta 25 años",
+    "enCautividad": "Más de 30 años en casos excepcionales (especie notablemente longeva)."
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Chiroptera",
+    "familia": "Vespertilionidae",
+    "genero": "Myotis",
+    "especie": "M. myotis"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable en grandes áreas protegidas; decreciente o en declive en zonas con agricultura intensiva y perturbación de refugios.",
+    "amenazasPrincipales": [
+      "Pérdida y colapso de refugios invernales y de cría (cuevas, minas).",
+      "Molestias y vandalismo en colonias de cría (turismo no regulado o exploraciones).",
+      "Uso de pesticidas y consecuente disminución de insectos terrestres."
+    ],
+    "esfuerzosConservacion": [
+      "Protección legal estricta de refugios clave (incluyendo su cerramiento temporal).",
+      "Monitoreo y seguimiento poblacional de colonias maternales e hibernantes.",
+      "Programas para reducir el uso de químicos tóxicos en la agricultura circundante."
+    ],
+    "descripcionConservacion": [
+      "A pesar de su categoría global 'Preocupación Menor', en muchos países europeos está catalogado como Vulnerable. Su alta fidelidad a las cuevas lo hace fácil de proteger, pero también muy susceptible si esas cuevas son alteradas."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "28–40 g",
+      "hembraAdulta": "28–40 g (pudiendo ser más pesada durante la gestación)",
+      "maximoRegistrado": "45 g"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "Cuerpo 7–8 cm; Antebrazo: 5.5-6.5 cm.",
+      "hembra": "Cuerpo 7–8 cm; Antebrazo: 5.5-6.5 cm."
+    },
+    "colorPelaje": "Pardo grisáceo o pardo oscuro dorsal, con el vientre más claro (gris blanquecino).",
+    "caracteristicasEspeciales": "Murciélago grande; Orejas muy largas; Vuelo silencioso; Ecolocalización de alta precisión; Longevo.",
+    "morfologia": [
+      "Alas largas y relativamente anchas adaptadas para la maniobrabilidad y vuelos prolongados en busca de alimento.",
+      "Orejas muy largas, característica clave en la detección pasiva (oído) de presas en el suelo.",
+      "Hocico corto y ojos pequeños (visión pobre), típico de los microquirópteros que dependen de la ecolocalización."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Refugios subterráneos (cuevas, minas, bodegas), bosques y zonas rurales adyacentes.",
+    "distribucionGeografica": [
+      "Europa central y meridional (desde la Península Ibérica hasta Ucrania y el oeste de Rusia), incluyendo el Mediterráneo y los Balcanes."
+    ],
+    "adaptacionesHabitat": "Gran dependencia de refugios subterráneos estables y frescos (para hibernación) y refugios amplios y cálidos (para cría).",
+    "descripcionHabitat": [
+      "Prefiere cazar en áreas boscosas abiertas, dehesas, y tierras agrícolas donde abundan coleópteros y otros insectos terrestres.",
+      "Las colonias maternales (cientos o miles de hembras) se congregan en cavidades amplias para mantener la temperatura alta y constante, crucial para el desarrollo de la única cría."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Insectívoro especializado (Gleaning)",
+    "presasComunes": [
+      "Escarabajos grandes (Coleópteros), especialmente los que caminan o vuelan cerca del suelo.",
+      "Grillos, saltamontes (Ortópteros).",
+      "Arañas y otros artrópodos terrestres."
+    ],
+    "estrategiaCaza": "Captura presas en el suelo (gleaning). Vuela bajo y despacio, usando el sonido ultrasónico para localizar la estructura del terreno y el ruido de las presas al caminar, descendiendo para atraparlas con sus patas o membranas.",
+    "descripcionDieta": [
+      "El murciélago ratonero centra su dieta en insectos de buen tamaño, siendo un depredador importante de plagas agrícolas (especialmente escarabajos).",
+      "Su estrategia de caza minimiza la competencia con otros murciélagos aéreos."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Colonial, formando grupos muy numerosos (cientos o miles) en época de cría e hibernación.",
+    "rolMacho": "Generalmente vive solo o en grupos pequeños fuera de la época reproductiva, y se mantiene separado de las colonias maternales.",
+    "rolHembra": "Forma colonias maternales masivas en verano, donde la termorregulación grupal es vital para la cría.",
+    "actividadDiaria": "Nocturno (sale a cazar al atardecer o poco después).",
+    "comunicacion": [
+      "Ultrasonidos de baja frecuencia (para ecolocalización y detección del terreno).",
+      "Chirridos audibles y señales táctiles para la comunicación social dentro de las densas colonias.",
+      "Aullidos de defensa."
+    ],
+    "descripcionComportamiento": [
+      "Es una especie muy fiel a sus refugios, regresando año tras año a los mismos lugares de cría e hibernación.",
+      "Su vuelo silencioso le permite acercarse a presas en el suelo sin ser detectado."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario (con implantación diferida)",
+    "madurezSexual": {
+      "macho": "1–2 años",
+      "hembra": "1–2 años"
+    },
+    "periodoGestacion": "50–60 días (la gestación activa comienza en primavera).",
+    "tamanoCamada": "1 cría.",
+    "cuidadoCrias": "Las hembras amamantan a la cría durante varias semanas (hasta 40 días) y la dejan colgada en el 'nido' comunal dentro de la colonia maternal mientras salen a alimentarse.",
+    "descripcionReproduccion": [
+      "La cópula tiene lugar en otoño. Los machos almacenan el esperma, y las hembras lo guardan en su tracto reproductivo hasta la primavera siguiente, cuando se produce la fecundación (implantación diferida).",
+      "El nacimiento ocurre en verano (junio/julio). La formación de las colonias maternales es crucial para mantener la temperatura alta, necesaria para el rápido crecimiento de la cría."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Controla poblaciones de insectos del suelo, especialmente coleópteros (escarabajos), ayudando al equilibrio de los ecosistemas agrícolas y forestales.",
+    "Actúa como un bioindicador de la salud del entorno, particularmente de la ausencia de pesticidas y la integridad de las cuevas y minas."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 5,
+    "adaptabilidad": 7,
+    "fuerza": 2,
+    "velocidad": 6,
+    "tamano": 1,
+    "majestuosidad": 4,
+    "rareza": 5,
+    "supervivencia": 6,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Su nombre 'ratonero' no se debe a que cace ratones, sino a su tamaño y aspecto general. ",
+    "El *Myotis myotis* tiene la capacidad de 'escuchar' a sus presas en el suelo a través de los ecos ultrasónicos, una habilidad muy desarrollada.",
+    "Puede vivir más de dos décadas, algo notable para un mamífero tan pequeño (el tamaño y la hibernación contribuyen a su longevidad)."
+  ]
+}

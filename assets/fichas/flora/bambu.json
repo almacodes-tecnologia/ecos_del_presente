@@ -1,0 +1,118 @@
+{
+  "id": "bambu",
+  "nombre": "Bambú",
+  "nombreCientifico": "Bambusoideae (subfamilia)",
+  "fechaInformacion": "2025",
+  "imagen": "bambu.webp",
+  "introduccionPlanta": [
+    "El Bambú es una hierba gigante de la familia de las gramíneas, conocida por ser la planta de crecimiento más rápido del mundo y por sus tallos huecos, extremadamente fuertes y flexibles.",
+    "Es vital para diversos ecosistemas, simboliza la resiliencia en Asia y es uno de los materiales más versátiles y sostenibles del planeta."
+  ],
+  "descripcionLarga": [
+    "El **bambú**, miembro de la subfamilia Bambusoideae, es una gramínea perenne que a menudo es confundida con un árbol debido a su imponente tamaño y su tronco leñoso. Es la planta de crecimiento más rápido del mundo, con algunas especies capaces de crecer un metro en 24 horas. Esta asombrosa velocidad de crecimiento se debe a su poderoso sistema de **rizomas**, un entramado subterráneo del que brotan los tallos huecos y articulados, conocidos como **culmos**.",
+    "El bambú es un verdadero prodigio de la naturaleza, una planta que combina la fuerza del acero con la flexibilidad de una caña. Su estructura única, con nudos y un interior hueco, lo hace extremadamente ligero y resistente a la vez. Aunque su apariencia puede ser engañosa, es un pariente cercano de las gramíneas, el trigo y la avena.",
+    "Su distribución es global, excepto en Europa y la Antártida, y se encuentra en una variedad de hábitats, desde las selvas tropicales de Asia hasta las montañas de América. El bambú es de vital importancia ecológica y económica, ya que sirve de alimento para especies como el panda y se utiliza en una innumerable cantidad de productos, desde la construcción y el mobiliario hasta los textiles y la medicina tradicional. Su **floración**, un evento raro y cíclico que puede ocurrir solo una vez cada siglo, es un fenómeno misterioso que asegura la reproducción sexual de la especie. En la cultura asiática, el bambú es un poderoso símbolo de resiliencia y rectitud, ya que se dobla ante las tormentas pero nunca se rompe."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Liliopsida",
+    "orden": "Poales",
+    "familia": "Poaceae",
+    "genero": "Diversos (ej. Phyllostachys, Bambusa, Fargesia)",
+    "especie": "Más de 1.400 especies."
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Varía según la especie. Muchas están en Preocupación Menor, algunas En Peligro.",
+    "tendenciaPoblacion": "Estable en general, pero algunas especies nativas están amenazadas.",
+    "amenazasPrincipales": [
+      "Tala de bosques nativos para la agricultura y el desarrollo.",
+      "Cambio climático y sequías.",
+      "Sobreexplotación de algunas especies específicas.",
+      "Algunas especies son invasoras fuera de su hábitat natural."
+    ],
+    "esfuerzosConservacion": [
+      "Protección de los hábitats de bambú nativos.",
+      "Control de especies invasoras en ecosistemas no nativos.",
+      "Programas de propagación y estudio de especies en peligro."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Hierba perenne, con un sistema de rizomas subterráneo. Crecimiento muy rápido.",
+    "alturaPromedio": "Varía enormemente, desde unos pocos centímetros hasta más de 40 m (130 ft).",
+    "colorFollaje": "Verde brillante o amarillo-verdoso.",
+    "tipoRaiz": "Rizomatoza (corredora o cespitosa), formando extensas redes subterráneas.",
+    "tallos": "Tallos leñosos, conocidos como 'culmos', que son huecos y divididos por nudos. Son rectos y muy resistentes.",
+    "hojas": "Pequeñas y lanceoladas, con una vaina que envuelve el tallo en los nudos. Pueden ser caducas o perennes.",
+    "flores": {
+      "forma": "Muy raras en la mayoría de las especies. Aparecen en espigas (panículas).",
+      "colores": "Verdoso, a veces con toques marrones.",
+      "fragancia": "Poco perceptible.",
+      "tamano": "Muy pequeñas."
+    },
+    "frutos": "Tipo cariópside, similar a un grano de trigo."
+  },
+  "habitat": {
+    "tipo": "Diversos, desde bosques tropicales y selvas hasta montañas templadas y frescas.",
+    "distribucionGeografica": [
+      "Cosmopolita, excepto en Europa y la Antártida. Nativo de Asia, América, África y Australia."
+    ],
+    "preferenciasSuelo": "Suelos ricos en materia orgánica, húmedos y bien drenados. Algunas especies se adaptan a suelos más pobres.",
+    "preferenciasLuz": "Varía. Muchas especies crecen a pleno sol, pero otras prefieren la sombra parcial del sotobosque."
+  },
+  "cultivo": {
+    "propagacion": [
+      "División de rizomas (el método más común y efectivo).",
+      "Semillas (cuando ocurre la floración, un evento raro).",
+      "Esquejes de tallo."
+    ],
+    "riego": "Requiere riego regular, especialmente cuando es joven. No soporta el encharcamiento.",
+    "poda": "Poda de los tallos más viejos o muertos para dar forma y promover el crecimiento de nuevos brotes.",
+    "fertilizacion": "Responde bien a fertilizantes de alto contenido en nitrógeno durante la temporada de crecimiento.",
+    "plagasComunes": [
+      "Cochinilla",
+      "Ácaros"
+    ],
+    "enfermedadesComunes": [
+      "Pudrición de la raíz (por exceso de agua)."
+    ]
+  },
+  "usos": {
+    "ornamental": "Jardines (como pantalla visual o punto focal), macetas, bonsáis.",
+    "culinario": [
+      "Brotes tiernos de algunas especies son comestibles (en la cocina asiática)."
+    ],
+    "medicinal": [
+      "El tallo del bambú y sus hojas se utilizan en la medicina tradicional asiática para diversas dolencias."
+    ],
+    "industrial": [
+      "Material de construcción (andamios, suelos, muebles).",
+      "Fibra para textiles y papel.",
+      "Bioenergía, artesanía y utensilios de cocina."
+    ],
+    "simbolismo": "Resiliencia, flexibilidad, fuerza y longevidad en la cultura asiática. Simboliza la humildad y la rectitud."
+  },
+  "reproduccion": {
+    "tipo": "Principalmente asexual (rizomas). La reproducción sexual (floración) es un evento cíclico y misterioso.",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Extremadamente raro y cíclico (cada 20 a 120 años). Las especies que florecen mueren tras producir semillas.",
+    "cicloVida": "Perenne, de muy larga vida (décadas a un siglo) hasta la floración y muerte."
+  },
+  "atributosFantasia": {
+    "belleza": 4,
+    "rareza": 2,
+    "vitalidad": 5,
+    "resistencia": 5,
+    "impactoEcologico": 4,
+    "misticismo": 4,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 3
+  },
+  "curiosidades": [
+    "El bambú es la planta de crecimiento más rápido del planeta. Algunas especies pueden crecer casi un metro en un solo día.",
+    "A pesar de su apariencia leñosa, el bambú no es un árbol, sino una hierba gigante de la familia de las gramíneas.",
+    "La floración masiva del bambú es un fenómeno misterioso, que ocurre simultáneamente en todas las plantas de una misma especie en todo el mundo, independientemente de su ubicación geográfica.",
+    "El bambú es extremadamente fuerte y tiene una resistencia a la tracción superior a la del acero, por lo que se utiliza en la construcción.",
+    "La mayoría de las especies de bambú son monocárpicas, lo que significa que florecen, producen semillas y luego mueren."
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "emu",
+  "nombre": "Emú",
+  "nombreCientifico": "Dromaius novaehollandiae",
+  "fechaInformacion": "2025",
+
+  "imagen": "emu.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El Emú (*Dromaius novaehollandiae*) es la segunda ave más grande del mundo (después del avestruz) y el ave nativa más grande de Australia.",
+    "Es un ave no voladora, de patas fuertes y plumaje ralo, adaptada a la carrera y conocida por su comportamiento de incubación única, donde el macho asume toda la responsabilidad de la crianza."
+  ],
+
+  "descripcionLarga": [
+    "El emú pertenece al grupo de las aves corredoras conocidas como **ratites** (junto al avestruz y el casuario). Posee un cuerpo voluminoso, plumaje ralo de color marrón grisáceo y patas largas con solo tres dedos apuntando hacia adelante, una adaptación clave para la alta velocidad. ",
+    "Habita una gran variedad de ecosistemas australianos, desde bosques esclerófilos hasta pastizales y zonas semiáridas. Su metabolismo eficiente le permite desplazarse largas distancias buscando agua y alimento.",
+    "A diferencia de muchas aves, las hembras son a menudo más grandes y, durante la temporada de apareamiento, pueden volverse más agresivas que los machos."
+  ],
+
+  "observaciones": [
+    "Es un corredor excepcional, pudiendo alcanzar velocidades de hasta 50 km/h en cortas ráfagas para escapar de depredadores.",
+    "Presenta una notable **inversión de roles sexuales**; las hembras compiten por los machos, y es el macho quien incuba y cuida a las crías en solitario.",
+    "El macho puede pasar hasta 56 días sin comer ni beber durante la incubación, perdiendo una gran cantidad de su peso corporal."
+  ],
+
+  "longevidad": {
+    "enLibertad": "10-20 años",
+    "enCautividad": "Hasta 30 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Casuariiformes (Ratites)",
+    "familia": "Dromaiidae",
+    "genero": "Dromaius",
+    "especie": "D. novaehollandiae"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable (aunque fluctuante en respuesta a las precipitaciones).",
+    "amenazasPrincipales": [
+      "Fragmentación y pérdida de hábitat local debido a la agricultura y el pastoreo.",
+      "Depredación de huevos y crías por animales introducidos (zorros, gatos).",
+      "Atropellos en carreteras y cercas que impiden su migración."
+    ],
+    "esfuerzosConservacion": [
+      "Protección total bajo la ley australiana.",
+      "Manejo de poblaciones de depredadores introducidos en áreas clave.",
+      "Programas de manejo sostenible de tierras."
+    ],
+    "descripcionConservacion": [
+      "El Emú es resiliente y mantiene poblaciones saludables gracias a su amplia distribución por casi todo el continente australiano. Su estatus de Preocupación Menor se debe a su capacidad de adaptación a distintos ambientes.",
+      "Históricamente, el Emú fue objeto de un conflicto conocido como la 'Guerra del Emú' en Australia Occidental en 1932."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "30-45 kg",
+      "hembraAdulta": "30-40 kg",
+      "maximoRegistrado": "60 kg"
+    },
+    "alturaHombro": {
+      "macho": "150 cm (hasta 190 cm de altura total)",
+      "hembra": "145 cm (hasta 185 cm de altura total)"
+    },
+    "longitudCuerpoCola": {
+      "macho": "1.5-1.9 m",
+      "hembra": "1.5-1.8 m"
+    },
+    "colorPelaje": "Marrón grisáceo, ralo y suelto, que les ayuda a mimetizarse con el entorno árido.",
+    "caracteristicasEspeciales": "Patas largas con solo tres dedos (adaptación a la velocidad); Piel de la cabeza y cuello azul pálido (visible durante el cortejo); Alas vestigiales utilizadas para el equilibrio al correr.",
+    "morfologia": [
+      "Patas largas y poderosas con solo tres dedos, adaptadas para carreras rápidas y para patear fuertemente en defensa.",
+      "Alas vestigiales y reducidas (unos 20 cm) utilizadas para mantener el equilibrio al correr y durante las exhibiciones de cortejo.",
+      "Cuello largo con una estructura esquelética robusta."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques abiertos, sabanas, pastizales, zonas semiáridas y desérticas",
+    "distribucionGeografica": [
+      "Australia continental (presente en casi todas las regiones, excepto en zonas muy densamente pobladas o selvas tropicales densas)."
+    ],
+    "adaptacionesHabitat": "Metabolismo eficiente para sobrevivir en la aridez. Capacidad de termorregulación mediante la respiración y el uso de la sombra.",
+    "descripcionHabitat": [
+      "Prefiere áreas de pastoreo abiertas con una fuente de agua cercana. Su distribución está muy ligada a las precipitaciones anuales.",
+      "Es un ave migratoria parcial, moviéndose miles de kilómetros en respuesta a la disponibilidad de comida tras las lluvias."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Omnívoro (Generalista Forrajero)",
+    "presasComunes": [
+      "Frutos, semillas y brotes (dieta principal)",
+      "Grasas y larvas de insectos",
+      "Pequeños roedores y reptiles (ocasionalmente)"
+    ],
+    "estrategiaCaza": "Forrajeo terrestre diurno. Ingieren piedras (gastrolitos) que ayudan a triturar el alimento en la molleja.",
+    "descripcionDieta": [
+      "La dieta varía estacionalmente. Actúan como importantes dispersores de semillas en todo el continente.",
+      "Necesitan consumir grandes cantidades de agua diariamente, buscando activamente fuentes de agua dulce."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Generalmente solitario o en grupos familiares pequeños. Pueden formar grandes congregaciones cerca de fuentes de agua o alimento.",
+    "rolMacho": "Responsabilidad total de la **incubación** y del **cuidado parental** de los polluelos durante 5-18 meses.",
+    "rolHembra": "Pone los huevos y abandona el nido. A menudo se aparean con múltiples machos (poliandria secuencial).",
+    "actividadDiaria": "Diurna; más activo durante las horas frescas de la mañana y la tarde.",
+    "comunicacion": [
+      "Graznidos y sonidos graves y profundos (emitidos por la hembra, resonando en un saco gular).",
+      "Silbidos (emitidos por el macho).",
+      "Movimientos corporales de las alas vestigiales durante el cortejo."
+    ],
+    "descripcionComportamiento": [
+      "El macho, mientras incuba, se vuelve extremadamente territorial y protector. Los polluelos siguen al macho inmediatamente después de eclosionar.",
+      "Son curiosos y sociables, pero se mantienen cautelosos con los humanos."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo (Inversión de Roles Sexuales)",
+    "madurezSexual": {
+      "macho": "2-3 años",
+      "hembra": "2-3 años"
+    },
+    "periodoGestacion": "Incubación de los huevos: 56 días (8 semanas).",
+    "tamanoCamada": "5-15 huevos (los huevos son grandes, de color verde oscuro, y la hembra puede poner más en varios nidos).",
+    "cuidadoCrias": "El macho cuida a las crías, les enseña a buscar alimento y las protege de los depredadores durante 5 a 18 meses.",
+    "descripcionReproduccion": [
+      "El macho construye el nido a ras de suelo con hojas y hierbas. Una vez puestos, el macho no abandona el nido, perdiendo hasta un tercio de su peso corporal.",
+      "La hembra es poliándrica y puede poner huevos en varios nidos durante una temporada.",
+      "Los polluelos nacen con rayas distintivas que les ayudan a camuflarse."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Actúa como un importante dispersor de semillas, ayudando a la regeneración de la vegetación en vastas zonas del continente australiano.",
+    "Su forrajeo y movimiento influyen en la estructura de la vegetación, similar a los grandes mamíferos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 3,
+    "inteligencia": 4,
+    "adaptabilidad": 7,
+    "fuerza": 6,
+    "velocidad": 9,
+    "tamano": 6,
+    "majestuosidad": 5,
+    "rareza": 5,
+    "supervivencia": 7,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "El macho es el único responsable de la incubación de los huevos y el cuidado de las crías, sin ayuda de la hembra (inversión de roles).",
+    "El color distintivo de los huevos es un verde muy oscuro, casi negro, ideal para camuflarse en el suelo.",
+    "Sus grandes patas tienen solo tres dedos, una adaptación evolutiva para la velocidad y la carrera.",
+    "El Emú fue el protagonista de un conflicto militar en 1932, conocido irónicamente como la 'Gran Guerra del Emú', donde el ejército australiano fue enviado para controlar una población excesiva de emúes."
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "rinoceronte_negro",
+  "nombre": "Rinoceronte Negro",
+  "nombreCientifico": "Diceros bicornis",
+  "fechaInformacion": "2025",
+
+  "imagen": "rinoceronte_negro.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El rinoceronte negro (*Diceros bicornis*) es una especie crítica, más pequeña y menos social que el rinoceronte blanco, conocida por su carácter reservado y territorial. ",
+    "Su principal rasgo distintivo es su **labio superior prensil y puntiagudo**, adaptado perfectamente para arrancar hojas y ramas de arbustos (ramoneo)."
+  ],
+
+  "descripcionLarga": [
+    "El rinoceronte negro es originario de África oriental y meridional, habitando matorrales densos, sabanas y bosques secos. Aunque se le llama 'negro', su piel suele ser gris oscura o marrón, y el nombre se utiliza para diferenciarlo del rinoceronte blanco.",
+    "A diferencia del blanco, que es un animal de pastoreo, el rinoceronte negro es un ramoneador. Utiliza su labio superior prensil como un 'dedo' para agarrar y llevar a su boca hojas y ramas. Es un animal solitario y territorial, lo que lo hace más difícil de observar en la naturaleza.",
+    "Lamentablemente, ha sido la especie de rinoceronte más devastada por la caza furtiva. Aunque las poblaciones se han recuperado lentamente gracias a los esfuerzos de conservación, sigue clasificado como **En Peligro Crítico (CR)** en algunas de sus subespecies."
+  ],
+
+  "observaciones": [
+    "Son conocidos por su temperamento más impredecible y agresivo que los rinocerontes blancos. A menudo cargan al sentirse amenazados, aunque su visión es pobre.",
+    "Utilizan un sistema de comunicación complejo a través de montículos de estiércol y orina para marcar territorio.",
+    "El cuerno de rinoceronte se comercializa ilegalmente en mercados asiáticos, lo que impulsa la caza furtiva."
+  ],
+
+  "longevidad": {
+    "enLibertad": "35-50 años",
+    "enCautividad": "40-50 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia (Mamíferos)",
+    "orden": "Perissodactyla",
+    "familia": "Rhinocerotidae",
+    "genero": "Diceros",
+    "especie": "D. bicornis (incluye subespecies como *michaeli*, *minor*, etc.)"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro Crítico (CR) / En Peligro (EN)",
+    "tendenciaPoblacion": "Creciendo lentamente (aunque la población total sigue siendo muy baja y la caza furtiva es una amenaza constante).",
+    "amenazasPrincipales": [
+      "Caza furtiva intensiva por sus cuernos (principal amenaza).",
+      "Pérdida de hábitat y fragmentación de poblaciones.",
+      "Vulnerabilidad debido a su baja densidad poblacional."
+    ],
+    "esfuerzosConservacion": [
+      "Patrullas intensivas anti-caza furtiva y seguridad armada en reservas.",
+      "Programas de reintroducción y translocación de individuos a áreas seguras y vigiladas.",
+      "Manejo de poblaciones en pequeños grupos para maximizar el crecimiento reproductivo."
+    ],
+    "descripcionConservacion": [
+      "La población ha aumentado desde su mínimo histórico, pero sigue siendo extremadamente vulnerable y depende de la protección continua. La subespecie occidental (*D. b. longipes*) fue declarada extinta en 2011."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "800-1400 kg",
+      "hembraAdulta": "700-1300 kg",
+      "maximoRegistrado": "2300 kg"
+    },
+    "alturaHombro": {
+      "macho": "140-180 cm",
+      "hembra": "140-170 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "3-3.75 m",
+      "hembra": "3-3.5 m"
+    },
+    "colorPelaje": "Gris oscuro, a menudo cubierto de barro o polvo del color del suelo.",
+    "caracteristicasEspeciales": "Labio superior prensil y puntiagudo; Dos cuernos (uno más largo que el otro); Cuerpo más pequeño y cabeza menos prominente que el rinoceronte blanco.",
+    "morfologia": [
+      "Cuerpo robusto pero más pequeño y más ágil que el rinoceronte blanco. Ausencia de joroba cervical.",
+      "**Labio superior puntiagudo y móvil** que se utiliza como un dedo para agarrar ramas y hojas, diferenciándolo claramente del labio ancho del rinoceronte blanco. ",
+      "Los cuernos están hechos de queratina y pueden ser muy largos en ejemplares no afectados por la caza furtiva."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Matorrales densos, sabanas arbustivas, bosques secos y áreas de vegetación mixta.",
+    "distribucionGeografica": [
+      "Fragmentado en el este y sur de África (Kenia, Tanzania, Sudáfrica, Zimbabue, Namibia)."
+    ],
+    "adaptacionesHabitat": "Capacidad de camuflarse en la densa vegetación para evadir el calor y depredadores. Puede sobrevivir sin agua durante varios días.",
+    "descripcionHabitat": [
+      "Prefiere hábitats con abundante vegetación leñosa (arbustos y árboles) para ramonear y esconderse, lo que lo diferencia del hábitat de pastizales abiertos del rinoceronte blanco.",
+      "Es más activo al amanecer y al atardecer, y por la noche, buscando refugio durante el calor del día."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro (Ramoneador/Folívoro)",
+    "presasComunes": [
+      "Hojas y brotes de árboles y arbustos.",
+      "Ramas leñosas pequeñas.",
+      "Frutas y bayas (ocasionalmente)."
+    ],
+    "estrategiaCaza": "N/A (Ramoneo).",
+    "descripcionDieta": [
+      "El rinoceronte negro es selectivo con su dieta, utilizando su labio prensil para arrancar el follaje que desea, evitando tallos gruesos.",
+      "Su dieta se compone principalmente de material leñoso, no de hierba."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Principalmente solitario, excepto las hembras con sus crías.",
+    "rolMacho": "Muy territorial; marca su área y combate activamente a otros machos. Busca hembras en celo en su territorio.",
+    "rolHembra": "Cuida a la cría por un período largo, permaneciendo en su área de vida.",
+    "actividadDiaria": "Activo al atardecer y amanecer (crepuscular). El patrón puede cambiar a nocturno en áreas de alta presión de caza.",
+    "comunicacion": [
+      "Vocalizaciones graves, soplidos y resoplidos de alarma.",
+      "Marcaje de territorio mediante el olfateo e interrupción de montículos de estiércol y el rociado de orina."
+    ],
+    "descripcionComportamiento": [
+      "Es conocido por cargar sin aviso al sentirse amenazado o sorprendido. Su mala vista contribuye a sus cargas, a menudo hacia cualquier ruido o movimiento.",
+      "El marcaje de territorio es vital para el aislamiento social."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo",
+    "madurezSexual": {
+      "macho": "7-10 años",
+      "hembra": "5-7 años"
+    },
+    "periodoGestacion": "15-16 meses (gestación prolongada).",
+    "tamanoCamada": "1 cría.",
+    "cuidadoCrias": "La cría permanece con la madre hasta 2-3 años, periodo durante el cual la hembra no se reproduce. El intervalo entre partos es de 3-4 años.",
+    "descripcionReproduccion": [
+      "Su baja tasa reproductiva es un factor limitante en la recuperación de la población tras la caza furtiva.",
+      "Las crías siguen a la madre de cerca y se alimentan de la misma vegetación que ella."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Moldeador de hábitat: su ramoneo selectivo controla el crecimiento de arbustos, manteniendo la diversidad de hábitats y previniendo la desertificación por matorrales.",
+    "Es una especie paraguas; proteger al rinoceronte negro implica proteger grandes áreas de matorral y sabana, beneficiando a muchas otras especies."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 8,
+    "inteligencia": 5,
+    "adaptabilidad": 6,
+    "fuerza": 9,
+    "velocidad": 4,
+    "tamano": 9,
+    "majestuosidad": 8,
+    "rareza": 7,
+    "supervivencia": 5,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "La principal diferencia con el rinoceronte blanco es el labio: puntiagudo en el negro (para ramonear) y ancho en el blanco (para pastar).",
+    "A pesar de su peso, puede alcanzar los 55 km/h en distancias cortas.",
+    "Su mal genio y tendencia a cargar sin provocación se deben en parte a su visión deficiente."
+  ]
+}

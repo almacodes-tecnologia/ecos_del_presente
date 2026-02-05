@@ -1,0 +1,125 @@
+{
+  "id": "rosa",
+  "nombre": "Rosa (Rosa Gallica)",
+  "nombreCientifico": "Rosa gallica (o género Rosa)",
+  "fechaInformacion": "2025",
+  "imagen": "rosa.webp",
+  "introduccionPlanta": [
+    "La Rosa, el 'Rey de las Flores', es un arbusto o trepadora de la familia Rosaceae, mundialmente celebrada como el símbolo universal de la belleza, el amor y la pasión.",
+    "Existen miles de variedades e híbridos cultivados, famosos por su diversidad de formas, colores y, sobre todo, su fragancia exquisita."
+  ],
+  "descripcionLarga": [
+    "La rosa (género Rosa) es un arbusto o trepadora de la familia Rosaceae, famosa mundialmente por la belleza y fragancia de sus flores. Con miles de variedades cultivadas, es un símbolo universal de amor y belleza, y se ha adaptado a una vasta gama de climas templados y subtropicales. Sus tallos suelen ser espinosos, y sus hojas compuestas presentan un verde vibrante que contrasta con la diversidad cromática de sus pétalos.",
+    "Requiere pleno sol y suelos bien drenados para prosperar, y su cultivo implica técnicas específicas de riego, poda y fertilización. Aunque es susceptible a plagas y enfermedades comunes, las nuevas variedades a menudo presentan mayor resistencia. Más allá de su valor ornamental, la rosa tiene una rica historia de usos culinarios (mermeladas, agua de rosas), medicinales (antiinflamatorio, antioxidante) e industriales, siendo un componente clave en la perfumería y cosmética.",
+    "Su reproducción se realiza tanto por semillas como por métodos asexuales como esquejes e injertos, y su polinización es mayormente entomófila. A pesar de su omnipresencia en jardines, las especies silvestres enfrentan desafíos de conservación. La rosa no solo embellece nuestro entorno, sino que también ha inspirado innumerables obras de arte y literatura a lo largo de la historia."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Rosales",
+    "familia": "Rosaceae",
+    "genero": "Rosa",
+    "especie": "R. gallica (especie tipo para referencia)"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable (en cultivo; las poblaciones silvestres varían).",
+    "amenazasPrincipales": [
+      "Pérdida de hábitat natural (para especies silvestres).",
+      "Enfermedades y plagas fúngicas (mancha negra, oídio) en cultivo intensivo.",
+      "Vulnerabilidad de variedades antiguas."
+    ],
+    "esfuerzosConservacion": [
+      "Bancos de germoplasma para variedades antiguas y especies silvestres.",
+      "Programas de mejora genética para resistencia a enfermedades.",
+      "Jardines botánicos y colecciones de rosas para preservar la diversidad."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Arbusto caducifolio o semipersistente (rojo o rosal).",
+    "alturaPromedio": "0.5 - 2 m (1.6 - 6.5 ft).",
+    "colorFollaje": "Verde oscuro, a menudo brillante.",
+    "tipoRaiz": "Fasciculada, profunda y fuerte.",
+    "tallos": "Erectos o trepadores, generalmente espinosos (con aguijones).",
+    "hojas": "Compuestas, imparipinnadas, con 5 a 9 folíolos dentados.",
+    "flores": {
+      "forma": "Variada (simple, semidoble, doble, cuarteada, roseta). Formada por numerosos pétalos.",
+      "colores": "Amplia gama (rojo, rosa, blanco, amarillo, naranja, púrpura, bicolores).",
+      "fragancia": "Muy variable, desde muy fragante a inodora. Notas de miel, clavo, frutas, mirra, té.",
+      "tamano": "2 - 15 cm (0.8 - 6 in) de diámetro."
+    },
+    "frutos": "Cinorrodon (falso fruto), de color rojo o naranja, contiene las semillas y es rico en Vitamina C."
+  },
+  "habitat": {
+    "tipo": "Originaria de zonas templadas y subtropicales del hemisferio norte.",
+    "distribucionGeografica": [
+      "Europa, Asia (especialmente China) y Norteamérica (distribución natural).",
+      "Cultivada globalmente en jardines y viveros."
+    ],
+    "preferenciasSuelo": "Suelos bien drenados, ricos en materia orgánica, con pH ligeramente ácido a neutro (6.0-7.0).",
+    "preferenciasLuz": "Pleno sol (mínimo 6 horas diarias) para una floración óptima."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Esquejes (método más común para variedades modernas).",
+      "Injertos (para asegurar la base y resistencia).",
+      "Semillas (para especies silvestres o hibridación)."
+    ],
+    "riego": "Regular, especialmente durante periodos secos y de floración. Evitar encharcamientos.",
+    "poda": "Esencial para estimular la floración y mantener la forma. Se realiza en invierno o principios de primavera (poda fuerte).",
+    "fertilizacion": "Necesita nutrientes regulares (fertilizante específico para rosales) durante la temporada de crecimiento y floración.",
+    "plagasComunes": [
+      "Pulgones",
+      "Araña roja",
+      "Orugas (taladro)",
+      "Trips"
+    ],
+    "enfermedadesComunes": [
+      "Oídio (mildiu polvoriento)",
+      "Mancha negra (Diplocarpon rosae)",
+      "Roya"
+    ]
+  },
+  "usos": {
+    "ornamental": "Jardines, parques, flor cortada (principal uso comercial), paisajismo.",
+    "culinario": [
+      "Pétalos (mermeladas, jaleas, jarabes, tés, confitados).",
+      "Agua de rosas (postres, bebidas).",
+      "Cinorrodones (mermeladas, tés, muy ricos en Vitamina C)."
+    ],
+    "medicinal": [
+      "Propiedades antiinflamatorias y antioxidantes.",
+      "Usada en medicina tradicional para problemas digestivos y de piel.",
+      "Aceite esencial (aromaterapia, relajante, antidepresivo)."
+    ],
+    "industrial": [
+      "Perfumería (aceite esencial de rosa - el más valioso).",
+      "Cosmética (agua de rosas, extractos, cremas)."
+    ],
+    "simbolismo": "Amor, belleza, pasión, pureza, amistad, secreto (dependiendo del color y etapa)."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (esquejes, injertos).",
+    "polinizacion": "Principalmente entomófila (por insectos, abejas, mariposas), algunas variedades son autopolinizadoras.",
+    "momentoFloracion": "Primavera a otoño (según variedad).",
+    "cicloVida": "Perenne, de larga vida."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 2,
+    "vitalidad": 4,
+    "resistencia": 3,
+    "impactoEcologico": 3,
+    "misticismo": 4,
+    "fraganciaMagica": 5,
+    "espinasDefensivas": 3
+  },
+  "curiosidades": [
+    "Existen más de 30.000 variedades cultivadas de rosas.",
+    "La rosa es la flor nacional de Inglaterra y Estados Unidos.",
+    "El aceite esencial de rosa (Rosa damascena) es uno de los más caros del mundo, ya que se necesitan miles de pétalos para producir una pequeña cantidad.",
+    "Los cinorrodones (frutos de la rosa) son comestibles y muy ricos en vitamina C.",
+    "La rosa más antigua conocida se cree que tiene 1.000 años y crece en el muro de la Catedral de Hildesheim en Alemania."
+  ]
+}

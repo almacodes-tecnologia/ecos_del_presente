@@ -1,0 +1,43 @@
+{
+  "id": "ramaria_botrytis",
+  "nombre": "Coliflor rosa",
+  "nombreCientifico": "Ramaria botrytis",
+  "familia": "Gomphaceae",
+  "imagen": "ramaria_botrytis.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "La Ramaria botrytis es un hongo basidiomiceto de morfología coraloide y grandes dimensiones. Su estructura recuerda a las formaciones de los arrecifes coralinos, caracterizándose por una base muy masiva de la que emergen múltiples ramificaciones densas cuyas terminaciones presentan una pigmentación rosada o purpúrea característica.",
+
+  "caracteristicas": {
+    "sombrero": "Ausente. El cuerpo fructífero es una estructura ramificada y compacta que puede alcanzar los 20 cm de diámetro, con una organización similar a la de una coliflor.",
+    "laminas": "Ausentes. El himenio (tejido fértil) se encuentra distribuido de forma lisa por toda la superficie de las ramas externas.",
+    "pie": "Tronco basal muy grueso, carnoso, corto y blanquecino. De esta base robusta nacen los ejes principales que se subdividen en ramas cada vez más finas.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Ocre amarillenta.",
+    "usoCultural": "Especie de gran valor estético y biológico en los catálogos micológicos europeos, utilizada frecuentemente como modelo para la clasificación de hongos del orden Gomphales debido a su peculiar arquitectura."
+  },
+
+  "habitat": {
+    "tipo": "Suelos forestales con abundante materia orgánica, principalmente bajo hayas (Fagus) y robles (Quercus).",
+    "relacionEcologica": "Micorrícico estricto; establece asociaciones simbióticas con las raíces de árboles frondosos, prefiriendo suelos frescos y con alta capacidad de retención de humedad.",
+    "distribucionGeografica": ["Regiones templadas del Hemisferio Norte, incluyendo Europa, Asia y América del Norte."],
+    "temporada": "Finales del periodo estival y durante el otoño.",
+    "altitudRango": "Localizada preferentemente en áreas de montaña media con alta pluviosidad."
+  },
+
+  "curiosidades": [
+    "La pigmentación rosada de los ápices es un carácter transitorio; a medida que las esporas maduran, los tonos purpúreos se desvanecen hacia una coloración ocre uniforme.",
+    "Su estructura interna es blanca y de consistencia firme, una adaptación que le permite soportar el peso de sus múltiples ramificaciones sin colapsar.",
+    "Dentro de los hongos coraloides, esta especie destaca por la densidad de sus puntas, que aparecen de forma agrupada y apretada en la parte superior del cuerpo fructífero.",
+    "El análisis de sus esporas muestra una ornamentación estriada, lo que constituye un rasgo microscópico fundamental para diferenciarla de otras especies de morfología similar."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 9,
+    "rareza": 7,
+    "simbolismo": 6,
+    "resistencia": 5,
+    "velocidadDeCrecimiento": 7,
+    "aura": 8
+  }
+}

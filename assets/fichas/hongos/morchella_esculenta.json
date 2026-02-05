@@ -1,0 +1,42 @@
+{
+  "id": "morchella_esculenta",
+  "nombre": "Morchella esculenta",
+  "nombreCientifico": "Morchella esculenta",
+  "familia": "Morchellaceae",
+  "imagen": "morchella_esculenta.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "La Morchella esculenta es un hongo ascomiceto altamente valorado por su aspecto reticulado que recuerda a un panal de abejas o una esponja. Es una de las setas más apreciadas en la alta cocina mundial debido a su textura delicada y su sabor complejo que evoca notas de frutos secos y tierra húmeda.",
+
+  "caracteristicas": {
+    "sombrero": "5-10 cm de altura, de forma ovoide o redondeada. Presenta una estructura de cavidades o alvéolos profundos e irregulares (parecido a un panal), de color amarillento, crema o pardo pálido.",
+    "laminas": "No posee. El himenio recubre el interior de las cavidades del sombrero.",
+    "pie": "Blanquecino o crema, cilíndrico, algo engrosado en la base y totalmente hueco, al igual que el sombrero.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Crema o amarillento pálido.",
+    "usoCultural": "Es una joya gastronómica. Sin embargo, es tóxica en crudo; contiene hemolisinas termolábiles que requieren una cocción prolongada o un proceso de secado previo para ser eliminadas.",
+  },
+
+  "habitat": {
+    "tipo": "Bosques de ribera, bajo fresnos, olmos y chopos, así como en zonas de huerta, terrenos quemados o suelos removidos.",
+    "relacionEcologica": "Presenta un comportamiento complejo: puede actuar como saprófita (descomponiendo materia) o formar micorrizas facultativas con ciertas raíces.",
+    "distribucionGeografica": ["Zonas templadas del Hemisferio Norte (Europa, Asia, América del Norte)."],
+    "temporada": "Exclusiva de primavera (marzo a mayo en el hemisferio norte).",
+    "altitudRango": "Desde valles fluviales hasta zonas de montaña baja."
+  },
+
+  "curiosidades": [
+    "Es una seta 'fantasma': puede aparecer masivamente un año en un lugar específico y no volver a brotar en el mismo sitio durante una década.",
+    "A diferencia de la mayoría de setas populares que salen en otoño, la colmenilla es el gran trofeo de los buscadores de primavera.",
+    "Toda la seta es hueca por dentro, desde la punta del sombrero hasta la base del pie, lo que permite rellenarlas en preparaciones culinarias."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 9,
+    "rareza": 9,
+    "simbolismo": 8,
+    "resistencia": 4,
+    "velocidadDeCrecimiento": 7,
+    "aura": 8
+  }
+}

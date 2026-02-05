@@ -1,0 +1,43 @@
+{
+  "id": "cortinarius_orellanus",
+  "nombre": "Cortinario de montaña",
+  "nombreCientifico": "Cortinarius orellanus",
+  "familia": "Cortinariaceae",
+  "imagen": "cortinarius_orellanus.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Cortinarius orellanus es un hongo basidiomiceto de letalidad extrema debido a la síntesis de orellanina, una nefrotoxina persistente. Su morfología se define por tonalidades cromáticas leonadas y la presencia de una cortina filamentosa en estadios inmaduros, rasgo taxonómico que da nombre a su género.",
+
+  "caracteristicas": {
+    "sombrero": "3-8 cm de diámetro. Presenta una forma que evoluciona de convexa a plana, frecuentemente con un mamelón central obtuso. La superficie es seca y de textura aterciopelada o sutilmente escamosa, con una coloración que oscila entre el naranja rojizo y el pardo leonado.",
+    "laminas": "Dispuestas de forma separada, son gruesas y presentan una coloración canela o naranja vivo en ejemplares jóvenes, tornándose marrón ferruginoso tras la maduración de las esporas.",
+    "pie": "Cilíndrico y sólido, generalmente atenuado en la zona basal. Su coloración es amarillenta y muestra fibrillas longitudinales de color naranja rojizo.",
+    "anillo": "Ausente. En su lugar, posee una cortina (velo parcial compuesto por filamentos similares a una telaraña) que puede dejar restos fugaces en el pie tras la expansión del sombrero.",
+    "volva": "Ausente.",
+    "esporada": "Marrón óxido o ferruginosa.",
+    "usoCultural": "Especie de referencia crítica en la toxicología clínica europea. Su estudio científico permitió identificar la orellanina y comprender los mecanismos de la insuficiencia renal retardada de origen fúngico."
+  },
+
+  "habitat": {
+    "tipo": "Bosques de frondosas, con especial afinidad por los géneros Quercus (robles), Fagus (hayas) y Castanea (castaños).",
+    "relacionEcologica": "Micorrícico estricto; forma asociaciones simbióticas con árboles de hoja ancha, preferentemente en suelos de naturaleza ácida y silícea.",
+    "distribucionGeografica": ["Distribuido principalmente por Europa, con mayor frecuencia en las regiones del centro y sur del continente, y áreas localizadas de Asia."],
+    "temporada": "Finales del periodo estival y durante todo el otoño.",
+    "altitudRango": "Habitante predominante de áreas boscosas de montaña baja y media."
+  },
+
+  "curiosidades": [
+    "Posee un periodo de latencia extremadamente prolongado: los efectos de la toxicidad renal pueden no manifestarse hasta transcurridos entre 2 y 20 días tras la exposición a sus toxinas.",
+    "La orellanina es una molécula termoestable; su estructura química no se degrada bajo condiciones de congelación, desecación o exposición a altas temperaturas.",
+    "A diferencia de otros géneros, su identificación requiere una observación minuciosa de los restos de la cortina y el color de la esporada para evitar diagnósticos erróneos en el campo.",
+    "La especie fue objeto de una intensa investigación científica en la década de 1950, tras documentarse incidentes de toxicidad colectiva que revelaron su verdadera peligrosidad biológica."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 5,
+    "rareza": 7,
+    "simbolismo": 8,
+    "resistencia": 5,
+    "velocidadDeCrecimiento": 6,
+    "aura": 10
+  }
+}

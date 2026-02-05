@@ -1,0 +1,42 @@
+{
+  "id": "amanita_muscaria",
+  "nombre": "Amanita muscaria",
+  "nombreCientifico": "Amanita muscaria",
+  "familia": "Amanitaceae",
+  "imagen": "amanita_muscaria.webp",
+  "fechaInformacion": "2025",
+  "descripcionGeneral": "La Amanita muscaria, comúnmente conocida como matamoscas, es un hongo basidiomiceto nativo de las regiones templadas y boreales del Hemisferio Norte. Es famoso por su llamativo sombrero rojo con puntos blancos y es un importante componente del ecosistema forestal.",
+
+  "caracteristicas": {
+    "sombrero": "6-20 cm de diámetro, de color rojo brillante o anaranjado, cubierto con verrugas blancas o amarillentas que son restos de la volva universal.",
+    "laminas": "Densas, blancas, libres del tallo.",
+    "pie": "Blanco, cilíndrico, que se ensancha en una base bulbosa.",
+    "anillo": "Presente, membranoso, de color blanco o amarillento, situado en la parte superior del pie.",
+    "volva": "No es una volva envolvente, sino fragmentada en anillos y verrugas alrededor del bulbo y en la superficie del sombrero.",
+    "esporada": "Blanca",
+    "usoCultural": "El hongo más reconocido en la cultura popular, a menudo representado en cuentos de hadas. Históricamente se mezcló con leche para atraer y eliminar moscas."
+  },
+
+  "habitat": {
+    "tipo": "Bosques de coníferas y frondosas",
+    "relacionEcologica": "Forma relaciones micorrícicas (simbióticas) con árboles como pinos, abetos, abedules y robles, ayudando a la absorción de nutrientes.",
+    "distribucionGeografica": ["Hemisferio Norte (Europa, Asia, América del Norte)"],
+    "temporada": "Finales de verano y otoño",
+    "altitudRango": "Común desde el nivel del mar hasta zonas montañosas."
+  },
+
+  "curiosidades": [
+    "Es el hongo más reconocido y utilizado en la cultura popular, a menudo representado en cuentos de hadas y videojuegos.",
+    "Su nombre 'matamoscas' se debe a su antiguo uso como insecticida, mezclado con leche.",
+    "El hongo contiene ácido iboténico y muscimol, que han sido utilizados en prácticas religiosas y chamánicas en diversas culturas siberianas."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 8,
+    "rareza": 4,
+    "simbolismo": 10,
+    "resistencia": 6,
+    "velocidadDeCrecimiento": 8,
+    "aura": 10
+  }
+}

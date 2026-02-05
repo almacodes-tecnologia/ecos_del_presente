@@ -1,0 +1,162 @@
+{
+  "id": "libelula_tigre",
+  "nombre": "Libélula Tigre",
+  "nombreCientifico": "Gomphus vulgatissimus",
+  "fechaInformacion": "2025",
+
+  "imagen": "libelula_tigre.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La libélula tigre (*Gomphus vulgatissimus*) es una especie de odonato perteneciente a la familia Gomphidae, conocida por sus llamativas franjas amarillas y negras.",
+    "Habita principalmente ríos y arroyos limpios con corriente moderada en Europa y es un voraz depredador de insectos tanto en su fase adulta como larvaria."
+  ],
+
+  "descripcionLarga": [
+    "La libélula tigre es un insecto de tamaño mediano a grande, con cuerpo alargado y abdomen marcado con franjas negras y amarillas que recuerdan al patrón de un tigre, proporcionando un excelente camuflaje entre la vegetación ribereña.",
+    "Es un depredador aéreo extremadamente eficiente, utilizando su vuelo rápido y sus patas 'en cesta' para atrapar otros insectos. Su vida se divide en dos fases muy distintas: acuática (larva o ninfa) y aérea (adulto).",
+    "Su ciclo de vida es largo; la etapa larvaria puede durar de 3 a 5 años bajo el agua, un factor que la hace muy sensible a la contaminación y la degradación del hábitat fluvial."
+  ],
+
+  "observaciones": [
+    "Prefiere aguas limpias, bien oxigenadas y sin contaminación, siendo un valioso indicador ecológico de la salud de los ríos.",
+    "El adulto suele posarse en la vegetación baja o en el suelo cerca del agua, a diferencia de otras libélulas que prefieren perchas altas.",
+    "Las larvas son depredadores excavadores, pasando la mayor parte de su tiempo enterradas en el sedimento."
+  ],
+
+  "longevidad": {
+    "enLibertad": "3-5 años (la mayor parte en fase larvaria); la fase adulta dura solo unas semanas o meses.",
+    "enCautividad": null
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Arthropoda",
+    "clase": "Insecta",
+    "orden": "Odonata",
+    "familia": "Gomphidae",
+    "genero": "Gomphus",
+    "especie": "G. vulgatissimus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable (aunque localmente amenazada)",
+    "amenazasPrincipales": [
+      "Contaminación química y orgánica de ríos y arroyos (afecta directamente a las larvas).",
+      "Alteración del cauce y canalización de ríos (elimina el hábitat larvario).",
+      "Destrucción de la vegetación ribereña y áreas de emergencia.",
+      "Cambio climático afectando caudales de agua y temperatura."
+    ],
+    "esfuerzosConservacion": [
+      "Protección y restauración de riberas y cursos fluviales (programas de renaturalización).",
+      "Control de la contaminación y vertidos industriales y agrícolas.",
+      "Seguimiento de poblaciones a largo plazo en Europa (bioindicadores)."
+    ],
+    "descripcionConservacion": [
+      "Aunque globalmente es Preocupación Menor, su dependencia de aguas prístinas significa que la libélula tigre es vulnerable a la contaminación localizada. La conservación debe centrarse en mantener la alta calidad ecológica de los hábitats fluviales."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "Aproximadamente 0.5–1 g",
+      "hembraAdulta": "Aproximadamente 0.5–1 g",
+      "maximoRegistrado": "1 g"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "45–50 mm (longitud total)",
+      "hembra": "45–50 mm (longitud total)"
+    },
+    "colorPelaje": "No aplica; coloración negra y amarilla.",
+    "caracteristicasEspeciales": "Patrón de franjas negras y amarillas; Larvas excavadoras; Ojos compuestos separados (característico de la familia Gomphidae); Vuelo potente y rápido.",
+    "morfologia": [
+      "Cuerpo alargado y delgado con un abdomen estrecho y fuertemente marcado con patrones negros y amarillos.",
+      "Dos pares de alas membranosas y transparentes con venación compleja. Las alas no se pliegan sobre el cuerpo.",
+      "Ojos compuestos grandes y separados, adaptados para la caza aérea con visión de 360 grados.",
+      "Piernas cortas y fuertes, adaptadas para atrapar presas durante el vuelo."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Ríos y arroyos de curso bajo y medio, lagos de aguas lentas, con sustrato limoso o arenoso.",
+    "distribucionGeografica": [
+      "Europa Central, Europa Occidental (incluida Gran Bretaña y la Península Ibérica en partes), Partes de Europa Oriental."
+    ],
+    "adaptacionesHabitat": "Larvas adaptadas a enterrarse en sustratos limosos y tolerar corrientes moderadas; los adultos requieren vegetación ribereña para posarse y aparearse.",
+    "descripcionHabitat": [
+      "Prefiere ríos limpios y bien oxigenados con zonas de corriente moderada y zonas de sedimentación. La presencia de arcilla o arena es vital para que las larvas puedan excavar y esconderse.",
+      "La emergencia del adulto ocurre cerca del agua, usualmente en la vegetación emergente."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro insectívoro (depredador en todas las fases)",
+    "presasComunes": [
+      "Mosquitos, moscas y otros dípteros (adultos).",
+      "Pequeños insectos acuáticos, larvas de otros insectos, gusanos (larvas)."
+    ],
+    "estrategiaCaza": "Adultos: Caza por persecución aérea. Larvas: Acecho y emboscada (enterradas, utilizan una 'máscara' labial extensible para capturar presas).",
+    "descripcionDieta": [
+      "Ambas fases de su vida son depredadoras. El adulto es importante para el control de plagas voladoras.",
+      "La larva consume invertebrados acuáticos, siendo un eslabón importante en la red trófica fluvial."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario, excepto durante el apareamiento.",
+    "rolMacho": "Defiende pequeños territorios aéreos sobre el río, buscando hembras que pasen.",
+    "rolHembra": "Pone huevos en el agua (oviposición), a menudo mediante vuelos rápidos sobre la superficie o tocando la vegetación sumergida.",
+    "actividadDiaria": "Diurno; más activo durante las horas soleadas y cálidas de la mañana y la tarde.",
+    "comunicacion": [
+      "Señales visuales mediante vuelo y exhibiciones de coloración para el cortejo y las disputas territoriales."
+    ],
+    "descripcionComportamiento": [
+      "La cópula se realiza en el aire, formando la característica 'rueda' odonata, y a menudo terminan posándose en la vegetación.",
+      "La larva es muy poco móvil mientras está enterrada, moviéndose activamente solo para cazar o evitar peligros."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovípara",
+    "madurezSexual": {
+      "macho": "2-5 años (al alcanzar la fase adulta, lo cual toma años en el agua)",
+      "hembra": "2-5 años (al alcanzar la fase adulta)"
+    },
+    "periodoGestacion": "No aplica; incubación de huevos en agua unos 3-4 semanas.",
+    "tamanoCamada": "50–200 huevos por puesta.",
+    "cuidadoCrias": "No hay cuidado parental; las larvas son independientes desde la eclosión y pasan por múltiples mudas en el agua.",
+    "descripcionReproduccion": [
+      "La hembra deposita los huevos en el agua o cerca del sustrato. Tras la eclosión, la larva (ninfa) comienza su prolongada vida acuática.",
+      "La emergencia (metamorfosis a adulto) ocurre en la primavera, subiendo la larva a la vegetación ribereña o a una piedra."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Regula poblaciones de insectos acuáticos y voladores (incluidos mosquitos), contribuyendo al equilibrio del ecosistema fluvial.",
+    "Sirve como bioindicador de la calidad del agua, ya que su presencia y abundancia están ligadas a ecosistemas fluviales saludables y sin contaminar."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 4,
+    "adaptabilidad": 7,
+    "fuerza": 2,
+    "velocidad": 8,
+    "tamano": 1,
+    "majestuosidad": 5,
+    "rareza": 6,
+    "supervivencia": 7,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Su nombre 'tigre' proviene del patrón de franjas negras y amarillas de su abdomen, un ejemplo de aposematismo (aunque no es tóxica).",
+    "Las larvas viven varios años en el agua (hasta 5 años) antes de emerger como adultos, que solo viven unas pocas semanas.",
+    "Es capaz de cazar en pleno vuelo y atrapar insectos con gran precisión usando sus seis patas como una 'cesta'."
+  ]
+}

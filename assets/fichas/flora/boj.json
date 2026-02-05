@@ -1,0 +1,116 @@
+{
+  "id": "boj",
+  "nombre": "Boj",
+  "nombreCientifico": "Buxus sempervirens",
+  "fechaInformacion": "2025",
+  "imagen": "boj.webp",
+  "introduccionPlanta": [
+    "El Boj es un arbusto perenne de crecimiento lento, famoso por su uso en la jardinería formal y la topiaria, gracias a su denso follaje verde oscuro que acepta cortes precisos.",
+    "A pesar de su longevidad histórica y resistencia, actualmente se enfrenta a graves amenazas fitosanitarias, como la polilla y el hongo del boj."
+  ],
+  "descripcionLarga": [
+    "El **boj** (*Buxus sempervirens*) es un arbusto o pequeño árbol perenne, de crecimiento notablemente lento, valorado por su densa estructura de ramas y su follaje de un verde oscuro brillante. Originario de las regiones del Mediterráneo y el oeste de Asia, el boj se ha convertido en una de las plantas más icónicas de la jardinería formal en todo el mundo, siendo la base de la topiaria y los setos de los jardines históricos.",
+    "Famoso por su resistencia y su longevidad, el boj puede vivir cientos de años, formando un entramado de ramas que permite darle forma. Sus hojas pequeñas, opuestas y ovaladas, tienen un olor característico cuando se aplastan. El boj es una planta monoica, con flores masculinas y femeninas en la misma planta, aunque son discretas y poco vistosas. Su fruto es una pequeña cápsula que libera diminutas semillas negras.",
+    "Aunque el boj ha sido tradicionalmente una planta robusta, hoy en día se enfrenta a dos grandes amenazas que han puesto en jaque su supervivencia en muchos jardines: el hongo del moho de la hoja del boj (*Cylindrocladium buxicola*) y la polilla del boj (*Cydalima perspectalis*). Estos patógenos causan una rápida defoliación y la muerte de la planta, obligando a los jardineros a buscar variedades resistentes. La historia del boj es la historia de la jardinería misma, un arte que ha encontrado en esta planta la base perfecta para expresar la belleza de la geometría y la forma."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Tracheophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Buxales",
+    "familia": "Buxaceae",
+    "genero": "Buxus",
+    "especie": "B. sempervirens"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Decreciente (por plagas y enfermedades).",
+    "amenazasPrincipales": [
+      "El hongo *Cylindrocladium buxicola* (moho de la hoja del boj) es la principal amenaza.",
+      "La plaga de la polilla del boj (*Cydalima perspectalis*) causa una defoliación masiva.",
+      "Pérdida de hábitat y tala para el uso ornamental.",
+      "Incendios forestales."
+    ],
+    "esfuerzosConservacion": [
+      "Investigación sobre especies resistentes a plagas y enfermedades.",
+      "Uso de métodos de control biológico y químico.",
+      "Programas de cuarentena para evitar la propagación de enfermedades."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Arbusto o árbol perenne de crecimiento lento.",
+    "alturaPromedio": "1 - 5 m (3.3 - 16 ft); puede alcanzar los 10 m en condiciones óptimas.",
+    "colorFollaje": "Verde oscuro y brillante en el haz; más pálido en el envés.",
+    "tipoRaiz": "Superficial, fibrosa y muy densa.",
+    "tallos": "Numerosas ramas densas. La corteza es de color pardo grisáceo y fisurada en la madurez.",
+    "hojas": "Pequeñas, opuestas, ovaladas, perennes, con un olor distintivo.",
+    "flores": {
+      "forma": "Inflorescencias pequeñas y discretas, agrupadas en racimos axilares.",
+      "colores": "Verdoso-amarillento.",
+      "fragancia": "Un olor suave y dulce, especialmente durante la floración.",
+      "tamano": "Muy pequeñas, de unos 2-3 mm de diámetro."
+    },
+    "frutos": "Una cápsula pequeña, esférica, que se abre en tres válvulas para liberar las semillas negras y brillantes."
+  },
+  "habitat": {
+    "tipo": "Bosques caducifolios, laderas rocosas y matorrales (sotobosque).",
+    "distribucionGeografica": [
+      "Nativo del sur y centro de Europa, norte de África y oeste de Asia.",
+      "Ampliamente cultivado en jardines de todo el mundo."
+    ],
+    "preferenciasSuelo": "Suelos calcáreos, bien drenados y frescos. Tolera una amplia gama de pH.",
+    "preferenciasLuz": "Sombra parcial a pleno sol. Crece mejor con algo de sombra en los climas más cálidos."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Esquejes leñosos (método más común y efectivo).",
+      "Semillas (menos común)."
+    ],
+    "riego": "Moderado. Prefiere la humedad constante, pero el exceso de agua puede ser perjudicial.",
+    "poda": "Esencial en la jardinería formal (topiaria). Se puede podar en casi cualquier momento, pero la primavera es ideal.",
+    "fertilizacion": "Responde bien a fertilizantes equilibrados en primavera.",
+    "plagasComunes": [
+      "Polilla del boj (*Cydalima perspectalis*)."
+    ],
+    "enfermedadesComunes": [
+      "Moho de la hoja del boj (*Cylindrocladium buxicola*).",
+      "Pudrición de la raíz."
+    ]
+  },
+  "usos": {
+    "ornamental": "Una de las plantas más utilizadas en la jardinería formal, topiaria, setos y bordes de jardín.",
+    "culinario": [
+      "No tiene usos culinarios. Es tóxico si se ingiere (contiene alcaloides)."
+    ],
+    "medicinal": [
+      "Históricamente se ha utilizado la corteza y las hojas para tratar la fiebre y el reumatismo, pero hoy en día no se recomienda por su toxicidad."
+    ],
+    "industrial": [
+      "Madera (dura y de grano fino) para la fabricación de instrumentos, piezas de ajedrez, grabados y otros objetos pequeños."
+    ],
+    "simbolismo": "Perseverancia, inmortalidad, fidelidad y larga vida. Un símbolo de la nobleza y el orden en la cultura europea."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (esquejes y división de la mata).",
+    "polinizacion": "Entomófila (por insectos) y anemófila (por el viento).",
+    "momentoFloracion": "Mediados a finales de primavera.",
+    "cicloVida": "Perenne, de crecimiento muy lento y de gran longevidad (cientos de años)."
+  },
+  "atributosFantasia": {
+    "belleza": 4,
+    "rareza": 2,
+    "vitalidad": 4,
+    "resistencia": 4,
+    "impactoEcologico": 3,
+    "misticismo": 3,
+    "fraganciaMagica": 2,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "El boj es uno de los arbustos más antiguos utilizados en la jardinería, desde la época romana.",
+    "Su madera es extremadamente dura y densa, lo que la hace ideal para tallar. Se ha utilizado históricamente en la fabricación de instrumentos musicales y piezas de ajedrez.",
+    "Aunque es nativo de Europa, sus plagas y enfermedades se han extendido a nivel mundial, poniendo en riesgo a los jardines históricos.",
+    "La poda de topiaria con boj es un arte que se ha perfeccionado a lo largo de los siglos, creando formas geométricas y figurativas.",
+    "Todas las partes de la planta son tóxicas si se ingieren, lo que la hace resistente a muchos herbívoros."
+  ]
+}

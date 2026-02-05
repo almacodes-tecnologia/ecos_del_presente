@@ -1,0 +1,162 @@
+{
+  "id": "pulpo_comun",
+  "nombre": "Pulpo Común",
+  "nombreCientifico": "Octopus vulgaris",
+  "fechaInformacion": "2025",
+
+  "imagen": "pulpo_comun.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El pulpo común (*Octopus vulgaris*) es un cefalópodo altamente evolucionado y considerado el invertebrado más inteligente del mundo. ",
+    "Es famoso por su increíble capacidad de camuflaje, su destreza manipuladora gracias a sus ocho brazos y su corta pero intensa vida."
+  ],
+
+  "descripcionLarga": [
+    "El pulpo común es una especie cosmopolita, abundante en los fondos rocosos y arrecifes de las aguas templadas y tropicales de los océanos Atlántico, Índico y Pacífico, así como el Mar Mediterráneo. Carece de esqueleto interno (excepto un pico córneo), lo que le permite deslizarse por grietas increíblemente estrechas.",
+    "Su sistema nervioso es único: dos tercios de sus neuronas no están en el cerebro, sino distribuidas en sus ocho brazos, permitiéndoles 'pensar' y reaccionar de forma semi-autónoma. Esta inteligencia se demuestra en su habilidad para resolver complejos problemas, como abrir frascos y laberintos.",
+    "Su principal mecanismo de defensa y comunicación es la piel, equipada con células llamadas cromatóforos, iridóforos y leucóforos que le permiten cambiar de color y textura casi instantáneamente, mimetizándose con su entorno o expresando emociones. "
+  ],
+
+  "observaciones": [
+    "La vida del pulpo es semélpara: se reproducen una sola vez en la vida y mueren poco después. Este ciclo de vida corto es una de las razones de su longevidad limitada.",
+    "Su capacidad de regeneración les permite recuperar brazos dañados o perdidos.",
+    "El macho utiliza un brazo especializado, el **hectocótilo**, para transferir los espermatóforos a la hembra."
+  ],
+
+  "longevidad": {
+    "enLibertad": "1-2 años",
+    "enCautividad": "Hasta 3 años (la duración de la vida está íntimamente ligada a la reproducción)"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Mollusca",
+    "clase": "Cephalopoda",
+    "orden": "Octopoda",
+    "familia": "Octopodidae",
+    "genero": "Octopus",
+    "especie": "O. vulgaris"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable globalmente, aunque con fluctuaciones locales significativas.",
+    "amenazasPrincipales": [
+      "Pesca intensiva, ya que es una especie de alto valor comercial.",
+      "Contaminación marina y acidificación del océano.",
+      "Degradación del hábitat de arrecifes y fondos rocosos."
+    ],
+    "esfuerzosConservacion": [
+      "Regulación pesquera y establecimiento de límites de captura.",
+      "Investigación sobre la dinámica poblacional y el impacto de la pesca en los ciclos reproductivos.",
+      "Protección de las zonas de crianza y desove."
+    ],
+    "descripcionConservacion": [
+      "Aunque no está en peligro de extinción, su alto valor comercial y su ciclo de vida corto lo hacen vulnerable a la sobreexplotación. Es crucial una gestión pesquera sostenible para asegurar su permanencia."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "3-10 kg",
+      "hembraAdulta": "3-10 kg",
+      "maximoRegistrado": "15 kg"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "60-90 cm (Longitud total incluyendo brazos)",
+      "hembra": "60-90 cm (Longitud total incluyendo brazos)"
+    },
+    "colorPelaje": "N/A (Piel). Extremadamente variable; marrón, gris, rojo, blanco o con patrones moteados complejos.",
+    "caracteristicasEspeciales": "Ocho brazos con ventosas; Ausencia de esqueleto; Pico córneo; Saco de tinta; Células cromatóforas.",
+    "morfologia": [
+      "Cuerpo blando (manto) que alberga los órganos internos y un sifón para la propulsión a chorro.",
+      "Ocho brazos musculosos y flexibles, cada uno con dos filas de ventosas capaces de generar una succión formidable.",
+      "Ojos complejos y altamente desarrollados, capaces de formar imágenes, aunque daltónicos. Boca equipada con un pico córneo similar al de un loro."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Fondos rocosos, arrecifes de coral, lechos de pastos marinos y cuevas marinas (bentónico).",
+    "distribucionGeografica": [
+      "Océano Atlántico, Mar Mediterráneo, Océano Índico y Océano Pacífico (aguas tropicales y templadas)."
+    ],
+    "adaptacionesHabitat": "Excepcional habilidad para crear y decorar guaridas ('den'). Capacidad de camuflaje activa para evitar ser detectado en fondos heterogéneos.",
+    "descripcionHabitat": [
+      "Viven en 'dens' (casas) que suelen construir apilando rocas y conchas a la entrada. Son muy territoriales con su guarida.",
+      "Prefieren fondos rocosos donde el camuflaje es más efectivo, permaneciendo a menudo ocultos durante el día."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívora (Malacófago, Carcinófago)",
+    "presasComunes": [
+      "Cangrejos y langostas (crustáceos).",
+      "Almejas, caracoles y ostras (moluscos bivalvos y gasterópodos).",
+      "Peces pequeños (ocasionalmente)."
+    ],
+    "estrategiaCaza": "Acecho, emboscada y manipulación. Utilizan sus brazos para envolver a la presa y su pico para perforar o romper caparazones y conchas.",
+    "descripcionDieta": [
+      "Los pulpos pueden paralizar a sus presas inyectando saliva tóxica (veneno) a través del pico.",
+      "Son conocidos por abrir conchas difíciles, ya sea perforándolas o separando las valvas con fuerza."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario (se juntan brevemente solo para la reproducción).",
+    "rolMacho": "Reproducción y transferencia de esperma.",
+    "rolHembra": "Cuida, oxigena y limpia los huevos hasta su eclosión (proceso que la lleva a la muerte).",
+    "actividadDiaria": "Principalmente nocturna (crepuscular y nocturna) en la naturaleza; permanecen en la guarida durante el día.",
+    "comunicacion": [
+      "Cambios rápidos y complejos de color y textura (patrones).",
+      "Señales táctiles con los brazos. Expresión de emociones como miedo (blanco) o agresividad (patrones contrastados)."
+    ],
+    "descripcionComportamiento": [
+      "Son animales excepcionalmente curiosos y exploradores, constantemente modificando su entorno inmediato.",
+      "Su inteligencia se refleja en el uso de 'herramientas' (como utilizar conchas o cocos como refugio móvil) y en la capacidad de imitación."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo (Semélparo)",
+    "madurezSexual": {
+      "macho": "10-12 meses",
+      "hembra": "12-15 meses"
+    },
+    "periodoGestacion": "Incubación de los huevos: 1-5 meses (varía con la temperatura).",
+    "tamanoCamada": "100.000 - 400.000 huevos por puesta.",
+    "cuidadoCrias": "La hembra cuida la puesta sin alimentarse, ventilando y limpiando los huevos durante todo el periodo de incubación. Este acto de cuidado la lleva al agotamiento y la muerte (senescencia post-reproductiva).",
+    "descripcionReproduccion": [
+      "La hembra deposita los huevos en racimos colgantes dentro de su guarida. Durante el cuidado, no come ni sale de la cueva.",
+      "Tras la eclosión, los machos también mueren poco después del apareamiento. Las crías nacen como larvas planctónicas."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Depredador importante en el ecosistema bentónico, controlando las poblaciones de crustáceos y moluscos.",
+    "Sirve como alimento para depredadores mayores, como grandes peces, tiburones y focas."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 3,
+    "inteligencia": 9,
+    "adaptabilidad": 8,
+    "fuerza": 5,
+    "velocidad": 6,
+    "tamano": 4,
+    "majestuosidad": 6,
+    "rareza": 5,
+    "supervivencia": 7,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Es el maestro del camuflaje: puede imitar la apariencia de corales, rocas e incluso otros animales marinos.",
+    "El pulpo tiene tres corazones: dos bombean sangre a las branquias y uno al resto del cuerpo.",
+    "Cuando está en peligro, expulsa una nube de tinta oscura (melanina) para crear una cortina de humo y huir mediante propulsión a chorro."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "psilocybe_mexicana",
+  "nombre": "Pajarito",
+  "nombreCientifico": "Psilocybe mexicana",
+  "familia": "Hymenogastraceae",
+  "imagen": "psilocybe_mexicana.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Psilocybe mexicana es un hongo basidiomiceto de dimensiones reducidas y una profunda carga histórica en la micología mesoamericana. Es un organismo biológicamente singular debido a su capacidad de desarrollar cuerpos fructíferos epigeos y estructuras de resistencia subterráneas denominadas esclerocios.",
+
+  "caracteristicas": {
+    "sombrero": "1-3 cm de diámetro. Presenta una morfología cónica o acampanada, provista frecuentemente de un mamelón central. Su cutícula es higrófana, con una coloración que transiciona entre el pajizo y el marrón amarillento según el grado de hidratación.",
+    "laminas": "De inserción adnata o anexa. Su coloración evoluciona de un grisáceo pálido a un marrón purpúreo oscuro, manteniendo los márgenes blanquecinos.",
+    "pie": "4-12 cm de longitud, notablemente delgado y de consistencia fibrosa. Presenta tonos pajizos a parduzcos y experimenta una reacción de azulamiento ante daños mecánicos en el tejido.",
+    "anillo": "Ausente; los restos del velo parcial son efímeros y rara vez dejan rastro en el pie maduro.",
+    "volva": "Ausente.",
+    "esporada": "Marrón purpúreo oscuro.",
+    "usoCultural": "Especie de referencia en la etnobotánica americana y la historia de la micología analítica. Fue el espécimen clave a partir del cual se aislaron por primera vez los alcaloides indólicos característicos de este género en un entorno de laboratorio."
+  },
+
+  "habitat": {
+    "tipo": "Suelos de praderas, campos de pastoreo y claros de bosques caducifolios en regiones subtropicales.",
+    "relacionEcologica": "Organismo saprófito; se desarrolla en suelos con alta concentración de materia orgánica en descomposición, participando en el ciclo de nutrientes de pastizales húmedos.",
+    "distribucionGeografica": ["Nativo de México y diversas regiones de Centroamérica, con una presencia notable en áreas de la Sierra Madre."],
+    "temporada": "Fructificación vinculada al periodo de precipitaciones estivales (mayo a octubre en su rango nativo).",
+    "altitudRango": "Principalmente localizado en franjas altitudinales entre los 1.000 y 1.800 metros sobre el nivel del mar."
+  },
+
+  "curiosidades": [
+    "Fue documentado en códices antiguos bajo el nombre náhuatl 'Teonanácatl', término que refleja el estatus sagrado otorgado por las civilizaciones prehispánicas a su biología.",
+    "Es uno de los pocos miembros de su género capaz de generar esclerocios: masas miceliales endurecidas que almacenan nutrientes bajo la superficie del suelo como mecanismo de defensa ante condiciones climáticas adversas.",
+    "La reacción de azulamiento en esta especie es moderada, sirviendo como indicador químico de la presencia de compuestos activos sin alcanzar la intensidad cromática de otras especies lignícolas.",
+    "Su descubrimiento para la ciencia occidental en el siglo XX marcó el inicio de la micología moderna aplicada al estudio de los compuestos psicoactivos naturales."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 5,
+    "rareza": 7,
+    "simbolismo": 10,
+    "resistencia": 7,
+    "velocidadDeCrecimiento": 9,
+    "aura": 10
+  }
+}

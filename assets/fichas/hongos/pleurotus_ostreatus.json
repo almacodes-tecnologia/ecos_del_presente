@@ -1,0 +1,43 @@
+{
+  "id": "pleurotus_ostreatus",
+  "nombre": "Seta de ostra",
+  "nombreCientifico": "Pleurotus ostreatus",
+  "familia": "Pleurotaceae",
+  "imagen": "pleurotus_ostreatus.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Pleurotus ostreatus es un hongo basidiomiceto de crecimiento lignícola. Su morfología se caracteriza por un desarrollo lateral que recuerda a la valva de un bivalvo. Es un organismo con una extraordinaria capacidad metabólica, fundamental en el reciclaje de la lignina y la celulosa en los ecosistemas forestales.",
+
+  "caracteristicas": {
+    "sombrero": "5-20 cm de diámetro. Presenta una forma flabeliforme (abanico) o de concha, con superficie lisa. Su coloración es variable, mostrando tonos gris-azulados en estadios iniciales que transicionan hacia el gris pardo o beige según la madurez y la temperatura.",
+    "laminas": "Blancas o color crema, dispuestas de forma apretada y con una inserción marcadamente decurrente, prolongándose de manera continua por el pie lateral.",
+    "pie": "Lateral o excéntrico, a menudo muy corto o rudimentario. De textura firme y maciza, con coloración blanquecina, nace directamente de la madera del hospedador.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Blanca con matices lila o grisáceos.",
+    "usoCultural": "Especie de gran relevancia en la biotecnología ambiental, utilizada como modelo en estudios de degradación de polímeros naturales y biorremediación de suelos contaminados."
+  },
+
+  "habitat": {
+    "tipo": "Troncos, tocones y madera muerta de árboles frondosos, especialmente chopos (Populus), hayas (Fagus) y sauces (Salix).",
+    "relacionEcologica": "Principalmente saprófito, con una capacidad facultativa nematofágica: secreta sustancias para paralizar nematodos y obtener nitrógeno adicional del sustrato.",
+    "distribucionGeografica": ["Cosmopolita: presente en la gran mayoría de los ecosistemas boscosos templados y subtropicales del mundo."],
+    "temporada": "Fructifica preferentemente en otoño e invierno, mostrando una notable tolerancia a las bajas temperaturas.",
+    "altitudRango": "Desde el nivel del mar hasta áreas de bosque caducifolio de montaña media."
+  },
+
+  "curiosidades": [
+    "Es un organismo carnívoro facultativo; sus hifas poseen glándulas que segregan toxinas para inmovilizar microorganismos, compensando así la escasez de nitrógeno en la madera.",
+    "En el campo de la micorremediación, ha demostrado capacidad para descomponer hidrocarburos complejos y ciertos compuestos sintéticos gracias a sus potentes enzimas extracelulares.",
+    "Su crecimiento es gregario, presentándose habitualmente en grupos superpuestos unos sobre otros en forma de repisas.",
+    "La variabilidad de su coloración es un indicador biológico de las condiciones térmicas durante su desarrollo; los tonos más oscuros suelen aparecer con temperaturas más bajas."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 5,
+    "rareza": 2,
+    "simbolismo": 6,
+    "resistencia": 9,
+    "velocidadDeCrecimiento": 10,
+    "aura": 6
+  }
+}

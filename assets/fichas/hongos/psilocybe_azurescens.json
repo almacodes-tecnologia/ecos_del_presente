@@ -1,0 +1,43 @@
+{
+  "id": "psilocybe_azurescens",
+  "nombre": "Flying Saucer",
+  "nombreCientifico": "Psilocybe azurescens",
+  "familia": "Hymenogastraceae",
+  "imagen": "psilocybe_azurescens.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Psilocybe azurescens es un hongo basidiomiceto lignícola de alta especialización bioquímica. Nativo de ecosistemas costeros específicos, se caracteriza por una morfología pileada con un mamelón central pronunciado y una respuesta oxidativa inmediata que tiñe sus tejidos de un azul profundo tras un impacto mecánico.",
+
+  "caracteristicas": {
+    "sombrero": "3-10 cm de diámetro. Presenta una morfología cónico-convexa que evoluciona hacia una forma flabeliforme similar a un platillo. Su cutícula es higrófana, de color castaño profundo en hidratación, tornándose pajiza al secarse, y posee una película gelatinosa separable.",
+    "laminas": "Apretadas y de inserción adnata o ascendente. Su coloración transiciona de un pardo-castaño inicial hacia tonos purpúreos oscuros tras la maduración de los basidios.",
+    "pie": "9-15 cm de longitud, de color blanco sedoso y consistencia firme. La base suele estar marcadamente engrosada y conectada al sustrato mediante rizomorfos (cordones miceliares) blancos y densos de gran extensión.",
+    "anillo": "Ausente, aunque presenta vestigios de velo parcial cortiniforme que pueden retener esporas y formar una zona anular oscura fugaz.",
+    "volva": "Ausente.",
+    "esporada": "Marrón purpúreo oscuro, con una densidad cromática cercana al negro.",
+    "usoCultural": "Sujeto de intenso estudio en la bioquímica de metabolitos secundarios y taxonomía fúngica. Debido a la presencia de compuestos alcaloides regulados, su estatus legal varía internacionalmente bajo estrictos controles normativos."
+  },
+
+  "habitat": {
+    "tipo": "Suelos arenosos de dunas costeras y depósitos de madera de deriva (maderas arrastradas por el mar) en descomposición.",
+    "relacionEcologica": "Organismo saprófito lignícola; descompone restos de madera de frondosas en ambientes con alta salinidad y humedad atmosférica constante.",
+    "distribucionGeografica": ["Nativo de la región de la desembocadura del río Columbia (EE. UU.). Se ha documentado su naturalización en microclimas específicos del noroeste de Europa."],
+    "temporada": "Fructificación tardía durante el otoño y el invierno, mostrando una criotolerancia excepcional frente a las heladas ligeras.",
+    "altitudRango": "Estrictamente vinculado a franjas costeras a nivel del mar."
+  },
+
+  "curiosidades": [
+    "Presenta la mayor concentración de psilocibina documentada en el género Psilocybe, actuando como un sistema de defensa químico frente a la depredación en su hábitat natural.",
+    "El epíteto 'azurescens' describe la intensa reacción de azulamiento de sus tejidos, un fenómeno químico derivado de la desfosforilación enzimática y posterior oxidación de sus compuestos orgánicos.",
+    "Su estrategia de crecimiento mediante rizomorfos le permite colonizar rápidamente sustratos fragmentados por la acción de las tormentas marinas.",
+    "Es un modelo de estudio para la micología debido a su capacidad para fructificar en rangos térmicos significativamente más bajos que otras especies afines."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 7,
+    "rareza": 8,
+    "simbolismo": 10,
+    "resistencia": 8,
+    "velocidadDeCrecimiento": 6,
+    "aura": 10
+  }
+}

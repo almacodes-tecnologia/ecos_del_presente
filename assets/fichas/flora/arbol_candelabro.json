@@ -1,0 +1,110 @@
+{
+  "id": "arbol_candelabro",
+  "nombre": "Árbol Candelabro",
+  "nombreCientifico": "Euphorbia ingens",
+  "fechaInformacion": "2025",
+  "imagen": "arbol_candelabro.webp",
+  "introduccionPlanta": [
+    "El Árbol Candelabro es una majestuosa suculenta arbórea africana que, a pesar de su apariencia, no es un cactus. Es famosa por sus tallos carnosos ramificados que le dan una forma similar a un candelabro.",
+    "Produce un látex blanco y lechoso altamente tóxico, que actúa como una potente defensa natural en los entornos áridos donde prospera."
+  ],
+  "descripcionLarga": [
+    "El **árbol candelabro** (*Euphorbia ingens*) es un majestuoso árbol suculento nativo del sur y este de África. A pesar de su parecido con los cactus, es un miembro de la diversa familia **Euphorbiaceae**. Su nombre común se debe a su distintiva forma de candelabro, con numerosas ramas carnosas y erectas que se ramifican de un tronco central. Estas ramas, de un color verde grisáceo y adornadas con espinas, son la principal estructura para la fotosíntesis, ya que sus hojas son efímeras y apenas visibles.",
+    "El árbol candelabro es un maestro de la **adaptación a la sequía**. Sus tallos suculentos actúan como reservorios de agua, permitiéndole sobrevivir en climas áridos donde las lluvias son escasas. Como muchas euforbias, contiene un **látex blanco y lechoso** que es altamente tóxico. Este látex es una defensa natural contra los herbívoros y puede causar quemaduras graves en la piel y los ojos. En el pasado, este látex se ha utilizado para envenenar flechas en algunas culturas locales.",
+    "Su cultivo es relativamente sencillo en climas cálidos, siempre que se le proporcione un excelente drenaje para evitar la pudrición de la raíz. Es una planta de pleno sol que prospera en suelos rocosos y arenosos. Aunque sus flores son discretas y poco llamativas, su imponente forma arquitectónica lo convierte en un punto focal en jardines de clima seco y en colecciones de suculentas. El árbol candelabro es un símbolo de resiliencia y de la belleza que puede encontrarse en los entornos más desafiantes."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Malpighiales",
+    "familia": "Euphorbiaceae",
+    "genero": "Euphorbia",
+    "especie": "E. ingens"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable (debido a su amplia distribución y resistencia).",
+    "amenazasPrincipales": [
+      "Ninguna amenaza significativa debido a su amplia distribución y capacidad de regeneración."
+    ],
+    "esfuerzosConservacion": [
+      "Ningún esfuerzo de conservación específico, ya que no se considera en peligro."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol suculento, perenne, que se asemeja a un cactus.",
+    "alturaPromedio": "6 - 8 m (20 - 26 ft); puede alcanzar los 15 m.",
+    "colorFollaje": "Verde oscuro a grisáceo en los tallos (las hojas son efímeras).",
+    "tipoRaiz": "Fasciculada, superficial (apta para buscar agua en la superficie).",
+    "tallos": "Tronco corto y grueso del que emergen numerosas ramas suculentas, carnosas, con espinas, que se ramifican en forma de candelabro.",
+    "hojas": "Muy pequeñas y efímeras (caen rápidamente), de forma ovalada, que aparecen en las puntas de los tallos.",
+    "flores": {
+      "forma": "Ciatos (inflorescencias típicas de las euforbias) muy pequeños y discretos.",
+      "colores": "Verdoso-amarillento.",
+      "fragancia": "Poco perceptible.",
+      "tamano": "Muy pequeñas."
+    },
+    "frutos": "Una cápsula pequeña, esférica, que explota al madurar para dispersar las semillas."
+  },
+  "habitat": {
+    "tipo": "Bosques secos, sabanas y laderas rocosas.",
+    "distribucionGeografica": [
+      "Nativo del sur y este de África, desde Sudáfrica hasta Zimbabue y Kenia."
+    ],
+    "preferenciasSuelo": "Suelos arenosos y rocosos, bien drenados. Tolerante a suelos pobres.",
+    "preferenciasLuz": "Pleno sol. Requiere una alta exposición solar para un crecimiento óptimo."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Esquejes de tallo o semillas.",
+      "Es fundamental dejar secar los esquejes para que cicatricen antes de plantar, evitando la pudrición."
+    ],
+    "riego": "Bajo. Muy tolerante a la sequía. Es crucial no regar en exceso para evitar la pudrición de la raíz.",
+    "poda": "No es necesaria. Se pueden quitar las ramas muertas o dañadas.",
+    "fertilizacion": "No es necesaria. En cultivo, se puede usar un fertilizante de bajo nitrógeno para suculentas.",
+    "plagasComunes": [
+      "Cochinilla",
+      "Pulgones"
+    ],
+    "enfermedadesComunes": [
+      "Pudrición de la raíz (por exceso de agua)."
+    ]
+  },
+  "usos": {
+    "ornamental": "Planta de paisaje en jardines de clima seco, xeriscaping, o como planta de interior en macetas grandes.",
+    "culinario": [
+      "No tiene usos culinarios. Es muy tóxico."
+    ],
+    "medicinal": [
+      "No tiene usos medicinales. El látex es cáustico y puede causar quemaduras graves e irritación."
+    ],
+    "industrial": [
+      "El látex tóxico se ha utilizado en el pasado para hacer flechas venenosas o como pesticida natural."
+    ],
+    "simbolismo": "Resistencia, adaptabilidad y supervivencia en entornos áridos. (Peligro, debido a su toxicidad)."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (esquejes).",
+    "polinizacion": "Entomófila (por insectos).",
+    "momentoFloracion": "Primavera o verano (cuando las condiciones son óptimas).",
+    "cicloVida": "Perenne, de muy larga vida (puede vivir más de 100 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 4,
+    "rareza": 3,
+    "vitalidad": 5,
+    "resistencia": 5,
+    "impactoEcologico": 4,
+    "misticismo": 4,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 5
+  },
+  "curiosidades": [
+    "El árbol candelabro (*Euphorbia ingens*) pertenece a la familia de las euforbiáceas, no a los cactus, aunque se asemeja a ellos por sus tallos suculentos y espinosos.",
+    "Al igual que muchas euforbias, produce un látex blanco y lechoso que es altamente tóxico e irritante para la piel y los ojos.",
+    "Su forma de candelabro es una adaptación para maximizar la superficie de sus tallos para la fotosíntesis en climas secos, ya que sus hojas son muy pequeñas o inexistentes la mayor parte del año.",
+    "A menudo se utiliza en paisajismo de climas desérticos y se puede encontrar en jardines botánicos de todo el mundo.",
+    "Es uno de los componentes principales de las 'sabanas de árboles de leche' en el sur de África."
+  ]
+}

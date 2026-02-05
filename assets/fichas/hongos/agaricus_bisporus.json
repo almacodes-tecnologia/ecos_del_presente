@@ -1,0 +1,43 @@
+{
+  "id": "agaricus_bisporus",
+  "nombre": "Agaricus bisporus",
+  "nombreCientifico": "Agaricus bisporus",
+  "familia": "Agaricaceae",
+  "imagen": "agaricus_bisporus.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Agaricus bisporus es un hongo basidiomiceto saprófito que se desarrolla de forma natural en ecosistemas de pastizal. Es morfológicamente variable, presentando fases de crecimiento que van desde el estadio globoso hasta una madurez expandida donde la cutícula puede variar de tonos blancos a pardos.",
+
+  "caracteristicas": {
+    "sombrero": "3-12 cm de diámetro. Evoluciona de hemisférico a convexo-aplanado. La cutícula es seca y puede presentarse lisa o con escamas fibrilosas sutiles. La coloración es variable entre el blanco puro y el marrón canela según la variedad biológica.",
+    "laminas": "Libres, muy apretadas y finas. Presentan una evolución cromática diagnóstica: rosa pálido en estadios juveniles, virando a marrón chocolate y finalmente negro intenso tras la maduración de las esporas.",
+    "pie": "Cilíndrico, corto y robusto. Posee una estructura maciza y una textura lisa, de coloración blanquecina, con una inserción que permite una separación mecánica limpia del sombrero.",
+    "anillo": "Presente, situado en la parte superior del pie. Es de naturaleza membranosa, simple y blanquecino, persistiendo de forma variable según las condiciones ambientales.",
+    "volva": "Ausente.",
+    "esporada": "Marrón oscuro.",
+    "usoCultural": "Reconocido históricamente en micología por ser una de las especies pioneras en el desarrollo de técnicas de micocultura en ambientes subterráneos controlados desde el siglo XVII."
+  },
+
+  "habitat": {
+    "tipo": "Suelos nitrificados, praderas abonadas de forma natural, jardines y terrenos ricos en materia orgánica descompuesta.",
+    "relacionEcologica": "Organismo saprófito especializado en la descomposición de residuos orgánicos complejos, desempeñando un papel vital en el reciclaje de nutrientes en suelos de pastoreo.",
+    "distribucionGeografica": ["Cosmopolita: nativo de las regiones templadas de Europa y América del Norte, con presencia global debido a su capacidad de adaptación."],
+    "temporada": "En estado silvestre, fructifica predominantemente durante los periodos de humedad en otoño.",
+    "altitudRango": "Desde el nivel del mar hasta zonas de pradera de montaña."
+  },
+
+  "curiosidades": [
+    "Su epíteto específico 'bisporus' hace referencia a una característica microscópica: sus basidios producen únicamente dos esporas en lugar de las cuatro habituales en la mayoría de los miembros del género Agaricus.",
+    "El estadio maduro, caracterizado por un sombrero totalmente expandido y oscuro, muestra una morfología radicalmente distinta a los ejemplares inmaduros globosos.",
+    "Es un organismo modelo en estudios de biotecnología fúngica debido a su eficiencia en la conversión de biomasa en tejido fúngico bajo condiciones controladas.",
+    "La coloración rosa de las láminas jóvenes es una característica clave para diferenciarlo de especies de otros géneros con esporada blanca que habitan en los mismos pastizales."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 4,
+    "rareza": 1,
+    "simbolismo": 6,
+    "resistencia": 5,
+    "velocidadDeCrecimiento": 9,
+    "aura": 3
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "koala",
+  "nombre": "Koala",
+  "nombreCientifico": "Phascolarctos cinereus",
+  "fechaInformacion": "2025",
+
+  "imagen": "koala.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El koala (*Phascolarctos cinereus*) es un marsupial australiano icónico, famoso por su apariencia de peluche y su estilo de vida arbóreo. Pasa la mayor parte del tiempo en los eucaliptos, alimentándose casi exclusivamente de sus hojas.",
+    "A pesar de su nombre popular 'oso koala', no pertenece a la familia de los osos; es el único miembro vivo de la familia Phascolarctidae."
+  ],
+
+  "descripcionLarga": [
+    "El koala es un marsupial arbóreo nativo de Australia, conocido por su pelaje denso y gris, nariz grande y negra, y grandes orejas redondeadas. Su cuerpo está adaptado a la vida en los árboles, con manos y pies que tienen dos dedos oponibles, permitiendo un agarre similar al de una pinza para sujetar las ramas.",
+    "Su dieta se basa casi exclusivamente en hojas de eucalipto, que son tóxicas, fibrosas y tienen bajo valor nutricional. Esto requiere un sistema digestivo altamente especializado, incluyendo un ciego muy largo, para fermentar y desintoxicar las hojas.",
+    "Duerme entre 18 y 22 horas al día debido al bajo valor energético de su alimento y la energía necesaria para la desintoxicación."
+  ],
+
+  "observaciones": [
+    "Es extremadamente sensible a fenómenos climáticos extremos (sequías, olas de calor) y a la pérdida de hábitat (incendios forestales).",
+    "El koala macho posee una glándula de olor distintiva en el pecho que usa para marcar su territorio.",
+    "Su huella dactilar es sorprendentemente similar a la humana, siendo difícil de distinguir incluso bajo el microscopio."
+  ],
+
+  "longevidad": {
+    "enLibertad": "13-18 años",
+    "enCautividad": "20 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Diprotodontia",
+    "familia": "Phascolarctidae",
+    "genero": "Phascolarctos",
+    "especie": "P. cinereus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Vulnerable (VU)",
+    "tendenciaPoblacion": "Disminuyendo",
+    "amenazasPrincipales": [
+      "Pérdida y fragmentación de hábitat (tala, urbanización).",
+      "Incendios forestales intensos (como los de 2019-2020).",
+      "Enfermedades como la clamidiosis, que causa ceguera, infertilidad y la muerte.",
+      "Ataques de perros y atropellos."
+    ],
+    "esfuerzosConservacion": [
+      "Protección y reforestación de hábitats clave de eucalipto.",
+      "Programas de rescate, rehabilitación y reintroducción (especialmente después de incendios).",
+      "Investigación y desarrollo de vacunas contra la clamidiosis.",
+      "Establecimiento de 'corredores de koalas' en zonas urbanas."
+    ],
+    "descripcionConservacion": [
+      "En algunas áreas de Australia, las poblaciones han disminuido drásticamente. En 2022, el koala fue catalogado como 'En Peligro' en Queensland, Nueva Gales del Sur y el Territorio de la Capital Australiana debido al impacto de los incendios y la tala."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "8-14 kg (sur: más grandes y pesados)",
+      "hembraAdulta": "7-11 kg (norte: más pequeños y ligeros)",
+      "maximoRegistrado": "15 kg"
+    },
+    "alturaHombro": {
+      "macho": "60 cm",
+      "hembra": "55 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "60-85 cm",
+      "hembra": "60-75 cm"
+    },
+    "colorPelaje": "Gris a marrón-grisáceo, con parches blancos en el pecho, cuello y barbilla.",
+    "caracteristicasEspeciales": "Nariz grande y negra; Dedos oponibles (dos pulgares) en las manos; Bolsa marsupial (hembra); Glándula de olor en el pecho (macho).",
+    "morfologia": [
+      "Manos con garras fuertes y dedos oponibles para trepar y agarrar con firmeza.",
+      "Nariz grande y negra para detectar hojas aptas para comer (bajo contenido de toxinas).",
+      "Cuerpo compacto sin cola externa visible."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques de eucalipto, áreas arbóreas y arboledas, principalmente cerca de la costa.",
+    "distribucionGeografica": [
+      "Australia oriental y meridional: Queensland, Nueva Gales del Sur, Victoria y Australia Meridional (poblaciones reintroducidas)."
+    ],
+    "adaptacionesHabitat": "Adaptado a pasar el 95% de su vida en árboles. Su sistema digestivo procesa la celulosa y las toxinas del eucalipto.",
+    "descripcionHabitat": [
+      "Viven en bosques abiertos y densos, donde los eucaliptos son abundantes. Dependen de las especies de eucalipto con menor contenido de cianuro e hidroxilaciones específicas.",
+      "La calidad del hábitat es crítica, ya que dependen de árboles específicos para alimentarse y refugiarse."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro folívoro (Folívoro especializado)",
+    "presasComunes": [
+      "Hojas de eucalipto (solo algunas especies de *Eucalyptus*, *Corymbia* y *Angophora*)."
+    ],
+    "estrategiaCaza": "N/A (Alimentación arbórea pasiva)",
+    "descripcionDieta": [
+      "Su alimentación se basa en hojas seleccionadas por su bajo contenido de aceites volátiles y toxinas y alto contenido de fibra.",
+      "Debido a que las hojas son >50% agua, beben solo ocasionalmente, obteniendo la mayor parte de la humedad de su dieta."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitaria o en estructuras sociales laxas (territorios superpuestos).",
+    "rolMacho": "Establece y defiende un territorio más grande que el de la hembra; marca con la glándula del pecho y vocalizaciones.",
+    "rolHembra": "Defiende un área de alimentación más pequeña y se encarga del cuidado intensivo de la cría.",
+    "actividadDiaria": "Nocturna y crepuscular (alimentación). Diurna (descanso y sueño).",
+    "comunicacion": [
+      "Vocalizaciones graves y resonantes (como un gruñido profundo) utilizadas por los machos para atraer hembras y advertir a rivales.",
+      "Marcaje de olores con la glándula del pecho.",
+      "Gruñidos de protesta cuando son molestados."
+    ],
+    "descripcionComportamiento": [
+      "Pasan la mayor parte del tiempo durmiendo. Interactúan principalmente para la reproducción o la defensa territorial.",
+      "Son excelentes trepadores y pasan la vida entera en el dosel arbóreo."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Marsupial Vivíparo",
+    "madurezSexual": {
+      "macho": "3-4 años",
+      "hembra": "2-3 años"
+    },
+    "periodoGestacion": "35 días",
+    "tamanoCamada": "1 cría (raramente gemelos)",
+    "cuidadoCrias": "La cría ('joey') nace subdesarrollada y se arrastra hasta la bolsa (marsupio) donde permanece y se alimenta de leche durante unos 6 meses. Luego viaja en el lomo de la madre hasta los 12 meses.",
+    "descripcionReproduccion": [
+      "Al dejar el marsupio, el 'joey' consume una papilla especializada ('pap') producida por el ciego de la madre para inocular las bacterias necesarias para digerir las hojas de eucalipto.",
+      "El ciclo reproductivo está ligado estacionalmente (generalmente de primavera a verano)."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Al ser el principal consumidor de hojas de eucalipto en su nicho, ayuda a la estructuración de la vegetación del dosel.",
+    "Su presencia es un indicador clave de la salud de los bosques esclerófilos australianos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 5,
+    "adaptabilidad": 4,
+    "fuerza": 3,
+    "velocidad": 2,
+    "tamano": 3,
+    "majestuosidad": 4,
+    "rareza": 6,
+    "supervivencia": 4,
+    "impactoEcologico": 5
+  },
+
+  "curiosidades": [
+    "Duermen hasta 22 horas al día, más que cualquier otro mamífero conocido, debido a la falta de energía de su dieta.",
+    "Su huella dactilar es casi indistinguible de la humana.",
+    "La cría ('joey') pasa los primeros meses de vida en el marsupio (bolsa) de la madre.",
+    "Necesitan oler las hojas de eucalipto para determinar su contenido de toxinas antes de comerlas."
+  ]
+}

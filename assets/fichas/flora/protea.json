@@ -1,0 +1,114 @@
+{
+  "id": "protea",
+  "nombre": "Protea",
+  "nombreCientifico": "Protea cynaroides",
+  "fechaInformacion": "2025",
+  "imagen": "protea.webp",
+  "introduccionPlanta": [
+    "La Protea Real es la flor nacional de Sudáfrica, un arbusto perenne conocido por tener una de las cabezas florales más grandes del mundo, con una corona de brácteas vistosas.",
+    "Simboliza la diversidad y la transformación, y está perfectamente adaptada al ecosistema de matorrales de fynbos y a los incendios naturales."
+  ],
+  "descripcionLarga": [
+    "La **protea** (*Protea cynaroides*), conocida popularmente como 'protea real' o 'rey protea', es un arbusto perenne de la familia Proteaceae. Endémica de la región del Cabo en Sudáfrica, se alza como el emblema floral del país, celebrando su majestuosidad y resiliencia. La Protea es una planta de gran tamaño, con un tronco robusto y hojas ovaladas de un verde oscuro y brillante que le dan un aspecto imponente.",
+    "Lo más impresionante de la Protea no es una flor singular, sino una enorme **cabeza floral compuesta** por cientos de flores pequeñas en su centro, rodeadas por una corona de brácteas rígidas y vistosas que se asemejan a pétalos gigantes. Estas brácteas, de tonos que van desde el rosa y el rojo hasta el blanco, le dan a la planta su aspecto de 'rey' y la convierten en una de las flores más grandes del mundo. Su diseño está perfectamente adaptado a la polinización por aves, que se alimentan del néctar que produce.",
+    "La Protea es una superviviente, adaptada a los suelos pobres y ácidos del bioma de fynbos y al fuego recurrente. Sus semillas están diseñadas para permanecer en la cabeza floral y solo se liberan tras un incendio. Su cultivo, que se ha expandido a nivel mundial, requiere un sustrato muy bien drenado y la ausencia total de fertilizantes fosforados, a los que es extremadamente sensible. La Protea no es solo una flor decorativa; es un poderoso símbolo de la diversidad, la transformación y la capacidad de la vida para prosperar en las condiciones más desafiantes."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Proteales",
+    "familia": "Proteaceae",
+    "genero": "Protea",
+    "especie": "P. cynaroides"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable.",
+    "amenazasPrincipales": [
+      "Incendios forestales demasiado frecuentes o, por el contrario, su supresión total (rompiendo el ciclo natural).",
+      "Conversión de hábitats (fynbos) para la agricultura y el desarrollo urbano.",
+      "Recolección ilegal para el comercio de flores."
+    ],
+    "esfuerzosConservacion": [
+      "Gestión controlada de incendios para mantener el ecosistema.",
+      "Protección de las reservas naturales de fynbos.",
+      "Cultivo comercial para reducir la presión sobre las poblaciones silvestres."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Arbusto perenne (leñoso), con un solo tronco o varios tallos erectos. Posee un lignotúber para rebrotar tras el fuego.",
+    "alturaPromedio": "0.3 - 2 m (1 - 6.5 ft).",
+    "colorFollaje": "Verde oscuro, brillante.",
+    "tipoRaiz": "Raíces proteoides (densos racimos de raíces finas para absorber nutrientes en suelos pobres).",
+    "tallos": "Robusto, leñoso y grueso.",
+    "hojas": "Grandes, de color verde oscuro, brillantes, de forma ovalada o espátula, que crean una roseta alrededor de la base de la flor.",
+    "flores": {
+      "forma": "Gran cabeza floral compuesta (capítulo) rodeada por brácteas vistosas.",
+      "colores": "Las brácteas son rosadas, rojas, blancas o cremosas. El centro es de un tono similar, a menudo con pelusa negra o blanca.",
+      "fragancia": "Poco perceptible (ligeramente dulce por el néctar).",
+      "tamano": "Hasta 30 cm (12 in) de diámetro."
+    },
+    "frutos": "Un aquenio peludo y leñoso (semilla), que se libera tras un incendio (serotinia)."
+  },
+  "habitat": {
+    "tipo": "Regiones de matorrales de tipo mediterráneo, conocidos como fynbos (bioma sudafricano).",
+    "distribucionGeografica": [
+      "Endémica de la región del Cabo en Sudáfrica."
+    ],
+    "preferenciasSuelo": "Suelos ácidos y bien drenados, pobres en nutrientes (especialmente fósforo).",
+    "preferenciasLuz": "Pleno sol. Requiere una alta exposición solar para florecer abundantemente."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas, que requieren escarificación por calor o tratamiento con humo para germinar.",
+      "Esquejes leñosos (más difícil)."
+    ],
+    "riego": "Bajo a moderado. Requiere un excelente drenaje. Muy sensible al exceso de agua y a los suelos húmedos.",
+    "poda": "Esencial para promover la floración. Se cortan las flores viejas a ras de suelo y se da forma a la planta.",
+    "fertilizacion": "No necesita fertilizantes. Es extremadamente sensible al fósforo y los fertilizantes comerciales pueden matarla.",
+    "plagasComunes": [
+      "Pulgones",
+      "Cochinilla"
+    ],
+    "enfermedadesComunes": [
+      "Hongos de la raíz (por mal drenaje)."
+    ]
+  },
+  "usos": {
+    "ornamental": "Flor cortada (muy popular por su durabilidad y belleza), jardines de clima mediterráneo.",
+    "culinario": [
+      "Néctar de la flor como endulzante. Tradicionalmente consumido por el pueblo Khoikhoi."
+    ],
+    "medicinal": [
+      "No tiene usos medicinales directos conocidos."
+    ],
+    "industrial": [
+      "El néctar se utiliza en la producción de una mermelada conocida como 'bossiestroop'."
+    ],
+    "simbolismo": "Diversidad, transformación, cambio, valentía y longevidad. La flor nacional de Sudáfrica."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Principalmente por aves (pájaros azucareros y suimangas), también por insectos y mamíferos pequeños.",
+    "momentoFloracion": "Varía, pero a menudo en invierno y primavera (hemisferio sur).",
+    "cicloVida": "Perenne, de larga vida."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 4,
+    "vitalidad": 4,
+    "resistencia": 4,
+    "impactoEcologico": 4,
+    "misticismo": 4,
+    "fraganciaMagica": 2,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "La Protea es la flor nacional de Sudáfrica.",
+    "El nombre del género, *Protea*, se le dio en honor a Proteo, el dios griego del mar que podía cambiar de forma, en alusión a la gran diversidad de especies de la familia Proteaceae.",
+    "Sus flores están diseñadas para resistir los incendios forestales, un elemento clave en su ecosistema. Algunas especies liberan sus semillas solo después de ser estimuladas por el calor de un fuego (serotinia).",
+    "Es una de las flores de mayor tamaño en el mundo, con algunas cabezas florales que alcanzan el tamaño de un balón de fútbol.",
+    "A pesar de su apariencia robusta, es muy sensible a los fertilizantes, especialmente al fósforo, ya que está adaptada a suelos muy pobres."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "tuber_melanosporum",
+  "nombre": "Tuber melanosporum",
+  "nombreCientifico": "Tuber melanosporum",
+  "familia": "Tuberaceae",
+  "imagen": "tuber_melanosporum.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "La Tuber melanosporum es un hongo ascomiceto de vida hipogea, lo que significa que completa todo su ciclo de desarrollo bajo la superficie del suelo. Destaca por su morfología globosa y su compleja composición química volátil, la cual utiliza como estrategia biológica para la dispersión de esporas en el ecosistema forestal.",
+
+  "caracteristicas": {
+    "sombrero": "No posee. El cuerpo fructífero (ascocarpo) es una estructura globosa o tuberiforme de 3-10 cm. Su capa externa o peridio es de color negro azabache y está recubierta de verrugas piramidales de geometría poligonal.",
+    "laminas": "No posee. El tejido interno o gleba es compacto y de color negro-violáceo en la madurez, atravesado por un laberinto de venas estériles de color blanco muy finas y ramificadas.",
+    "pie": "Ausente.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Marrón oscura (las esporas se encuentran protegidas dentro de sacos microscópicos llamados ascas).",
+    "usoCultural": "Especie de alto valor científico y ecológico, considerada un bioindicador de la salud y calidad de suelos calizos en ecosistemas mediterráneos."
+  },
+
+  "habitat": {
+    "tipo": "Suelos de naturaleza caliza, con buen drenaje y aireación, en laderas soleadas expuestas a climas mediterráneos continentales.",
+    "relacionEcologica": "Establece una simbiosis micorrícica estricta con las raíces de especies del género Quercus (encinas, robles) y Corylus (avellanos), participando en un intercambio de nutrientes vital para la supervivencia del árbol.",
+    "distribucionGeografica": ["Nativa del sur de Europa (España, Francia e Italia). España destaca por poseer las mayores extensiones de hábitat natural y cultivado del mundo."],
+    "temporada": "Fase de maduración invernal, comprendida entre los meses de noviembre y marzo.",
+    "altitudRango": "Generalmente localizada en franjas que oscilan entre los 600 y los 1.500 metros sobre el nivel del mar."
+  },
+
+  "curiosidades": [
+    "Su aroma es una señal química compleja diseñada para ser detectada por la fauna del suelo (como el jabalí o la mosca Suillia gigantea), facilitando la excavación y posterior dispersión de esporas.",
+    "Presenta una capacidad alelopática única: genera el fenómeno del 'quemado', una zona circular alrededor del árbol simbionte donde el hongo inhibe el crecimiento de plantas competidoras mediante herbicidas naturales.",
+    "El desarrollo hipogeo es una adaptación evolutiva para proteger sus estructuras reproductivas de las condiciones climáticas extremas y de la desecación superficial.",
+    "A diferencia de los hongos epígeos, la trufa negra no depende del viento para la propagación de sus esporas, sino de la interacción biótica con animales excavadores."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 10,
+    "rareza": 10,
+    "simbolismo": 9,
+    "resistencia": 5,
+    "velocidadDeCrecimiento": 2,
+    "aura": 10
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "nu_azul",
+  "nombre": "Ñu Azul",
+  "nombreCientifico": "Connochaetes taurinus",
+  "fechaInformacion": "2025",
+
+  "imagen": "nu_azul.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El ñu azul o gnu azul (*Connochaetes taurinus*) es un gran antílope africano, el más numeroso de su familia, famoso por participar en las migraciones de mamíferos terrestres más grandes del planeta. ",
+    "Su presencia es un pilar fundamental en las vastas sabanas y llanuras abiertas del este y sur de África."
+  ],
+
+  "descripcionLarga": [
+    "El ñu azul es un antílope robusto, de aspecto bovino, caracterizado por su cuerpo voluminoso, cuello grueso y una gran cabeza. Su pelaje es de un distintivo color gris-azulado (de ahí su nombre), con rayas oscuras verticales en el cuello y el lomo, patas negras y una melena y cola largas y oscuras.",
+    "Tanto los machos como las hembras poseen cuernos fuertes que se curvan hacia afuera, luego hacia abajo y finalmente hacia arriba en forma de 'soporte'. Los machos son más grandes y tienen cuernos más gruesos y robustos.",
+    "Son conocidos mundialmente por la **Gran Migración** que realizan anualmente en el Serengeti/Mara, un ciclo continuo que recorre cientos de kilómetros junto con miles de cebras y otros antílopes, siguiendo el patrón de lluvia y el crecimiento del pasto."
+  ],
+
+  "observaciones": [
+    "Los machos establecen territorios temporales durante la temporada de apareamiento (el *celo*) y son conocidos por sus demostraciones de fuerza y peleas para acceder a las hembras.",
+    "La coordinación en manada les permite minimizar el riesgo individual de depredación durante los movimientos masivos.",
+    "Son vitales para el ecosistema ya que consumen grandes cantidades de pasto, lo que ayuda a prevenir incendios y permite el crecimiento de otras hierbas."
+  ],
+
+  "longevidad": {
+    "enLibertad": "10-20 años (la mayoría muere antes por depredación)",
+    "enCautividad": "18-20 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Artiodactyla",
+    "familia": "Bovidae",
+    "genero": "Connochaetes",
+    "especie": "C. taurinus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable o localmente creciente (principalmente en el ecosistema Serengeti-Mara).",
+    "amenazasPrincipales": [
+      "Fragmentación de hábitat (cercas que bloquean rutas migratorias vitales).",
+      "Caza furtiva y depredación de ganado fuera de áreas protegidas.",
+      "Sequías severas y el impacto del cambio climático en los patrones de lluvia."
+    ],
+    "esfuerzosConservacion": [
+      "Protección de los grandes corredores migratorios (ej. el ecosistema Serengeti-Mara).",
+      "Establecimiento de vastos parques nacionales y reservas de caza controlada.",
+      "Monitoreo aéreo y terrestre de manadas."
+    ],
+    "descripcionConservacion": [
+      "A pesar de los declives en algunas subpoblaciones regionales, la población global de *C. taurinus* es estable y numerosa, especialmente en las áreas protegidas de Kenia y Tanzania. El desafío es proteger sus rutas migratorias."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "250-290 kg",
+      "hembraAdulta": "180-250 kg",
+      "maximoRegistrado": "318 kg"
+    },
+    "alturaHombro": {
+      "macho": "1.4 m",
+      "hembra": "1.2 m"
+    },
+    "longitudCuerpoCola": {
+      "macho": "2-2.4 m (cuerpo) + 40-50 cm (cola)",
+      "hembra": "1.8-2.2 m (cuerpo) + 40-50 cm (cola)"
+    },
+    "colorPelaje": "Gris azulado a gris parduzco, con crines y colas oscuras.",
+    "caracteristicasEspeciales": "Cuernos curvados; Joroba en el hombro; Patas delgadas en contraste con el cuerpo robusto; Animal migratorio.",
+    "morfologia": [
+      "Cuerpo robusto, patas fuertes y cuello musculoso. Una leve joroba sobre los hombros.",
+      "Cuernos lisos y gruesos, curvados hacia afuera y arriba, presentes en ambos sexos.",
+      "Cabeza grande con un hocico ancho, adaptado para pastar en hierbas cortas.",
+      "Glándulas de olor en las patas y la cara para marcar territorios."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Sabanas, llanuras abiertas (praderas), y matorrales secos (especialmente la Puna del Serengeti).",
+    "distribucionGeografica": [
+      "Kenia, Tanzania (Serengeti/Masai Mara, su principal bastión), Botsuana, Sudáfrica, Zambia, Namibia."
+    ],
+    "adaptacionesHabitat": "Capacidad de recorrer largas distancias y de correr a altas velocidades para evadir depredadores. Tolerancia a altas temperaturas y sequías prolongadas.",
+    "descripcionHabitat": [
+      "Habita principalmente sabanas abiertas y llanuras, donde sus vastas manadas se mueven en un ciclo continuo buscando pastos frescos después de las lluvias. ",
+      "Requiere acceso regular al agua, por lo que las manadas migran entre fuentes de agua y pastos disponibles."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro (Especialista en pastoreo)",
+    "presasComunes": [
+      "Pastos cortos de sabana (Gramíneas).",
+      "Hierbas jóvenes y brotes verdes.",
+      "Ocasionalmente, hojas y arbustos bajos."
+    ],
+    "estrategiaCaza": "N/A (Pastoreo masivo)",
+    "descripcionDieta": [
+      "Se alimenta principalmente de pastos cortos. Su estrategia de migración está dictada por la necesidad de moverse constantemente a áreas con vegetación fresca y mayor valor nutritivo.",
+      "El ancho hocico y los incisivos adaptados les permiten pastar rápidamente grandes cantidades de hierba."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Altamente gregario. Viven en manadas que varían desde grupos pequeños hasta agregaciones masivas de cientos de miles durante la migración.",
+    "rolMacho": "Los machos adultos establecen territorios de apareamiento temporales (conocidos como *leks*) durante el celo y compiten violentamente por las hembras.",
+    "rolHembra": "Forman grupos sociales de forrajeo con sus crías y otras hembras. Son las encargadas del parto y la protección inicial del ternero.",
+    "actividadDiaria": "Diurno; pastoreo durante la mañana y el atardecer, descanso en las horas más calurosas y durante la noche.",
+    "comunicacion": [
+      "Señales auditivas (bufidos, bramidos y un distintivo 'gnu! gnu!').",
+      "Marcas olfativas para delimitación territorial (machos).",
+      "Movimiento coordinado de manada para alerta y defensa."
+    ],
+    "descripcionComportamiento": [
+      "La estampida y el movimiento masivo son su principal mecanismo de defensa contra los depredadores ápice (leones, hienas).",
+      "El parto es sincronizado, lo que facilita la protección colectiva de los terneros, que se ponen de pie y corren a los pocos minutos de nacer."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "3-4 años",
+      "hembra": "3-4 años"
+    },
+    "periodoGestacion": "8 meses y medio (aprox. 250 días).",
+    "tamanoCamada": "1 cría (ternero) por parto.",
+    "cuidadoCrias": "La madre protege y guía al ternero, que es capaz de caminar casi de inmediato para seguir a la manada. El destete ocurre alrededor de los 8 meses.",
+    "descripcionReproduccion": [
+      "El apareamiento (el 'celo') ocurre de forma sincronizada al final de la temporada de lluvias. El nacimiento también está altamente sincronizado (ocurre en un período de pocas semanas) para abrumar a los depredadores.",
+      "Los terneros nacen en las llanuras cortas del Serengeti, coincidiendo con la máxima disponibilidad de pastos nutritivos."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Especie clave: Su migración masiva mantiene la productividad de la sabana, dispersando semillas y reciclando nutrientes a través de sus excrementos.",
+    "Es la principal presa de los grandes depredadores africanos (leones, cocodrilos, hienas), lo que mantiene el equilibrio trófico de la región."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 4,
+    "inteligencia": 5,
+    "adaptabilidad": 7,
+    "fuerza": 7,
+    "velocidad": 6,
+    "tamano": 8,
+    "majestuosidad": 7,
+    "rareza": 5,
+    "supervivencia": 7,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "Durante las migraciones masivas, miles de ñus mueren cruzando ríos, sirviendo de alimento para cocodrilos y otros carroñeros. ",
+    "El ñu es notable por su parto rápido: la cría es capaz de correr junto a su madre a los pocos minutos de nacer, esencial para la supervivencia en la manada migratoria.",
+    "El ñu azul a menudo migra junto con cebras. Las cebras comen la parte superior del pasto y los ñus el resto, minimizando la competencia."
+  ]
+}

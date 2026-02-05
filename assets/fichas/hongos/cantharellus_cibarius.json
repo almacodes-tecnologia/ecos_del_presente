@@ -1,0 +1,42 @@
+{
+  "id": "cantharellus_cibarius",
+  "nombre": "Cantharellus cibarius",
+  "nombreCientifico": "Cantharellus cibarius",
+  "familia": "Cantharellaceae",
+  "imagen": "cantharellus_cibarius.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Cantharellus cibarius es un hongo basidiomiceto fácilmente distinguible por su morfología infundibuliforme (forma de embudo) y su coloración cromática uniforme en tonos amarillos vivos. Es un componente esencial de los ecosistemas forestales donde actúa como agente de intercambio nutricional.",
+
+  "caracteristicas": {
+    "sombrero": "3-12 cm de diámetro, evoluciona de convexo a deprimido o en forma de embudo. El margen es marcadamente ondulado, irregular y lobulado. Presenta una coloración que va desde el amarillo yema al anaranjado pálido.",
+    "laminas": "No son láminas reales, sino pliegues o pseudoláminas decurrentes (bajan por el pie). Se presentan como nervaduras bifurcadas y ramificadas, del mismo color que el resto del cuerpo fructífero.",
+    "pie": "Corto, macizo y lleno, que se ensancha progresivamente hacia la parte superior hasta fusionarse de manera continua con el sombrero.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Amarillo pálido o crema.",
+    "usoCultural": "Conocido en el ámbito científico por su alta resistencia a la descomposición y al ataque de parásitos, lo que facilita su estudio biológico en campo durante periodos prolongados."
+  },
+
+  "habitat": {
+    "tipo": "Bosques de frondosas (hayas, robles) y coníferas (pinos), con preferencia por suelos de carácter ácido.",
+    "relacionEcologica": "Establece simbiosis micorrícica con diversas especies arbóreas, favoreciendo el desarrollo del sotobosque en zonas húmedas y con presencia de musgo.",
+    "distribucionGeografica": ["Cosmopolita: Ampliamente distribuido en zonas templadas de Europa, América del Norte, Asia y África."],
+    "temporada": "Aparición persistente desde principios de verano hasta finales de otoño, tras periodos de humedad alta.",
+    "altitudRango": "Desde el nivel del mar hasta áreas de media montaña."
+  },
+
+  "curiosidades": [
+    "Su carne es notablemente firme y posee una resistencia natural inusual al ataque de larvas de insectos y otros invertebrados.",
+    "Exhala un compuesto volátil orgánico que genera una fragancia química muy similar a la de las frutas rosáceas como el albaricoque.",
+    "La pigmentación amarilla se debe a la alta concentración de carotenoides, los cuales desempeñan funciones de fotoprotección para el hongo."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 7,
+    "rareza": 5,
+    "simbolismo": 6,
+    "resistencia": 9,
+    "velocidadDeCrecimiento": 6,
+    "aura": 7
+  }
+}

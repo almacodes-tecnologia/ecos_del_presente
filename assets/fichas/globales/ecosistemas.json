@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bosque_mediterraneo",
+    "nombre": "Bosque Mediterráneo",
+    "imagen": "bosque_mediterraneo.webp",
+    "descripcionCorta": "Bosque dominado por encinas y alcornoques, adaptado a veranos calurosos y secos."
+  },
+  {
+    "id": "humedal_costero",
+    "nombre": "Humedal Costero",
+    "imagen": "humedal_costero.webp",
+    "descripcionCorta": "Área de agua salobre o dulce cerca de la costa, refugio de aves migratorias."
+  },
+  {
+    "id": "bosque_laurisilva",
+    "nombre": "Bosque de Laurisilva",
+    "imagen": "bosque_laurisilva.webp",
+    "descripcionCorta": "Bosque subtropical húmedo con árboles de hoja perenne y gran biodiversidad."
+  },
+  {
+    "id": "alta_montana",
+    "nombre": "Alta Montaña",
+    "imagen": "alta_montana.webp",
+    "descripcionCorta": "Ecosistema de gran altitud con especies adaptadas a temperaturas extremas."
+  },
+  {
+    "id": "selva_tropical",
+    "nombre": "Selva Tropical",
+    "imagen": "selva_tropical.webp",
+    "descripcionCorta": "Bosque de clima cálido y húmedo con la mayor biodiversidad del planeta."
+  },
+  {
+    "id": "desierto",
+    "nombre": "Desierto",
+    "imagen": "desierto.webp",
+    "descripcionCorta": "Ecosistema caracterizado por precipitaciones muy escasas y temperaturas extremas."
+  },
+  {
+    "id": "sabana",
+    "nombre": "Sabana",
+    "imagen": "sabana.webp",
+    "descripcionCorta": "Grandes extensiones con predominio de hierbas y pastos, habitadas por grandes herbívoros."
+  },
+  {
+    "id": "tundra",
+    "nombre": "Tundra",
+    "imagen": "tundra.webp",
+    "descripcionCorta": "Ecosistema frío del Ártico, con subsuelo congelado (permafrost) y vegetación de bajo porte."
+  },
+  {
+    "id": "océano",
+    "nombre": "Océano",
+    "imagen": "oceano.webp",
+    "descripcionCorta": "El ecosistema acuático más grande, de agua salada, esencial para la regulación del clima global."
+  },
+  {
+    "id": "arrecife_coral",
+    "nombre": "Arrecife de Coral",
+    "imagen": "arrecife_coral.webp",
+    "descripcionCorta": "Estructuras submarinas construidas por corales, consideradas 'selvas del mar' por su biodiversidad."
+  },
+  {
+    "id": "manglar",
+    "nombre": "Manglar",
+    "imagen": "manglar.webp",
+    "descripcionCorta": "Ecosistema costero mixto de transición, con árboles que toleran el agua salobre."
+  },
+  {
+    "id": "ecosistema_urbano",
+    "nombre": "Ecosistema Urbano",
+    "imagen": "ciudad.webp",
+    "descripcionCorta": "Ecosistema antrópico creado por el ser humano, incluyendo ciudades e infraestructuras."
+  }
+]

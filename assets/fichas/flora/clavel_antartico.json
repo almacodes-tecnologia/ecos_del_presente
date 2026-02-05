@@ -1,0 +1,115 @@
+{
+  "id": "clavel_antartico",
+  "nombre": "Clavel Antártico",
+  "nombreCientifico": "Colobanthus quitensis",
+  "fechaInformacion": "2025",
+  "imagen": "clavel_antartico.webp",
+  "introduccionPlanta": [
+    "El Clavel Antártico es una de las dos únicas plantas con flores nativas de la Antártida continental. Es una pequeña hierba perenne conocida por su increíble capacidad de sobrevivir a temperaturas extremas y vientos gélidos.",
+    "Su crecimiento y expansión recientes son un indicador directo de los efectos del calentamiento global en la Península Antártica, sirviendo como un crucial marcador del cambio ambiental."
+  ],
+  "descripcionLarga": [
+    "El **clavel antártico** (*Colobanthus quitensis*) es una de las dos únicas plantas con flores que han logrado colonizar y sobrevivir en el entorno más inhóspito de la Tierra: el continente antártico. Este humilde pero extraordinario habitante de la Antártida es una pequeña hierba perenne que forma matas densas y compactas, una adaptación crucial para protegerse del frío extremo y los vientos gélidos. Sus hojas son pequeñas, carnosas y se agrupan en rosetas, lo que maximiza la absorción de calor solar en los pocos momentos en que este se presenta.",
+    "Durante el brevísimo verano antártico, el clavel antártico sale de su letargo para realizar fotosíntesis y florecer. Sus flores son tan pequeñas como la planta misma, de un color verde apagado, carecen de pétalos vistosos y son inodoras. Estas flores se autopolinizan o lo hacen con la ayuda de raros insectos, asegurando la supervivencia de la especie. La reproducción es principalmente asexual, por lo que la planta se propaga a partir de sus propias matas, pero la producción de semillas es fundamental para su dispersión.",
+    "Aunque el clavel antártico es un símbolo de una resistencia inigualable, también es un **indicador de los efectos del cambio climático**. A medida que las temperaturas en la Península Antártica aumentan, las áreas sin hielo se expanden, permitiendo que esta especie colonice nuevos territorios. Esto podría parecer beneficioso para la planta, pero es una señal alarmante de la transformación irreversible que está ocurriendo en el polo sur. El clavel antártico es un testigo silencioso y crucial del cambio global, un recordatorio de que la vida puede persistir en las condiciones más adversas, pero también de que incluso los ecosistemas más remotos son vulnerables."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Tracheophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Caryophyllales",
+    "familia": "Caryophyllaceae",
+    "genero": "Colobanthus",
+    "especie": "C. quitensis"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable, pero muy vulnerable al cambio climático (población en expansión localmente debido al calentamiento).",
+    "amenazasPrincipales": [
+      "Calentamiento global, que causa el derretimiento del hielo y la nieve.",
+      "Cambios en el permafrost y en la disponibilidad de agua.",
+      "Presión de especies invasoras que podrían colonizar la Antártida.",
+      "Actividad humana (turismo e investigación) en sus áreas de crecimiento."
+    ],
+    "esfuerzosConservacion": [
+      "Monitoreo de su crecimiento y salud en la Península Antártica.",
+      "Investigación sobre sus mecanismos de adaptación al frío y la radiación.",
+      "Regulación del turismo y la actividad científica en el continente (Tratado Antártico)."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Hierba perenne, de pequeño tamaño y crecimiento en matas densas (cespitoso).",
+    "alturaPromedio": "1 - 5 cm (0.4 - 2 in).",
+    "colorFollaje": "Verde a verde-amarillento (textura carnosa).",
+    "tipoRaiz": "Fasciculada, poco profunda.",
+    "tallos": "Muy cortos y ramificados, formando una mata compacta.",
+    "hojas": "Lineares y sésiles, con una textura carnosa y dispuestas en rosetas densas.",
+    "flores": {
+      "forma": "Muy pequeñas, con cuatro o cinco sépalos y sin pétalos (apariencia de pequeña flor verdosa).",
+      "colores": "Verde a verdoso-amarillento.",
+      "fragancia": "Inodora.",
+      "tamano": "Menos de 1 cm (0.4 in) de diámetro."
+    },
+    "frutos": "Una cápsula pequeña que contiene numerosas semillas diminutas."
+  },
+  "habitat": {
+    "tipo": "Suelos húmedos y rocosos, a menudo en laderas expuestas al sol (zonas libres de hielo).",
+    "distribucionGeografica": [
+      "Una de las dos únicas plantas con flores nativas de la Antártida continental.",
+      "Se encuentra en la Península Antártica y en las islas subantárticas (ej. Islas Orcadas del Sur)."
+    ],
+    "preferenciasSuelo": "Suelos húmedos, rocosos y pobres en materia orgánica.",
+    "preferenciasLuz": "Pleno sol. Requiere una alta exposición solar, aunque crece en condiciones de baja luminosidad y temperaturas extremas."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas. La germinación es difícil y requiere condiciones de laboratorio.",
+      "División de la mata (método más efectivo)."
+    ],
+    "riego": "Requiere humedad constante, pero un drenaje muy bueno. Muy sensible al encharcamiento.",
+    "poda": "No se poda.",
+    "fertilizacion": "No se fertiliza. Adaptada a suelos muy pobres.",
+    "plagasComunes": [
+      "No tiene plagas conocidas en su hábitat natural (ecosistema prístino)."
+    ],
+    "enfermedadesComunes": [
+      "No tiene enfermedades conocidas."
+    ]
+  },
+  "usos": {
+    "ornamental": "No se usa en jardinería. Su cultivo es experimental y científico.",
+    "culinario": [
+      "No tiene usos culinarios."
+    ],
+    "medicinal": [
+      "No tiene usos medicinales directos conocidos."
+    ],
+    "industrial": [
+      "No tiene usos industriales. Es una planta de interés científico para el estudio de la adaptación al estrés."
+    ],
+    "simbolismo": "Resiliencia, supervivencia, y la vida en los entornos más extremos. Un símbolo de la vida en la Antártida y del cambio climático."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (por crecimiento de la mata).",
+    "polinizacion": "Autopolinización o por pequeños insectos que pueden haber sido introducidos.",
+    "momentoFloracion": "Corto verano antártico (diciembre a febrero).",
+    "cicloVida": "Perenne, de larga vida (crecimiento extremadamente lento)."
+  },
+  "atributosFantasia": {
+    "belleza": 2,
+    "rareza": 5,
+    "vitalidad": 5,
+    "resistencia": 5,
+    "impactoEcologico": 4,
+    "misticismo": 5,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "El clavel antártico (*Colobanthus quitensis*) y el pasto antártico (*Deschampsia antarctica*) son las dos únicas plantas con flores nativas del continente antártico.",
+    "Es una planta increíblemente resistente, capaz de sobrevivir a temperaturas bajo cero, a la congelación y descongelación diaria y a los fuertes vientos.",
+    "Su metabolismo se activa solo unos pocos días al año, durante el corto verano antártico, para realizar la fotosíntesis y florecer.",
+    "A pesar de su nombre común, no está relacionado con los claveles que conocemos, aunque pertenece a la misma familia botánica.",
+    "El calentamiento global está provocando que su área de distribución se expanda rápidamente hacia el sur de la Península Antártica, lo que es una señal preocupante del cambio ambiental en la región."
+  ]
+}

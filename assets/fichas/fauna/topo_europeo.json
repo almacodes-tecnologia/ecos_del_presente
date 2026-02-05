@@ -1,0 +1,163 @@
+{
+  "id": "topo_europeo",
+  "nombre": "Topo Europeo",
+  "nombreCientifico": "Talpa europaea",
+  "fechaInformacion": "2025",
+
+  "imagen": "topo_europeo.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El topo europeo (*Talpa europaea*) es un pequeño mamífero insectívoro, maestro de la vida subterránea, que habita extensos sistemas de túneles en toda Europa. ",
+    "Está perfectamente diseñado para excavar: su cuerpo es cilíndrico, sus patas delanteras son anchas y palmeadas, y su suave pelaje le permite moverse hacia adelante o hacia atrás sin esfuerzo dentro de los túneles."
+  ],
+
+  "descripcionLarga": [
+    "Perteneciente al orden Eulipotyphla, el topo europeo pasa casi toda su vida bajo tierra. Su sistema de túneles es doble: utiliza túneles superficiales para cazar lombrices y túneles más profundos y permanentes para descansar, almacenar alimento y criar.",
+    "Las famosas 'topineras' o montículos de tierra son el resultado del desalojo de tierra durante la excavación de estos túneles. Es un animal extremadamente territorial y solitario; un individuo a menudo posee una red de túneles que abarca más de media hectárea.",
+    "Aunque tiene ojos diminutos (a menudo cubiertos por una capa de piel), su sentido más desarrollado es el tacto, especialmente a través de su sensible nariz, equipada con órganos de Eimer que le permiten 'tocar' el suelo para detectar presas y vibraciones. Además, cuenta con adaptaciones fisiológicas únicas, como la hemoglobina especializada para captar oxígeno en ambientes con baja concentración."
+  ],
+
+  "observaciones": [
+    "El topo es funcionalmente ciego o tiene una visión muy pobre, pero sus ojos son capaces de detectar la luz, lo que le ayuda a saber si está de día o de noche.",
+    "Almacena alimento (principalmente lombrices) en cámaras especiales, inmovilizándolas con una mordedura no letal para consumirlas más tarde.",
+    "Puede morir de hambre rápidamente (en 12 a 24 horas) si no encuentra alimento, debido a su metabolismo rápido."
+  ],
+
+  "longevidad": {
+    "enLibertad": "3–5 años",
+    "enCautividad": "Hasta 6 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia (Mamíferos)",
+    "orden": "Eulipotyphla (Antes Insectivora)",
+    "familia": "Talpidae (Tálpidos)",
+    "genero": "Talpa",
+    "especie": "T. europaea"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable y común.",
+    "amenazasPrincipales": [
+      "Persecución y control directo por parte de agricultores y jardineros.",
+      "Uso de pesticidas y venenos que matan sus presas (lombrices) y contaminan su hábitat.",
+      "Drenaje de humedales y cambios en el uso del suelo."
+    ],
+    "esfuerzosConservacion": [
+      "Educación sobre su papel ecológico beneficioso (aireación del suelo).",
+      "Métodos de control no letales para evitar daños en céspedes.",
+      "Protección de zonas de suelo ricas en invertebrados."
+    ],
+    "descripcionConservacion": [
+      "El topo europeo es una especie adaptable y su población es estable. Su principal amenaza radica en el conflicto con los humanos debido a los daños estéticos causados por las topineras en céspedes y campos de golf."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "70–120 g",
+      "hembraAdulta": "60–100 g",
+      "maximoRegistrado": "130 g"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "12–16 cm (Cuerpo); 2–4 cm (Cola)",
+      "hembra": "11–15 cm (Cuerpo); 2–3 cm (Cola)"
+    },
+    "colorPelaje": "Negro o gris pizarra oscuro, con un brillo aterciopelado que repele el barro.",
+    "caracteristicasEspeciales": "Manos en forma de pala (rotadas hacia afuera); Ausencia de pabellón auditivo externo; Nariz ultrasensible con Órganos de Eimer.",
+    "morfologia": [
+      "Cuerpo cilíndrico, compacto y fusiforme, ideal para minimizar la fricción al excavar.",
+      "Extremidades anteriores extremadamente grandes y fuertes, con uñas robustas, orientadas lateralmente para 'nadar' a través de la tierra.",
+      "Pelaje denso y corto que no tiene dirección específica, permitiendo el movimiento bidireccional en los túneles."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Suelos profundos, húmedos y fértiles: Praderas, bosques caducifolios, pastizales y jardines.",
+    "distribucionGeografica": [
+      "Gran parte de Europa (desde Gran Bretaña hasta Rusia), excluyendo zonas montañosas altas y las regiones mediterráneas secas."
+    ],
+    "adaptacionesHabitat": "Tolerancia fisiológica al dióxido de carbono y niveles bajos de oxígeno en el suelo. Dependencia del suelo húmedo para la abundancia de lombrices.",
+    "descripcionHabitat": [
+      "Elige suelos ricos en materia orgánica que soporten la densa población de lombrices, su principal fuente de alimento.",
+      "Raramente se aventura en la superficie, excepto para buscar materiales de anidación o durante la dispersión de los machos jóvenes."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Insectívoro/Vermívoro)",
+    "presasComunes": [
+      "Lombrices de tierra (constituyen la mayor parte de su dieta).",
+      "Larvas de insectos y escarabajos.",
+      "Ocasionalmente, pequeños roedores o anfibios (si son encontrados en los túneles)."
+    ],
+    "estrategiaCaza": "Caza en túneles. Detecta a la presa por el oído y las vibraciones del suelo. Inmoviliza y almacena lombrices mediante la mutilación del segmento anterior.",
+    "descripcionDieta": [
+      "Posee un apetito voraz y debe comer continuamente para mantener su alto metabolismo.",
+      "Puede consumir hasta el 80% de su propio peso corporal en lombrices diariamente."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitaria (Excepto en apareamiento y cría).",
+    "rolMacho": "Mantiene un territorio amplio que defiende ferozmente. Busca hembras activamente al comienzo de la primavera.",
+    "rolHembra": "Defiende un territorio más pequeño y construye un nido profundo y seguro para las crías.",
+    "actividadDiaria": "Actividad cíclica: alternan períodos de 4 horas de actividad (caza) y 4 horas de descanso, activos tanto de día como de noche.",
+    "comunicacion": [
+      "Vibraciones sísmicas a través del suelo.",
+      "Señales olfativas (marcas de olor territorial).",
+      "Chirridos agudos y sonidos suaves de 'habla' entre madre y cría."
+    ],
+    "descripcionComportamiento": [
+      "El topo es extremadamente territorial; las interacciones entre adultos suelen ser violentas o de persecución, excepto durante el apareamiento.",
+      "El 'montículo fortaleza' es una cámara de anidación profunda protegida, a menudo más grande que las topineras superficiales."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo",
+    "madurezSexual": {
+      "macho": "1 año",
+      "hembra": "1 año"
+    },
+    "periodoGestacion": "28–30 días (Aproximadamente 4 semanas).",
+    "tamanoCamada": "3–7 crías (Generalmente solo una camada al año).",
+    "cuidadoCrias": "La hembra se encarga en solitario del cuidado de las crías, a las que desteta en 4-5 semanas.",
+    "descripcionReproduccion": [
+      "La época de cría es corta y se centra en la primavera (marzo a mayo).",
+      "Las crías crecen rápidamente y son obligadas a abandonar el nido materno para encontrar su propio territorio a las 5-6 semanas de edad."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Aireación y drenaje del suelo: Su excavación constante mejora la estructura, el drenaje y la aireación del suelo, favoreciendo la fertilidad de la tierra.",
+    "Control de plagas: Es un eficiente depredador de larvas y babosas que pueden ser perjudiciales para los cultivos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 4,
+    "adaptabilidad": 7,
+    "fuerza": 3,
+    "velocidad": 3,
+    "tamano": 1,
+    "majestuosidad": 2,
+    "rareza": 3,
+    "supervivencia": 7,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Un topo puede excavar un promedio de 20 metros de túneles nuevos en una sola noche de caza.",
+    "El Topo Europeo tiene un tipo único de hemoglobina que le permite reciclar el oxígeno de manera más eficiente, ayudándolo a sobrevivir en las atmósferas con alto $\text{CO}_2$ de sus túneles.",
+    "Puede nadar, pero solo lo hace si sus túneles se inundan."
+  ]
+}

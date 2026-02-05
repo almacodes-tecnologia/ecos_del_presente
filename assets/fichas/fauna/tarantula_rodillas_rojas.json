@@ -1,0 +1,165 @@
+{
+  "id": "tarantula_rodillas_rojas",
+  "nombre": "Tarántula Rodillas Rojas Mexicana",
+  "nombreCientifico": "Brachypelma smithi",
+  "fechaInformacion": "2025",
+
+  "imagen": "tarantula_rodillas_rojas.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La tarántula rodillas rojas mexicana (*Brachypelma smithi*) es una araña terrestre de la familia Theraphosidae, famosa por su belleza y docilidad, que se ha convertido en un ícono de las tarántulas de mascota. ",
+    "Su nombre se debe a las distintivas y brillantes articulaciones de color rojo anaranjado que contrastan con su cuerpo oscuro, un claro ejemplo de aposematismo (colores de advertencia)."
+  ],
+
+  "descripcionLarga": [
+    "Esta tarántula es endémica de las zonas áridas y los bosques secos del Pacífico mexicano. Su vida transcurre en madrigueras subterráneas que excava o reutiliza, las cuales le proporcionan la humedad y la protección térmica necesarias durante el día. Son cazadoras nocturnas que esperan a sus presas cerca de la entrada de su guarida.",
+    "A pesar de su apariencia intimidante, el veneno de *B. smithi* es leve y generalmente no representa un peligro serio para los humanos. Su principal defensa, en lugar de morder, es lanzar **pelos urticantes** del abdomen (un comportamiento conocido como 'pateo'). Estos pelos actúan como una irritación química que disuade a los depredadores.",
+    "Las hembras son particularmente longevas, a menudo sobreviviendo a los machos por más de una década."
+  ],
+
+  "observaciones": [
+    "Debido a su lenta madurez y alta demanda en el comercio de mascotas, fue una de las primeras especies de tarántula en ser incluida en el Apéndice II de CITES (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres).",
+    "Los pelos urticantes pueden causar erupciones cutáneas severas y problemas respiratorios o de visión si entran en contacto con mucosas o los ojos.",
+    "La taxonomía de este género ha sido históricamente confusa, y esta especie a veces se confunde con la tarántula rodillas rojas de Smith (*B. hamorii*)."
+  ],
+
+  "longevidad": {
+    "enLibertad": "15-20 años (Hembras)",
+    "enCautividad": "Hasta 25 años (Hembras); 5-8 años (Machos)"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Arthropoda (Artrópodos)",
+    "clase": "Arachnida (Arácnidos)",
+    "orden": "Araneae (Arañas)",
+    "suborden": "Mygalomorphae (Tarántulas)",
+    "familia": "Theraphosidae",
+    "genero": "Brachypelma",
+    "especie": "B. smithi"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN)",
+    "tendenciaPoblacion": "Declinante (aunque estabilizada gracias a las regulaciones).",
+    "amenazasPrincipales": [
+      "Captura ilegal para el comercio de mascotas exóticas antes de la regulación CITES.",
+      "Destrucción del hábitat debido a la agricultura y el desarrollo costero.",
+      "Lenta madurez sexual, lo que dificulta la recuperación de las poblaciones."
+    ],
+    "esfuerzosConservacion": [
+      "Inclusión en el Apéndice II de CITES para regular su comercio internacional y requerir permisos de exportación.",
+      "Programas de cría sostenible en cautividad que reducen la presión sobre las poblaciones silvestres.",
+      "Protección de las áreas de distribución en México."
+    ],
+    "descripcionConservacion": [
+      "El comercio ilegal fue la mayor amenaza, lo que llevó a la protección internacional. La especie tiene una madurez sexual tardía (hasta 10 años en algunos casos), lo que la hace vulnerable a la sobreexplotación."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "15-25 g",
+      "hembraAdulta": "25-30 g",
+      "maximoRegistrado": "35 g"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "7-8 cm (Longitud del cuerpo); 15-17 cm (Longitud con patas extendidas)",
+      "hembra": "8-10 cm (Longitud del cuerpo); 16-18 cm (Longitud con patas extendidas)"
+    },
+    "colorPelaje": "Coloración de las patas: Negras con bandas de pelo anaranjado-rojizo brillante en las articulaciones de la rodilla (rótulas). El cuerpo es generalmente negro o marrón oscuro.",
+    "caracteristicasEspeciales": "Ocho ojos simples (ocelos); Pelos urticantes en el abdomen; Colmillos grandes (quelíceros); Patas robustas y peludas.",
+    "morfologia": [
+      "Cuerpo compuesto por cefalotórax y abdomen (opistosoma). La cabeza y el tórax están cubiertos por un escudo (carapacho).",
+      "Ocho patas locomotoras, gruesas y cubiertas de pelos.",
+      "Las hembras son más robustas y masivas que los machos, que son más esbeltos y tienen patas proporcionalmente más largas."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques secos caducifolios, matorrales espinosos y zonas áridas costeras.",
+    "distribucionGeografica": [
+      "Endémica de la costa del Pacífico de México (específicamente estados de Guerrero y Colima)."
+    ],
+    "adaptacionesHabitat": "Comportamiento fosorial (excavadora), creando madrigueras profundas para mantener una temperatura y humedad constantes, vitales para su supervivencia.",
+    "descripcionHabitat": [
+      "Prefiere zonas con suficiente cobertura para ocultar la entrada de su madriguera (raíces, rocas).",
+      "Tolera las altas temperaturas externas y la sequía, permaneciendo inactiva en la madriguera durante los períodos más secos o fríos."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívora (Depredador de emboscada)",
+    "presasComunes": [
+      "Insectos grandes (grillos, cucarachas).",
+      "Arácnidos (escorpiones).",
+      "Pequeños reptiles (lagartos).",
+      "Ratones (ocasionalmente, en grandes hembras)."
+    ],
+    "estrategiaCaza": "Acecho (sit and wait). Espera a la entrada de la madriguera, detecta las vibraciones de la presa y la captura con un rápido ataque, inyectando veneno.",
+    "descripcionDieta": [
+      "La tarántula ingiere líquidos pre-digeridos, ya que su veneno contiene enzimas que disuelven los tejidos blandos de la presa externamente.",
+      "Las hembras adultas son capaces de someter presas considerablemente más grandes que ellas."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitaria (Altamente territorial).",
+    "rolMacho": "Busca activamente a la hembra para el apareamiento. Tras reproducirse, su vida útil suele ser corta.",
+    "rolHembra": "Excava y mantiene la madriguera, caza y protege la ooteca (saco de huevos).",
+    "actividadDiaria": "Nocturna (Crepuscular y nocturna).",
+    "comunicacion": [
+      "Vibraciones del sustrato (para detectar presas y parejas).",
+      "Señales químicas (feromonas sexuales).",
+      "Comportamiento defensivo (levantamiento de patas y lanzamiento de pelos urticantes)."
+    ],
+    "descripcionComportamiento": [
+      "El macho realiza un cortejo ritualístico para evitar ser confundido con una presa. Usa ganchos en sus patas delanteras (espolones tibiales) para sujetar los colmillos de la hembra durante la cópula.",
+      "Generalmente son dóciles, prefiriendo huir o lanzar pelos antes que morder."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "4-5 años",
+      "hembra": "5-6 años (pudiendo ser más de 10 años en la naturaleza)"
+    },
+    "periodoGestacion": "6-8 semanas (Tiempo desde la puesta hasta la eclosión en la ooteca).",
+    "tamanoCamada": "50-1000 huevos por ooteca (promedio 300-600 huevos).",
+    "cuidadoCrias": "La hembra teje y protege vigorosamente la ooteca dentro de la madriguera, a menudo rotándola y sosteniéndola para controlar la humedad.",
+    "descripcionReproduccion": [
+      "La hembra teje una gran bolsa de seda (ooteca) donde deposita los huevos fertilizados.",
+      "Los jóvenes (spiderlings) emergen de la ooteca y permanecen juntos brevemente antes de dispersarse y comenzar a excavar sus propias madrigueras."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Depredador importante en su microhábitat, controlando poblaciones de invertebrados.",
+    "Forma parte del ecosistema de la madriguera, sirviendo como presa para aves rapaces, serpientes (como las corales) y mamíferos (como los coatíes)."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 4,
+    "inteligencia": 3,
+    "adaptabilidad": 7,
+    "fuerza": 2,
+    "velocidad": 3,
+    "tamano": 2,
+    "majestuosidad": 5,
+    "rareza": 6,
+    "supervivencia": 6,
+    "impactoEcologico": 5
+  },
+
+  "curiosidades": [
+    "Los pelos urticantes son lanzados al aire o frotados directamente sobre el atacante. Si son inhalados, pueden ser peligrosos.",
+    "Las hembras de tarántula rodillas rojas tienen una de las mayores longevidades registradas entre las arañas, superando los 20 años.",
+    "Los machos solo viven unos pocos meses después de alcanzar la madurez sexual y completar la reproducción."
+  ]
+}

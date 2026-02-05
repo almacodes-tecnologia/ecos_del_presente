@@ -1,0 +1,110 @@
+{
+  "id": "loto",
+  "nombre": "Flor de Loto",
+  "nombreCientifico": "Nelumbo nucifera",
+  "fechaInformacion": "2025",
+  "imagen": "loto.webp",
+  "introduccionPlanta": [
+    "La Flor de Loto es una planta acuática perenne de Asia, venerada en muchas culturas por sus grandes y espectaculares flores que emergen inmaculadas del lodo.",
+    "Simboliza la pureza, la iluminación y el renacimiento espiritual, y es famosa por sus hojas autolimpiables gracias al 'efecto loto'."
+  ],
+  "descripcionLarga": [
+    "La **flor de loto** (*Nelumbo nucifera*) es una planta acuática perenne y una de las flores más veneradas y simbólicas de Asia. Elevándose majestuosamente desde las aguas lodosas de lagos y estanques, el loto es un poderoso símbolo de **pureza, belleza, iluminación y renacimiento**. Sus grandes y espectaculares flores de color rosa o blanco se abren al amanecer y se cierran al atardecer, exhalando una suave y dulce fragancia.",
+    "Físicamente, el loto es una planta fascinante. Sus hojas circulares son famosas por el **'efecto loto'**, una propiedad hidrofóbica que hace que las gotas de agua rueden sobre la superficie, llevándose consigo la suciedad y el polvo y manteniendo la hoja impecable. Esta asombrosa cualidad ha sido objeto de investigación científica e inspiración para la nanotecnología. Además, el loto tiene la capacidad de **termorregulares**, generando calor para atraer a sus polinizadores en las horas más frías de la noche.",
+    "Más allá de su belleza ornamental y su profundo simbolismo religioso, el loto es una planta de gran utilidad. Sus rizomas (raíces) y semillas son un manjar en la cocina asiática, y diversas partes de la planta se utilizan en la medicina tradicional. Sus semillas, con una increíble longevidad, son un testimonio de la resistencia de la naturaleza, habiendo germinado con éxito después de permanecer latentes durante más de mil años. El loto es más que una flor, es un testimonio de cómo la belleza y la pureza pueden florecer en la adversidad."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Tracheophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Proteales",
+    "familia": "Nelumbonaceae",
+    "genero": "Nelumbo",
+    "especie": "N. nucifera"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable. Ampliamente cultivada y nativa en una gran región.",
+    "amenazasPrincipales": [
+      "Contaminación del agua en cuerpos de agua naturales.",
+      "Pérdida de hábitat acuático debido al drenaje de pantanos."
+    ],
+    "esfuerzosConservacion": [
+      "Ningún esfuerzo de conservación específico globalmente, aunque se monitorean poblaciones locales."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Planta acuática, perenne, con un rizoma subterráneo.",
+    "alturaPromedio": "0.5 - 1.5 m (1.6 - 5 ft) sobre la superficie del agua.",
+    "colorFollaje": "Verde azulado (con efecto hidrofóbico).",
+    "tipoRaiz": "Rizoma (tuberosa) anclada en el fondo.",
+    "tallos": "Pecíolos largos y flexibles que conectan las hojas y flores al rizoma.",
+    "hojas": "Grandes, circulares (peltadas), hidrofóbicas, que flotan o se elevan sobre el agua.",
+    "flores": {
+      "forma": "Grandes, solitarias, con numerosos pétalos y un receptáculo central cónico (similar a una ducha).",
+      "colores": "Rosado, blanco, o amarillo pálido.",
+      "fragancia": "Suave, dulce y agradable.",
+      "tamano": "Hasta 25 cm (10 in) de diámetro."
+    },
+    "frutos": "Una cabeza de semillas leñosa, porosa y de forma cónica, que contiene semillas duras."
+  },
+  "habitat": {
+    "tipo": "Lagos, estanques, pantanos y ríos de corriente lenta (aguas poco profundas).",
+    "distribucionGeografica": [
+      "Nativa de Asia y Australia (desde el sureste de Asia hasta el norte de Australia)."
+    ],
+    "preferenciasSuelo": "Suelos acuosos y lodosos (sustrato arcilloso en el fondo).",
+    "preferenciasLuz": "Pleno sol. Requiere al menos 6 horas de luz solar directa al día para florecer."
+  },
+  "cultivo": {
+    "propagacion": [
+      "División del rizoma (método más común y efectivo).",
+      "Semillas (escarificación necesaria)."
+    ],
+    "riego": "Planta acuática. Mantener el recipiente o estanque siempre lleno de agua.",
+    "poda": "Se cortan las hojas y flores marchitas a nivel del sustrato.",
+    "fertilizacion": "Fertilizantes específicos para plantas acuáticas, aplicados en la base del sustrato cerca del rizoma.",
+    "plagasComunes": [
+      "Pulgones (en las hojas que se elevan)."
+    ],
+    "enfermedadesComunes": [
+      "Pudrición del rizoma (por falta de oxígeno o exceso de humedad estancada)."
+    ]
+  },
+  "usos": {
+    "ornamental": "Planta de estanque, jardín acuático y punto focal en paisajes acuáticos.",
+    "culinario": [
+      "Las raíces (rizomas o tallos de loto), semillas y hojas jóvenes son comestibles y se utilizan en la cocina asiática."
+    ],
+    "medicinal": [
+      "Varias partes de la planta se usan en la medicina tradicional asiática para tratar diversas dolencias (ej. astringente)."
+    ],
+    "industrial": [
+      "Las hojas se usan para envolver alimentos. Las fibras de los tallos se tejen en telas."
+    ],
+    "simbolismo": "Pureza, iluminación, renacimiento, belleza y crecimiento espiritual. Es una flor sagrada en el hinduismo y el budismo."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (rizomas).",
+    "polinizacion": "Entomófila (por insectos) y por autopolinización.",
+    "momentoFloracion": "Verano (junio a septiembre).",
+    "cicloVida": "Perenne, de larga vida."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 3,
+    "vitalidad": 5,
+    "resistencia": 4,
+    "impactoEcologico": 4,
+    "misticismo": 5,
+    "fraganciaMagica": 4,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "La flor de loto es una de las plantas más antiguas del mundo, con una historia de más de 145 millones de años.",
+    "El loto es famoso por el 'efecto loto', la capacidad de sus hojas para repeler el agua y el polvo, lo que las mantiene siempre limpias. Esta propiedad ha inspirado el desarrollo de recubrimientos autolimpiantes.",
+    "Las flores de loto tienen la capacidad de termorregularse, manteniendo una temperatura de 30-35 °C (86-95 °F) incluso si el aire circundante es más frío, atrayendo a polinizadores.",
+    "Sus semillas pueden permanecer viables durante siglos. Se han germinado semillas de loto de más de 1.300 años de antigüedad encontradas en un lago seco en China.",
+    "En la mitología hindú y budista, el loto emerge inmaculado del lodo, simbolizando la pureza y el renacimiento espiritual."
+  ]
+}

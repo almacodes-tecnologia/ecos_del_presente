@@ -1,0 +1,163 @@
+{
+  "id": "zorro_rojo",
+  "nombre": "Zorro Rojo",
+  "nombreCientifico": "Vulpes vulpes",
+  "fechaInformacion": "2025",
+
+  "imagen": "zorro_rojo.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El zorro rojo (*Vulpes vulpes*) es el cánido silvestre con la **distribución geográfica más amplia del planeta**, abarcando casi todo el hemisferio norte. ",
+    "Reconocido en el folclore por su **astucia**, es un depredador altamente adaptable, capaz de prosperar tanto en entornos rurales como en densas áreas urbanas."
+  ],
+
+  "descripcionLarga": [
+    "Su éxito se basa en una combinación de inteligencia, flexibilidad dietética y excelentes sentidos, especialmente el oído. El zorro utiliza un característico **salto en arco** que finaliza con la captura de presas pequeñas (principalmente roedores) que detecta acústicamente bajo la nieve o la hierba densa.",
+    "El pelaje es típicamente rojo anaranjado brillante, con patas negras ('botas') y una característica punta de cola blanca, que se cree utiliza como señal de comunicación o alarma. Su cuerpo es esbelto y liviano, con un hocico afilado.",
+    "Aunque son generalmente solitarios para cazar, las parejas monógamas pueden formar pequeños grupos familiares durante la época de cría, a menudo asistidos por 'ayudantes' (zorros del año anterior) en la crianza de los cachorros."
+  ],
+
+  "observaciones": [
+    "El zorro rojo es un competidor superior al zorro ártico en la tundra y ha expandido su rango hacia el norte debido al cambio climático.",
+    "La cola tupida, o 'cepillo', le sirve como mecanismo de equilibrio y, en invierno, como manta para calentarse.",
+    "Su habilidad para coexistir con los humanos en ciudades (aprovechando la basura y los jardines) demuestra su gran adaptabilidad."
+  ],
+
+  "longevidad": {
+    "enLibertad": "3-6 años (Raramente más debido a la actividad humana)",
+    "enCautividad": "Hasta 14 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia (Mamíferos)",
+    "orden": "Carnivora",
+    "familia": "Canidae (Cánidos)",
+    "genero": "Vulpes",
+    "especie": "V. vulpes"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable (y creciente en muchas zonas urbanas y periurbanas).",
+    "amenazasPrincipales": [
+      "Persecución humana (caza y trampas, a menudo percibido como plaga).",
+      "Tráfico vehicular y atropellos.",
+      "Enfermedades como la rabia o la sarna."
+    ],
+    "esfuerzosConservacion": [
+      "Manejo de poblaciones mediante vacunación oral (especialmente contra la rabia) en Europa.",
+      "Educación pública sobre la coexistencia en áreas urbanas.",
+      "Monitoreo de su impacto en ecosistemas sensibles."
+    ],
+    "descripcionConservacion": [
+      "Su resiliencia y capacidad para explotar diversos nichos de hábitat aseguran que la especie no esté en peligro a nivel global. Los desafíos se centran en el manejo de poblaciones y la prevención de enfermedades zoonóticas."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "5-9 kg",
+      "hembraAdulta": "4-7 kg",
+      "maximoRegistrado": "14 kg (en grandes subespecies)"
+    },
+    "alturaHombro": {
+      "macho": "35-45 cm (A la cruz)",
+      "hembra": "35-42 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "45-90 cm (Cuerpo); 30-55 cm (Cola)",
+      "hembra": "45-85 cm (Cuerpo); 30-45 cm (Cola)"
+    },
+    "colorPelaje": "Generalmente rojo anaranjado brillante en el dorso; blanco o gris claro en el vientre; patas y orejas negras. Punta de la cola blanca.",
+    "caracteristicasEspeciales": "Cola tupida ('cepillo'). Hocico alargado y delgado. Pupila vertical elíptica.",
+    "morfologia": [
+      "Cuerpo esbelto con patas relativamente cortas, adaptado para correr largas distancias y moverse con agilidad.",
+      "Orejas grandes y erectas que facilitan la detección de sonidos de baja frecuencia (roedores).",
+      "La cola constituye casi la mitad de la longitud total del cuerpo, utilizada para equilibrarse en saltos y como contrapeso."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques, praderas, dunas, tundras, áreas agrícolas y entornos urbanos y suburbanos.",
+    "distribucionGeografica": [
+      "Eurasia (incluida la mayor parte de Europa y Asia), América del Norte y el Norte de África (introducido en Australia)."
+    ],
+    "adaptacionesHabitat": "Dieta extremadamente flexible; capacidad para utilizar madrigueras existentes de otros animales (tejones) o cavar las propias; termorregulación eficaz.",
+    "descripcionHabitat": [
+      "Prefiere paisajes diversos que ofrezcan cobertura vegetal para el refugio y áreas abiertas para la caza.",
+      "Las madrigueras (den) son esenciales para el parto y la cría de los cachorros, a menudo ubicadas en pendientes o debajo de raíces de árboles."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Omnívoro Oportunista (Principalmente Carnívoro/Insectívoro)",
+    "presasComunes": [
+      "Roedores (ratones, topillos) y conejos (son la base de su dieta).",
+      "Aves, huevos y pequeños reptiles.",
+      "Insectos, lombrices y carroña.",
+      "Frutas, bayas y tubérculos (componente estacional importante)."
+    ],
+    "estrategiaCaza": "Caza solitaria. Utiliza la 'escucha' para localizar presas bajo el suelo, seguida de un salto vertical preciso (pouncing).",
+    "descripcionDieta": [
+      "La dieta cambia drásticamente según la estación y el entorno. En invierno, los roedores son vitales; en verano, los insectos y la fruta aumentan en importancia.",
+      "El zorro entierra el excedente de alimento en cachés dispersos para recuperarlo más tarde."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Generalmente solitario fuera de la temporada de cría, formando parejas reproductivas monógamas o grupos familiares estables.",
+    "rolMacho": "Proporciona alimento a la hembra y a los cachorros durante las primeras semanas, mientras la hembra permanece en la madriguera.",
+    "rolHembra": "Cuida, protege y amamanta a los cachorros. A veces, las hijas no reproductoras se quedan como 'niñeras' (rol ayudante).",
+    "actividadDiaria": "Crepuscular y Nocturno (principalmente). Puede ser diurno en áreas remotas o poco perturbadas.",
+    "comunicacion": [
+      "Amplio repertorio vocal (más de 20 sonidos): ladridos, aullidos, chillidos y gritos (a menudo descrito como un 'grito de mujer').",
+      "Marcaje territorial con orina y glándulas olfativas."
+    ],
+    "descripcionComportamiento": [
+      "Es territorial y marca su rango de movimiento con olor. Las parejas reproductivas suelen compartir el territorio de caza durante el año.",
+      "El zorro demuestra una notable capacidad de exploración y resolución de problemas, clave para su éxito en ambientes alterados por el hombre."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo",
+    "madurezSexual": {
+      "macho": "10 meses",
+      "hembra": "10 meses (Alcanzan la madurez en su primer invierno)."
+    },
+    "periodoGestacion": "51-53 días (Aproximadamente 7 semanas).",
+    "tamanoCamada": "4-6 cachorros (Litera grande, a veces hasta 12 en poblaciones con alta mortalidad).",
+    "cuidadoCrias": "Cuidado biparental (macho y hembra). Las crías son ciegos e indefensos al nacer. Son destetados a las 6-7 semanas y dependen del alimento aportado por los padres hasta los 3-4 meses.",
+    "descripcionReproduccion": [
+      "La época de celo es en invierno (diciembre-febrero) y los partos ocurren a principios de la primavera, aprovechando la mayor abundancia de alimento.",
+      "Los cachorros emergen de la madriguera a las 4-5 semanas y se dispersan para establecer su propio territorio a partir del otoño."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Control de roedores: Su dieta, centrada en roedores, ayuda a regular estas poblaciones, siendo beneficioso para la agricultura y la salud pública.",
+    "Dispersión de semillas: Al consumir bayas y frutos, ayuda a dispersar semillas por grandes áreas, contribuyendo a la regeneración vegetal."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 3,
+    "inteligencia": 8,
+    "adaptabilidad": 10,
+    "fuerza": 3,
+    "velocidad": 7,
+    "tamano": 3,
+    "majestuosidad": 6,
+    "rareza": 2,
+    "supervivencia": 7,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Los zorros pueden escuchar un ratón que se mueve bajo 30 cm de nieve y utilizan el campo magnético de la Tierra para triangular la posición de su presa antes de lanzarse a la caza.",
+    "Los gritos o chillidos del zorro rojo son algunos de los sonidos más inquietantes de la vida silvestre, a menudo confundidos con llamadas de emergencia humanas.",
+    "Se ha documentado que los zorros juegan con objetos (pelotas, basura) incluso en la edad adulta, lo que indica un alto nivel de desarrollo cognitivo."
+  ]
+}

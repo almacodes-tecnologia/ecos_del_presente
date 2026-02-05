@@ -1,0 +1,153 @@
+{
+  "id": "casuario",
+  "nombre": "Casuario Común (o del Sur)",
+  "nombreCientifico": "Casuarius casuarius",
+  "fechaInformacion": "2025",
+  "imagen": "casuario.webp",
+  "galeria": [],
+  "introduccionAnimal": [
+    "El casuario es una de las aves no voladoras más grandes del mundo, nativa de Nueva Guinea y el norte de Australia.",
+    "Es famoso por su plumaje negro, cuello azul vibrante y el distintivo casco óseo o **casco** en su cabeza."
+  ],
+  "descripcionLarga": [
+    "El casuario es un ave de gran tamaño (ratite) con un plumaje negro brillante que se asemeja a pelo. Su cabeza es pequeña en proporción y está adornada con un cuello y papada de colores azul intenso, rojo y amarillo.",
+    "Posee patas extremadamente largas y musculosas, que terminan en tres dedos con garras. La garra en el dedo interno es grande, recta y afilada, capaz de infligir heridas graves, lo que le ha valido la reputación de ser el 'ave más peligrosa del mundo'.",
+    "El casco óseo que corona su cabeza se cree que lo usa para protegerse de la caída de frutos, amplificar sonidos, o abrirse camino a través de la densa vegetación de la selva. Se desplaza principalmente caminando y es un excelente corredor (hasta 50 km/h) y nadador."
+  ],
+  "observaciones": [
+    "Considerado uno de los animales más peligrosos de Australia por su capacidad de defensa mediante patadas rápidas y potentes con su garra interna tipo puñal.",
+    "Es muy solitario y territorial. La mayoría de los encuentros peligrosos ocurren cuando el ave está alimentándose o defendiendo a sus crías.",
+    "Son tímidos y difíciles de observar en su hábitat natural. Su coloración es crucial para el camuflaje en las sombras del bosque."
+  ],
+  "longevidad": {
+    "enLibertad": "20-40 años",
+    "enCautividad": "40-50 años"
+  },
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Casuariiformes",
+    "familia": "Casuariidae",
+    "genero": "Casuarius",
+    "especie": "C. casuarius"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Vulnerable (VU)",
+    "tendenciaPoblacion": "Disminuyendo (Estimado en menos de 10,000 individuos en Australia)",
+    "amenazasPrincipales": [
+      "Deforestación y fragmentación del hábitat por la agricultura y el desarrollo.",
+      "Colisión con vehículos en carreteras que atraviesan su hábitat.",
+      "Depredadores introducidos (perros domésticos y asilvestrados) que atacan a los polluelos y jóvenes.",
+      "Caza por parte de poblaciones humanas."
+    ],
+    "esfuerzosConservacion": [
+      "Protección de los corredores biológicos entre parches de bosque.",
+      "Programas de conservación comunitaria en Australia y Nueva Guinea.",
+      "Instalación de señalización vial para reducir la colisión con vehículos."
+    ],
+    "descripcionConservacion": [
+      "La población de casuarios se encuentra amenazada por la pérdida de hábitat y la fragmentación de bosques tropicales. Esto reduce la disponibilidad de frutas y aísla genéticamente a las poblaciones.",
+      "El casuario ha sido históricamente valorado por las poblaciones locales, pero la presión humana moderna representa su mayor amenaza."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "30-45 kg",
+      "hembraAdulta": "40-60 kg",
+      "maximoRegistrado": "70 kg"
+    },
+    "alturaHombro": {
+      "macho": "1.2-1.5 m",
+      "hembra": "1.5-1.8 m"
+    },
+    "longitudCuerpoCola": {
+      "macho": "1.5-1.8 m (Longitud total)",
+      "hembra": "1.8-2 m (Longitud total)"
+    },
+    "colorPelaje": "Plumaje negro brillante y lacado; cabeza azul, cuello rojo y papada de tonos vivos.",
+    "caracteristicasEspeciales": "Casco óseo (casque) en la cabeza; garra de hasta 12 cm en el dedo interior; piel de cuello de colores vibrantes.",
+    "morfologia": [
+      "El casco es una estructura queratinosa hueca sobre el cráneo, única entre las aves.",
+      "Patas tridáctilas muy fuertes, adaptadas para la carrera y la defensa. La garra interna es un arma defensiva temible.",
+      "Alas vestigiales con algunas púas duras que se cree que funcionan como protección adicional contra ramas."
+    ]
+  },
+  "habitat": {
+    "tipo": "Bosques tropicales de tierras bajas, selvas húmedas y manglares",
+    "distribucionGeografica": [
+      "Nueva Guinea e islas adyacentes (Indonesia, Papúa Nueva Guinea)",
+      "Península de Cape York, Australia"
+    ],
+    "adaptacionesHabitat": "Capaz de moverse con gran velocidad y facilidad entre la vegetación densa (facilitado por su casco) y nadar en ríos y el mar.",
+    "descripcionHabitat": [
+      "Prefiere bosques primarios densos y húmedos. Su ciclo de vida está intrínsecamente ligado a la disponibilidad de frutos en el suelo de la selva.",
+      "Ocasionalmente se aventura en áreas boscosas adyacentes, pero evita activamente las áreas abiertas y disturbadas."
+    ]
+  },
+  "dieta": {
+    "tipo": "Omnívoro (Frugívoro principal)",
+    "presasComunes": [
+      "Frutas caídas (hasta 80% de la dieta)",
+      "Hongos",
+      "Insectos",
+      "Pequeños vertebrados (ranas, lagartos)",
+      "Huevos"
+    ],
+    "estrategiaCaza": "Búsqueda y consumo de frutos caídos en el suelo del bosque. Caza pequeños animales de forma oportunista.",
+    "descripcionDieta": [
+      "Es principalmente frugívoro. El casuario puede tragar frutos enteros de gran tamaño y tiene un sistema digestivo que le permite dispersar semillas viables en grandes distancias.",
+      "Más de 70 especies de plantas dependen del casuario para la dispersión de sus semillas, siendo un **dispersor de semillas clave** (Keystone species)."
+    ]
+  },
+  "comportamiento": {
+    "estructuraSocial": "Solitario, excepto durante la breve época de apareamiento.",
+    "rolMacho": "Defiende el territorio, incuba los huevos y cuida de los polluelos durante casi un año.",
+    "rolHembra": "Pone los huevos y luego abandona al macho para buscar otro compañero y realizar otra puesta (comportamiento poliándrico secuencial).",
+    "actividadDiaria": "Diurna, concentrando la búsqueda de alimento en las mañanas y tardes.",
+    "comunicacion": [
+      "Llamadas de baja frecuencia (infrasonidos) que viajan bien por la densa selva.",
+      "Golpes de casco y vocalizaciones de silbido o gruñido durante amenazas."
+    ],
+    "descripcionComportamiento": [
+      "La hembra es dominante y territorial. El macho es el único responsable del cuidado parental, un rasgo poco común en las aves.",
+      "Su principal defensa es la huida o, si está acorralado, el ataque frontal con sus patas, golpeando y cortando con su garra afilada."
+    ]
+  },
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "2-4 años",
+      "hembra": "3-5 años"
+    },
+    "periodoGestacion": "Apareamiento estacional; 47-52 días de incubación (por el macho).",
+    "tamanoCamada": "3-5 huevos (grandes, de color verde esmeralda).",
+    "cuidadoCrias": "El macho incuba los huevos y cría a los polluelos solo, cuidándolos hasta por 9-12 meses.",
+    "descripcionReproduccion": [
+      "El casuario exhibe **poliandría secuencial**: la hembra se aparea con varios machos en una temporada, dejando una puesta de huevos a cada uno para su incubación.",
+      "Los huevos son de color verde brillante, un camuflaje ideal en el suelo del bosque. Los polluelos nacen con rayas, perdiendo esta coloración a medida que crecen."
+    ]
+  },
+  "importanciaEcologica": [
+    "Es el **dispersor de semillas más importante** para muchas especies de árboles con frutos grandes del bosque lluvioso, ya que es el único animal que puede tragar sus semillas enteras.",
+    "Su extinción podría provocar la desaparición de especies vegetales cruciales en el ecosistema, siendo un claro ejemplo de 'especie clave'."
+  ],
+  "atributosFantasia": {
+    "agresividad": 9,
+    "inteligencia": 6,
+    "adaptabilidad": 5,
+    "fuerza": 9,
+    "velocidad": 7,
+    "tamano": 8,
+    "majestuosidad": 9,
+    "rareza": 8,
+    "supervivencia": 6,
+    "impactoEcologico": 10
+  },
+  "curiosidades": [
+    "El Casuario Común es conocido como el 'ave más peligrosa del mundo' por su garra interna, capaz de matar a una persona.",
+    "Su casco óseo es la única defensa que tiene de los golpes de ramas mientras corre por la densa selva, y también le ayuda a emitir llamadas profundas que resuenan en el bosque.",
+    "Los huevos son inusualmente grandes (unos 13 cm) y de un llamativo color verde esmeralda.",
+    "Puede correr hasta 50 km/h y saltar 1.5 metros."
+  ]
+}

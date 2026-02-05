@@ -1,0 +1,165 @@
+{
+  "id": "lobo_mexicano",
+  "nombre": "Lobo Mexicano",
+  "nombreCientifico": "Canis lupus baileyi",
+  "fechaInformacion": "2025",
+
+  "imagen": "lobo_mexicano.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El lobo mexicano (*Canis lupus baileyi*) es la subespecie más pequeña y meridional del lobo gris en Norteamérica, endémica del norte de México y el suroeste de EE. UU. ",
+    "Actualmente es una de las subespecies de cánidos más críticamente vulnerables del mundo y está en el centro de intensos planes binacionales de recuperación."
+  ],
+
+  "descripcionLarga": [
+    "El lobo mexicano es de constitución más esbelta que otras subespecies de lobo gris, con orejas grandes y un cráneo más estrecho y angular. Su pelaje es denso, variando en color, pero a menudo tiene una mezcla distintiva de gris, café rojizo y tonos oscuros en el lomo.",
+    "Históricamente habitó una amplia gama de hábitats, desde áreas semiáridas del desierto de Chihuahua hasta los bosques templados de las Sierras Madre Occidental y Oriental. Su adaptabilidad es clave para su supervivencia en entornos fragmentados.",
+    "Tradicionalmente vivía en manadas familiares pequeñas, cazando venados, pecaríes, y mamíferos más pequeños. Su casi total erradicación a mediados del siglo XX se debió a una intensa persecución como respuesta a la depredación de ganado."
+  ],
+
+  "observaciones": [
+    "Fue declarado extinto en vida salvaje en EE. UU. en 1970 y casi extinto en México. Las poblaciones actuales provienen de solo siete ejemplares capturados.",
+    "Su recuperación es lenta y altamente sensible a los conflictos con rancheros y la mortalidad causada por el ser humano.",
+    "Es el lobo más pequeño y genéticamente distinto de Norteamérica."
+  ],
+
+  "longevidad": {
+    "enLibertad": "5-8 años (en poblaciones reintroducidas)",
+    "enCautividad": "12-15 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Carnivora",
+    "familia": "Canidae",
+    "genero": "Canis",
+    "especie": "lupus",
+    "subespecie": "C. l. baileyi"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN) (Estatus legal en EE. UU. y México)",
+    "tendenciaPoblacion": "Aumentando lentamente, pero muy vulnerable.",
+    "amenazasPrincipales": [
+      "Mortalidad inducida por humanos (disparos ilegales, atropellos).",
+      "Endogamia y baja diversidad genética (por el cuello de botella poblacional).",
+      "Pérdida y fragmentación de hábitat, especialmente el que conecta EE. UU. y México."
+    ],
+    "esfuerzosConservacion": [
+      "Programas binacionales de cría en cautividad (logrando un banco genético robusto).",
+      "Liberación y monitoreo de lobos reintroducidos en Arizona, Nuevo México y México.",
+      "Educación y programas de compensación para rancheros."
+    ],
+    "descripcionConservacion": [
+      "A pesar de los desafíos, la población salvaje en EE. UU. y México ha crecido lentamente, con aproximadamente 250 lobos libres en total para 2024. Su recuperación depende de la aceptación humana y la conectividad del hábitat."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "27-38 kg (≈33 kg)",
+      "hembraAdulta": "23-34 kg (≈27 kg)",
+      "maximoRegistrado": "Aproximadamente 40 kg"
+    },
+    "alturaHombro": {
+      "macho": "60-80 cm",
+      "hembra": "55-75 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "100-135 cm total",
+      "hembra": "95-125 cm total"
+    },
+    "colorPelaje": "Variable: predominio de gris, tonos café-rojizos en los costados y patas, vientre más claro y puntas negras en el lomo.",
+    "caracteristicasEspeciales": "Subespecie más pequeña de Norteamérica; Cráneo estrecho; Adaptado a climas cálidos-secos; Muy vulnerable.",
+    "morfologia": [
+      "Cráneo más estrecho y hocico angosto comparado con el lobo gris del norte.",
+      "Orejas erectas y relativamente grandes (útiles para la termorregulación y audición en zonas abiertas).",
+      "Cuerpo esbelto y patas largas, adaptado para la caza en terrenos montañosos y variados."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques templados de pino y encino, pastizales, montañas, zonas semiáridas, matorrales.",
+    "distribucionGeografica": [
+      "Histórica: Norte y centro de México hasta el sur de EE. UU. (Arizona, Nuevo México, Texas).",
+      "Actual: Bosques y montañas de la Sierra Madre Occidental y áreas de reintroducción en EE. UU."
+    ],
+    "adaptacionesHabitat": "Tolerancia a las fluctuaciones de temperatura y humedad, gran movilidad y capacidad de caza diversa en entornos abiertos y boscosos.",
+    "descripcionHabitat": [
+      "Prefiere zonas montañosas y boscosas que le ofrecen cobertura, refugio y poblaciones sanas de presas.",
+      "La calidad del hábitat se mide por la densidad de presas, no solo por el clima."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Especialista en ungulados)",
+    "presasComunes": [
+      "Ciervos (Venado cola blanca, Venado bura)",
+      "Pecaríes (jabalíes)",
+      "Borregos cimarrones",
+      "Liebres, roedores y otros pequeños mamíferos."
+    ],
+    "estrategiaCaza": "Caza cooperativa en manada (más pequeña que otras subespecies), emboscadas y persecuciones. Se enfoca en presas vulnerables (jóvenes o viejas).",
+    "descripcionDieta": [
+      "Depende de ungulados silvestres. La disminución de estas presas llevó al lobo a depredar ganado doméstico, generando el conflicto humano que casi lo extingue.",
+      "Su dieta es menos variada que la del lobo común del norte, siendo más especialista."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Manadas pequeñas y cohesivas (3 a 5 individuos), compuestas por la pareja reproductora y sus crías.",
+    "rolMacho": "Líder junto a la hembra alfa; participa en la caza y defensa territorial y de las crías.",
+    "rolHembra": "Única que se reproduce en la manada; juega un papel central en el cuidado de los cachorros y la dinámica grupal.",
+    "actividadDiaria": "Preferentemente nocturna y crepuscular para evitar el calor y la presencia humana. ",
+    "comunicacion": [
+      "Aullidos para la cohesión del grupo y delimitación territorial.",
+      "Marcas olfativas y señales corporales para mantener la jerarquía y la comunicación social."
+    ],
+    "descripcionComportamiento": [
+      "Muy sociales, con un complejo sistema de interacciones. Son naturalmente discretos y huidizos, lo que ha ayudado a su reintroducción en áreas con baja densidad humana.",
+      "La manada coopera en la defensa, caza y crianza de los jóvenes."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "≈2 años",
+      "hembra": "≈2 años"
+    },
+    "periodoGestacion": "≈60-65 días (aproximadamente 2 meses).",
+    "tamanoCamada": "4 a 7 cachorros habitualmente, aunque el número varía mucho con la disponibilidad de alimento.",
+    "cuidadoCrias": "Los cachorros nacen ciegos e indefensos. La manada completa participa en su cuidado, llevando comida (regurgitada) y protegiendo la madriguera.",
+    "descripcionReproduccion": [
+      "La época de apareamiento es estacional (finales de invierno). El nacimiento en primavera maximiza las posibilidades de supervivencia debido a la abundancia de presas.",
+      "Las tasas de supervivencia de los cachorros reintroducidos son un indicador clave del éxito del programa de conservación."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Regula poblaciones de herbívoros medianos, contribuyendo a la salud y el equilibrio del ecosistema (especialmente en el desierto y bosques del norte de México).",
+    "Su recuperación es fundamental para restaurar las cascadas tróficas y la funcionalidad de los hábitats del suroeste de Norteamérica."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 6,
+    "inteligencia": 7,
+    "adaptabilidad": 8,
+    "fuerza": 5,
+    "velocidad": 6,
+    "tamano": 4,
+    "majestuosidad": 6,
+    "rareza": 9,
+    "supervivencia": 5,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Fue salvado de la extinción en estado salvaje gracias a un programa de rescate y cría en cautividad que utilizó solo siete lobos fundadores capturados.",
+    "Es conocido como 'el lobo de las montañas' por su preferencia por los terrenos montañosos. ",
+    "El lobo mexicano es genéticamente crucial ya que representa un linaje distinto dentro de los lobos grises."
+  ]
+}

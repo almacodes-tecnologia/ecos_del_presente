@@ -1,0 +1,182 @@
+{
+  "id": "leon_africano",
+  "nombre": "León Africano",
+  "nombreCientifico": "Panthera leo leo",
+  "fechaInformacion": "2025",
+
+  "imagen": "leon_africano.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El león africano es el único felino que forma grupos sociales estables llamados manadas.",
+      "Es un depredador ápice que habita principalmente en las sabanas africanas."
+  ],
+
+  "descripcionLarga": [
+      "El león africano es un mamífero carnívoro que se encuentra principalmente en África subsahariana. Su cuerpo robusto, melena prominente en los machos y gran fuerza lo convierten en un depredador dominante en su ecosistema.",
+      "Viven en manadas de entre 2 y 40 individuos, compuestas por hembras emparentadas, sus crías y uno o varios machos dominantes. Las hembras son las principales cazadoras, mientras que los machos defienden el territorio.",
+      "Son principalmente crepusculares y nocturnos, descansando hasta 20 horas al día. Su rugido puede escucharse hasta a 8 km de distancia, siendo un medio de comunicación y defensa territorial.",
+      "Su dieta incluye ñus, cebras, búfalos, antílopes y otras presas medianas a grandes. La caza suele ser coordinada entre las hembras, mediante emboscadas y persecuciones cortas.",
+      "El león cumple un papel importante en el ecosistema al controlar poblaciones de herbívoros y mantener el equilibrio ecológico de su hábitat."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir hasta 15 años en libertad y 20 años en cautividad.",
+      "La melena de los machos indica salud y madurez; más oscura y densa suele ser signo de dominio."
+  ],
+
+  "longevidad": {
+      "enLibertad": "10-15 años",
+      "enCautividad": "20 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Carnivora",
+      "familia": "Felidae",
+      "genero": "Panthera",
+      "especie": "P. leo"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Vulnerable (VU)",
+      "tendenciaPoblacion": "Decreciendo",
+      "amenazasPrincipales": [
+          "Pérdida y fragmentación del hábitat",
+          "Conflictos con humanos por depredación de ganado",
+          "Disminución de poblaciones de presas",
+          "Caza furtiva por trofeos o partes del cuerpo",
+          "Enfermedades transmitidas por animales domésticos"
+      ],
+      "esfuerzosConservacion": [
+          "Creación y gestión de áreas protegidas",
+          "Proyectos de conservación comunitaria",
+          "Monitoreo de poblaciones y estudios genéticos",
+          "Programas de educación ambiental",
+          "Campañas contra la caza furtiva y comercio ilegal"
+      ],
+      "descripcionConservacion": [
+          "El león africano enfrenta una reducción de su población debido a la pérdida de hábitat y conflictos con humanos. Las medidas de conservación buscan proteger sus territorios y garantizar la supervivencia de las manadas mediante educación, vigilancia y programas comunitarios."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "150-250 kg",
+          "hembraAdulta": "120-182 kg",
+          "maximoRegistrado": "272 kg"
+      },
+      "alturaHombro": {
+          "macho": "1.2 m",
+          "hembra": "1.1 m"
+      },
+      "longitudCuerpoCola": {
+          "macho": "2.6-3.3 m",
+          "hembra": "2.4-2.7 m"
+      },
+      "colorPelaje": "Amarillo claro a marrón ocre, vientre más claro",
+      "caracteristicasEspeciales": "Melena de rubio a negro, más densa indica buena salud",
+      "morfologia": [
+          "Cuerpo musculoso y robusto",
+          "Garras retráctiles y dentadura adaptada a caza",
+          "Ojos frontales para visión binocular"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Sabanas, pastizales, matorrales, bosques abiertos",
+      "distribucionGeografica": [
+          "Tanzania",
+          "Botsuana",
+          "Sudáfrica",
+          "Kenia",
+          "Zambia",
+          "Namibia"
+      ],
+      "adaptacionesHabitat": "Capacidad de camuflaje, resistencia a altas temperaturas y desplazamientos largos",
+      "descripcionHabitat": [
+          "Habita principalmente sabanas y áreas abiertas, donde puede acechar a sus presas.",
+          "La disponibilidad de agua y presas define la distribución de las manadas."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro (depredador ápice)",
+      "presasComunes": [
+          "Ñus",
+          "Cebras",
+          "Búfalos",
+          "Antílopes",
+          "Jirafas jóvenes",
+          "Impalas",
+          "Jabalíes"
+      ],
+      "estrategiaCaza": "Caza coordinada entre hembras mediante emboscadas y persecuciones cortas",
+      "descripcionDieta": [
+          "Las leonas realizan la mayor parte de la caza mientras los machos protegen el territorio.",
+          "Se alimentan principalmente de herbívoros medianos y grandes, complementando con carroña si es necesario."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Viven en manadas de 2 a 40 individuos",
+      "rolMacho": "Defiende el territorio y protege a las hembras",
+      "rolHembra": "Caza y cuida a las crías",
+      "actividadDiaria": "Crepuscular y nocturna, descansan hasta 20 horas",
+      "comunicacion": [
+          "Rugidos hasta 8 km",
+          "Gruñidos y ronroneos",
+          "Siseos y maullidos",
+          "Marcaje con orina"
+      ],
+      "descripcionComportamiento": [
+          "El león utiliza diversos sonidos y posturas para comunicarse dentro de la manada y advertir a intrusos.",
+          "La cooperación entre hembras es clave para la caza y protección de crías."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+      "madurezSexual": {
+          "macho": "3-4 años",
+          "hembra": "2-3 años"
+      },
+      "periodoGestacion": "108 días",
+      "tamanoCamada": "1-4 cachorros",
+      "cuidadoCrias": "Cría cooperativa entre hembras",
+      "descripcionReproduccion": [
+          "Las hembras crían juntas, compartiendo la lactancia y protección de los cachorros.",
+          "Los machos dominantes tienen prioridad en la reproducción, pero también protegen a las crías del grupo."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Como depredador ápice, controla las poblaciones de herbívoros, evitando la sobrepoblación y degradación del hábitat.",
+      "Su presencia indica un ecosistema saludable y equilibrado."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 8,
+      "inteligencia": 6,
+      "adaptabilidad": 9,
+      "fuerza": 9,
+      "velocidad": 7,
+      "tamano": 8,
+      "majestuosidad": 10,
+      "rareza": 4,
+      "supervivencia": 9,
+      "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+      "Único felino social estable",
+      "Rugido audible a varios kilómetros",
+      "Alcanza 80 km/h en carreras cortas",
+      "Machos comen primero tras la caza",
+      "Descansa hasta 20 horas diarias"
+  ]
+}

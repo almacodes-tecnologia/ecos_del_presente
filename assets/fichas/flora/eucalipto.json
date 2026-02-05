@@ -1,0 +1,116 @@
+{
+  "id": "eucalipto",
+  "nombre": "Eucalipto",
+  "nombreCientifico": "Eucalyptus globulus",
+  "fechaInformacion": "2025",
+  "imagen": "eucalipto.webp",
+  "introduccionPlanta": [
+    "El Eucalipto es un árbol perenne de crecimiento extremadamente rápido, nativo de Australia, conocido por su tronco alto, su corteza desprendible y sus hojas ricas en un potente aceite esencial.",
+    "Es uno de los árboles más plantados globalmente por su valor industrial (pulpa y madera), pero su introducción masiva ha generado controversias ecológicas en muchos lugares."
+  ],
+  "descripcionLarga": [
+    "El **eucalipto** (*Eucalyptus globulus*), miembro de la gran familia Myrtaceae, es un árbol perenne y de rápido crecimiento originario de Australia. Su distintiva silueta con tronco alto y recto, y su corteza lisa que se desprende en tiras, lo han convertido en un árbol común en muchas partes del mundo fuera de su hábitat nativo. Es una de las especies vegetales más altas del planeta, capaz de rivalizar en altura con las secuoyas.",
+    "El eucalipto presenta una característica notable: sus **hojas** cambian de forma a medida que el árbol madura. Las hojas jóvenes son redondeadas y de un azul grisáceo, mientras que las maduras son alargadas, en forma de hoz y de un verde oscuro brillante. Ambas desprenden el inconfundible y penetrante aroma a **aceite esencial de eucalipto**, muy valorado por sus propiedades medicinales y aromáticas, especialmente para aliviar la congestión respiratoria.",
+    "Debido a su rápido crecimiento y resistencia, ha sido plantado a gran escala en todo el mundo para la producción de madera, pulpa y aceite. Sin embargo, su éxito ha tenido un lado negativo: en muchos ecosistemas, se ha comportado como una **especie invasora**, alterando el ciclo del agua y el equilibrio de la biodiversidad local. A pesar de estos desafíos ecológicos, el eucalipto sigue siendo un recurso invaluable y un árbol impresionante, símbolo de la fuerza, la regeneración y la capacidad de adaptación, que ha dejado su huella en paisajes y culturas de todos los continentes."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Myrtales",
+    "familia": "Myrtaceae",
+    "genero": "Eucalyptus",
+    "especie": "E. globulus"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable. Muy extendido globalmente en plantaciones.",
+    "amenazasPrincipales": [
+      "Especie invasora en muchas regiones fuera de su hábitat nativo.",
+      "Su rápida absorción de agua afecta los ecosistemas locales donde es introducido.",
+      "Problemas asociados a los monocultivos forestales (pérdida de biodiversidad, degradación del suelo)."
+    ],
+    "esfuerzosConservacion": [
+      "Control de plantaciones invasoras en áreas sensibles.",
+      "Uso sostenible en plantaciones forestales y agroforestales.",
+      "Investigación sobre sus impactos ecológicos en diferentes regiones."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol perenne, de rápido crecimiento.",
+    "alturaPromedio": "30 - 55 m (100 - 180 ft); puede superar los 90 m.",
+    "colorFollaje": "Azul grisáceo (juvenil) a verde oscuro (maduro).",
+    "tipoRaiz": "Pivotante, profunda y extensa, capaz de buscar agua a gran profundidad.",
+    "tallos": "Tronco recto y alto. La corteza es lisa, de color grisáceo o crema, que se desprende en tiras, dejando manchas de diferentes colores.",
+    "hojas": "Dos tipos: juveniles (opuestas, redondas) y maduras (alternas, alargadas, en forma de hoz, con un aroma fuerte).",
+    "flores": {
+      "forma": "Capítulo floral con un operculum (tapa) que se cae, revelando una multitud de estambres.",
+      "colores": "Blanco-crema a blanco-amarillento.",
+      "fragancia": "Dulce y aromática (melífera), atrayendo a polinizadores.",
+      "tamano": "2-3 cm (0.8-1.2 in) de diámetro."
+    },
+    "frutos": "Una cápsula leñosa, cónica o acampanada, con una tapa que se abre para liberar las semillas."
+  },
+  "habitat": {
+    "tipo": "Bosques esclerófilos y de clima mediterráneo.",
+    "distribucionGeografica": [
+      "Nativo del sureste de Australia y Tasmania.",
+      "Cultivado a nivel global en regiones templadas y subtropicales."
+    ],
+    "preferenciasSuelo": "Suelos profundos y bien drenados. Tolera una variedad de condiciones, pero prefiere suelos ácidos.",
+    "preferenciasLuz": "Pleno sol. Requiere mucha luz para un crecimiento óptimo."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Principalmente por semillas.",
+      "También puede propagarse por esquejes en algunos casos."
+    ],
+    "riego": "Moderado cuando es joven. Los árboles maduros son tolerantes a la sequía, pero su crecimiento es más rápido con humedad.",
+    "poda": "Generalmente no se poda. La poda de formación es útil en árboles jóvenes.",
+    "fertilizacion": "No es muy exigente. Responde a un fertilizante balanceado en sus primeros años.",
+    "plagasComunes": [
+      "Chinches de la corteza (Eucalyptus psyllid)."
+    ],
+    "enfermedadesComunes": [
+      "Hongo del moho rosa (*Eucalyptus canker*)."
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de parque, cortavientos, grandes jardines.",
+    "culinario": [
+      "No tiene usos culinarios. Es tóxico si se ingiere en grandes cantidades."
+    ],
+    "medicinal": [
+      "Aceite esencial de eucalipto para descongestionar las vías respiratorias (inhalación, ungüentos).",
+      "Propiedades antisépticas y antiinflamatorias."
+    ],
+    "industrial": [
+      "Madera para pulpa (papel), construcción, postes y leña.",
+      "Producción de aceite esencial para la industria farmacéutica, perfumería y cosmética."
+    ],
+    "simbolismo": "Purificación, protección, crecimiento rápido y abundancia. Asociado a la resistencia."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Entomófila (por insectos) y por aves (mieleros).",
+    "momentoFloracion": "Varía, a menudo en invierno o primavera, dependiendo del clima.",
+    "cicloVida": "Perenne, de larga vida (cientos de años) y rápido crecimiento."
+  },
+  "atributosFantasia": {
+    "belleza": 4,
+    "rareza": 2,
+    "vitalidad": 5,
+    "resistencia": 4,
+    "impactoEcologico": 3,
+    "misticismo": 3,
+    "fraganciaMagica": 5,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "Las hojas jóvenes del eucalipto son la principal fuente de alimento para los koalas, aunque son tóxicas para la mayoría de los demás animales.",
+    "El eucalipto es conocido por su crecimiento extremadamente rápido, lo que lo hace ideal para la reforestación y la producción de madera.",
+    "El aceite de eucalipto es un potente repelente de insectos y se utiliza en muchos productos para este fin.",
+    "La corteza de muchas especies de eucalipto se desprende en grandes tiras, un rasgo distintivo que lo hace parecer en muda.",
+    "A pesar de ser originario de Australia, se ha convertido en una especie invasora en muchas partes del mundo, incluyendo la península ibérica y California."
+  ]
+}

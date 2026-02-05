@@ -1,0 +1,43 @@
+{
+  "id": "lentinula_edodes",
+  "nombre": "Shiitake",
+  "nombreCientifico": "Lentinula edodes",
+  "familia": "Marasmiaceae",
+  "imagen": "lentinula_edodes.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Shiitake es un hongo basidiomiceto de crecimiento lignícola originario de Asia oriental. Su taxonomía está ligada a los bosques de fagáceas, desarrollándose sobre madera en descomposición. Destaca por su morfología escamosa y su capacidad para sintetizar compuestos orgánicos complejos que protegen su estructura frente a patógenos.",
+
+  "caracteristicas": {
+    "sombrero": "5-12 cm de diámetro. Presenta una forma que evoluciona de convexa a plana. La cutícula es de color pardo o café y se caracteriza por estar recubierta de escamas lanosas blanquecinas, especialmente concentradas hacia un margen que suele presentarse involuto (enrollado) en estadios juveniles.",
+    "laminas": "Blancas o cremas, dispuestas de forma muy apretada. Tienden a mostrar manchas parduscas debido a la oxidación natural del tejido al alcanzar la madurez o por presión mecánica.",
+    "pie": "De consistencia fibrosa y tenaz. Presenta una coloración blanquecina a marrón claro y una textura rugosa-escamosa, mostrando una continuidad estructural firme con el tejido del sombrero.",
+    "anillo": "Ausente (aunque pueden observarse restos de velo parcial cortiniforme en el margen del sombrero en fases iniciales).",
+    "volva": "Ausente.",
+    "esporada": "Blanca.",
+    "usoCultural": "Especie de gran importancia en la historia de la micocultura asiática, siendo objeto de estudio por su capacidad de biotransformación y producción de polisacáridos como el lentinano."
+  },
+
+  "habitat": {
+    "tipo": "Sustratos de madera en descomposición de árboles de hoja ancha, con especial afinidad por los géneros Quercus (robles) y Castanea (castaños).",
+    "relacionEcologica": "Organismo saprófito especializado en la degradación de lignina y celulosa, contribuyendo a la formación de humus en ecosistemas forestales templados.",
+    "distribucionGeografica": ["Nativo de Asia Oriental (China, Japón, Corea). Actualmente presente de forma cosmopolita debido a su integración en sistemas de cultivo técnico."],
+    "temporada": "En ecosistemas naturales, fructifica predominantemente en los periodos de transición de primavera y otoño.",
+    "altitudRango": "Zonas boscosas templadas y húmedas con presencia de frondosas."
+  },
+
+  "curiosidades": [
+    "Es la especie fúngica con el registro histórico de cultivo documentado más antiguo, remontándose al siglo XII en la provincia china de Zhejiang.",
+    "Su desarrollo biológico muestra una sensibilidad particular a los fenómenos eléctricos atmosféricos; se ha observado que las descargas de rayos estimulan la producción de cuerpos fructíferos.",
+    "Produce eritadenina, un metabolito secundario que forma parte de su sistema de defensa químico y que ha despertado interés en la bioquímica analítica.",
+    "A diferencia de otros hongos lignícolas, su micelio es capaz de colonizar la madera de forma muy agresiva, compitiendo eficazmente con otros microorganismos descomponedores."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 6,
+    "rareza": 2,
+    "simbolismo": 8,
+    "resistencia": 6,
+    "velocidadDeCrecimiento": 7,
+    "aura": 9
+  }
+}

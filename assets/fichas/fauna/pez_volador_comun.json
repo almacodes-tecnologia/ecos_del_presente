@@ -1,0 +1,160 @@
+{
+  "id": "pez_volador_comun",
+  "nombre": "Pez Volador Común",
+  "nombreCientifico": "Exocoetus volitans",
+  "fechaInformacion": "2025",
+
+  "imagen": "pez_volador_comun.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El pez volador común (*Exocoetus volitans*) es un pez pelágico famoso por su singular adaptación para escapar de depredadores: la capacidad de saltar fuera del agua y planear distancias significativas utilizando sus aletas pectorales como alas aerodinámicas. ",
+    "Esta espectacular huida lo convierte en un habitante clave de los océanos tropicales y subtropicales de todo el mundo."
+  ],
+
+  "descripcionLarga": [
+    "Este pez habita en las capas superiores (epipelágica) de los océanos tropicales y subtropicales a nivel global. Su cuerpo es perfectamente alargado y aerodinámico, optimizado tanto para la velocidad bajo el agua como para el deslizamiento en el aire.",
+    "La característica más notable es el desarrollo hipertrófico de sus aletas pectorales, que son mucho más grandes que las de otros peces, utilizándolas como planos de sustentación para el planeo. Además, tiene una aleta caudal asimétrica e hipocaudal (la parte inferior es más larga), que utiliza como 'motor' al golpear el agua a alta velocidad antes del despegue y para impulsarse repetidamente durante el planeo.",
+    "Su 'vuelo' no es activo, sino un planeo que le permite alcanzar velocidades de hasta 60 km/h y distancias de hasta 200 metros (combinando varios saltos y reinicios) para evadir a depredadores como atunes, peces espada y delfines."
+  ],
+
+  "observaciones": [
+    "Los peces voladores no baten sus aletas para 'volar' como las aves, sino que las extienden para planear, usando la fuerza del impulso adquirido al nadar.",
+    "Su capacidad de planeo les permite escapar de depredadores, pero también los expone a depredadores aéreos (como aves marinas) y, ocasionalmente, a terminar en las cubiertas de los barcos.",
+    "La musculatura de la aleta caudal es vital, ya que es la única parte del cuerpo que golpea el agua para generar la velocidad necesaria para el despegue."
+  ],
+
+  "longevidad": {
+    "enLibertad": "3-5 años",
+    "enCautividad": "No es viable a largo plazo en cautividad debido a su naturaleza pelágica."
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Actinopterygii (Peces óseos)",
+    "orden": "Beloniformes",
+    "familia": "Exocoetidae (Familia de los peces voladores)",
+    "genero": "Exocoetus",
+    "especie": "E. volitans"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable globalmente.",
+    "amenazasPrincipales": [
+      "Sobrepesca dirigida, especialmente en el Pacífico (como alimento o carnada).",
+      "Contaminación plástica, que se concentra en las aguas superficiales donde habita.",
+      "Cambios en los patrones de temperatura del océano, que afectan las áreas de desove."
+    ],
+    "esfuerzosConservacion": [
+      "Regulación de cuotas de pesca en zonas de alta explotación.",
+      "Monitoreo de la salud de los océanos abiertos y programas anti-contaminación."
+    ],
+    "descripcionConservacion": [
+      "Si bien la especie es abundante, la pesca comercial dirigida, especialmente para obtener 'huevos de pez volador' (caviar Tobiko), y la alta vulnerabilidad de los juveniles a la contaminación superficial, son presiones que deben ser monitoreadas."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "50-70 g",
+      "hembraAdulta": "60-80 g",
+      "maximoRegistrado": "90 g"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "25-30 cm",
+      "hembra": "28-35 cm (Longitud total)"
+    },
+    "colorPelaje": "N/A (Escamas). Azul iridiscente metálico en el dorso, que se camufla con la superficie del agua; plateado brillante en el vientre.",
+    "caracteristicasEspeciales": "Aletas pectorales tipo ala; Aleta caudal asimétrica (hipocaudal); Cuerpo aerodinámico (fusiforme).",
+    "morfologia": [
+      "Cuerpo liso y alargado con un vientre aplanado que facilita la elevación fuera del agua.",
+      "Aletas pectorales extremadamente grandes (hasta dos tercios de la longitud del cuerpo) que actúan como alas.",
+      "Aleta caudal bifurcada con el lóbulo inferior más largo, utilizado para propulsar el cuerpo fuera del agua y generar impulso para reiniciar el planeo."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Océano abierto (pelágico) en las capas superficiales (epipelágico).",
+    "distribucionGeografica": [
+      "Océano Atlántico, Océano Pacífico y Océano Índico. Distribución circumglobal en aguas tropicales y subtropicales."
+    ],
+    "adaptacionesHabitat": "Mecanismo de planeo para escapar; Coloración contrasombra (azul arriba, plateado abajo) para camuflaje en aguas abiertas.",
+    "descripcionHabitat": [
+      "Vive cerca de la superficie en aguas cálidas y bien oxigenadas, donde también se encuentran sus principales depredadores.",
+      "Las crías a menudo se encuentran en el sargazo flotante o cerca de la costa, mientras que los adultos se aventuran mar abierto."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívora (Zooplanctívoro)",
+    "presasComunes": [
+      "Zooplancton (crustáceos diminutos y copépodos).",
+      "Pequeños crustáceos.",
+      "Larvas de peces y peces juveniles."
+    ],
+    "estrategiaCaza": "Filtración y caza rápida cerca de la superficie, utilizando su velocidad para emboscar presas más pequeñas.",
+    "descripcionDieta": [
+      "Se alimenta principalmente de pequeños animales en la columna de agua superior, consumiendo lo que puede filtrar o capturar rápidamente.",
+      "Su dieta está intrínsecamente ligada a la presencia de densos bancos de zooplancton en la superficie."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Forma cardúmenes o pequeños grupos, especialmente en zonas de alimentación o desove.",
+    "rolMacho": "Reproducción.",
+    "rolHembra": "Puesta de huevos y reproducción.",
+    "actividadDiaria": "Diurna; el planeo es más común durante las horas de luz para escapar de depredadores activos.",
+    "comunicacion": [
+      "Señales visuales y movimiento coordinado en grupo (cardúmenes) para evitar depredadores."
+    ],
+    "descripcionComportamiento": [
+      "El planeo (*despegue*) es una respuesta de huida, iniciando el proceso a velocidades de nado de unos 50-70 km/h, impulsándose con la cola.",
+      "El planeo puede durar varios segundos y, en ocasiones, el pez 'toca' el agua con la cola para generar un nuevo impulso sin volver a sumergirse completamente (planeos de impulso)."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Oviparo (Peces teleósteos)",
+    "madurezSexual": {
+      "macho": "1 año",
+      "hembra": "1 año"
+    },
+    "periodoGestacion": "N/A (Fertilización externa).",
+    "tamanoCamada": "50-300 huevos por evento de desove.",
+    "cuidadoCrias": "Nulo; es un desovador pelágico.",
+    "descripcionReproduccion": [
+      "Las hembras liberan huevos en la columna de agua, a menudo enredados en algas o desechos flotantes (algunas especies tienen filamentos adhesivos en los huevos).",
+      "El desove se produce en aguas abiertas, y las larvas pasan la fase juvenil en la superficie del océano."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Eslabón clave en la cadena alimentaria oceánica, transfiriendo energía del plancton a depredadores de mayor nivel (atún, dorado, marlín).",
+    "Ayuda a controlar poblaciones de plancton y pequeños peces en el ecosistema epipelágico."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 5,
+    "adaptabilidad": 7,
+    "fuerza": 3,
+    "velocidad": 8,
+    "tamano": 3,
+    "majestuosidad": 6,
+    "rareza": 7,
+    "supervivencia": 6,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Puede planear distancias de hasta 200 metros (en múltiples saltos de impulso) y alcanzar alturas de más de 6 metros sobre el agua.",
+    "Su mecanismo de planeo es el resultado de una evolución única para evadir a los depredadores marinos.",
+    "Durante el 'vuelo', el pez volador puede cambiar de dirección al inclinar sus aletas pectorales."
+  ]
+}

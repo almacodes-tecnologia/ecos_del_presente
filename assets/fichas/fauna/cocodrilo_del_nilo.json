@@ -1,0 +1,166 @@
+{
+  "id": "cocodrilo_del_nilo",
+  "nombre": "Cocodrilo del Nilo",
+  "nombreCientifico": "Crocodylus niloticus",
+  "fechaInformacion": "2025",
+
+  "imagen": "cocodrilo_del_nilo.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El cocodrilo del Nilo es el segundo reptil vivo más grande del mundo y el depredador ápice de la mayoría de los ecosistemas acuáticos de África subsahariana.",
+    "Es famoso por su técnica de caza de emboscada y por poseer la fuerza de mordida más potente medida en el reino animal."
+  ],
+
+  "descripcionLarga": [
+    "El cocodrilo del Nilo es un depredador ápice altamente adaptado al ambiente acuático. Su cuerpo está blindado con osteodermos (placas óseas) que le proporcionan protección. Es un cazador de emboscada paciente, capaz de permanecer sumergido durante largos periodos y atacar a presas de gran tamaño cuando se acercan a beber.",
+    "Su tamaño y fuerza lo convierten en un animal temido. Aunque su fuerza de mordida es inmensa (la más alta registrada), los músculos que abren la mandíbula son muy débiles, lo que permite a los humanos mantener la boca del animal cerrada con relativa facilidad.",
+    "Es un reptil ectotérmico, por lo que requiere termorregulación, a menudo descansando con la boca abierta para enfriarse (termorregulación por evaporación). "
+  ],
+
+  "observaciones": [
+    "El cocodrilo del Nilo exhibe un grado de **cuidado parental** notable, especialmente las hembras que protegen ferozmente el nido y las crías.",
+    "La determinación del sexo de los polluelos es dependiente de la temperatura de incubación (TSD: Determinación del Sexo por Temperatura).",
+    "Su piel ha sido históricamente objeto de caza, lo que llevó a un colapso poblacional en el siglo XX, aunque hoy se recupera gracias a la cría en granjas."
+  ],
+
+  "longevidad": {
+    "enLibertad": "50-60 años",
+    "enCautividad": "70-100 años (posiblemente más)"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Reptilia",
+    "orden": "Crocodylia",
+    "familia": "Crocodylidae",
+    "genero": "Crocodylus",
+    "especie": "C. niloticus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable o en aumento en muchas regiones.",
+    "amenazasPrincipales": [
+      "Conflicto con comunidades humanas, especialmente en áreas de riego y pesca.",
+      "Caza furtiva por piel y carne.",
+      "Pérdida de hábitat y alteración de los cursos de agua (construcción de presas)."
+    ],
+    "esfuerzosConservacion": [
+      "Protección legal total en muchos países africanos (Anexo II de CITES).",
+      "Manejo sostenible de poblaciones mediante granjas de cocodrilos (ranching) que reducen la presión sobre las poblaciones silvestres.",
+      "Reservas y parques nacionales."
+    ],
+    "descripcionConservacion": [
+      "Aunque históricamente estuvo en peligro, la regulación de la caza y los programas de cría en cautividad han permitido su recuperación. Algunas subpoblaciones, como las del Alto Nilo, todavía enfrentan problemas.",
+      "Se mantiene vigilancia constante para gestionar los conflictos entre humanos y cocodrilos."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "225-500 kg",
+      "hembraAdulta": "150-250 kg",
+      "maximoRegistrado": "1,000 kg"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "4-5 m (máx. 6,1 m)",
+      "hembra": "3-3.5 m"
+    },
+    "colorPelaje": null,
+    "caracteristicasEspeciales": "Osteodermos (placas óseas en la piel); válvula palatal en la garganta para respirar bajo el agua; cuarto diente mandibular visible con la boca cerrada.",
+    "morfologia": [
+      "Cuerpo alargado y musculoso con una cola aplanada lateralmente para la propulsión en el agua.",
+      "Cabeza grande con mandíbulas poderosas y unos 64 a 68 dientes cónicos y afilados.",
+      "Ojos, oídos y fosas nasales situados en la parte superior de la cabeza, permitiéndole vigilar mientras está casi totalmente sumergido.",
+      "Piel dura, rugosa y escamosa (armadura)."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Ríos, lagos, humedales, zonas pantanosas y estuarios (tolera el agua salobre)",
+    "distribucionGeografica": [
+      "Ampliamente distribuido en el África subsahariana y el Nilo (aunque escaso en las zonas más al norte)."
+    ],
+    "adaptacionesHabitat": "Metabolismo lento que le permite pasar largos periodos sin comer; válvula palatal para evitar que el agua entre en los pulmones al morder bajo el agua; membranas nictitantes en los ojos.",
+    "descripcionHabitat": [
+      "Prefiere cuerpos de agua dulce de movimiento lento o estancado. A menudo se le ve tomando el sol en bancos de arena o lodo para regular su temperatura corporal.",
+      "Los juveniles suelen esconderse en densa vegetación ribereña."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Depredador de emboscada)",
+    "presasComunes": [
+      "Peces (componente principal)",
+      "Aves acuáticas y terrestres",
+      "Reptiles (tortugas, otros cocodrilos)",
+      "Grandes mamíferos (cebras, ñus, antílopes) que beben en la orilla."
+    ],
+    "estrategiaCaza": "Acecho y emboscada. Atrapa a las presas con una mordida potente y las arrastra bajo el agua para ahogarlas ('giro de la muerte') .",
+    "descripcionDieta": [
+      "Los juveniles se alimentan principalmente de insectos y pequeños crustáceos, mientras que los adultos son generalistas oportunistas.",
+      "El 'giro de la muerte' es una técnica utilizada para desmembrar presas grandes o desgarrar trozos de carne, ya que no pueden masticar."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Principalmente solitario, con agregaciones sociales en sitios de alimentación o asoleo, o durante la temporada reproductiva.",
+    "rolMacho": "Defiende territorios durante la época de apareamiento, realizando despliegues acuáticos y vocalizaciones.",
+    "rolHembra": "Construye el nido y protege los huevos y a las crías durante los primeros meses, incluso transportándolas.",
+    "actividadDiaria": "Diurno (termorregulación) y nocturno/crepuscular (caza).",
+    "comunicacion": [
+      "Infrasonidos y rugidos profundos (bellows), audibles bajo el agua, utilizados en la defensa territorial y el cortejo.",
+      "Golpes de cabeza y movimientos de la cola en el agua (despliegues visuales)."
+    ],
+    "descripcionComportamiento": [
+      "Son cazadores extremadamente pacientes. Una vez que han capturado una presa grande, la arrastran bajo el agua para ahogarla.",
+      "El cuidado parental es inusualmente fuerte para un reptil; la hembra incluso ayuda a las crías a salir de los huevos y las lleva en su boca."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo (Determinación del Sexo por Temperatura - TSD)",
+    "madurezSexual": {
+      "macho": "10-12 años",
+      "hembra": "8-10 años"
+    },
+    "periodoGestacion": "Incubación de los huevos: 80-100 días, dependiendo de la temperatura.",
+    "tamanoCamada": "25-80 huevos (promedio 50).",
+    "cuidadoCrias": "La madre protege el nido de los depredadores (ej. varanos) y a las crías recién nacidas de la depredación durante varias semanas.",
+    "descripcionReproduccion": [
+      "La hembra cava un hoyo y deposita los huevos, cubriéndolos con tierra o vegetación para la incubación. La temperatura de la incubación determina el sexo (temperaturas medias producen machos).",
+      "Las crías emiten llamados desde el huevo; la madre desentierra el nido y ayuda a eclosionar los huevos, transportando a los pequeños en su boca hasta el agua."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Mantiene el equilibrio de ecosistemas acuáticos al controlar poblaciones de peces, mamíferos y carroñeros, actuando como un 'limpiador' natural.",
+    "Su presencia es un indicador de la salud y la integridad de los humedales y ecosistemas fluviales africanos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 9,
+    "inteligencia": 6,
+    "adaptabilidad": 8,
+    "fuerza": 10,
+    "velocidad": 7,
+    "tamano": 9,
+    "majestuosidad": 8,
+    "rareza": 6,
+    "supervivencia": 9,
+    "impactoEcologico": 9
+  },
+
+  "curiosidades": [
+    "Su mordida tiene una fuerza de más de 22.000 Newtons, la más fuerte medida en el reino animal.",
+    "Puede permanecer sumergido bajo el agua hasta por 1 hora, reduciendo drásticamente su ritmo cardíaco.",
+    "La hembra a menudo transporta a las crías recién nacidas, que caben hasta 20 en su boca, a un vivero seguro.",
+    "Al igual que con otros cocodrilos, las lágrimas que derraman al comer (lágrimas de cocodrilo) son reales, pero son una respuesta fisiológica, no emocional."
+  ]
+}

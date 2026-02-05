@@ -1,0 +1,86 @@
+{
+  "id": "humedal_costero",
+  "nombre": "Humedal Costero",
+  "imagenPrincipal": "humedal_costero.webp",
+  "descripcionDetallada": [
+    "Los humedales costeros son zonas de transición entre los ecosistemas terrestres y los marinos, donde el agua es el principal factor controlador del medio y la vida vegetal y animal asociada. Incluyen marismas, manglares, albuferas y deltas, formando uno de los biomas más productivos del planeta.",
+    "Se caracterizan por una hidrodinámica compleja donde confluyen las mareas y las escorrentías continentales, creando gradientes de salinidad únicos. Su importancia radica en su papel como filtros naturales del agua y como barreras protectoras contra eventos climáticos extremos en la costa."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se distribuyen por todas las líneas de costa del mundo, destacando zonas como el Delta del Ebro y Doñana (España), el Camargue (Francia), los Everglades (EE.UU.) y los Pantanales de manglares en zonas tropicales.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Plantas halófitas (tolerantes a la sal) y vegetación hidrófila que puede sobrevivir en suelos saturados de agua.",
+    "dominanciaAnimal": "Gran diversidad de aves migratorias (avifauna), así como especies estuarinas de peces, crustáceos y moluscos que utilizan la zona como criadero.",
+    "estratosVerticales": [
+      "Emergente: Plantas que sobresalen del agua como carrizos, eneas y juncos.",
+      "Flotante: Especies como lentejas de agua o nenúfares en zonas de aguas tranquilas.",
+      "Submergente: Praderas de macrófitos y algas que crecen bajo la superficie, fundamentales para la oxigenación."
+    ],
+    "adaptacionesClave": "Glándulas excretoras de sal en hojas, tejidos esponjosos (aerénquima) para transportar oxígeno a las raíces sumergidas y ciclos reproductivos ligados a las mareas."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Depende de la latitud, pero suele estar fuertemente influenciado por la proximidad al mar, lo que suaviza las temperaturas extremas (efecto termorregulador).",
+      "La humedad relativa suele ser muy elevada durante todo el año debido a la evaporación constante de las masas de agua superficiales."
+    ],
+    "caracteristicas": [
+      "Temperaturas moderadas con baja amplitud térmica diaria.",
+      "Presencia frecuente de brumas y nieblas costeras.",
+      "Régimen de vientos dominado por las brisas marinas (marinas y terrestres)."
+    ],
+    "precipitacionAnualRango": "400 - 1200 mm",
+    "temperaturaMediaRango": "12 - 25°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos hídricos o hidromorfos, caracterizados por estar saturados de agua durante largos periodos, lo que provoca condiciones de anoxia (falta de oxígeno).",
+      "Son suelos de acumulación, formados por sedimentos finos (limos y arcillas) transportados por los ríos y el mar."
+    ],
+    "caracteristicas": [
+      "Textura fina y compacta con muy baja permeabilidad.",
+      "Altos niveles de salinidad y presencia de sulfuros que suelen dar un olor característico al fango.",
+      "Gran acumulación de materia orgánica en descomposición anaeróbica (turba)."
+    ]
+  },
+
+  "faunaDestacada": [
+    "flamenco_comun",
+    "aguila_pescadora",
+    "nutria_europea",
+    "garza_real",
+    "anguila_europea"
+  ],
+  "floraDestacada": [
+    "carrizo",
+    "salicornia",
+    "eneas",
+    "junco_maritimo",
+    "pino_pinonero"
+  ],
+  "hongosDestacados": [
+    "psathyrella_ammophila",
+    "agaricus_devoniensis",
+    "tulostoma_brumale"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Críticamente amenazado a nivel global; se estima que se ha perdido más del 60% de su superficie original en el último siglo.",
+    "amenazasPrincipales": [
+      "Drenaje y Relleno: Conversión de terrenos para agricultura, industria o expansión urbana turística.",
+      "Contaminación: Eutrofización por vertidos de fertilizantes agrícolas y aguas residuales.",
+      "Subida del Nivel del Mar: El cambio climático amenaza con inundar permanentemente estas zonas, alterando su salinidad.",
+      "Especies Invasoras: Introducción de fauna y flora exótica que desplaza a las comunidades nativas."
+    ],
+    "beneficiosEcosistemicos": [
+      "Depuración de Aguas: Actúan como riñones naturales, reteniendo metales pesados y exceso de nutrientes.",
+      "Control de Inundaciones: Funcionan como esponjas que absorben el exceso de agua durante tormentas y marejadas.",
+      "Secuestro de Carbono: El 'Carbono Azul' almacenado en sus sedimentos es vital contra el efecto invernadero.",
+      "Turismo y Educación: Espacios clave para la observación de aves y el ecoturismo sostenible."
+    ]
+  }
+}

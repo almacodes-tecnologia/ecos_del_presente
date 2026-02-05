@@ -1,0 +1,160 @@
+{
+  "id": "pastor_aleman",
+  "nombre": "Pastor Alemán",
+  "nombreCientifico": "Canis lupus familiaris",
+  "fechaInformacion": "2025",
+
+  "imagen": "pastor_aleman.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El Pastor Alemán (German Shepherd Dog, GSD) es una de las razas de perros más conocidas y versátiles del mundo, reconocida por su **alta inteligencia**, su nobleza y su imponente físico. ",
+    "Originalmente desarrollado en Alemania a finales del siglo XIX para el pastoreo de ovejas, rápidamente fue adoptado como un perro de trabajo ejemplar para tareas militares, policiales y de asistencia."
+  ],
+
+  "descripcionLarga": [
+    "La raza se caracteriza por su robustez, agilidad y un temperamento equilibrado, siendo leal y protector con su familia. Su entrenamiento es relativamente sencillo debido a su gran capacidad de aprendizaje, lo que lo clasifica entre las razas más inteligentes. Sin embargo, su energía y mente activa requieren una socialización temprana y un compromiso constante por parte de sus dueños.",
+    "El Pastor Alemán es conocido por su fuerte instinto territorial y de protección. Es un perro de compañía excepcional si se le proporciona suficiente estimulación física y mental; de lo contrario, puede desarrollar problemas de comportamiento derivados del aburrimiento y la falta de ejercicio.",
+    "Existen dos líneas principales: la línea de trabajo (más ligera y activa) y la línea de exposición (a menudo con la característica 'pendiente' en la espalda, aunque esto es controversial en términos de salud)."
+  ],
+
+  "observaciones": [
+    "Es la raza más utilizada mundialmente para la detección de drogas, labores de búsqueda y rescate, y asistencia a personas con discapacidad.",
+    "Requiere cepillado regular debido a su doble capa de pelo, especialmente durante las épocas de muda.",
+    "Es propenso a la displasia de cadera y codo, un problema de salud que debe ser monitoreado mediante una cría responsable."
+  ],
+
+  "longevidad": {
+    "enLibertad": "N/A",
+    "enCautividad": "10-14 años (Típico para un perro de tamaño grande)"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia (Mamíferos)",
+    "orden": "Carnivora",
+    "familia": "Canidae",
+    "genero": "Canis",
+    "especie": "C. lupus familiaris (Perro Doméstico)"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Doméstico (No Aplicable a Conservación Silvestre)",
+    "tendenciaPoblacion": "Estable y Popular.",
+    "amenazasPrincipales": [
+      "Problemas de salud congénitos (displasia de cadera y codo) debido a la cría irresponsable.",
+      "Abandono o falta de compromiso por parte de dueños que no cubren sus altas necesidades de ejercicio y socialización."
+    ],
+    "esfuerzosConservacion": [
+      "Registros genealógicos rigurosos y pruebas de salud obligatorias en clubes de raza (ej. SV en Alemania).",
+      "Programas de protección y rescate específicos para la raza.",
+      "Promoción de líneas de trabajo y cría enfocada en la salud y el temperamento."
+    ],
+    "descripcionConservacion": [
+      "Como raza doméstica, su bienestar depende del cuidado humano. La clave de su 'conservación' está en mantener la pureza de la raza y, sobre todo, la calidad de vida y salud de los ejemplares criados."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "30-40 kg",
+      "hembraAdulta": "22-32 kg",
+      "maximoRegistrado": "45 kg"
+    },
+    "alturaHombro": {
+      "macho": "60-65 cm (A la cruz)",
+      "hembra": "55-60 cm (A la cruz)"
+    },
+    "longitudCuerpoCola": {
+      "macho": "Cuerpo ligeramente más largo que alto; Cola larga y curvada.",
+      "hembra": "Cuerpo ligeramente más largo que alto; Cola larga y curvada."
+    },
+    "colorPelaje": "Más común: Negro y fuego (marrón rojizo). También existen negro sólido, sable (agouti) y, raramente, blanco (aunque el blanco no es aceptado por todos los estándares de raza).",
+    "caracteristicasEspeciales": "Doble capa de pelo (capa externa densa y capa interna suave); Orejas erectas y puntiagudas; Dentadura completa en tijera.",
+    "morfologia": [
+      "Cuerpo musculoso, bien angulado, fuerte y ágil, ligeramente más largo que alto.",
+      "Hocico largo, estrechándose hacia la nariz. Mandíbulas fuertes y robustas.",
+      "La apariencia general es de nobleza, confianza y vigilancia."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Doméstico (Residencias humanas, tanto urbanas como rurales).",
+    "distribucionGeografica": [
+      "Mundial (Una de las razas más distribuidas y populares en todos los continentes)."
+    ],
+    "adaptacionesHabitat": "Adaptabilidad a climas variados (gracias a su doble capa). Alta capacidad de integración en la estructura social humana (la 'manada').",
+    "descripcionHabitat": [
+      "Requiere un entorno que le permita ejercicio vigoroso diario (carreras, juegos). No es ideal para apartamentos pequeños si no se le saca a pasear intensamente.",
+      "Suele utilizar una 'guarida' doméstica (cama o jaula) como su área segura y de descanso."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Omnívora (Dieta canina comercial o BARF).",
+    "presasComunes": [
+      "N/A (Depende del humano)",
+      "Proteína animal (carne, pescado, huevos), carbohidratos complejos y vegetales."
+    ],
+    "estrategiaCaza": "N/A (Depende del humano, aunque conserva instintos de presa y pastoreo).",
+    "descripcionDieta": [
+      "Requiere una dieta equilibrada y alta en proteínas para soportar su nivel de actividad y desarrollar su musculatura. La dieta influye directamente en la salud de sus articulaciones.",
+      "La porción y composición deben ser controladas para evitar la obesidad, que agrava los problemas articulares."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Manada (Familia humana). Se integra como miembro de alto rango si no se le entrena correctamente, o como subordinado leal si la jerarquía es clara.",
+    "rolMacho": "Protección de recursos y miembros del grupo. Tiende a ser más dominante en comparación con la hembra.",
+    "rolHembra": "Cuidado de cachorros y gran cooperación en el núcleo familiar. Generalmente más maternales.",
+    "actividadDiaria": "Diurna (Activo, necesita 1-2 horas de actividad diaria intensa).",
+    "comunicacion": [
+      "Amplia gama de vocalizaciones (ladridos de alerta, gruñidos, aullidos).",
+      "Señales corporales complejas (cola, orejas, postura) indicando sumisión, alerta o agresión."
+    ],
+    "descripcionComportamiento": [
+      "Altamente entrenable y responde bien al refuerzo positivo. Su lealtad es inquebrantable, pero requiere una socialización intensa desde cachorro para evitar la timidez o la agresividad hacia extraños.",
+      "Su instinto de pastoreo puede manifestarse en el intento de 'reunir' o 'pastorear' niños o mascotas pequeñas."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo",
+    "madurezSexual": {
+      "macho": "1 año (Físicamente); 2-3 años (Mentalmente y para cría responsable).",
+      "hembra": "1 año (Físicamente); 2 años (Para cría responsable)."
+    },
+    "periodoGestacion": "Aproximadamente 63 días (9 semanas).",
+    "tamanoCamada": "5-10 cachorros.",
+    "cuidadoCrias": "La madre cuida intensamente de los cachorros. En la cría doméstica, la intervención humana es vital para la socialización y el cuidado veterinario.",
+    "descripcionReproduccion": [
+      "Las crías nacen indefensas. El período crítico de socialización (3 a 16 semanas) es fundamental para desarrollar el temperamento equilibrado de la raza.",
+      "La cría responsable exige pruebas genéticas y físicas (especialmente de cadera/codo) de los padres."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Rol Cívico/Social: Incalculable valor en labores de servicio (perros guía, rescate, terapia, detección), contribuyendo a la seguridad y asistencia humana.",
+    "Compañía: Es una de las razas de compañía más populares, impactando positivamente en el bienestar psicológico humano."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 5,
+    "inteligencia": 9,
+    "adaptabilidad": 9,
+    "fuerza": 7,
+    "velocidad": 7,
+    "tamano": 5,
+    "majestuosidad": 8,
+    "rareza": 4,
+    "supervivencia": 8,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "El primer perro guía oficial en el mundo fue un Pastor Alemán.",
+    "Rin Tin Tin, una estrella de Hollywood de la década de 1920, fue un Pastor Alemán rescatado de un campo de batalla de la Primera Guerra Mundial.",
+    "Su nombre oficial en la FCI es 'Deutscher Schäferhund'."
+  ]
+}

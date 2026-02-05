@@ -1,0 +1,43 @@
+{
+  "id": "amanita_caesarea",
+  "nombre": "Oronja",
+  "nombreCientifico": "Amanita caesarea",
+  "familia": "Amanitaceae",
+  "imagen": "amanita_caesarea.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "La Amanita caesarea es un hongo basidiomiceto de notable vistosidad cromática, referente en la taxonomía del género Amanita. Se caracteriza por un marcado contraste entre el naranja vibrante de su sombrero, el amarillo dorado de su himenóforo y la blancura inmaculada de su volva membranosa.",
+
+  "caracteristicas": {
+    "sombrero": "8-20 cm de diámetro. Evoluciona de forma hemisférica a plana. Presenta una coloración naranja intenso o rojo anaranjado, con una superficie lisa, brillante y un margen característicamente estriado.",
+    "laminas": "Color amarillo yema (característica diagnóstica fundamental), dispuestas de forma apretada y con una inserción libre respecto al pie.",
+    "pie": "Robusto y cilíndrico, de color amarillo dorado, capaz de alcanzar dimensiones considerables en ejemplares maduros.",
+    "anillo": "Presente, situado en la parte superior. Es amplio, membranoso y colgante, manteniendo la misma tonalidad amarilla dorada que el resto del pie.",
+    "volva": "Muy persistente, amplia y carnosa. Tiene forma de saco y es de color blanco puro, envolviendo de manera holgada la base del pie.",
+    "esporada": "Blanca.",
+    "usoCultural": "Especie de gran relevancia histórica y etnobotánica, documentada desde el periodo clásico romano como uno de los organismos fúngicos más icónicos de la cuenca mediterránea."
+  },
+
+  "habitat": {
+    "tipo": "Bosques de frondosas xerófilas, con preferencia por ecosistemas de encinas (Quercus ilex), alcornoques, robles y castaños.",
+    "relacionEcologica": "Micorrícico estricto; establece simbiosis con árboles de hoja ancha en estaciones térmicas, contribuyendo al equilibrio hídrico y mineral del sistema radicular del hospedador.",
+    "distribucionGeografica": ["Región mediterránea de Europa y Norte de África. Su presencia disminuye drásticamente hacia latitudes septentrionales debido a sus requisitos térmicos."],
+    "temporada": "Finales de verano y principios de otoño, condicionada a episodios de precipitaciones intensas seguidos de periodos de calor moderado.",
+    "altitudRango": "Desde el nivel del mar hasta media montaña, siempre en vertientes soleadas y zonas de clima templado-cálido."
+  },
+
+  "curiosidades": [
+    "Presenta una fase inicial de desarrollo denominada 'fase de huevo', donde el cuerpo fructífero está totalmente encerrado en el velo universal blanco antes de la ruptura y emergencia del sombrero naranja.",
+    "Es una excepción cromática dentro de su sección taxonómica, ya que la gran mayoría de las especies de Amanita presentan láminas y pies de color blanco.",
+    "El contraste entre el anillo amarillo y la volva blanca es un carácter morfológico clave para su correcta identificación biológica en campo.",
+    "Debido a su coloración, ha sido históricamente protagonista de crónicas sobre confusiones con otras especies del mismo género en el entorno de la corte romana."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 10,
+    "rareza": 8,
+    "simbolismo": 10,
+    "resistencia": 5,
+    "velocidadDeCrecimiento": 7,
+    "aura": 10
+  }
+}

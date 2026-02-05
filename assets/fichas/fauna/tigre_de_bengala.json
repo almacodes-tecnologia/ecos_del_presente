@@ -1,0 +1,164 @@
+{
+  "id": "tigre_de_bengala",
+  "nombre": "Tigre de Bengala",
+  "nombreCientifico": "Panthera tigris tigris",
+  "fechaInformacion": "2025",
+
+  "imagen": "tigre_de_bengala.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El tigre de Bengala (*Panthera tigris tigris*) es la subespecie de tigre más numerosa y el segundo felino más grande del mundo, emblemático del subcontinente indio. ",
+    "Destaca por su impresionante pelaje anaranjado o leonado intenso, marcado por un patrón de rayas negras verticales único e irrepetible en cada individuo, funcionando como una 'huella dactilar'."
+  ],
+
+  "descripcionLarga": [
+    "Como depredador ápice, el tigre de Bengala desempeña un papel ecológico crucial al regular las poblaciones de grandes herbívoros. Habita una vasta gama de ecosistemas, desde las praderas y bosques secos de la India y Nepal hasta las densas selvas húmedas y los singulares manglares de Sundarbans.",
+    "Su morfología está perfectamente adaptada para la caza por emboscada: un cuerpo musculoso, patas potentes para sprints cortos y un camuflaje excelente gracias a sus rayas. Utiliza sus garras retráctiles y sus colmillos de hasta 7.5 cm para dar muerte rápida a sus presas, generalmente ciervos, jabalíes y búfalos.",
+    "A diferencia de muchos felinos, el tigre de Bengala es un **excelente nadador** y no teme al agua, utilizando ríos y pantanos para refrescarse y cazar."
+  ],
+
+  "observaciones": [
+    "Los tigres de Bengala tienen una variante de coloración conocida como 'Tigre Blanco', causada por una recesión genética, no por ser una subespecie diferente. Estos ejemplares son raros en la naturaleza.",
+    "Debido a la pérdida de presas y hábitat, el conflicto con humanos es frecuente, lo que lleva a la caza de ganado y, ocasionalmente, a ataques a personas, especialmente en los manglares de Sundarbans."
+  ],
+
+  "longevidad": {
+    "enLibertad": "8-12 años",
+    "enCautividad": "15-20 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia (Mamíferos)",
+    "orden": "Carnivora",
+    "familia": "Felidae (Félidos)",
+    "genero": "Panthera",
+    "especie": "P. tigris",
+    "subespecie": "P. tigris tigris (Este nombre ahora engloba varias poblaciones antes separadas)."
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN)",
+    "tendenciaPoblacion": "Estable o en ligera recuperación en algunas áreas, pero sigue siendo vulnerable.",
+    "amenazasPrincipales": [
+      "Caza furtiva impulsada por el mercado ilegal de partes de tigre (huesos, piel, etc.).",
+      "Pérdida y fragmentación de hábitat, reduciendo su base de presas.",
+      "Aumento del conflicto entre humanos y vida silvestre."
+    ],
+    "esfuerzosConservacion": [
+      "Establecimiento y mantenimiento de grandes reservas protegidas y corredores biológicos (ej. Proyectos Tigre en India).",
+      "Patrullas intensivas y tecnología avanzada contra la caza furtiva.",
+      "Programas de reubicación de pueblos para crear hábitats continuos (controvertido, pero efectivo)."
+    ],
+    "descripcionConservacion": [
+      "La población ha mostrado signos de recuperación en la última década gracias a los intensos esfuerzos gubernamentales en India y Nepal, pero la especie sigue clasificada como 'En Peligro' debido a la baja población total y la continua amenaza de la caza furtiva."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "180-260 kg (Media: 220 kg)",
+      "hembraAdulta": "100-160 kg (Media: 140 kg)",
+      "maximoRegistrado": "≈320 kg"
+    },
+    "alturaHombro": {
+      "macho": "90-110 cm (Altura a la cruz)",
+      "hembra": "80-95 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "270-310 cm (Nariz a punta de cola)",
+      "hembra": "240-270 cm (Nariz a punta de cola)"
+    },
+    "colorPelaje": "Anaranjado brillante o leonado, con rayas negras gruesas que varían en patrón.",
+    "caracteristicasEspeciales": "Cola larga con punta negra; Patrones de rayas únicos; Grandes garras retráctiles; Colmillos robustos (7-9 cm).",
+    "morfologia": [
+      "Cuerpo alargado y muy musculoso, ideal para la potencia en saltos y la fuerza de agarre.",
+      "Patas delanteras extremadamente fuertes, utilizadas para derribar y sujetar a grandes presas.",
+      "Los machos suelen tener una gola de pelo más densa alrededor de la cara, aunque no es una melena como la del león."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques tropicales y subtropicales, selvas, manglares, praderas y sabanas.",
+    "distribucionGeografica": [
+      "India (principalmente), Bangladés, Nepal, y Bután."
+    ],
+    "adaptacionesHabitat": "Las rayas proporcionan camuflaje 'disruptivo' en el entorno de luz y sombra de la jungla. Tolerancia al calor y gran capacidad para nadar.",
+    "descripcionHabitat": [
+      "Requiere vastas áreas de territorio, cobertura densa para emboscar y abundante acceso a agua potable y de baño.",
+      "El tigre del Sundarbans (Bangladés/India) ha desarrollado adaptaciones únicas para vivir en el ecosistema de manglares, incluyendo la tolerancia al agua salobre."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Depredador de grandes ungulados)",
+    "presasComunes": [
+      "Ciervos Sambar y Axis (Chital).",
+      "Jabalíes.",
+      "Búfalos de agua salvajes y ganado (donde hay conflicto).",
+      "Monos, pavos reales y otras especies pequeñas (ocasionalmente)."
+    ],
+    "estrategiaCaza": "Emboscada. Acecha a la presa, utilizando el factor sorpresa, y ataca con un mordisco rápido y preciso en la nuca o la garganta.",
+    "descripcionDieta": [
+      "Cazan solos, preferentemente de noche o al amanecer/anochecer. Son capaces de arrastrar presas que superan su propio peso.",
+      "Un tigre mata una presa grande aproximadamente una vez por semana y puede consumir grandes cantidades en una sola comida."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario, exceptuando la época de apareamiento y el período de cría de la hembra.",
+    "rolMacho": "Mantiene y defiende un vasto territorio, que se solapa con el de varias hembras. Su interacción principal con otros tigres es territorial o reproductiva.",
+    "rolHembra": "Cría y enseña a cazar a los cachorros. El éxito de la manada depende enteramente de la capacidad de la madre para cazar.",
+    "actividadDiaria": "Generalmente nocturno o crepuscular.",
+    "comunicacion": [
+      "Rugidos (utilizados principalmente en la defensa territorial y cortejo).",
+      "Marcaje de territorio mediante orina, heces y rasguños en los árboles (scrapes).",
+      "'Puffing' o 'chuffing' (un sonido amistoso o de saludo)."
+    ],
+    "descripcionComportamiento": [
+      "Los tigres son territoriales y solitarios, lo que requiere grandes extensiones de hábitat. Las peleas por el territorio o por las hembras pueden ser mortales.",
+      "Los jóvenes dejan a su madre entre los 18 y 24 meses para establecer su propio territorio."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo",
+    "madurezSexual": {
+      "macho": "4-5 años",
+      "hembra": "3-4 años"
+    },
+    "periodoGestacion": "100-110 días (Aproximadamente 3.5 meses).",
+    "tamanoCamada": "2-4 crías (raramente hasta 7).",
+    "cuidadoCrias": "La madre cría y protege sola a los cachorros. Los cachorros permanecen con ella durante 1.5 a 2 años.",
+    "descripcionReproduccion": [
+      "Los cachorros nacen ciegos e indefensos, con sus rayas ya visibles. Dependen totalmente de la leche materna durante los primeros meses.",
+      "El éxito reproductivo de las hembras es crucial para la recuperación de la especie, ya que el intervalo entre camadas es largo (alrededor de 2 años)."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Depredador clave: Es una especie 'paraguas'. Proteger al tigre y su vasto territorio significa proteger indirectamente a muchas otras especies en su ecosistema.",
+    "Regulador poblacional: Mantiene bajo control las poblaciones de herbívoros, previniendo el sobrepastoreo y manteniendo la salud de la vegetación."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 8,
+    "inteligencia": 7,
+    "adaptabilidad": 6,
+    "fuerza": 8,
+    "velocidad": 7,
+    "tamano": 7,
+    "majestuosidad": 9,
+    "rareza": 6,
+    "supervivencia": 5,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "Aunque la mayoría de los tigres temen al fuego, no temen al agua y son nadadores excepcionales, capaces de recorrer varios kilómetros a nado.",
+    "La disposición de las rayas en su pelaje también aparece en la piel que está debajo, por lo que afeitar un tigre no eliminaría las rayas.",
+    "Pueden emitir un rugido lo suficientemente potente como para ser escuchado a más de 3 kilómetros de distancia."
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "perezoso_tres_dedos",
+  "nombre": "Perezoso de Tres Dedos",
+  "nombreCientifico": "Bradypus variegatus",
+  "fechaInformacion": "2025",
+
+  "imagen": "perezoso_tres_dedos.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El perezoso de tres dedos (*Bradypus variegatus*) es un mamífero arborícola emblemático de los neotrópicos, famoso por sus movimientos extremadamente lentos, una adaptación crucial a su dieta de baja energía y a su estrategia de camuflaje.",
+    "Pasa prácticamente toda su vida suspendido en el dosel de la selva."
+  ],
+
+  "descripcionLarga": [
+    "El perezoso de tres dedos habita las selvas tropicales y bosques húmedos de América Central y del Sur. Se distingue por tener tres garras grandes y curvadas en cada extremidad, una cola muy corta y una cabeza pequeña y redonda que siempre parece sonreír.",
+    "Su pelaje es grueso, desgreñado y de color marrón grisáceo, y tiene una particularidad única: alberga una población simbiótica de algas y hongos que le confieren un matiz verdoso. Este color  le proporciona un camuflaje excepcional que lo mimetiza con el dosel del bosque, ayudándolo a evitar depredadores como jaguares y águilas.",
+    "El perezoso tiene la tasa metabólica más baja de todos los mamíferos no hibernantes, lo que le permite sobrevivir consumiendo hojas de bajo valor nutricional. Solo baja al suelo aproximadamente una vez a la semana para defecar, un momento de alto riesgo."
+  ],
+
+  "observaciones": [
+    "La simbiosis entre el perezoso, las algas de su pelaje y las polillas que viven en él es uno de los mutualismos más complejos conocidos en la naturaleza.",
+    "Son muy sensibles a la fragmentación de su hábitat, ya que al ser incapaces de moverse rápido, cruzar carreteras o cables eléctricos a menudo resulta fatal.",
+    "Tienen un número variable de vértebras cervicales (entre 8 y 10), lo que les permite girar la cabeza hasta 270 grados para buscar comida o vigilar depredadores sin mover el cuerpo."
+  ],
+
+  "longevidad": {
+    "enLibertad": "15-20 años (estimado)",
+    "enCautividad": "Hasta 40 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Pilosa (junto a los osos hormigueros)",
+    "familia": "Bradypodidae",
+    "genero": "Bradypus",
+    "especie": "B. variegatus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable globalmente, pero en fuerte declive en áreas de intensa deforestación.",
+    "amenazasPrincipales": [
+      "Deforestación y pérdida de bosques maduros.",
+      "Muerte por contacto con infraestructura humana (cables eléctricos, vehículos) durante el movimiento entre fragmentos de hábitat.",
+      "Tráfico ilegal de mascotas (especialmente crías)."
+    ],
+    "esfuerzosConservacion": [
+      "Protección de corredores biológicos y remanentes de bosques.",
+      "Instalación de 'puentes de fauna' o cuerdas para cruzar carreteras y ríos.",
+      "Educación pública sobre la conservación de la vida silvestre local."
+    ],
+    "descripcionConservacion": [
+      "Aunque la especie está clasificada como Preocupación Menor, algunas poblaciones locales en Centroamérica enfrentan amenazas críticas debido al rápido desarrollo costero y la fragmentación de la selva."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "4-6 kg",
+      "hembraAdulta": "4-6 kg",
+      "maximoRegistrado": "8 kg"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "50-65 cm",
+      "hembra": "50-65 cm"
+    },
+    "colorPelaje": "Marrón grisáceo, con una capa externa de tono verdoso debido a las algas simbióticas.",
+    "caracteristicasEspeciales": "Metabolismo extremadamente lento; 'Pulgar' formado por las tres garras; Pelaje con simbiontes (algas y polillas); Ausencia de orejas visibles.",
+    "morfologia": [
+      "Cuerpo pequeño y compacto. Extremidades muy largas y fuertes, con tres garras curvadas y afiladas para suspenderse de las ramas.",
+      "Pelaje grueso con surcos microscópicos que retienen la humedad y promueven el crecimiento de algas.",
+      "Hocico redondeado que da la apariencia de una 'sonrisa' permanente."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Selvas tropicales de tierras bajas, bosques húmedos y secos, y manglares.",
+    "distribucionGeografica": [
+      "América Central y Sudamérica (desde Honduras hasta el norte de Argentina). Incluye países como Colombia, Brasil, Venezuela, Ecuador y Perú."
+    ],
+    "adaptacionesHabitat": "Vida completamente arbórea (dependencia total de los árboles); Capacidad de soportar bajas temperaturas corporales y ahorrar energía.",
+    "descripcionHabitat": [
+      "Pasa el 98% de su tiempo colgado del dosel. Prefiere árboles con alta exposición solar para ayudar a calentar su cuerpo y fomentar el crecimiento de las algas en su pelaje.",
+      "Se mueve a un ritmo muy lento (velocidad máxima en tierra: unos 4 m/min), una estrategia para hacer pasar sus movimientos por el lento balanceo de las hojas."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívora especializada (Foliívoro)",
+    "presasComunes": [
+      "Hojas de ciertas especies de árboles (conocidas por ser bajas en calorías y difíciles de digerir).",
+      "Brotes tiernos, yema de hoja.",
+      "Frutas y flores (ocasionalmente)."
+    ],
+    "estrategiaCaza": "No aplica; se alimenta de hojas lentamente, digiriéndolas en un estómago de cuatro cámaras durante días o semanas.",
+    "descripcionDieta": [
+      "Su estómago multicompartimental alberga bacterias simbióticas que descomponen la celulosa de las hojas fibrosas, un proceso que requiere mucho tiempo.",
+      "La baja calidad nutricional de su dieta es la principal causa de su metabolismo lento y su letargo."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario (los territorios a menudo se superponen, pero la interacción es mínima).",
+    "rolMacho": "Busca hembras durante el período reproductivo. Marca territorio con señales químicas.",
+    "rolHembra": "Cuida a la cría de forma continua durante meses; defiende su área de forrajeo.",
+    "actividadDiaria": "Principalmente diurno, pero activo en periodos crepusculares o nocturnos, adaptándose para termorregularse y encontrar alimento.",
+    "comunicacion": [
+      "Vocalizaciones suaves ('Aiii!') que utilizan principalmente las hembras para llamar a la cría o al macho durante el apareamiento.",
+      "Señales químicas (glándulas odoríferas) para marcar territorios y señalar el estado reproductivo."
+    ],
+    "descripcionComportamiento": [
+      "Su movimiento es calculado y extremadamente lento, utilizando solo la fuerza para agarrarse y arrastrarse, nunca para saltar o caminar erguido.",
+      "La defecación semanal en el suelo es un ritual que puede tardar hasta 30 minutos y es un misterio biológico, ya que el riesgo de depredación es altísimo."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "3-4 años",
+      "hembra": "3-4 años"
+    },
+    "periodoGestacion": "6 meses",
+    "tamanoCamada": "1 cría",
+    "cuidadoCrias": "La cría permanece agarrada al vientre de la madre de forma continua durante los primeros 5-6 meses, destetándose gradualmente y aprendiendo a comer hojas específicas.",
+    "descripcionReproduccion": [
+      "La hembra da a luz a una sola cría por parto (generalmente una vez al año, o incluso menos).",
+      "La cría se adhiere inmediatamente al pelaje denso de la madre y obtiene calor y transporte, lo que es vital ya que nacen con capacidad limitada de termorregulación."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Especie clave en el dosel, contribuyendo al ciclo de nutrientes (especialmente al defecar en el suelo, lo que fertiliza las raíces).",
+    "Su presencia en los árboles influye en la distribución de las algas y polillas de su pelaje, que a su vez se integran en el ecosistema."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 1,
+    "inteligencia": 4,
+    "adaptabilidad": 6,
+    "fuerza": 2,
+    "velocidad": 1,
+    "tamano": 3,
+    "majestuosidad": 5,
+    "rareza": 6,
+    "supervivencia": 7,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Pueden dormir hasta 15-20 horas al día, aunque los estudios en vida libre sugieren que duermen menos (alrededor de 10 horas).",
+    "Su pelaje alberga algas que le dan camuflaje y polillas que se alimentan de las algas, creando un ecosistema móvil.",
+    "El perezoso es un nadador sorprendentemente capaz, utilizando sus brazos largos para impulsarse si cae al agua."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ginkgo",
+  "nombre": "Ginkgo",
+  "nombreCientifico": "Ginkgo biloba",
+  "fechaInformacion": "2025",
+  "imagen": "ginkgo.webp",
+  "introduccionPlanta": [
+    "El Ginkgo es la única especie viva de su división, un 'fósil viviente' con una historia de 270 millones de años, famoso por sus hojas únicas en forma de abanico y su espectacular coloración dorada otoñal.",
+    "Es conocido por su extraordinaria resiliencia, tolerando la contaminación y sobreviviendo a condiciones extremas."
+  ],
+  "descripcionLarga": [
+    "El **ginkgo** (*Ginkgo biloba*) es un árbol caducifolio de la familia Ginkgoaceae, a menudo llamado 'fósil viviente' por ser el único superviviente de su antiguo linaje, con una historia que se remonta al Pérmico. Aunque sus parientes cercanos se extinguieron hace millones de años, el ginkgo ha perdurado, sobreviviendo a los cambios climáticos y geológicos de la Tierra. Hoy en día, las poblaciones silvestres son extremadamente raras y se encuentran en un estado de amenaza, pero el árbol se ha salvado de la extinción gracias a su cultivo en todo el mundo, especialmente en entornos urbanos.",
+    "La característica más distintiva del ginkgo son sus **hojas en forma de abanico** y bilobuladas, que se vuelven de un brillante color amarillo dorado en otoño, creando un espectáculo visual impresionante. Este árbol es **dioico**, lo que significa que existen plantas masculinas y femeninas. Si bien las masculinas son preferidas para el paisajismo urbano por no producir fruto, las femeninas producen una semilla con un tegumento carnoso y un olor muy desagradable al madurar. La resiliencia del ginkgo es legendaria, capaz de soportar la contaminación del aire, las plagas y las enfermedades.",
+    "Más allá de su valor ornamental, los extractos de sus hojas son muy populares en la fitoterapia para la memoria y la circulación. Las semillas tostadas son un manjar en la cocina asiática. El ginkgo no es solo un árbol, es un símbolo de longevidad, esperanza y una conexión viva con un pasado geológico distante, convirtiéndolo en un verdadero tesoro botánico."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Ginkgophyta",
+    "clase": "Ginkgoopsida",
+    "orden": "Ginkgoales",
+    "familia": "Ginkgoaceae",
+    "genero": "Ginkgo",
+    "especie": "G. biloba"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN) en estado silvestre (natural).",
+    "tendenciaPoblacion": "Disminuyendo en su hábitat natural, estable en cultivo.",
+    "amenazasPrincipales": [
+      "Pérdida de hábitat y degradación en sus poblaciones nativas.",
+      "El ginkgo silvestre es extremadamente raro, casi extinto en la naturaleza.",
+      "Cambio climático."
+    ],
+    "esfuerzosConservacion": [
+      "Conservación de las poblaciones silvestres restantes en China.",
+      "Programas de propagación y reintroducción.",
+      "Ampliamente cultivado en parques y calles de todo el mundo, lo que asegura su supervivencia fuera de la naturaleza."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol conífero caducifolio (aunque botánicamente único). Dioico (árboles masculinos y femeninos separados).",
+    "alturaPromedio": "20 - 35 m (65 - 115 ft); puede superar los 50 m.",
+    "colorFollaje": "Verde brillante (verano) a amarillo dorado intenso (otoño).",
+    "tipoRaiz": "Pivotante, profunda y fuerte.",
+    "tallos": "Tronco recto y cilíndrico. La corteza es de color marrón grisáceo, surcada y rugosa.",
+    "hojas": "Únicas en forma de abanico, bilobuladas (divididas en dos lóbulos).",
+    "flores": {
+      "forma": "Conos masculinos (amentos cilíndricos) y óvulos femeninos (pequeños, en pares).",
+      "colores": "Verdoso-amarillento.",
+      "fragancia": "Poco perceptible.",
+      "tamano": "Muy pequeños."
+    },
+    "frutos": "Semilla cubierta por una capa carnosa y maloliente (solo en árboles femeninos)."
+  },
+  "habitat": {
+    "tipo": "Considerado un 'fósil viviente', su hábitat natural es casi inexistente (bosques templados de China).",
+    "distribucionGeografica": [
+      "Se cree que es nativo de China, posiblemente de la provincia de Zhejiang.",
+      "Cultivado globalmente como árbol ornamental (Asia, América del Norte y Europa)."
+    ],
+    "preferenciasSuelo": "Suelos profundos, bien drenados. Tolera una amplia gama de pH y de contaminación urbana.",
+    "preferenciasLuz": "Pleno sol o sombra parcial. Crece más rápido y con mejor forma a pleno sol."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (solo de árboles femeninos).",
+      "Esquejes de madera blanda.",
+      "Injertos (para asegurar el género, generalmente se propagan clones masculinos)."
+    ],
+    "riego": "Moderado. Tolerante a la sequía una vez establecido.",
+    "poda": "Poda de formación en árboles jóvenes. Requiere poca poda en la madurez.",
+    "fertilizacion": "No es muy exigente. Se puede aplicar un fertilizante balanceado en primavera.",
+    "plagasComunes": [
+      "Muy resistente a plagas y enfermedades."
+    ],
+    "enfermedadesComunes": [
+      "Extremadamente resistente a enfermedades fúngicas."
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de calle, parques, jardines, y bonsáis. Valorado por su tolerancia a la contaminación y su impresionante color otoñal.",
+    "culinario": [
+      "Las semillas tostadas (Ginkgo nuts) se consideran un manjar en la cocina asiática."
+    ],
+    "medicinal": [
+      "Extractos de sus hojas se usan en suplementos dietéticos para mejorar la memoria y la circulación sanguínea."
+    ],
+    "industrial": [
+      "Ingredientes en productos farmacéuticos y nutracéuticos."
+    ],
+    "simbolismo": "Longevidad, resiliencia, esperanza, paz y conexión con la antigüedad."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Primavera.",
+    "cicloVida": "Perenne, de extremada longevidad (miles de años)."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 5,
+    "vitalidad": 5,
+    "resistencia": 5,
+    "impactoEcologico": 4,
+    "misticismo": 5,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "El Ginkgo biloba es la única especie viva de la división Ginkgophyta, por lo que es considerado un 'fósil viviente'.",
+    "Es una de las especies de árboles más antiguas, con fósiles de hojas de ginkgo que datan de hace 270 millones de años.",
+    "El ginkgo es famoso por su extraordinaria resiliencia: varios árboles de ginkgo sobrevivieron a la bomba atómica de Hiroshima y volvieron a brotar el año siguiente.",
+    "La forma única de sus hojas es un símbolo cultural en Japón y otros países de Asia.",
+    "Se prefiere plantar árboles masculinos en entornos urbanos debido al olor fétido que desprenden las semillas de los árboles femeninos al madurar."
+  ]
+}

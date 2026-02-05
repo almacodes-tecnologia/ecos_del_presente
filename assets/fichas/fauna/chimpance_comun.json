@@ -1,0 +1,167 @@
+{
+  "id": "chimpance_comun",
+  "nombre": "Chimpancé Común",
+  "nombreCientifico": "Pan troglodytes",
+  "fechaInformacion": "2025",
+
+  "imagen": "chimpance_comun.webp",
+
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El chimpancé común es uno de los primates más inteligentes del planeta y nuestro pariente vivo más cercano, compartiendo aproximadamente el 98% de nuestro ADN.",
+    "Su avanzado uso de herramientas y su compleja vida social basada en lazos familiares y políticos lo convierten en una de las especies más estudiadas."
+  ],
+
+  "descripcionLarga": [
+    "Los chimpancés son animales extremadamente sociales que viven en comunidades grandes y dinámicas, organizadas bajo el patrón de **fisión-fusión**. Esto significa que los miembros del grupo se separan en subgrupos pequeños para buscar comida y se reúnen en grupos más grandes para actividades sociales o seguridad.",
+    "Su inteligencia les permite utilizar herramientas (piedras para cascar nueces, ramas para pescar termitas), resolver problemas y transmitir conocimientos y tradiciones de generación en generación (cultura animal).",
+    "Habitan bosques tropicales y sabanas arboladas de África occidental y central. Su locomoción combina el movimiento cuadrúpedo (nudilleo) en el suelo y la braquiación en los árboles."
+  ],
+
+  "observaciones": [
+    "Su estructura social es una de las más ricas y jerárquicas del reino animal, con machos alfa que suelen mantener su posición a través de alianzas más que por fuerza bruta.",
+    "La destrucción de su hábitat, la caza furtiva para el comercio de carne de animales silvestres ('bushmeat') y las enfermedades compartidas con humanos son amenazas críticas.",
+    "Existe un marcado dimorfismo sexual en el tamaño y la agresividad, siendo los machos significativamente más grandes y la fuerza de agarre del chimpancé es varias veces superior a la de un humano."
+  ],
+
+  "longevidad": {
+    "enLibertad": "33-40 años",
+    "enCautividad": "Hasta 60 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Primates",
+    "familia": "Hominidae",
+    "genero": "Pan",
+    "especie": "P. troglodytes"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN)",
+    "tendenciaPoblacion": "Decreciente (Con un declive proyectado de más del 50% en las próximas décadas).",
+    "amenazasPrincipales": [
+      "Deforestación masiva por tala e industria extractiva, fragmentando las poblaciones.",
+      "Caza furtiva (para bushmeat) y el tráfico ilegal de crías como mascotas exóticas.",
+      "Riesgo de enfermedades infecciosas (como Ébola y SIDA/VIH) compartidas con humanos, que diezman poblaciones enteras."
+    ],
+    "esfuerzosConservacion": [
+      "Protección estricta en Parques Nacionales y Áreas de Conservación.",
+      "Programas de rehabilitación y reintroducción de chimpancés huérfanos y rescatados.",
+      "Educación local, protección legal y aplicación de leyes contra la caza furtiva y el tráfico."
+    ],
+    "descripcionConservacion": [
+      "La especie enfrenta un declive severo. La fragmentación del hábitat aísla a las comunidades, haciéndolas más vulnerables a las enfermedades y la caza.",
+      "Su conservación es prioritaria debido a su importancia biológica y genética."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "40-60 kg",
+      "hembraAdulta": "32-45 kg",
+      "maximoRegistrado": "70+ kg"
+    },
+    "alturaHombro": {
+      "macho": "100-130 cm (bipedestación)",
+      "hembra": "90-115 cm (bipedestación)"
+    },
+    "longitudCuerpoCola": {
+      "macho": "Sin cola; longitud corporal 70-96 cm",
+      "hembra": "Sin cola; longitud corporal 70-90 cm"
+    },
+    "colorPelaje": "Pelaje áspero, de color oscuro, entre marrón y negro. Rostro, manos y pies sin pelo.",
+    "caracteristicasEspeciales": "Brazos extremadamente largos (mayor envergadura que la altura); musculatura densa; pulgar oponible; pies adaptados para agarrar.",
+    "morfologia": [
+      "Brazos muy largos, adaptados para trepar y para el 'nudilleo' (caminar sobre los nudillos de las manos).",
+      "Manos increíblemente hábiles con pulgar oponible, capaces de manipular herramientas con precisión .",
+      "Cara desnuda, altamente expresiva, utilizada en una compleja comunicación visual."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques tropicales, bosques de galería, y sabanas arboladas",
+    "distribucionGeografica": [
+      "África occidental y central (desde Guinea hasta Tanzania)."
+    ],
+    "adaptacionesHabitat": "Gran capacidad para trepar y moverse entre el dosel (arbóreo) y el suelo (terrestre). Construcción diaria de nidos ('dormitorios') en las copas de los árboles.",
+    "descripcionHabitat": [
+      "Prefieren zonas con abundante cobertura arbórea y disponibilidad de agua. Utilizan el bosque para obtener frutos y el suelo para desplazarse y cazar.",
+      "Cada individuo construye un nuevo nido o plataforma para dormir cada noche, doblando y tejiendo ramas."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Omnívoro (Principalmente frugívoro)",
+    "presasComunes": [
+      "Frutas, flores y semillas (componente principal)",
+      "Hojas y brotes tiernos",
+      "Insectos (termitas y hormigas, a menudo pescados con herramientas)",
+      "Carne (monos pequeños, cerdos salvajes jóvenes) mediante caza cooperativa"
+    ],
+    "estrategiaCaza": "Caza cooperativa y coordinada, especialmente de monos colobos, utilizando tácticas de emboscada y persecución.",
+    "descripcionDieta": [
+      "Su dieta es variada y se ajusta a la disponibilidad estacional. Muestran inteligencia al elegir el momento óptimo para consumir frutas.",
+      "La carne representa una pequeña parte de su dieta, pero es crucial para la cohesión social, ya que se comparte entre el grupo."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Comunidades de **fisión-fusión** (20 a 150 individuos) con jerarquía lineal, liderada por un macho alfa.",
+    "rolMacho": "Competencia por estatus, dominancia y acceso a hembras; patrullaje y defensa territorial.",
+    "rolHembra": "Cría de los hijos y cooperación social. La madre es el centro del círculo social del joven.",
+    "actividadDiaria": "Diurno; dividido entre búsqueda de alimento, socialización (acicalamiento) y siestas.",
+    "comunicacion": [
+      "Vocalizaciones complejas (pant-hoots, gruñidos, ladridos) y 'coros' de grupo",
+      "Gestos y posturas corporales sofisticadas (ej. reverencias ante el macho alfa)",
+      "Amplias expresiones faciales que transmiten emoción e intención."
+    ],
+    "descripcionComportamiento": [
+      "Capaces de usar y fabricar herramientas, planificación, y tácticas de guerra entre grupos.",
+      "El acicalamiento es la actividad social más importante, sirviendo para la higiene y el mantenimiento de alianzas."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "8-10 años",
+      "hembra": "9-11 años"
+    },
+    "periodoGestacion": "Aproximadamente 230 días (8 meses)",
+    "tamanoCamada": "1 cría",
+    "cuidadoCrias": "Dependencia materna prolongada: la cría se amamanta hasta los 3-5 años y permanece cerca de la madre hasta los 7-8 años, lo que limita la tasa de natalidad.",
+    "descripcionReproduccion": [
+      "Las hembras dan a luz a una sola cría, espaciando los nacimientos cada 4 a 6 años debido al intenso y prolongado cuidado parental.",
+      "La comunidad apoya socialmente el desarrollo del joven, que aprende habilidades de supervivencia y sociales por observación."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Son dispersores de semillas cruciales (grandes y pequeñas), lo que mantiene la diversidad genética y la estructura del bosque tropical.",
+    "Como depredadores tope (caza de monos), ayudan a regular las poblaciones de primates más pequeños."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 6,
+    "inteligencia": 10,
+    "adaptabilidad": 7,
+    "fuerza": 7,
+    "velocidad": 6,
+    "tamano": 5,
+    "majestuosidad": 6,
+    "rareza": 6,
+    "supervivencia": 7,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "Comparten aproximadamente el 98% de su ADN con los humanos.",
+    "Los chimpancés de diferentes regiones tienen 'culturas' distintas, con variaciones en el tipo de herramientas que usan (ej. algunos pescan termitas, otros rompen nueces).",
+    "Son uno de los pocos animales que muestran evidencia de 'guerra' organizada y sistemática contra comunidades vecinas.",
+    "Pueden reconocerse a sí mismos en un espejo, una señal de autoconciencia."
+  ]
+}

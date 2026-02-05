@@ -1,0 +1,164 @@
+{
+  "id": "cebra_de_las_llanas",
+  "nombre": "Cebra de las Llanuras (o de Burchell)",
+  "nombreCientifico": "Equus quagga",
+  "fechaInformacion": "2025",
+
+  "imagen": "cebra_de_las_llanuras.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La cebra de las llanuras es la especie de cebra más común y extendida en África, famosa por su rol en las grandes migraciones.",
+    "Se distingue por su característico pelaje a rayas blancas y negras, cuyo patrón es único para cada individuo."
+  ],
+
+  "descripcionLarga": [
+    "La cebra de las llanuras habita principalmente en sabanas, pastizales y matorrales abiertos de África oriental y meridional, formando grandes manadas. Su diseño a rayas cumple múltiples funciones, incluyendo camuflaje disruptivo contra depredadores y, potencialmente, un método de control de temperatura corporal .",
+    "Es un herbívoro diurno. Posee un sistema social complejo basado en harenes estables de hembras y crías, liderados por un semental dominante que defiende activamente al grupo.",
+    "A diferencia de otros ungulados, las cebras son 'pastadoras toscas', capaces de alimentarse de pastos altos y menos nutritivos, abriendo el camino para especies que requieren pasto más corto (como los ñus)."
+  ],
+
+  "observaciones": [
+    "Cada cebra tiene un patrón de rayas único, similar a las huellas dactilares humanas, que probablemente usan para el reconocimiento individual dentro de la manada.",
+    "Durante las grandes migraciones anuales, como la del Serengeti, las cebras se desplazan en grupos masivos junto a ñus y gacelas, aumentando la seguridad colectiva.",
+    "Existe la hipótesis de que las rayas también ayudan a repeler moscas tse-tsé y otros insectos picadores."
+  ],
+
+  "longevidad": {
+    "enLibertad": "20-25 años",
+    "enCautividad": "Hasta 40 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Perissodactyla",
+    "familia": "Equidae",
+    "genero": "Equus",
+    "especie": "E. quagga"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable (con declives locales en algunas subpoblaciones)",
+    "amenazasPrincipales": [
+      "Caza furtiva por pieles y carne (especialmente en áreas no protegidas)",
+      "Pérdida y fragmentación de hábitat por expansión agrícola y desarrollo urbano",
+      "Competencia con ganado doméstico por pastos y recursos hídricos",
+      "Interrupción de rutas migratorias históricas."
+    ],
+    "esfuerzosConservacion": [
+      "Protección en parques nacionales y reservas (ej. Serengeti, Masai Mara)",
+      "Programas de conservación y monitoreo de manadas para comprender las dinámicas poblacionales.",
+      "Gestión de los corredores de vida silvestre para mantener las rutas migratorias."
+    ],
+    "descripcionConservacion": [
+      "Aunque la especie en su conjunto es estable, la subespecie extinta Quagga (Equus quagga quagga) sirve como recordatorio de la vulnerabilidad de las poblaciones locales. Hoy se intenta revivir el linaje Quagga mediante cría selectiva.",
+      "La creación de áreas protegidas y reservas ha permitido mantener la estabilidad poblacional general de la especie, pero la protección de las zonas fuera de estas áreas sigue siendo un desafío."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "220-350 kg",
+      "hembraAdulta": "175-280 kg",
+      "maximoRegistrado": "400 kg"
+    },
+    "alturaHombro": {
+      "macho": "1.3-1.5 m",
+      "hembra": "1.2-1.4 m"
+    },
+    "longitudCuerpoCola": {
+      "macho": "2-2.4 m",
+      "hembra": "1.9-2.3 m"
+    },
+    "colorPelaje": "Rayas blancas y negras que son más anchas y difusas hacia las patas y el vientre.",
+    "caracteristicasEspeciales": "Melena corta, eréctil y rayada; visión panorámica; pezuñas duras para largas distancias.",
+    "morfologia": [
+      "Cuerpo robusto y musculoso con extremidades fuertes adaptadas a correr largas distancias y patear fuertemente.",
+      "Orejas puntiagudas y ojos grandes a los lados de la cabeza para una excelente visión periférica que abarca casi 360 grados.",
+      "La cola es larga y termina en un penacho de pelo negro, utilizado principalmente para ahuyentar insectos voladores."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Sabanas, llanuras abiertas, pastizales y zonas boscosas dispersas",
+    "distribucionGeografica": [
+      "Amplia distribución en África Subsahariana: desde Sudán del Sur hasta Sudáfrica."
+    ],
+    "adaptacionesHabitat": "Habilidad para recorrer grandes distancias buscando pastos y agua; excelente visión y oído para la detección temprana de depredadores; tolerancia a pastos bajos en nutrientes.",
+    "descripcionHabitat": [
+      "Habita principalmente llanuras abiertas donde el pasto es abundante y hay acceso a agua. La presencia de árboles o matorrales es secundaria.",
+      "Su estrategia de supervivencia se basa en la velocidad, la formación de manadas cohesivas y la vigilancia constante."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro (Pastador tosco)",
+    "presasComunes": [
+      "Pastos y hierbas de sabana (Poaceae)",
+      "Raramente brotes y hojas tiernas"
+    ],
+    "estrategiaCaza": null,
+    "descripcionDieta": [
+      "Su alimentación se basa casi por completo en pastos. Su sistema digestivo es menos eficiente que el de rumiantes, lo que compensa consumiendo grandes cantidades de hierba.",
+      "Su capacidad para comer pastos largos y fibrosos le permite coexistir con el ñu, que prefiere pastos más cortos, lo que reduce la competencia por el alimento."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Viven en harenes estables (un macho, varias hembras y crías), que se unen para formar supermanadas.",
+    "rolMacho": "Semental dominante; defiende la manada de depredadores y otros machos, manteniendo la cohesión grupal.",
+    "rolHembra": "Madres protectoras; establecen la jerarquía social dentro del harén y coordinan la vigilancia.",
+    "actividadDiaria": "Diurno; pasan gran parte del día pastando y bebiendo, alternando con periodos de descanso y vigilancia.",
+    "comunicacion": [
+      "Relinchos, bufidos y el característico 'qua-ha, qua-ha' que da nombre a la subespecie extinta Quagga.",
+      "Señales visuales mediante la postura corporal y el patrón de rayas para el reconocimiento."
+    ],
+    "descripcionComportamiento": [
+      "Las cebras forman manadas muy cohesionadas que se protegen mutuamente de depredadores mediante mordiscos y patadas. El semental se coloca en la retaguardia para defender la huida.",
+      "La función de las rayas también se teoriza como un 'efecto confusión' cuando la manada huye, dificultando que el depredador se centre en un solo individuo."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "3-4 años (pero no crían hasta ganar un harén, 5-6 años)",
+      "hembra": "2-3 años"
+    },
+    "periodoGestacion": "12-13 meses",
+    "tamanoCamada": "1 cría (potro) por parto",
+    "cuidadoCrias": "La madre protege al potro ferozmente; lo aísla brevemente para que aprenda a reconocer su patrón de rayas, lo cual es vital para el vínculo.",
+    "descripcionReproduccion": [
+      "La reproducción ocurre durante todo el año, pero los picos de nacimiento coinciden con las estaciones húmedas y la abundancia de pasto.",
+      "Los potros pueden ponerse de pie, caminar y correr pocas horas después de nacer, un rasgo de supervivencia esencial en la sabana."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Las cebras actúan como 'cortadoras de césped', manteniendo baja la vegetación y facilitando el acceso a pastos más tiernos para otros herbívoros (como el ñu).",
+    "Son la presa principal de grandes depredadores (leones, hienas, cocodrilos), regulando el balance de la cadena trófica africana."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 4,
+    "inteligencia": 6,
+    "adaptabilidad": 8,
+    "fuerza": 6,
+    "velocidad": 7,
+    "tamano": 7,
+    "majestuosidad": 7,
+    "rareza": 5,
+    "supervivencia": 8,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "Las rayas de la cebra son blancas sobre un fondo negro (su piel subyacente es negra), no al revés.",
+    "La subespecie Quagga, que tenía rayas solo en la parte delantera del cuerpo, se extinguió en el siglo XIX.",
+    "El patrón de rayas puede ayudar a la termorregulación, creando micro-vientos sobre la piel debido a la diferencia de absorción de calor entre el negro y el blanco.",
+    "Los potros imitan el patrón de rayas de su madre desde el nacimiento para integrarse rápidamente a la manada y evitar el rechazo."
+  ]
+}

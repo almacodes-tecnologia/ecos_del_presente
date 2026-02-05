@@ -1,0 +1,119 @@
+{
+  "id": "baobab",
+  "nombre": "Baobab",
+  "nombreCientifico": "Adansonia digitata",
+  "fechaInformacion": "2025",
+  "imagen": "baobab.webp",
+  "introduccionPlanta": [
+    "El Baobab es un árbol icónico africano conocido como el 'Árbol de la Vida' por su longevidad extrema y su capacidad de almacenar grandes cantidades de agua en su tronco masivo e hinchado.",
+    "Su silueta distintiva (similar a un árbol plantado al revés) y su fruto rico en nutrientes lo convierten en un símbolo cultural y ecológico de las sabanas áridas."
+  ],
+  "descripcionLarga": [
+    "El baobab, científicamente conocido como *Adansonia digitata*, es uno de los árboles más singulares y emblemáticos del continente africano. Su característica más distintiva es su tronco masivo, hinchado y liso, que le ha valido el apodo de 'árbol de la botella'. Este tronco no solo le da una apariencia imponente, sino que también sirve como un vital almacén de agua, permitiéndole sobrevivir en las áridas sabanas donde habita.",
+    "Durante la estación seca, el baobab pierde sus hojas palmeadas, revelando una silueta de ramas retorcidas que parecen raíces. Este aspecto ha inspirado leyendas africanas que dicen que los dioses lo plantaron al revés. Durante la noche, el árbol florece con grandes flores colgantes y blancas, que son polinizadas principalmente por murciélagos. Su fruto, una cápsula dura con pulpa seca y polvorienta, es un superalimento rico en vitamina C y antioxidantes.",
+    "Con una vida útil que puede superar los 2.000 años, el baobab es un verdadero 'árbol de la vida' para las comunidades locales, proporcionando refugio, alimento y materiales. Su madera, porosa, no se utiliza para la construcción, pero su corteza fibrosa se aprovecha para hacer cuerdas. A pesar de su resiliencia, la especie se enfrenta a amenazas del cambio climático y la deforestación, y la misteriosa muerte reciente de algunos de sus ejemplares más longevos ha encendido las alarmas de los conservacionistas."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Malvales",
+    "familia": "Malvaceae",
+    "genero": "Adansonia",
+    "especie": "A. digitata"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable, pero algunas especies del género están amenazadas.",
+    "amenazasPrincipales": [
+      "Cambio climático (sequías prolongadas).",
+      "Cambio en el uso de la tierra y deforestación.",
+      "Daños causados por elefantes en épocas de sequía.",
+      "Desaparición repentina de algunos de los ejemplares más antiguos, cuya causa se investiga."
+    ],
+    "esfuerzosConservacion": [
+      "Protección de árboles emblemáticos y centenarios.",
+      "Investigación sobre las causas de la muerte de los árboles más viejos.",
+      "Programas de reforestación y educación sobre su importancia."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol caducifolio, de gran tamaño, con un tronco masivo e hinchado.",
+    "alturaPromedio": "5 - 25 m (16 - 82 ft).",
+    "colorFollaje": "Verde brillante (en estación húmeda).",
+    "tipoRaiz": "Pivotante, amplia y superficial (para anclaje y absorción rápida de agua).",
+    "tallos": "Tronco extraordinariamente grueso, liso, de color grisáceo. Su corteza fibrosa almacena grandes cantidades de agua.",
+    "hojas": "Palmeadas, con 5 a 7 folíolos (en forma de dedos).",
+    "flores": {
+      "forma": "Grandes, colgantes, con cinco pétalos. Se abren al atardecer.",
+      "colores": "Blanco cremoso o amarillento.",
+      "fragancia": "Un olor dulce y almizclado.",
+      "tamano": "Hasta 20 cm (8 in) de diámetro."
+    },
+    "frutos": "Cápsula grande, ovalada, de color marrón, con una cubierta exterior dura y pulpa seca en el interior que contiene las semillas."
+  },
+  "habitat": {
+    "tipo": "Sabanas secas y llanuras áridas y semiáridas.",
+    "distribucionGeografica": [
+      "África continental (especialmente en el sur y este).",
+      "Introducido en algunas otras partes del mundo, como India y Omán."
+    ],
+    "preferenciasSuelo": "Suelos arenosos y rocosos, bien drenados.",
+    "preferenciasLuz": "Pleno sol. Requiere mucha luz solar directa."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas, que requieren escarificación para germinar.",
+      "Esquejes de tallo grueso."
+    ],
+    "riego": "Bajo. Muy tolerante a la sequía. No soporta el encharcamiento.",
+    "poda": "No se poda en su hábitat natural, pero puede formarse en cultivo.",
+    "fertilizacion": "No es necesaria. En cultivo, se puede usar un fertilizante de bajo nitrógeno.",
+    "plagasComunes": [
+      "Muy resistente a plagas y enfermedades."
+    ],
+    "enfermedadesComunes": [
+      "Pudrición de la raíz (por exceso de agua)."
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de paisaje en zonas de clima cálido.",
+    "culinario": [
+      "Fruto (pulpa) rico en vitamina C, antioxidantes y fibra (superalimento).",
+      "Hojas y brotes jóvenes se consumen como verdura.",
+      "Semillas tostadas y molidas para un sustituto del café."
+    ],
+    "medicinal": [
+      "Pulpa del fruto para tratar la fiebre y la diarrea.",
+      "Corteza y hojas para remedios tradicionales."
+    ],
+    "industrial": [
+      "Corteza para hacer cuerdas y tejidos.",
+      "Pulpa del fruto como ingrediente en la industria alimentaria (polvo de baobab)."
+    ],
+    "simbolismo": "Longevidad, resiliencia, vida en entornos difíciles. En la mitología africana, es el 'árbol de la vida' y un lugar sagrado de reunión."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Principalmente por murciélagos, también por polillas.",
+    "momentoFloracion": "Generalmente al final de la estación seca o al comienzo de la temporada de lluvias (principalmente noche).",
+    "cicloVida": "Perenne, extremadamente longevo (hasta varios miles de años)."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 4,
+    "vitalidad": 5,
+    "resistencia": 5,
+    "impactoEcologico": 5,
+    "misticismo": 5,
+    "fraganciaMagica": 3,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "El baobab es apodado 'árbol de la botella' o 'árbol boca abajo' porque sus ramas, sin hojas en la estación seca, parecen raíces que crecen hacia el cielo.",
+    "Puede vivir miles de años. Los árboles más viejos conocidos han sido datados por carbono en más de 2.000 años, aunque recientemente algunos de ellos han muerto inexplicablemente.",
+    "Su tronco hueco se ha utilizado como refugio, prisión, granero e incluso como bar o baño público.",
+    "Puede almacenar miles de litros de agua en su tronco hinchado, lo que le permite sobrevivir a las sequías más prolongadas.",
+    "Los frutos del baobab son uno de los pocos frutos que se secan de forma natural en el árbol. La pulpa se vuelve un polvo que se puede consumir directamente."
+  ]
+}

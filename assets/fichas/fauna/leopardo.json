@@ -1,0 +1,168 @@
+{
+  "id": "leopardo",
+  "nombre": "Leopardo",
+  "nombreCientifico": "Panthera pardus",
+  "fechaInformacion": "2024",
+
+  "imagen": "leopardo.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El leopardo (*Panthera pardus*) es uno de los grandes felinos más extendidos del planeta, conocido por su fuerza, agilidad y su característico pelaje moteado.",
+    "Es un depredador extremadamente adaptable, capaz de sobrevivir en bosques, sabanas, montañas e incluso zonas semiáridas, siendo el felino con la distribución geográfica más amplia en África y Asia."
+  ],
+
+  "descripcionLarga": [
+    "El leopardo es un felino solitario y sigiloso, caracterizado por su pelaje dorado cubierto de rosetas negras. Su cuerpo es compacto y musculoso, lo que le permite escalar árboles con facilidad, una habilidad que usa para comer en altura y evitar que otros depredadores (como leones o hienas) le roben las presas.",
+    "Es un carnívoro oportunista y versátil, con una dieta increíblemente amplia. Su éxito ecológico se debe a su adaptabilidad en la alimentación y a su discreción.",
+    "Aunque su distribución es extensa, las poblaciones han disminuido en varios lugares debido a la pérdida de hábitat, la persecución humana y la fragmentación de sus territorios, lo que lo llevó a ser clasificado como Vulnerable."
+  ],
+
+  "observaciones": [
+    "Es un animal principalmente nocturno y crepuscular, lo que contribuye a su naturaleza esquiva.",
+    "Puede cargar presas que superan su propio peso (hasta tres veces su masa corporal) hasta las ramas de un árbol.",
+    "El leopardo es un excelente saltador y, a diferencia del jaguar, sus rosetas generalmente no contienen puntos negros centrales."
+  ],
+
+  "longevidad": {
+    "enLibertad": "12-15 años",
+    "enCautividad": "17-23 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Carnivora",
+    "familia": "Felidae",
+    "genero": "Panthera",
+    "especie": "P. pardus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Vulnerable (VU)",
+    "tendenciaPoblacion": "Decreciente",
+    "amenazasPrincipales": [
+      "Pérdida y fragmentación del hábitat, reduciendo su base de presas.",
+      "Caza furtiva (para pieles y partes corporales) y por represalia (conflictos con ganaderos).",
+      "Disminución de sus presas naturales debido a la caza humana."
+    ],
+    "esfuerzosConservacion": [
+      "Creación de áreas protegidas y corredores biológicos para unir poblaciones aisladas.",
+      "Programas contra la caza ilegal y el comercio de vida silvestre.",
+      "Proyectos de coexistencia que compensan a los ganaderos por las pérdidas."
+    ],
+    "descripcionConservacion": [
+      "Las poblaciones de leopardo han disminuido significativamente. La subespecie más amenazada es el leopardo del Amur (Rusia/China), que está en Peligro Crítico. El estatus global refleja el grave declive general en Asia."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "50–90 kg",
+      "hembraAdulta": "28–60 kg",
+      "maximoRegistrado": "96 kg"
+    },
+    "alturaHombro": {
+      "macho": "60–70 cm",
+      "hembra": "57–65 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "160–210 cm (incluyendo cola)",
+      "hembra": "155–190 cm (incluyendo cola)"
+    },
+    "colorPelaje": "Dorado o amarillento con rosetas negras (generalmente sin puntos internos); existe la variación melánica ('pantera negra').",
+    "caracteristicasEspeciales": "Excelente trepador (carga presas a los árboles); Gran adaptabilidad a hábitats diversos; Rosetas sin puntos centrales (distinto del jaguar); Existe la pantera negra (melanismo).",
+    "morfologia": [
+      "Cuerpo compacto y musculoso diseñado para trepar y acechar.",
+      "Cola larga que ayuda al equilibrio durante los saltos y desplazamientos en árboles.",
+      "Mandíbulas potentes capaces de sujetar y estrangular presas grandes."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Sabanas, bosques tropicales, montañas, zonas semiáridas, manglares y áreas suburbanas.",
+    "distribucionGeografica": [
+      "África subsahariana",
+      "Medio Oriente",
+      "Subcontinente Indio",
+      "Sudeste Asiático (incluyendo archipiélagos)",
+      "Lejano Oriente ruso."
+    ],
+    "adaptacionesHabitat": "Gran plasticidad ecológica. Capaz de vivir desde el nivel del mar hasta más de 4.000 metros de altitud, dependiendo de la disponibilidad de cobertura y presas.",
+    "descripcionHabitat": [
+      "Prefiere zonas con vegetación densa o relieve variado donde pueda ocultarse y utilizar árboles para descansar y almacenar comida.",
+      "Su éxito se basa en su capacidad para pasar desapercibido en casi cualquier entorno."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro oportunista (generalista)",
+    "presasComunes": [
+      "Antílopes medianos (impala, gacela)",
+      "Cerdos salvajes",
+      "Monos y primates",
+      "Roedores, aves, reptiles y carroña (ocasionalmente)."
+    ],
+    "estrategiaCaza": "Caza por acecho y emboscada, acercándose sigilosamente a la presa antes de realizar un ataque rápido. Generalmente mata por asfixia en la garganta o mordida en la nuca.",
+    "descripcionDieta": [
+      "Es el felino con dieta más amplia, con más de 90 especies de presas documentadas.",
+      "Suele arrastrar sus presas grandes a las copas de los árboles (hasta 15 metros de altura) para protegerlas de carroñeros terrestres."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario, territorial y esquivo. Solo se unen para el apareamiento o la crianza.",
+    "rolMacho": "Defiende un territorio que abarca los territorios de varias hembras y busca oportunidades de reproducción.",
+    "rolHembra": "Cuida sola de las crías y es la cazadora principal durante este período.",
+    "actividadDiaria": "Principalmente nocturna y crepuscular para evitar la competencia y la detección humana.",
+    "comunicacion": [
+      "Marcas olorosas (orina, heces) para delimitar territorio.",
+      "Rasguños en árboles.",
+      "Tos o gruñidos (llamadas vocales de larga distancia), ronroneos y gruñidos de amenaza."
+    ],
+    "descripcionComportamiento": [
+      "Su cautela y discreción son claves para coexistir con especies dominantes como el león y el tigre.",
+      "Puede ser muy territorial, especialmente en áreas con recursos limitados."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "2–3 años",
+      "hembra": "2–2.5 años"
+    },
+    "periodoGestacion": "90–105 días (aproximadamente 3.5 meses)",
+    "tamanoCamada": "1–3 cachorros (rara vez 4)",
+    "cuidadoCrias": "La madre cuida sola de las crías, escondiéndolas en madrigueras o vegetación densa durante los primeros meses, hasta que son independientes (18–24 meses).",
+    "descripcionReproduccion": [
+      "La hembra puede entrar en celo en cualquier época del año en el trópico. Los cachorros nacen ciegos y tienen un pelaje más lanudo que los adultos."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Es un depredador tope que regula las poblaciones de mamíferos medianos, ayudando a prevenir la sobrepoblación de herbívoros.",
+    "Su amplia distribución lo convierte en un 'paraguas' para la conservación, ya que al proteger su hábitat se protege a una gran cantidad de otras especies."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 6,
+    "inteligencia": 7,
+    "adaptabilidad": 10,
+    "fuerza": 7,
+    "velocidad": 8,
+    "tamano": 6,
+    "majestuosidad": 8,
+    "rareza": 4,
+    "supervivencia": 9,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "El leopardo puede saltar más de 6 metros en horizontal o subir árboles verticales con presas que a veces duplican su peso.",
+    "Es uno de los grandes felinos que mejor trepa y más tiempo pasa en los árboles.",
+    "Los ejemplares melánicos ('panteras negras') son más comunes en selvas tropicales densas, donde su color oscuro proporciona mejor camuflaje bajo la escasa luz.",
+    "Cada leopardo tiene un patrón de rosetas único, como una huella dactilar, que se utiliza para el monitoreo poblacional."
+  ]
+}

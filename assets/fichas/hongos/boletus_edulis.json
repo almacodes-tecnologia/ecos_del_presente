@@ -1,0 +1,43 @@
+{
+  "id": "boletus_edulis",
+  "nombre": "Boletus edulis",
+  "nombreCientifico": "Boletus edulis",
+  "familia": "Boletaceae",
+  "imagen": "boletus_edulis.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Boletus edulis es un hongo basidiomiceto de gran porte, referente taxonómico de la familia Boletaceae. Se distingue por su desarrollo robusto, un sistema de himenóforo poroso y una carne blanca que mantiene su coloración constante tras la sección, lo que lo diferencia de otras especies azuleantes.",
+
+  "caracteristicas": {
+    "sombrero": "7-30 cm de diámetro; evoluciona de forma hemisférica a convexa-aplanada. Cutícula de tonos pardos, ligeramente viscosa en condiciones de humedad y con un margen liso bien definido.",
+    "laminas": "Compuesto por tubos largos y poros finos, fácilmente separables de la carne. Evolucionan de color blanco inmaculado a amarillo-verdoso y finalmente verde-oliva en la madurez esporal.",
+    "pie": "Macizo, de forma ventruda o bulbosa en la base. Presenta una coloración blanquecina o crema, decorado en su parte superior por un retículo fino de color blanco que se desvanece hacia la base.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Marrón oliva",
+    "rolEcologico": "Especie clave en la salud forestal debido a su capacidad de formar micorrizas, facilitando la absorción de nutrientes complejos para los árboles hospedadores."
+  },
+
+  "habitat": {
+    "tipo": "Bosques mixtos, con preferencia por coníferas (Pinus spp.) y frondosas como hayas (Fagus sylvatica), robles (Quercus) y castaños.",
+    "relacionEcologica": "Establece simbiosis micorrícica esencial con las raíces de los árboles, intercambiando agua y sales minerales por carbohidratos fotosintetizados.",
+    "distribucionGeografica": ["Ampliamente distribuido por el Hemisferio Norte (regiones templadas y boreales) y presente en áreas del Hemisferio Sur bajo repoblaciones forestales."],
+    "temporada": "Finales de verano y otoño, condicionado por las precipitaciones y el descenso moderado de las temperaturas.",
+    "altitudRango": "Desde el nivel del mar hasta el límite de la vegetación arbórea en alta montaña."
+  },
+
+  "curiosidades": [
+    "Su carne es inmutable: a diferencia de otros Boletus (como el B. erythropus), no presenta reacciones de oxidación azul al contacto con el aire.",
+    "El retículo del pie es una de las señas de identidad diagnósticas más importantes para diferenciarlo de especies similares.",
+    "Su dependencia total de la simbiosis con árboles vivos hace que sea un hongo imposible de producir de forma industrial en ausencia de vegetación.",
+    "En condiciones óptimas, el cuerpo fructífero puede alcanzar dimensiones excepcionales, superando los 2 kg de peso."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 9,
+    "rareza": 6,
+    "simbolismo": 8,
+    "resistencia": 8,
+    "equilibrioEcosistemico": 10,
+    "aura": 7
+  }
+}

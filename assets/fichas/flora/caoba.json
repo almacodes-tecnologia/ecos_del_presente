@@ -1,0 +1,117 @@
+{
+  "id": "caoba",
+  "nombre": "Caoba",
+  "nombreCientifico": "Swietenia macrophylla",
+  "fechaInformacion": "2025",
+  "imagen": "caoba.webp",
+  "introduccionPlanta": [
+    "La Caoba es un árbol perenne tropical de gran porte, famoso por producir una de las maderas más valiosas y lujosas del mundo, de color rojizo y excelente durabilidad.",
+    "Debido a la sobreexplotación y la tala ilegal, la especie se encuentra clasificada como Vulnerable (VU), y su comercio es regulado internacionalmente."
+  ],
+  "descripcionLarga": [
+    "La **caoba** (*Swietenia macrophylla*), conocida como caoba de Honduras o de hoja ancha, es un árbol perenne de gran tamaño originario de las selvas tropicales de América. Es mundialmente famosa por su madera, considerada una de las más valiosas y apreciadas en la ebanistería y la carpintería de lujo. Su tronco es recto y cilíndrico, y se eleva majestuosamente, a menudo sin ramas en su parte inferior, lo que facilita la obtención de grandes tablas de madera de alta calidad.",
+    "La madera de caoba se distingue por su color rojizo, que se oscurece con el tiempo, su hermoso veteado y su excepcional durabilidad y resistencia a la putrefacción. Estas características la han hecho indispensable en la fabricación de muebles finos, instrumentos musicales, como guitarras, y revestimientos de interiores de lujo. Sin embargo, su inmensa demanda ha llevado a una **tala ilegal** desenfrenada y a la **sobreexplotación**, lo que ha puesto a la especie en un estado vulnerable a nivel mundial.",
+    "En la naturaleza, la caoba es un árbol de bosque húmedo, que requiere suelos ricos y una alta humedad ambiental para prosperar. Su reproducción se basa en la liberación de semillas aladas desde grandes cápsulas leñosas, que se abren para que el viento las disperse. A pesar de los esfuerzos de conservación, como su inclusión en la lista CITES para regular su comercio, la especie sigue enfrentando graves amenazas. La caoba es un símbolo de la belleza natural convertida en lujo, pero también un claro ejemplo de la fragilidad de los recursos naturales ante la insaciable demanda humana."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Sapindales",
+    "familia": "Meliaceae",
+    "genero": "Swietenia",
+    "especie": "S. macrophylla"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Vulnerable (VU)",
+    "tendenciaPoblacion": "Decreciente.",
+    "amenazasPrincipales": [
+      "Tala ilegal y sobreexplotación de su madera.",
+      "Pérdida de hábitat por la expansión de la agricultura y la ganadería.",
+      "Comercio ilegal en el mercado negro.",
+      "Plagas del barrenador de brotes."
+    ],
+    "esfuerzosConservacion": [
+      "Inclusión en el Apéndice II de CITES (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres).",
+      "Programas de reforestación y manejo forestal sostenible.",
+      "Control y monitoreo de las exportaciones de madera.",
+      "Promoción de la madera de fuentes certificadas."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol perenne de hoja ancha, de gran tamaño, conocido por su madera de alta calidad.",
+    "alturaPromedio": "30 - 45 m (100 - 150 ft); puede superar los 60 m.",
+    "colorFollaje": "Verde brillante.",
+    "tipoRaiz": "Pivotante, profunda, a menudo con contrafuertes en árboles viejos.",
+    "tallos": "Tronco recto y cilíndrico. La corteza es de color gris a marrón oscuro, con fisuras verticales.",
+    "hojas": "Compuestas, pinnadas, con 4 a 8 pares de folíolos de un color verde brillante.",
+    "flores": {
+      "forma": "Pequeñas y discretas, agrupadas en panículas axilares y terminales.",
+      "colores": "Verdoso-amarillento.",
+      "fragancia": "Leve, poco perceptible (melífera).",
+      "tamano": "Pequeñas, de menos de 1 cm de diámetro."
+    },
+    "frutos": "Una cápsula leñosa, ovalada y erecta, de color marrón oscuro, que se abre en cinco válvulas al madurar y libera las semillas aladas."
+  },
+  "habitat": {
+    "tipo": "Bosques tropicales húmedos y de galería.",
+    "distribucionGeografica": [
+      "Nativa de la cuenca del Amazonas y otras regiones de América Central y del Sur.",
+      "Cultivada en plantaciones en Asia y otras regiones tropicales."
+    ],
+    "preferenciasSuelo": "Suelos profundos, ricos en humus y bien drenados. Requiere una alta humedad ambiental.",
+    "preferenciasLuz": "Sombra parcial en la etapa de plántula, luego requiere luz solar plena para un crecimiento óptimo."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Principalmente por semillas.",
+      "Esquejes y técnicas de injerto en viveros para programas de reforestación."
+    ],
+    "riego": "Requiere una alta humedad constante. No tolera la sequía prolongada.",
+    "poda": "Poda de formación en árboles jóvenes para asegurar un tronco recto y claro. La poda de ramas bajas es común.",
+    "fertilizacion": "Responde bien a fertilizantes ricos en nitrógeno en sus primeras etapas de crecimiento.",
+    "plagasComunes": [
+      "Barrenador de brotes de la caoba (*Hypsipyla grandella*), la plaga más destructiva."
+    ],
+    "enfermedadesComunes": [
+      "Pudrición de la raíz (por mal drenaje)."
+    ]
+  },
+  "usos": {
+    "ornamental": "No se utiliza comúnmente en jardinería, pero sí en paisajismo de grandes propiedades en los trópicos.",
+    "culinario": [
+      "No tiene usos culinarios."
+    ],
+    "medicinal": [
+      "La corteza se ha utilizado en la medicina tradicional para tratar la malaria y la fiebre (propiedades astringentes)."
+    ],
+    "industrial": [
+      "Madera de alta calidad para la fabricación de muebles finos, instrumentos musicales (guitarras), botes y revestimientos de lujo.",
+      "Es una de las maderas más valiosas del mundo."
+    ],
+    "simbolismo": "Lujo, nobleza, durabilidad, y un símbolo de la riqueza forestal tropical."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Entomófila (por insectos).",
+    "momentoFloracion": "Generalmente al final de la estación seca o al comienzo de la temporada de lluvias (primavera/verano).",
+    "cicloVida": "Perenne, de muy larga vida (cientos de años), con una lenta maduración comercial (30-50 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 5,
+    "vitalidad": 4,
+    "resistencia": 4,
+    "impactoEcologico": 2,
+    "misticismo": 3,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "La caoba (*Swietenia macrophylla*), conocida como caoba de hoja ancha, es una de las maderas más valiosas del mundo, lo que ha llevado a su sobreexplotación.",
+    "La tala ilegal de caoba ha sido un problema grave en la cuenca del Amazonas, contribuyendo a la deforestación de la selva tropical.",
+    "Es una especie de crecimiento relativamente rápido en plantaciones, pero requiere de un manejo cuidadoso para evitar plagas.",
+    "El término 'caoba' se utiliza para referirse a varias especies de árboles, pero *Swietenia macrophylla* es la verdadera 'caoba de Honduras' o 'caoba de hoja ancha'.",
+    "Su madera es conocida por su color rojizo, su resistencia a la putrefacción y su facilidad para trabajarla, lo que la hace ideal para muebles de alta calidad."
+  ]
+}

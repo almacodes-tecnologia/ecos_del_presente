@@ -1,0 +1,121 @@
+{
+  "id": "orquidea",
+  "nombre": "Orquídea",
+  "nombreCientifico": "Orchidaceae (familia)",
+  "fechaInformacion": "2025",
+  "imagen": "orquidea.webp",
+  "introduccionPlanta": [
+    "Las Orquídeas son la familia de plantas con flores más grande del planeta, famosas por sus flores altamente especializadas, complejas y exóticas.",
+    "Son cosmopolitas, encontrándose en casi todos los entornos, desde epífitas en la selva hasta terrestres en zonas templadas, simbolizando belleza, lujo y misterio."
+  ],
+  "descripcionLarga": [
+    "Las orquídeas, pertenecientes a la vasta familia Orchidaceae, son una de las familias de plantas con flores más grandes y diversas del planeta. Con una distribución casi global, desde los trópicos hasta las regiones polares, han desarrollado una increíble variedad de formas de vida, incluyendo especies epífitas (que crecen sobre árboles), terrestres y litófitas (que crecen en rocas). Esta diversidad se refleja en sus flores, que exhiben un espectro de colores y formas que parece no tener límites.",
+    "La flor de la orquídea es una obra de arte natural, caracterizada por su simetría bilateral, con tres sépalos y tres pétalos, uno de los cuales, el **labelo**, está especialmente adaptado para atraer a los polinizadores. La relación entre las orquídeas y sus polinizadores es uno de los ejemplos más notables de coevolución, con algunas especies imitando feromonas o la apariencia de insectos para garantizar la polinización.",
+    "Aunque muchas orquídeas se cultivan como plantas de interior, las especies silvestres se enfrentan a graves amenazas, principalmente la destrucción de su hábitat y el tráfico ilegal. Su cultivo, a menudo considerado un desafío, requiere un cuidado especializado en cuanto a sustrato (que no sea tierra común), riego y fertilización. Más allá de su valor ornamental, la orquídea nos ha regalado la vainilla, un tesoro culinario global. La orquídea no es solo una flor, es un símbolo de belleza, misterio y una de las maravillas más complejas y fascinantes del reino vegetal."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Tracheophyta",
+    "clase": "Liliopsida",
+    "orden": "Asparagales",
+    "familia": "Orchidaceae",
+    "genero": "Varios (ej. Phalaenopsis, Cattleya, Oncidium)",
+    "especie": "Más de 28.000 especies y miles de híbridos."
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Varía ampliamente (desde Preocupación Menor hasta En Peligro Crítico).",
+    "tendenciaPoblacion": "Muchas especies silvestres están en declive.",
+    "amenazasPrincipales": [
+      "Trafico ilegal y recolección excesiva de especies silvestres.",
+      "Destrucción de hábitat (deforestación, urbanización).",
+      "Cambio climático.",
+      "Especies invasoras."
+    ],
+    "esfuerzosConservacion": [
+      "Regulación CITES (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres).",
+      "Bancos de semillas y germoplasma.",
+      "Programas de propagación in vitro y reintroducción.",
+      "Creación de reservas y parques nacionales."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Herbáceas, perennes (epífitas, terrestres o litófitas).",
+    "alturaPromedio": "Muy variable, desde unos pocos centímetros hasta varios metros.",
+    "colorFollaje": "Verde, a menudo con patrones, o carmesí/púrpura en algunas especies.",
+    "tipoRaiz": "Aéreas (epífitas, cubiertas de velamen) o tuberosas/rizomas (terrestres).",
+    "tallos": "Pseudobulbos (tallos engrosados para almacenar agua), o rizomas. En algunas especies, el tallo es muy corto.",
+    "hojas": "Formas y tamaños muy diversos. A menudo carnosas, con nervaduras paralelas.",
+    "flores": {
+      "forma": "Irregular (zigomorfa). Tienen un labelo distintivo y una columna (órgano reproductivo fusionado).",
+      "colores": "Prácticamente todos los colores del espectro, con patrones y combinaciones complejas.",
+      "fragancia": "Variable, desde dulces y exóticas (ej. Vainilla) hasta inodoras o desagradables.",
+      "tamano": "Desde menos de un milímetro hasta más de 20 cm de diámetro."
+    },
+    "frutos": "Cápsulas que contienen miles de semillas diminutas, parecidas a polvo."
+  },
+  "habitat": {
+    "tipo": "Diversos, desde bosques tropicales lluviosos hasta zonas templadas, semiáridas o subárticas.",
+    "distribucionGeografica": [
+      "Cosmopolita, presente en casi todos los continentes excepto la Antártida.",
+      "La mayor diversidad se encuentra en las selvas tropicales de América del Sur y Asia."
+    ],
+    "preferenciasSuelo": "Varía. Las terrestres prefieren suelos con buen drenaje. Las epífitas requieren sustratos porosos (corteza, musgo, fibra de coco).",
+    "preferenciasLuz": "Varía según la especie. La mayoría de las de interior requieren luz brillante indirecta."
+  },
+  "cultivo": {
+    "propagacion": [
+      "División de la planta o pseudobulbos (método común de cultivo).",
+      "Keikis (pequeñas plantas que crecen en la vara floral).",
+      "Propagación in vitro (método comercial y de conservación)."
+    ],
+    "riego": "Depende de la especie. Generalmente, dejar que el sustrato se seque un poco entre riegos. Evitar el exceso de agua.",
+    "poda": "Solo se cortan las varas florales viejas o las hojas muertas. La varilla floral puede rebrotar en algunas especies (ej. Phalaenopsis).",
+    "fertilizacion": "Necesitan fertilizante especial para orquídeas, diluido, aplicado regularmente durante la temporada de crecimiento ('débilmente y a menudo').",
+    "plagasComunes": [
+      "Cochinilla",
+      "Pulgones",
+      "Araña roja"
+    ],
+    "enfermedadesComunes": [
+      "Pudrición de la raíz (por exceso de riego).",
+      "Manchas foliares por hongos."
+    ]
+  },
+  "usos": {
+    "ornamental": "Una de las plantas de interior más populares y apreciadas a nivel mundial por sus flores exóticas y duraderas.",
+    "culinario": [
+      "La vainilla se obtiene de la orquídea *Vanilla planifolia*."
+    ],
+    "medicinal": [
+      "Algunas especies se utilizan en la medicina tradicional asiática para tratar diversas dolencias."
+    ],
+    "industrial": [
+      "Extractos de vainilla en la industria alimentaria y de perfumería.",
+      "Ingredientes en cosmética."
+    ],
+    "simbolismo": "Belleza exótica, amor, lujo, fuerza, y en la cultura oriental, pureza y fertilidad."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (hijuelos o keikis).",
+    "polinizacion": "Altamente especializada (Entomófila), a menudo por insectos, aves o murciélagos. Muchas tienen una relación coevolutiva única con su polinizador.",
+    "momentoFloracion": "Varía ampliamente según la especie (puede ser todo el año).",
+    "cicloVida": "Perenne, de larga vida."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 4,
+    "vitalidad": 3,
+    "resistencia": 2,
+    "impactoEcologico": 4,
+    "misticismo": 5,
+    "fraganciaMagica": 5,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "Las orquídeas tienen las semillas más pequeñas del mundo. Son tan diminutas que parecen polvo y carecen de endospermo, necesitando la ayuda de un hongo para germinar en la naturaleza.",
+    "La orquídea *Vanilla planifolia* es la única orquídea cultivada por su fruto, la vainilla.",
+    "Se estima que existen más de 28,000 especies de orquídeas en el mundo, lo que las convierte en la familia de plantas con flores más grande después de las Asteraceae.",
+    "El término 'orquídea' proviene del griego 'orkhis', que significa 'testículo', debido a la forma de los pseudobulbos de algunas especies terrestres.",
+    "Las orquídeas han desarrollado algunas de las estrategias de polinización más complejas y fascinantes del reino vegetal, a menudo imitando insectos hembras o engañando a los polinizadores sin ofrecer néctar."
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": "abeja_melifera",
+  "nombre": "Abeja Melífera",
+  "nombreCientifico": "Apis mellifera",
+  "fechaInformacion": "2025",
+
+  "imagen": "abeja_melifera.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La abeja melífera es uno de los insectos más importantes del planeta por su papel en la polinización.",
+    "Es una especie social que vive en colonias jerárquicas muy estructuradas."
+  ],
+
+  "descripcionLarga": [
+    "La abeja melífera es un insecto eusocial que habita en colonias compuestas por miles de individuos. Su organización se divide en obreras, zánganos y una reina, cada uno con funciones específicas dentro de la colmena.",
+    "Además de producir miel, su valor ecológico es inmenso debido a que poliniza una gran variedad de plantas silvestres y cultivos, siendo esencial para la seguridad alimentaria global."
+  ],
+
+  "observaciones": [
+    "Es sensible a pesticidas neonicotinoides y parásitos como Varroa destructor.",
+    "No suele picar salvo en defensa de la colmena."
+  ],
+
+  "longevidad": {
+    "enLibertad": "Obrera: 6 semanas en verano; Reina: 3-5 años",
+    "enCautividad": "Similar, dependiendo de la salud de la colmena"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Arthropoda",
+    "clase": "Insecta",
+    "orden": "Hymenoptera",
+    "familia": "Apidae",
+    "genero": "Apis",
+    "especie": "mellifera"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Estable globalmente, en declive en algunas regiones",
+    "amenazasPrincipales": [
+      "Pesticidas",
+      "Pérdida de hábitat",
+      "Parásito Varroa destructor",
+      "Cambio climático"
+    ],
+    "esfuerzosConservacion": [
+      "Prohibición de pesticidas neonicotinoides en varios países",
+      "Programas de conservación de polinizadores",
+      "Fomento de prácticas agrícolas sostenibles"
+    ],
+    "descripcionConservacion": [
+      "Aunque no está globalmente amenazada, muchas poblaciones regionales registran descensos debido al uso de pesticidas y la pérdida de flores silvestres.",
+      "Es clave mantener biodiversidad floral y prácticas agrícolas respetuosas para garantizar su supervivencia."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "0.1 g",
+      "hembraAdulta": "0.1 g",
+      "maximoRegistradoMacho": null
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "1.3-1.7 cm",
+      "hembra": "1.2-1.5 cm"
+    },
+    "colorPelaje": "Amarillo y negro, con vello fino",
+    "caracteristicasEspeciales": null,
+    "morfologia": [
+      "Cuerpo dividido en cabeza, tórax y abdomen.",
+      "Poseen aparato bucal adaptado para libar néctar.",
+      "Tienen estructuras especializadas como la corbícula para recolectar polen."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques, campos agrícolas, praderas, zonas urbanas",
+    "distribucionGeografica": [
+      "Europa",
+      "África",
+      "Asia Occidental",
+      "Introducida globalmente"
+    ],
+    "adaptacionesHabitat": "Alta flexibilidad para nidificar y alimentarse en entornos muy diversos.",
+    "descripcionHabitat": [
+      "Viven en cavidades naturales, huecos de árboles o colmenas artificiales.",
+      "Requieren disponibilidad de flores durante gran parte del año."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívora (nectar y polen)",
+    "presasComunes": [
+      "Néctar de flores",
+      "Polen"
+    ],
+    "estrategiaCaza": null,
+    "descripcionDieta": [
+      "El néctar es su principal fuente de energía.",
+      "El polen aporta proteínas esenciales para el crecimiento de las larvas."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Colonia eusocial con reina, obreras y zánganos",
+    "rolMacho": "Fecundar a la reina",
+    "rolHembra": "Obreras realizan todas las tareas de la colmena",
+    "actividadDiaria": "Diurna",
+    "comunicacion": [
+      "Danza del meneo",
+      "Feromonas",
+      "Señales táctiles"
+    ],
+    "descripcionComportamiento": [
+      "Su comunicación mediante la 'danza del meneo' es una de las formas más complejas del mundo animal.",
+      "La organización de la colmena es altamente eficiente."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "A los pocos días tras emerger",
+      "hembra": "Reina fértil tras su vuelo nupcial"
+    },
+    "periodoGestacion": "Larvas alimentadas durante varios días antes de pupación",
+    "tamanoCamada": "Miles de huevos al mes (reina)",
+    "cuidadoCrias": "Las obreras alimentan y protegen la cría",
+    "descripcionReproduccion": [
+      "La reina deposita huevos continuamente durante su vida.",
+      "La casta se determina por la alimentación de las larvas."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Responsable de la polinización de una enorme variedad de plantas.",
+    "Elemento clave en la estabilidad de ecosistemas y producción agrícola."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 4,
+    "adaptabilidad": 9,
+    "fuerza": 1,
+    "velocidad": 5,
+    "tamano": 1,
+    "majestuosidad": 5,
+    "rareza": 3,
+    "supervivencia": 6,
+    "impactoEcologico": 10
+  },
+
+  "curiosidades": [
+    "La danza del meneo indica dirección y distancia de las flores.",
+    "Una colmena puede tener más de 50.000 individuos.",
+    "Las obreras mueren tras picar, pero la reina no."
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "pez_vela_atlantico",
+  "nombre": "Pez Vela del Atlántico",
+  "nombreCientifico": "Istiophorus albicans",
+  "fechaInformacion": "2025",
+
+  "imagen": "pez_vela_atlantico.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El pez vela del Atlántico (*Istiophorus albicans*) es un depredador pelágico oceánico y está considerado uno de los animales marinos más rápidos del mundo, famoso por su capacidad de alcanzar velocidades extremas y su distintiva aleta dorsal gigante, similar a una vela.",
+    "Es una especie altamente migratoria que desempeña un papel crucial en las cadenas tróficas de las aguas tropicales y subtropicales del Océano Atlántico."
+  ],
+
+  "descripcionLarga": [
+    "Este pez es fácilmente identificable por su enorme y alta aleta dorsal, que se extiende a lo largo de casi todo su cuerpo. Su cuerpo es delgado y altamente hidrodinámico, lo que, junto con una cola potente y una musculatura especializada, le permite alcanzar velocidades registradas de hasta 110 km/h (casi 70 mph), convirtiéndolo en el pez más rápido conocido.",
+    "Posee un pico largo y puntiagudo, similar al de un marlín, que utiliza no para arponear, sino para golpear y aturdir a sus presas en bancos sin dañarlas permanentemente, facilitando su captura.",
+    "El color del pez vela es típicamente azul oscuro iridiscente en el dorso y plateado pálido en el vientre. Las membranas de la vela a menudo presentan puntos negros y rayas azules brillantes, que se intensifican rápidamente (cambian de color) durante la caza o la excitación."
+  ],
+
+  "observaciones": [
+    "La 'vela' no se utiliza principalmente para navegar, sino que se pliega en un surco del dorso para reducir la resistencia durante la natación a alta velocidad. Se despliega para la comunicación, la termorregulación y la coordinación de la caza.",
+    "Es una de las especies más codiciadas en la pesca deportiva, donde a menudo se practica la pesca y liberación (*catch and release*).",
+    "Los ejemplares más grandes y rápidos suelen ser las hembras."
+  ],
+
+  "longevidad": {
+    "enLibertad": "10-15 años (estimado)",
+    "enCautividad": "Extremadamente raro en cautividad; la longevidad es difícil de determinar."
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Actinopterygii (Peces con aletas radiadas)",
+    "orden": "Istiophoriformes",
+    "familia": "Istiophoridae (Peces vela y marlines)",
+    "genero": "Istiophorus",
+    "especie": "I. albicans"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Datos Insuficientes (DD)",
+    "tendenciaPoblacion": "Desconocida; algunas evaluaciones locales sugieren una disminución.",
+    "amenazasPrincipales": [
+      "Captura accidental (como fauna acompañante en pesquerías de atún y pez espada).",
+      "Sobrepesca en zonas de agregación y rutas migratorias.",
+      "Degradación del hábitat de desove."
+    ],
+    "esfuerzosConservacion": [
+      "Regulación de cuotas y tallas mínimas en la pesca deportiva y comercial.",
+      "Programas de etiquetado y seguimiento para recopilar datos biológicos y migratorios.",
+      "Restricciones en la pesca con palangre en zonas clave de su hábitat."
+    ],
+    "descripcionConservacion": [
+      "Debido a su naturaleza pelágica y migratoria, es difícil obtener datos precisos sobre su población global. Se requieren más estudios para determinar el verdadero impacto de la pesca y evaluar su vulnerabilidad."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "40-60 kg",
+      "hembraAdulta": "50-70 kg",
+      "maximoRegistrado": "100+ kg (las hembras son más grandes)"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "1.8-2.5 m",
+      "hembra": "1.9-2.8 m (Longitud total, incluyendo el pico)"
+    },
+    "colorPelaje": "Azul cobalto iridiscente en el dorso, flancos plateados. Presenta rayas verticales discontinuas de color azul claro o lavanda.",
+    "caracteristicasEspeciales": "Aleta dorsal gigante (la 'vela'); Pico alargado (rostro); Cuerpo fusiforme extremo; Gran desarrollo de las aletas pectorales y caudales.",
+    "morfologia": [
+      "Cuerpo hidrodinámico y musculoso, optimizado para la velocidad y la maniobra.",
+      "Aleta dorsal inusualmente grande y alta, con un pliegue que le permite retraerse para minimizar el arrastre.",
+      "El rostro (pico) es redondeado en sección transversal, más corto que el del pez espada."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Océano abierto (pelágico), cerca de la superficie (epipelágico).",
+    "distribucionGeografica": [
+      "Aguas tropicales y subtropicales del Océano Atlántico (incluyendo el Caribe, el Golfo de México, el Atlántico occidental y oriental)."
+    ],
+    "adaptacionesHabitat": "Metabolismo y fisiología de 'sangre caliente' (regional) que permite la alta velocidad. Visión excelente para la caza.",
+    "descripcionHabitat": [
+      "Prefiere aguas cálidas, con temperaturas superficiales superiores a 21 °C. Raramente se aventura en aguas profundas o muy frías.",
+      "Realiza migraciones transoceánicas o costeras siguiendo las corrientes de agua cálida y los grandes bancos de peces forrajeros."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Depredador de emboscada y persecución)",
+    "presasComunes": [
+      "Peces pelágicos pequeños y medianos (sardinas, caballas, anchoas, jureles).",
+      "Calamares y otros cefalópodos."
+    ],
+    "estrategiaCaza": "Ataques veloces. Caza cooperativa en grupo: utilizan la vela y los cambios de color para acorralar a los bancos de presas antes de atacarlas individualmente con el pico para aturdirlas.",
+    "descripcionDieta": [
+      "Su pico se utiliza como herramienta de manejo de presas (aturdimiento) más que como arma para matar.",
+      "El consumo de grandes cantidades de peces pelágicos lo convierte en un controlador clave de las poblaciones de peces forrajeros."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Generalmente solitario o en parejas, pero se agregan en grandes 'escuadrones' para cazar bancos de presas.",
+    "rolMacho": "N/A (No hay diferenciación social clara fuera de la reproducción).",
+    "rolHembra": "N/A (No hay diferenciación social clara fuera de la reproducción).",
+    "actividadDiaria": "Diurno; la caza intensa ocurre al amanecer y al anochecer.",
+    "comunicacion": [
+      "Coloración (flash o cambio rápido de rayas) como señal de coordinación para la caza o el apareamiento.",
+      "Posición de la vela dorsal (desplegada como señal de advertencia o durante el acorralamiento)."
+    ],
+    "descripcionComportamiento": [
+      "El pez vela puede cambiar rápidamente el color y el brillo de su cuerpo y vela, un fenómeno conocido como **cromatoforesis**, vital para la caza cooperativa.",
+      "La caza en grupo es altamente coordinada, turnándose para golpear el banco de presas aturdidas."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Oviparo (Peces teleósteos)",
+    "madurezSexual": {
+      "macho": "3-4 años",
+      "hembra": "3-4 años"
+    },
+    "periodoGestacion": "N/A (Fertilización externa).",
+    "tamanoCamada": "Cientos de miles a millones de huevos por temporada.",
+    "cuidadoCrias": "Nulo; es un desovador pelágico.",
+    "descripcionReproduccion": [
+      "La hembra libera grandes cantidades de huevos en la columna de agua (desove pelágico), donde son fertilizados por el macho.",
+      "El desove ocurre en aguas superficiales cálidas, a menudo cerca de la costa o en zonas de alta productividad biológica.",
+      "Las larvas pasan una fase pelágica de deriva antes de desarrollar su forma juvenil distintiva."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Depredador ápice en el ecosistema pelágico, controlando las poblaciones de peces forrajeros.",
+    "Su migración influye en la transferencia de biomasa a través del océano."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 4,
+    "inteligencia": 5,
+    "adaptabilidad": 6,
+    "fuerza": 7,
+    "velocidad": 10,
+    "tamano": 6,
+    "majestuosidad": 8,
+    "rareza": 7,
+    "supervivencia": 7,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Considerado el pez más rápido del mundo, con una velocidad máxima documentada superior a 100 km/h.",
+    "Puede plegar completamente su enorme vela y las aletas pélvicas en surcos especiales para reducir la fricción en el agua.",
+    "Los científicos creen que el rápido despliegue y repliegue de su vela dorsal ayuda a la termorregulación, enfriando el flujo sanguíneo de su cuerpo después de la actividad intensa."
+  ]
+}

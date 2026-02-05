@@ -1,0 +1,117 @@
+{
+  "id": "agave",
+  "nombre": "Agave",
+  "nombreCientifico": "Agave americana",
+  "fechaInformacion": "2025",
+  "imagen": "agave.webp",
+  "introduccionPlanta": [
+    "El Agave es una suculenta icónica, famosa por su ciclo de vida monocárpico (florece una sola vez y muere) y su importancia histórica en la producción de mezcal y tequila.",
+    "Forma una roseta basal impresionante con hojas carnosas y espinosas, adaptada perfectamente a los climas áridos."
+  ],
+  "descripcionLarga": [
+    "El agave (género Agave), a menudo conocido como 'maguey' en México, es un género de plantas suculentas perennes de gran porte, nativo de las regiones áridas y semiáridas de América. Se caracteriza por sus grandes y carnosas hojas que forman una roseta basal. Estas hojas, a menudo de un distintivo color verde azulado, poseen bordes dentados y una afilada espina en la punta, sirviendo como una eficaz defensa contra herbívoros.",
+    "El agave es notable por su estrategia de vida monocárpica, lo que significa que crece lentamente durante muchos años (a veces décadas) antes de producir una única y espectacular inflorescencia en forma de un tallo floral gigante que puede superar los 8 metros de altura, momento en el cual la planta muere. Esta característica lo convierte en un símbolo de paciencia y resistencia.",
+    "Requiere pleno sol y suelos muy bien drenados, siendo extremadamente tolerante a la sequía, lo que lo hace ideal para jardines xerófilos. Su propagación más común es a través de los hijuelos que produce. Más allá de su valor ornamental, el agave es de enorme importancia cultural y económica, especialmente en México, donde su savia fermentada produce el pulque y, tras la destilación, el mezcal y el tequila. Sus fibras también se han utilizado para textiles y cuerdas, y el jarabe de agave es un endulzante natural popular."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Tracheophyta",
+    "clase": "Liliopsida",
+    "orden": "Asparagales",
+    "familia": "Asparagaceae",
+    "genero": "Agave",
+    "especie": "A. americana"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable (ampliamente cultivada, las especies silvestres pueden tener estatus variable)",
+    "amenazasPrincipales": [
+      "Sobreexplotación para la producción de bebidas (mezcal, tequila)",
+      "Pérdida de hábitat por desarrollo urbano y agricultura",
+      "Enfermedades y plagas (picudo del agave)"
+    ],
+    "esfuerzosConservacion": [
+      "Conservación de especies silvestres y parientes silvestres",
+      "Estudios genéticos para identificar resistencia a plagas",
+      "Prácticas de cultivo sostenible"
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Suculenta perenne, acaule (sin tallo visible), forma una roseta.",
+    "alturaPromedio": "1.2 - 2 m (4 - 6.5 ft) la roseta; la inflorescencia puede superar los 8 m (26 ft).",
+    "colorFollaje": "Verde azulado o grisáceo.",
+    "tipoRaiz": "Fasciculada, fibrosa y superficial (apta para suelos secos).",
+    "tallos": "No visible, pero produce un enorme tallo floral (escapo) al final de su vida.",
+    "hojas": "Grandes, gruesas, carnosas y de forma lanceolada. Con bordes dentados y una espina terminal afilada.",
+    "flores": {
+      "forma": "Tubulares o en forma de campana, agrupadas en una panícula terminal gigante.",
+      "colores": "Verde amarillento.",
+      "fragancia": "Poco perceptible.",
+      "tamano": "Flores individuales pequeñas, pero el conjunto es monumental."
+    },
+    "frutos": "Cápsula alargada que contiene numerosas semillas negras y aplanadas."
+  },
+  "habitat": {
+    "tipo": "Zonas áridas y semiáridas de climas templados y cálidos.",
+    "distribucionGeografica": [
+      "Nativo del sur de Estados Unidos y México.",
+      "Naturalizado en muchas regiones de clima mediterráneo y subtropical del mundo."
+    ],
+    "preferenciasSuelo": "Suelos arenosos o pedregosos, bien drenados, con pH neutro a alcalino.",
+    "preferenciasLuz": "Pleno sol. Tolera algo de sombra parcial, pero crece mejor con sol directo."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Hijuelos o retoños que brotan de la base de la planta madre.",
+      "Semillas (menos común)."
+    ],
+    "riego": "Muy bajo. Tolerante a la sequía. Regar moderadamente en verano, casi nada en invierno.",
+    "poda": "Generalmente no se poda, se eliminan las hojas viejas o dañadas.",
+    "fertilizacion": "No es necesaria, pero se puede aplicar un fertilizante de bajo nitrógeno una vez al año en primavera.",
+    "plagasComunes": [
+      "Picudo del agave",
+      "Cochinilla algodonosa"
+    ],
+    "enfermedadesComunes": [
+      "Pudrición de la raíz (por exceso de riego)"
+    ]
+  },
+  "usos": {
+    "ornamental": "Jardines xerófilos, paisajismo, macetas grandes.",
+    "culinario": [
+      "Savia (aguamiel) para producir pulque, mezcal y tequila.",
+      "Jarabe de agave (endulzante natural)."
+    ],
+    "medicinal": [
+      "Uso tradicional para problemas digestivos.",
+      "Las hojas contienen saponinas que pueden tener propiedades antiinflamatorias."
+    ],
+    "industrial": [
+      "Fibra (sisal) de algunas especies para cuerdas, sacos y tapetes."
+    ],
+    "simbolismo": "Resistencia, longevidad, y en la cultura mexicana, un profundo valor cultural y económico."
+  },
+  "reproduccion": {
+    "tipo": "Asexual (hijuelos) y sexual (semillas) al final de su vida (monocárpica).",
+    "polinizacion": "Por murciélagos (en la noche), aves e insectos.",
+    "momentoFloracion": "Una sola vez en su vida (monocárpica), en primavera/verano, después de 10-30 años.",
+    "cicloVida": "Perenne, de larga vida (10-30+ años) hasta la floración y muerte."
+  },
+  "atributosFantasia": {
+    "belleza": 4,
+    "rareza": 2,
+    "vitalidad": 5,
+    "resistencia": 5,
+    "impactoEcologico": 4,
+    "misticismo": 4,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 5
+  },
+  "curiosidades": [
+    "El agave es una planta monocárpica, lo que significa que florece una sola vez en su vida y luego muere. Esto puede tardar de 10 a 30 años o incluso más.",
+    "El término 'agave' proviene del griego 'agavos', que significa 'noble' o 'admirable'.",
+    "El mezcal y el tequila se obtienen de la piña (el centro de la planta) de diferentes especies de agave, siendo el Tequila de la especie Agave tequilana Weber.",
+    "Aunque a menudo se le llama 'planta del siglo', esto es un mito, ya que su ciclo de vida es mucho más corto.",
+    "Algunas especies de agave pueden alcanzar un tamaño monumental, con hojas que pesan decenas de kilos."
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "jaguar",
+  "nombre": "Jaguar",
+  "nombreCientifico": "Panthera onca",
+  "fechaInformacion": "2025",
+
+  "imagen": "jaguar.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El jaguar (*Panthera onca*) es el mayor felino del continente americano y un símbolo cultural de las civilizaciones precolombinas. Es conocido por su complexión robusta, su afinidad con el agua y, sobre todo, por su pelaje característico.",
+    "Es un depredador clave de los ecosistemas, distribuido desde el sur de Estados Unidos (históricamente) hasta el norte de Argentina."
+  ],
+
+  "descripcionLarga": [
+    "El jaguar es el único miembro del género *Panthera* que se encuentra en América. Su cuerpo es compacto y extremadamente musculoso. ",
+    "Su pelaje es amarillo dorado a rojizo, cubierto de manchas llamadas **rosetas**. A diferencia del leopardo, las rosetas del jaguar suelen tener uno o varios puntos negros internos, una característica distintiva.",
+    "Posee la mordida más fuerte de todos los felinos en proporción a su tamaño corporal, lo que le permite emplear un método de caza único: morder directamente el cráneo de la presa para atravesar el hueso (un 'crush bite')."
+  ],
+
+  "observaciones": [
+    "El jaguar es un excelente nadador y se siente cómodo en el agua, a menudo cazando animales acuáticos como caimanes, anacondas, tortugas de río y peces grandes.",
+    "Existe la melanina (ejemplares negros), un rasgo genético que es común pero que no constituye una especie o subespecie diferente. Estos 'jaguares negros' siguen teniendo las rosetas visibles bajo ciertas luces.",
+    "Es un indicador de la salud de su ecosistema: al ser un depredador ápice, su presencia garantiza la integridad de la cadena alimentaria en su hábitat."
+  ],
+
+  "longevidad": {
+    "enLibertad": "12-15 años",
+    "enCautividad": "20-25 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Carnivora",
+    "familia": "Felidae",
+    "genero": "Panthera",
+    "especie": "P. onca"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Casi Amenazada (NT)",
+    "tendenciaPoblacion": "Disminuyendo",
+    "amenazasPrincipales": [
+      "Deforestación y fragmentación del hábitat, lo que interrumpe los corredores biológicos.",
+      "Caza furtiva por represalia (conflictos con ganaderos) y para el comercio ilegal de colmillos y pieles.",
+      "Disminución de sus presas naturales debido a la caza humana."
+    ],
+    "esfuerzosConservacion": [
+      "Establecimiento de corredores biológicos (Jaguar Corridors) para conectar poblaciones fragmentadas.",
+      "Programas de monitoreo con trampas de cámara y telemetría por satélite.",
+      "Iniciativas de coexistencia entre el jaguar y el ganado (uso de cercas electrificadas y perros protectores)."
+    ],
+    "descripcionConservacion": [
+      "Aunque globalmente es 'Casi Amenazado', el jaguar se encuentra extinto en muchos países de su rango histórico, como El Salvador y Uruguay. La conservación se centra en asegurar los corredores de vida silvestre para evitar la endogamia."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "80-100 kg (hasta 130 kg en el Pantanal)",
+      "hembraAdulta": "45-90 kg",
+      "maximoRegistrado": "158 kg"
+    },
+    "alturaHombro": {
+      "macho": "70 cm",
+      "hembra": "65 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "1.12-1.85 m (cuerpo) + 45-75 cm (cola)",
+      "hembra": "1.12-1.50 m (cuerpo) + 45-75 cm (cola)"
+    },
+    "colorPelaje": "Amarillo dorado a ocre, con rosetas negras que tienen puntos negros internos.",
+    "caracteristicasEspeciales": "Rosetas con puntos internos; Gran nadador y afinidad por el agua; Mordida penetrante en el cráneo (crush bite); Melanismo común (Jaguar negro).",
+    "morfologia": [
+      "Cuerpo robusto, más ancho y musculoso que el leopardo, con patas relativamente cortas y gruesas.",
+      "Cabeza ancha y mandíbulas excepcionalmente poderosas, adaptadas para la perforación del cráneo y la trituración de caparazones.",
+      "La cola es la más corta en proporción al cuerpo entre los grandes felinos."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Selvas tropicales densas, bosques, zonas pantanosas, humedales (Pantanal) y matorrales secos.",
+    "distribucionGeografica": [
+      "Desde México (Suroeste) hasta el Norte de Argentina. Poblaciones clave en la Amazonia, el Pantanal y el Gran Chaco."
+    ],
+    "adaptacionesHabitat": "Gran fuerza y capacidad de natación. Tolera una amplia gama de hábitats, siempre que haya cobertura densa y agua permanente.",
+    "descripcionHabitat": [
+      "Prefiere áreas con densa cubierta vegetal para el acecho y acceso a cuerpos de agua permanentes.",
+      "Requiere grandes territorios individuales (hasta 100 km²), lo que lo hace muy vulnerable a la fragmentación."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Macropredador Oportunista)",
+    "presasComunes": [
+      "Capibaras, Pecaríes (jabalíes americanos), Venados.",
+      "Reptiles acuáticos (Caimanes y Anacondas).",
+      "Grandes roedores, peces y tortugas de río."
+    ],
+    "estrategiaCaza": "Acecho (generalmente a lo largo de senderos o ríos) y emboscada rápida. Utiliza la mordida penetrante en el cráneo (método único entre los felinos) o la asfixia en la garganta.",
+    "descripcionDieta": [
+      "Es el felino con la dieta más amplia, con más de 85 especies de presas documentadas.",
+      "Su capacidad de morder a través del caparazón de tortugas es testimonio de su fuerza mandibular."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario, excepto en la época de apareamiento y el período de cría.",
+    "rolMacho": "Defensa de un territorio grande que se solapa con el de varias hembras; se reproduce.",
+    "rolHembra": "Defensa de un territorio más pequeño y cuidado solitario de las crías.",
+    "actividadDiaria": "Principalmente nocturna y crepuscular, pero puede ser activo durante el día, especialmente en áreas protegidas (diurno en el Pantanal).",
+    "comunicacion": [
+      "Rugidos (llamados 'aserrados', diferentes al león), ronroneos y gruñidos.",
+      "Marcaje olfativo (orina, heces) y visual (arañazos en troncos) para delimitar territorio."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "3-4 años",
+      "hembra": "2-3 años"
+    },
+    "periodoGestacion": "93-105 días (casi 3.5 meses).",
+    "tamanoCamada": "1-4 crías (generalmente 2).",
+    "cuidadoCrias": "La madre cuida a las crías en solitario por 1 a 2 años. Las crías nacen ciegas y con pelaje oscuro.",
+    "descripcionReproduccion": [
+      "El apareamiento ocurre sin un ciclo estacional rígido en el trópico. Las crías son altamente dependientes y aprenden las técnicas de caza de la madre antes de independizarse."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Como depredador ápice, regula las poblaciones de herbívoros y mesodepredadores, asegurando la diversidad vegetal y el equilibrio de los ecosistemas (efecto 'top-down').",
+    "Su presencia es indicativa de un ecosistema saludable y biodiverso."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 8,
+    "inteligencia": 7,
+    "adaptabilidad": 6,
+    "fuerza": 9,
+    "velocidad": 7,
+    "tamano": 6,
+    "majestuosidad": 8,
+    "rareza": 7,
+    "supervivencia": 6,
+    "impactoEcologico": 9
+  },
+
+  "curiosidades": [
+    "Es el felino con la mordida más fuerte en relación a su tamaño, superando al tigre y al león, gracias a sus músculos maseteros excepcionalmente desarrollados.",
+    "Su patrón de manchas (rosetas con puntos centrales) es único, funcionando como la 'huella dactilar' del individuo.",
+    "El jaguar es uno de los pocos felinos que mata a sus presas con una mordida en la cabeza, atravesando el cráneo.",
+    "Históricamente, su distribución alcanzó el Gran Cañón en Arizona, Estados Unidos."
+  ]
+}

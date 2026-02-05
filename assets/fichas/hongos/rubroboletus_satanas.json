@@ -1,0 +1,43 @@
+{
+  "id": "rubroboletus_satanas",
+  "nombre": "Boleto de Satanás",
+  "nombreCientifico": "Rubroboletus satanas",
+  "familia": "Boletaceae",
+  "imagen": "rubroboletus_satanas.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Rubroboletus satanas es un hongo basidiomiceto de grandes dimensiones caracterizado por una morfología robusta y una toxicidad gastrointestinal severa. Es uno de los representantes más icónicos de los boletos de poros rojos, destacando por el contraste entre su sombrero de tonos tiza y su pie intensamente pigmentado.",
+
+  "caracteristicas": {
+    "sombrero": "10-30 cm de diámetro. De consistencia muy carnosa y pesada, con una forma que evoluciona de hemisférica a convexa. Su cutícula presenta una coloración blanco grisácea o color tiza, manteniéndose seca y finamente aterciopelada.",
+    "laminas": "No posee. El himenóforo está compuesto por tubos cuyos poros son inicialmente amarillentos, virando rápidamente a un rojo anaranjado o rojo sangre intenso conforme madura el ejemplar.",
+    "pie": "Muy grueso, corto y ventrudo (bulboso). Presenta una coloración amarilla en la zona superior y rojo vivo hacia la base, estando ornamentado por un retículo o red de mallas finas de color rojo carmín.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Marrón oliva.",
+    "usoCultural": "Especie de referencia en la toxicología micológica europea para el estudio de síndromes gastrointestinales provocados por la presencia de bolesatina, una proteína citotóxica propia de este organismo."
+  },
+
+  "habitat": {
+    "tipo": "Bosques de frondosas xerófilas, con especial predilección por suelos de naturaleza caliza bajo hayas (Fagus), robles (Quercus) y encinas.",
+    "relacionEcologica": "Micorrícico estricto; forma una simbiosis con árboles planifolios en ambientes térmicos y soleados, favoreciendo el intercambio de minerales en el suelo.",
+    "distribucionGeografica": ["Europa meridional y central; su presencia es escasa en regiones septentrionales debido a sus requisitos de temperatura."],
+    "temporada": "Fructifica durante el verano y el inicio del otoño (junio a septiembre).",
+    "altitudRango": "Principalmente localizado en llanuras y colinas de baja altitud."
+  },
+
+  "curiosidades": [
+    "Al contacto con el oxígeno (por corte o rozamiento), su carne blanca experimenta una reacción química que vira lentamente hacia tonos azulados o grisáceos.",
+    "Los ejemplares maduros exhalan un olor fétido característico que se intensifica con la edad, una señal química que suele interpretarse como advertencia biológica.",
+    "Su gran tamaño y peso lo convierten en uno de los hongos más macizos de los bosques europeos, pudiendo alcanzar varios kilogramos en condiciones óptimas.",
+    "El paso del género Boletus al género Rubroboletus se debió a estudios filogenéticos que agruparon a los boletos caracterizados por poros rojos y azuleamiento de la carne."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 9,
+    "rareza": 6,
+    "simbolismo": 10,
+    "resistencia": 9,
+    "velocidadDeCrecimiento": 6,
+    "aura": 9
+  }
+}

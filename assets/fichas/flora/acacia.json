@@ -1,0 +1,119 @@
+{
+  "id": "acacia",
+  "nombre": "Acacia",
+  "nombreCientifico": "Acacia spp.",
+  "fechaInformacion": "2025",
+  "imagen": "acacia.webp",
+  "introduccionPlanta": [
+    "El género Acacia engloba una vasta familia de árboles y arbustos conocidos por su resistencia a la sequía y sus llamativas flores globosas, típicamente amarillas.",
+    "Estas plantas son fundamentales en diversos ecosistemas semiáridos y tienen una enorme importancia industrial, medicinal y ecológica debido a su capacidad para fijar nitrógeno."
+  ],
+  "descripcionLarga": [
+    "La **acacia** (género *Acacia*) es un género de árboles y arbustos de la vasta familia de las leguminosas, Fabaceae. Con más de 1.000 especies repartidas por todo el mundo, las acacias son reconocibles por sus hojas finas y plumosas (bipinnadas), sus flores en forma de pompones amarillos o blancos y, a menudo, sus espinas afiladas. Esta enorme diversidad se refleja en su amplia distribución, desde las sabanas africanas hasta los matorrales australianos, donde se las conoce como 'wattle'.",
+    "Las acacias son verdaderas maestras de la supervivencia, adaptadas a climas áridos y suelos pobres. Muchas especies han desarrollado fascinantes relaciones simbióticas, como las de las sabanas africanas, donde hormigas protectoras se albergan en sus espinas huecas. Su capacidad para **fijar nitrógeno** en el suelo las convierte en especies pioneras, mejorando la calidad de la tierra y permitiendo que otras plantas prosperen.",
+    "El árbol de acacia tiene una rica historia de usos, desde la madera dura y duradera utilizada en la construcción hasta la **goma arábiga**, una savia que se ha comercializado durante siglos y que sigue siendo un ingrediente clave en la industria alimentaria, cosmética y farmacéutica. A pesar de que muchas especies son abundantes, algunas están en peligro, mientras que otras se han vuelto invasoras en regiones donde fueron introducidas. Con su resiliencia y su belleza, la acacia es un símbolo de inmortalidad, renovación y de la asombrosa capacidad de la naturaleza para prosperar en los entornos más difíciles."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Tracheophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Fabales",
+    "familia": "Fabaceae",
+    "genero": "Acacia",
+    "especie": "Más de 1.000 especies."
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Varía ampliamente (la mayoría en Preocupación Menor, algunas En Peligro).",
+    "tendenciaPoblacion": "Estable en general, con algunas especies amenazadas y otras invasoras.",
+    "amenazasPrincipales": [
+      "Tala de bosques nativos para la agricultura y el desarrollo.",
+      "Degradación del suelo por sobrepastoreo.",
+      "Algunas especies de acacia son invasoras fuera de su hábitat nativo, compitiendo con la flora local."
+    ],
+    "esfuerzosConservacion": [
+      "Control y erradicación de especies de acacia invasoras.",
+      "Programas de reforestación con especies nativas.",
+      "Investigación para encontrar usos sostenibles del árbol."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol o arbusto perenne o caducifolio.",
+    "alturaPromedio": "Varía enormemente, desde pequeños arbustos hasta árboles de 20 m (65 ft).",
+    "colorFollaje": "Verde brillante o grisáceo (según la especie).",
+    "tipoRaiz": "Pivotante y profunda (típico de árboles), con nódulos fijadores de nitrógeno.",
+    "tallos": "A menudo con corteza rugosa y espinas o aguijones. Algunos troncos son lisos y de color verdoso.",
+    "hojas": "Compuestas, bipinnadas, con numerosos folíolos pequeños que le dan un aspecto plumoso. Algunas especies tienen filodios.",
+    "flores": {
+      "forma": "Capítulos globosos o espigas cilíndricas.",
+      "colores": "Amarillo brillante, blanco o crema.",
+      "fragancia": "Dulce y aromática, similar a la miel.",
+      "tamano": "Muy pequeñas, agrupadas en racimos de 1-3 cm de diámetro."
+    },
+    "frutos": "Una vaina (legumbre) alargada, plana y leñosa que contiene las semillas."
+  },
+  "habitat": {
+    "tipo": "Sabanas, bosques, matorrales y zonas semiáridas.",
+    "distribucionGeografica": [
+      "Nativa de África, Australia, América y Asia.",
+      "La mayor diversidad se encuentra en Australia.",
+      "Ampliamente introducida en todo el mundo."
+    ],
+    "preferenciasSuelo": "Suelos bien drenados, con buena exposición solar. Muchas especies son tolerantes a suelos pobres y secos.",
+    "preferenciasLuz": "Pleno sol. Requiere luz solar directa para un crecimiento óptimo y una floración abundante."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas, que requieren escarificación por agua caliente o un corte.",
+      "Esquejes leñosos (más difícil)."
+    ],
+    "riego": "Bajo. Muy tolerante a la sequía una vez establecida.",
+    "poda": "Poda de formación en árboles jóvenes. Poda para controlar el tamaño o la forma en jardinería.",
+    "fertilizacion": "No es muy exigente. La mayoría de las acacias fijan el nitrógeno en el suelo.",
+    "plagasComunes": [
+      "Cochinilla",
+      "Pulgones"
+    ],
+    "enfermedadesComunes": [
+      "Hongos de la madera, pero son generalmente resistentes."
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de paisaje en zonas de clima cálido. Valorado por sus flores y su tolerancia a la sequía.",
+    "culinario": [
+      "Las flores son comestibles y se usan en postres y bebidas.",
+      "Goma arábiga de algunas especies se usa como aditivo alimentario y en dulces."
+    ],
+    "medicinal": [
+      "Corteza y hojas utilizadas en la medicina tradicional para tratar la diarrea, la tos y las infecciones de la piel."
+    ],
+    "industrial": [
+      "Madera (dura y resistente) para muebles, construcción, postes y leña.",
+      "Goma arábiga para la industria de la alimentación, farmacéutica y cosmética.",
+      "Taninos de la corteza para la industria del cuero."
+    ],
+    "simbolismo": "Inmortalidad, resiliencia y renovación. En la masonería, simboliza la pureza y la inmortalidad del alma."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas). Algunas especies pueden rebrotar de raíces.",
+    "polinizacion": "Entomófila (por insectos) y anemófila (por el viento).",
+    "momentoFloracion": "Varía por especie y clima; a menudo en invierno o primavera temprana.",
+    "cicloVida": "Perenne, de larga vida (puede ser de 20 a más de 100 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 4,
+    "rareza": 2,
+    "vitalidad": 4,
+    "resistencia": 5,
+    "impactoEcologico": 4,
+    "misticismo": 4,
+    "fraganciaMagica": 5,
+    "espinasDefensivas": 4
+  },
+  "curiosidades": [
+    "Las acacias africanas tienen una relación simbiótica con las hormigas. Las hormigas viven en las espinas huecas y protegen al árbol de los herbívoros.",
+    "La goma arábiga se obtiene de la savia endurecida de algunas especies de acacia, como la *Acacia senegal*.",
+    "La acacia es el árbol más común en Australia, donde es conocido como 'wattle'.",
+    "La acacia es un género muy diverso, con especies que van desde pequeños arbustos hasta grandes árboles con copas aplanadas.",
+    "Muchas especies de acacia tienen la capacidad de fijar nitrógeno en el suelo, lo que las convierte en importantes plantas para restaurar suelos degradados."
+  ]
+}

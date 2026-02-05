@@ -1,0 +1,120 @@
+{
+  "id": "roble",
+  "nombre": "Roble Común",
+  "nombreCientifico": "Quercus robur",
+  "fechaInformacion": "2025",
+  "imagen": "roble.webp",
+  "introduccionPlanta": [
+    "El Roble Común es un árbol caducifolio majestuoso y emblema de los bosques templados de Europa, reverenciado por su inmensa longevidad (más de 500 años) y su simbolismo de fuerza y resistencia.",
+    "Juega un rol ecológico vital, siendo fuente de alimento (bellotas) y hábitat para una gran biodiversidad."
+  ],
+  "descripcionLarga": [
+    "El roble común (*Quercus robur*) es un árbol caducifolio majestuoso y emblemático de los bosques templados de Europa. Conocido por su robustez y extraordinaria longevidad, es un símbolo de fuerza, resistencia y sabiduría en numerosas culturas. Puede alcanzar alturas impresionantes y desarrollar troncos anchos y ramificados, con una corteza profundamente fisurada.",
+    "Sus hojas lobuladas y sus frutos, las bellotas, son distintivos. Las bellotas son una fuente vital de alimento para una amplia variedad de fauna silvestre, desde mamíferos hasta aves. El roble desempeña un papel ecológico fundamental al proporcionar hábitat y sustento a innumerables especies, además de contribuir significativamente a la biodiversidad forestal.",
+    "La madera de roble es altamente valorada en la industria por su dureza, durabilidad y belleza, siendo un material preferido para la construcción, la fabricación de muebles finos y, de manera muy notable, para la tonelería en la producción de barriles para el envejecimiento de bebidas como el vino y el whisky. A pesar de su resiliencia, los robles enfrentan desafíos como la fragmentación del hábitat y ciertas enfermedades, lo que subraya la importancia de los esfuerzos de conservación y gestión forestal sostenible para preservar estos gigantes de nuestros bosques."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Fagales",
+    "familia": "Fagaceae",
+    "genero": "Quercus",
+    "especie": "Q. robur"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable.",
+    "amenazasPrincipales": [
+      "Fragmentación del hábitat y degradación forestal.",
+      "Enfermedades fúngicas (ej. muerte regresiva del roble, oídio).",
+      "Cambio climático (sequías, olas de calor).",
+      "Especies invasoras y plagas (ej. polilla gitana)."
+    ],
+    "esfuerzosConservacion": [
+      "Gestión forestal sostenible y silvicultura.",
+      "Programas de reforestación y restauración de bosques.",
+      "Investigación sobre resistencia a enfermedades y sequía."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol caducifolio (pierde sus hojas en otoño/invierno).",
+    "alturaPromedio": "20 - 40 m (65 - 130 ft).",
+    "colorFollaje": "Verde oscuro brillante en verano; marrón/dorado en otoño.",
+    "tipoRaiz": "Pivotante, profunda y muy fuerte.",
+    "tallos": "Tronco robusto, ancho y ramificado. Corteza grisácea y profundamente fisurada (rugosa).",
+    "hojas": "Lobuladas, con 4-7 lóbulos a cada lado, verde oscuro brillante. Pecíolo muy corto o nulo.",
+    "flores": {
+      "forma": "Amentos (masculinos colgantes y amarillentos; femeninos pequeños y discretos).",
+      "colores": "Verdoso-amarillento (poco vistosas).",
+      "fragancia": "No destacable.",
+      "tamano": "Pequeñas."
+    },
+    "frutos": "Bellotas, de forma ovalada, con una cúpula rugosa que las cubre parcialmente. Maduran en otoño."
+  },
+  "habitat": {
+    "tipo": "Bosques caducifolios mixtos, dehesas, bordes de bosques y parques.",
+    "distribucionGeografica": [
+      "Europa (desde el Atlántico hasta los Urales).",
+      "Oeste de Asia y norte de África (localmente)."
+    ],
+    "preferenciasSuelo": "Suelos profundos, fértiles, bien drenados, ligeramente ácidos a neutros.",
+    "preferenciasLuz": "Pleno sol a semisombra. Los juveniles toleran bien la sombra, pero los adultos necesitan luz."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (bellotas, requieren estratificación fría para romper la dormancia).",
+      "Menos común por injertos o esquejes."
+    ],
+    "riego": "Necesario en etapas jóvenes. Los árboles maduros son muy tolerantes a la sequía una vez establecidos.",
+    "poda": "Generalmente mínima, enfocada en la formación de la copa en ejemplares jóvenes y la eliminación de ramas muertas o dañadas.",
+    "fertilizacion": "No suele ser necesaria en suelos de calidad, ocasional en suelos pobres durante el crecimiento.",
+    "plagasComunes": [
+      "Pulgones",
+      "Orugas defoliadoras (ej. Polilla Gitana)",
+      "Gorgojo de la bellota"
+    ],
+    "enfermedadesComunes": [
+      "Oídio (mildiu polvoriento)",
+      "Antracnosis",
+      "Muerte regresiva del roble (complejo de enfermedades)."
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de sombra en parques y grandes jardines, valor paisajístico.",
+    "culinario": [
+      "Las bellotas, una vez lixiviadas para reducir taninos, son comestibles (harina, café sustituto)."
+    ],
+    "medicinal": [
+      "Corteza (rica en taninos, astringente, antiinflamatoria, usada en infusiones y cataplasmas)."
+    ],
+    "industrial": [
+      "Madera (dura, resistente y duradera) para construcción, mobiliario, suelos.",
+      "Tonelería (barriles para envejecer vino, whisky y coñac, por el aporte de taninos)."
+    ],
+    "simbolismo": "Fuerza, longevidad, sabiduría, resistencia, realeza y divinidad (asociado a Zeus/Júpiter y Thor)."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (bellotas).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Primavera (abril-mayo).",
+    "cicloVida": "Perenne, de larga vida (puede superar los 1.000 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 4,
+    "rareza": 1,
+    "vitalidad": 5,
+    "resistencia": 5,
+    "impactoEcologico": 5,
+    "misticismo": 4,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "Pueden vivir más de 500 años, y algunos ejemplares superan los 1.000 años, como el famoso roble de Allonville en Francia.",
+    "Sus bellotas son una fuente crucial de alimento para la fauna en otoño, siendo el principal recurso para la cría de cerdos ibéricos en las dehesas.",
+    "La madera de roble es famosa por su durabilidad y ha sido usada en la construcción de barcos (ej. la flota inglesa) y edificios históricos.",
+    "En muchas culturas celta y germánica, el roble era considerado un árbol sagrado, asociado con deidades del trueno como Thor, Júpiter o Dagda.",
+    "Un solo roble maduro puede albergar cientos de especies de insectos (cerca de 500 solo en el Reino Unido)."
+  ]
+}

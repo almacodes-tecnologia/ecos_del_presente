@@ -1,0 +1,43 @@
+{
+  "id": "calocybe_gambosa",
+  "nombre": "Seta de San Jorge",
+  "nombreCientifico": "Calocybe gambosa",
+  "familia": "Lyophyllaceae",
+  "imagen": "calocybe_gambosa.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Calocybe gambosa es un hongo basidiomiceto de aparición temprana, característico de los ecosistemas de pradera en primavera. Su nombre popular está vinculado a su periodo de fructificación óptimo en torno al mes de abril. Destaca por su constitución robusta, coloración blanquecina y una emanación aromática farinácea muy persistente.",
+
+  "caracteristicas": {
+    "sombrero": "5-15 cm de diámetro. Presenta una consistencia compacta y carnosa, con tonalidades que oscilan entre el blanco puro y el crema amarillento. Su morfología evoluciona de hemisférica a extendida, conservando un margen involuto (enrollado hacia adentro) en las fases juveniles.",
+    "laminas": "Extremadamente apretadas, estrechas y de inserción escotada. Mantienen una coloración blanca o crema inmutable, incluso cuando el ejemplar alcanza la madurez completa.",
+    "pie": "Cilíndrico, macizo y notablemente grueso en relación al sombrero. Presenta una textura firme y un color blanco uniforme en toda su superficie.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Blanca.",
+    "usoCultural": "Especie de gran relevancia en la fenología micológica, utilizada como indicador del inicio de la temporada de hongos en pastizales y zonas de montaña tras el deshielo."
+  },
+
+  "habitat": {
+    "tipo": "Prados, claros de bosque, pastizales y zonas de matorral espinoso, frecuentemente asociado a formaciones de Rosáceas silvestres.",
+    "relacionEcologica": "Organismo saprófito que habita en suelos con alto contenido orgánico. Es conocido por generar 'corros de brujas' circulares que alteran el verdor de la vegetación debido a la liberación de nutrientes del micelio.",
+    "distribucionGeografica": ["Europa templada, con una presencia significativa en la región mediterránea y el arco atlántico."],
+    "temporada": "Estrictamente primaveral, con una ventana de fructificación que se extiende de marzo a junio.",
+    "altitudRango": "Desde el nivel del mar hasta praderas de alta montaña."
+  },
+
+  "curiosidades": [
+    "Su aroma es una seña de identidad biológica inconfundible, descrito técnicamente como farináceo (similar a la harina fresca o masa de cereal), lo que facilita su diagnóstico en campo.",
+    "Presenta una alta fidelidad al sustrato; el micelio permanece activo en puntos geográficos precisos (denominados localmente perrechiqueras), donde fructifica de forma recurrente cada temporada.",
+    "Su crecimiento es lento y pausado en comparación con otros hongos primaverales, lo que contribuye a la densidad y firmeza de sus tejidos.",
+    "Es una de las pocas especies de gran porte que coloniza espacios abiertos antes de la llegada del calor estival."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 6,
+    "rareza": 9,
+    "simbolismo": 8,
+    "resistencia": 7,
+    "velocidadDeCrecimiento": 5,
+    "aura": 7
+  }
+}

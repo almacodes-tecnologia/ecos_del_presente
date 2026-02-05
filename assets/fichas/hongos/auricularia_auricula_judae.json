@@ -1,0 +1,43 @@
+{
+  "id": "auricularia_auricula",
+  "nombre": "Oreja de Judas",
+  "nombreCientifico": "Auricularia auricula-judae",
+  "familia": "Auriculariaceae",
+  "imagen": "auricularia_auricula.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "La Auricularia auricula-judae es un hongo basidiomiceto lignícola con una morfología marcadamente auricular que recuerda a un pabellón auditivo. Presenta una textura heterogénea según su grado de hidratación: elástica y gelatinosa en condiciones de humedad, y rígida, coriácea y quebradiza durante periodos de desecación.",
+
+  "caracteristicas": {
+    "sombrero": "3-10 cm de diámetro. Posee una forma de concha o copa irregularmente lobulada. La superficie externa (estéril) es de color marrón rojizo, de aspecto aterciopelado debido a una fina vellosidad, mientras que la cara interna es más lisa y brillante, presentando pliegues venosos.",
+    "laminas": "Ausentes. El himenio (zona fértil) es liso o ligeramente rugoso y recubre la superficie interna cóncava del cuerpo fructífero.",
+    "pie": "Rudimentario o inexistente; se adhiere directamente a la madera mediante un punto de inserción lateral muy corto.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Blanca.",
+    "usoCultural": "Especie de gran relevancia en la etnobotánica europea y asiática, asociada históricamente a la farmacopea tradicional por sus propiedades emolientes en el tratamiento de tejidos externos."
+  },
+
+  "habitat": {
+    "tipo": "Madera muerta o debilitada de árboles planifolios, mostrando una afinidad biológica específica por el saúco (Sambucus nigra).",
+    "relacionEcologica": "Saprófito primario; descompone la madera de árboles de hoja ancha, participando en el ciclo de reciclaje de nutrientes en ecosistemas de ribera y bosques húmedos.",
+    "distribucionGeografica": ["Cosmopolita; ampliamente distribuida en las regiones templadas de ambos hemisferios."],
+    "temporada": "Persistente durante todo el año, con picos de actividad biológica tras episodios de pluviosidad intensa.",
+    "altitudRango": "Desde el nivel del mar hasta áreas boscosas de montaña media."
+  },
+
+  "curiosidades": [
+    "Su nombre específico 'auricula-judae' deriva de una tradición folclórica vinculada al árbol del saúco, su hospedador más frecuente en el entorno europeo.",
+    "Presenta una capacidad de reviviscencia extrema: puede permanecer en estado de latencia hídrica durante meses y recuperar su turgencia original en cuestión de minutos tras el contacto con el agua.",
+    "Es uno de los pocos hongos capaces de fructificar incluso durante los meses más fríos del invierno, siempre que la humedad relativa sea elevada.",
+    "Su estructura es rica en polisacáridos complejos que le confieren esa consistencia cartilaginosa tan característica, actuando como reserva de agua para el micelio."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 4,
+    "rareza": 3,
+    "simbolismo": 9,
+    "resistencia": 10,
+    "velocidadDeCrecimiento": 8,
+    "aura": 6
+  }
+}

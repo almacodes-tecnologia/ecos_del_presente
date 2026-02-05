@@ -1,0 +1,114 @@
+{
+  "id": "arbol_del_pan",
+  "nombre": "Árbol del Pan",
+  "nombreCientifico": "Artocarpus altilis",
+  "fechaInformacion": "2025",
+  "imagen": "arbol_del_pan.webp",
+  "introduccionPlanta": [
+    "El Árbol del Pan es una especie tropical perenne conocida por sus enormes hojas lobuladas y su fruto rico en almidón, que sirve como alimento básico en las islas del Pacífico y el Caribe.",
+    "Su historia está intrínsecamente ligada a la exploración marítima y al famoso motín del HMS Bounty, siendo un símbolo de sustento y vida en los trópicos."
+  ],
+  "descripcionLarga": [
+    "El **árbol del pan** (*Artocarpus altilis*) es un árbol perenne de la familia de las moráceas, célebre por su gran fruto, que ha sido un alimento básico para las culturas del Pacífico durante siglos. Originario del sudeste de Asia y la Polinesia, este árbol de crecimiento rápido y de gran tamaño produce un follaje denso y majestuoso, con hojas profundamente lobuladas que le dan una apariencia tropical distintiva. Su tronco produce un látex blanco y pegajoso, una característica común en su familia botánica.",
+    "Lo más destacado del árbol del pan es, por supuesto, su fruto. Es un gran fruto esférico, de un color verde rugoso, que al madurar se vuelve amarillo. Lo que lo hace único es su pulpa interior, rica en almidón, que al ser cocinada se vuelve suave y harinosa, con una textura y sabor que recuerdan al pan recién horneado o a una patata. Se consume de diversas maneras: asado, hervido, frito o convertido en harina. Su versatilidad y alto valor nutricional lo convierten en un pilar de la seguridad alimentaria en muchas regiones tropicales.",
+    "El árbol del pan se ha propagado por el mundo tropical en gran medida gracias a la acción humana. Su historia está ligada al famoso motín del HMS Bounty en el siglo XVIII, cuyo objetivo era transportar la planta de Tahití a las Indias Occidentales para alimentar a los esclavos. Más allá de su valor alimenticio, su madera ligera se utiliza para la construcción de canoas y otros objetos. El árbol del pan no es solo una fuente de sustento, es un símbolo de vida, abundancia y la profunda conexión cultural entre los pueblos del Pacífico y la generosidad de su tierra."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Rosales",
+    "familia": "Moraceae",
+    "genero": "Artocarpus",
+    "especie": "A. altilis"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable. Ampliamente cultivado en regiones tropicales.",
+    "amenazasPrincipales": [
+      "Ninguna amenaza significativa debido a su amplio cultivo."
+    ],
+    "esfuerzosConservacion": [
+      "Ningún esfuerzo de conservación específico, ya que no se considera en peligro. (Enfoque en la conservación de la diversidad genética)."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol perenne de hoja ancha, de crecimiento rápido.",
+    "alturaPromedio": "10 - 20 m (33 - 65 ft); puede alcanzar los 30 m.",
+    "colorFollaje": "Verde oscuro y brillante.",
+    "tipoRaiz": "Superficial y extendida, con brotes de raíz que generan retoños.",
+    "tallos": "Tronco recto y cilíndrico, con corteza lisa y de color gris verdoso. Produce un látex blanco y pegajoso.",
+    "hojas": "Grandes, de hasta 60 cm de largo, con lóbulos profundamente cortados (pinnatífidas). De color verde oscuro y brillante.",
+    "flores": {
+      "forma": "Las flores masculinas forman un amento (espiga) cilíndrico. Las femeninas son un capítulo esférico y discreto.",
+      "colores": "Verdoso-amarillento.",
+      "fragancia": "Poco perceptible.",
+      "tamano": "Muy pequeñas, agrupadas en racimos."
+    },
+    "frutos": "Un gran fruto sincárpico (agregado), de forma ovalada o esférica, con una piel verde rugosa. El interior es de pulpa blanca y almidonada."
+  },
+  "habitat": {
+    "tipo": "Bosques tropicales húmedos y de clima monzónico (zonas costeras).",
+    "distribucionGeografica": [
+      "Nativo de la región de la Polinesia y el sudeste de Asia.",
+      "Ampliamente cultivado en todas las regiones tropicales del mundo."
+    ],
+    "preferenciasSuelo": "Suelos profundos, ricos en materia orgánica y bien drenados. Requiere alta humedad y temperaturas cálidas.",
+    "preferenciasLuz": "Pleno sol. Requiere luz solar directa para una buena fructificación."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Principalmente por esquejes de raíz o brotes (retoños).",
+      "Las variedades sin semillas no se pueden propagar por semillas.",
+      "Algunas variedades con semillas se pueden propagar de esa forma."
+    ],
+    "riego": "Requiere riego regular, especialmente durante la temporada seca.",
+    "poda": "Poda de formación en árboles jóvenes. Poda para controlar el tamaño y facilitar la cosecha.",
+    "fertilizacion": "Responde bien a fertilizantes equilibrados, ricos en potasio.",
+    "plagasComunes": [
+      "Cochinilla",
+      "Mosca de la fruta"
+    ],
+    "enfermedadesComunes": [
+      "Enfermedad de la raíz del pan (*Phytophthora*)."
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de sombra en jardines tropicales y parques.",
+    "culinario": [
+      "El fruto es un alimento básico en muchas regiones del Pacífico y el Caribe.",
+      "Se cocina (hervido, asado, frito) y su sabor y textura se asemejan a una papa o pan recién horneado."
+    ],
+    "medicinal": [
+      "El látex se ha utilizado en la medicina tradicional para tratar enfermedades de la piel y heridas."
+    ],
+    "industrial": [
+      "La madera es ligera y se usa para la construcción de canoas y tablas de surf.",
+      "La pulpa se usa para hacer papel y textiles en algunas culturas."
+    ],
+    "simbolismo": "Alimento, vida, abundancia y conexión con la tierra en la cultura polinesia."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (algunas variedades) y asexual (principalmente por brotes y raíces).",
+    "polinizacion": "Anemófila (por el viento) y por murciélagos de la fruta.",
+    "momentoFloracion": "Dos o más temporadas de fructificación por año en climas ideales (principalmente verano).",
+    "cicloVida": "Perenne, de larga vida (puede producir frutos durante décadas)."
+  },
+  "atributosFantasia": {
+    "belleza": 4,
+    "rareza": 2,
+    "vitalidad": 5,
+    "resistencia": 4,
+    "impactoEcologico": 4,
+    "misticismo": 3,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "El Árbol del Pan fue la planta a bordo del famoso HMS Bounty en la misión del Capitán Bligh para transportarlo de Tahití al Caribe.",
+    "Cuando se cocina, el fruto del pan tiene una textura y un sabor similares a un pan recién horneado, de ahí su nombre.",
+    "Es una fuente importante de carbohidratos, fibra y vitaminas en la dieta de muchas islas tropicales.",
+    "El árbol del pan es un pariente del árbol de la jaca y de la morera.",
+    "Algunas variedades producen frutos sin semillas, lo que las hace muy valoradas en la agricultura."
+  ]
+}

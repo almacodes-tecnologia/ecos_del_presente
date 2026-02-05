@@ -1,0 +1,138 @@
+{
+  "id": "aguila_calva",
+  "nombre": "Águila Calva",
+  "nombreCientifico": "Haliaeetus leucocephalus",
+  "fechaInformacion": "2025",
+  "imagen": "aguila_calva.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "Ave rapaz emblemática de Norteamérica, conocida por su cabeza blanca y su poderosa envergadura."
+  ],
+
+  "descripcionLarga": [
+    "El águila calva es un ave rapaz de gran tamaño que habita principalmente en bosques cercanos a ríos y lagos en América del Norte.",
+    "Se caracteriza por su plumaje marrón oscuro y su cabeza y cola blancas, así como su pico amarillo fuerte y garras poderosas.",
+    "Su vida gira en torno a la caza de peces y pequeñas presas, mostrando gran destreza en el vuelo y en la captura de alimento."
+  ],
+
+  "observaciones": [
+    "Símbolo nacional de Estados Unidos.",
+    "El águila calva no está en peligro crítico, pero algunas poblaciones locales han sido afectadas por contaminantes y pérdida de hábitat."
+  ],
+
+  "longevidad": {
+    "enLibertad": "20-30 años",
+    "enCautividad": "40-50 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Accipitriformes",
+    "familia": "Accipitridae",
+    "genero": "Haliaeetus",
+    "especie": "leucocephalus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Estable",
+    "amenazasPrincipales": ["Contaminación ambiental", "Pérdida de hábitat", "Caza ilegal"],
+    "esfuerzosConservacion": ["Protección de hábitats", "Programas de reproducción en cautividad", "Regulaciones de caza"],
+    "descripcionConservacion": [
+      "El águila calva ha experimentado una recuperación significativa en las últimas décadas gracias a la protección legal y a programas de conservación."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "3-4 kg",
+      "hembraAdulta": "4-6 kg",
+      "maximoRegistrado": "6.3 kg"
+    },
+    "alturaHombro": {
+      "macho": "70-90 cm",
+      "hembra": "80-102 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "70-102 cm",
+      "hembra": "90-105 cm"
+    },
+    "colorPelaje": "Plumaje marrón oscuro con cabeza y cola blancas",
+    "caracteristicasEspeciales": "Gran envergadura alar de hasta 2.3 metros; cabeza blanca distintiva.",
+    "morfologia": [
+      "Gran envergadura, hasta 2.3 m.",
+      "Pico curvado y garras afiladas adaptadas para la caza de peces."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques, ríos, lagos, humedales",
+    "distribucionGeografica": ["Estados Unidos", "Canadá", "Alaska"],
+    "adaptacionesHabitat": "Capacidad para anidar en árboles altos cerca del agua y cazar sobre superficies acuáticas",
+    "descripcionHabitat": [
+      "Prefiere áreas cercanas a cuerpos de agua donde pueda pescar con facilidad.",
+      "Se adapta a bosques mixtos y zonas abiertas con acceso a presas acuáticas."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Piscívoro principal)",
+    "presasComunes": ["Peces", "Aves acuáticas", "Pequeños mamíferos", "Carroña"],
+    "estrategiaCaza": "Vuelo bajo y picado sobre el agua para capturar peces",
+    "descripcionDieta": [
+      "Su dieta se basa principalmente en peces, aunque también puede alimentarse de aves y carroña según disponibilidad."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitaria o en pareja",
+    "rolMacho": "Caza y protección del territorio",
+    "rolHembra": "Cuidado de huevos y crías",
+    "actividadDiaria": "Diurna",
+    "comunicacion": ["Chillidos agudos", "Llamadas durante el cortejo y defensa de territorio"],
+    "descripcionComportamiento": [
+      "Defiende territorios amplios y anida en árboles grandes.",
+      "Observa a su presa desde el aire antes de realizar un ataque preciso."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "4-5 años",
+      "hembra": "4-5 años"
+    },
+    "periodoGestacion": "35 días (incubación)",
+    "tamanoCamada": "1-3 huevos",
+    "cuidadoCrias": "Ambos padres alimentan y protegen las crías hasta que son independientes",
+    "descripcionReproduccion": [
+      "El nido se construye en árboles altos, con ramas y material vegetal.",
+      "Las crías permanecen con los padres varios meses antes de volar por primera vez."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Controla poblaciones de peces y pequeños animales, mantiene el equilibrio ecológico en los ecosistemas acuáticos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 4,
+    "inteligencia": 7,
+    "adaptabilidad": 6,
+    "fuerza": 7,
+    "velocidad": 8,
+    "tamano": 7,
+    "majestuosidad": 9,
+    "rareza": 5,
+    "supervivencia": 7,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "Símbolo nacional de Estados Unidos.",
+    "Puede levantar peces que pesan casi la mitad de su propio peso."
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": "jirafa_reticulada",
+  "nombre": "Jirafa Reticulada",
+  "nombreCientifico": "Giraffa reticulata",
+  "fechaInformacion": "2025",
+
+  "imagen": "jirafa_reticulada.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La Jirafa Reticulada (*Giraffa reticulata*) es una de las cuatro especies de jirafas reconocidas. Es el animal terrestre más alto del mundo, caracterizado por su patrón de manchas grandes, poligonales y bien definidas, semejantes a una red (de ahí su nombre).",
+    "Su altura le permite explotar un nicho ecológico único, alimentándose del follaje alto, inaccesible para la mayoría de los demás herbívoros."
+  ],
+
+  "descripcionLarga": [
+    "La jirafa reticulada destaca por su pelaje con manchas grandes, poligonales de color marrón-rojizo o hígado, que están separadas por una red de finas líneas blancas que cubren todo el cuerpo, incluyendo las extremidades. Este patrón proporciona un camuflaje excelente en la sabana africana. ",
+    "Habita principalmente sabanas abiertas y bosques dispersos de África oriental. Para bombear sangre a su cerebro (a varios metros de altura), la jirafa ha evolucionado un **corazón extremadamente grande y potente** y un complejo sistema circulatorio con válvulas en el cuello y vasos sanguíneos adaptados.",
+    "Los machos, que son más altos y robustos, usan sus largos cuellos y pequeños cuernos cubiertos de pelo (**osiconos**) en combates rituales llamados 'necking' para establecer dominancia y acceso a las hembras."
+  ],
+
+  "observaciones": [
+    "Su altura, aunque ventajosa, requiere adaptaciones circulatorias únicas. El sistema de válvulas y la gruesa piel de sus patas evitan el 'desmayo' o el daño circulatorio cuando levanta o baja la cabeza rápidamente.",
+    "La fragmentación del hábitat y la caza furtiva han reducido drásticamente sus poblaciones. El número de jirafas reticuladas se ha reducido en más de un 50% en las últimas décadas.",
+    "Las jirafas solo necesitan beber agua cada varios días, obteniendo la mayor parte de la humedad de las hojas de las que se alimentan."
+  ],
+
+  "longevidad": {
+    "enLibertad": "≈25 años",
+    "enCautividad": "≈30-33 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Artiodactyla",
+    "familia": "Giraffidae",
+    "genero": "Giraffa",
+    "especie": "G. reticulata"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN)",
+    "tendenciaPoblacion": "Decreciente",
+    "amenazasPrincipales": [
+      "Pérdida de hábitat y fragmentación causada por la expansión agrícola y ganadera.",
+      "Caza furtiva (para carne, piel y cola, que es un símbolo de estatus).",
+      "Conflictos con las poblaciones humanas y la inestabilidad política en la región."
+    ],
+    "esfuerzosConservacion": [
+      "Establecimiento de reservas naturales y parques nacionales, especialmente en Kenia.",
+      "Programas de 'reubicación' y 'traslocación' para reforzar poblaciones aisladas.",
+      "Programas de conservación basados en la comunidad para reducir la caza ilegal."
+    ],
+    "descripcionConservacion": [
+      "La Jirafa Reticulada ha experimentado uno de los declives más rápidos entre las especies de jirafas. Su estatus 'En Peligro' requiere una acción urgente, centrada en la protección de los corredores biológicos entre las poblaciones fragmentadas.",
+      "Se estima que quedan menos de 16,000 individuos maduros en estado salvaje."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "≈1200 - 1900 kg",
+      "hembraAdulta": "≈800 - 1200 kg",
+      "maximoRegistrado": "2000 kg"
+    },
+    "alturaHombro": {
+      "macho": "3.2 - 3.5 m (a la cruz)",
+      "hembra": "2.8 - 3.2 m (a la cruz)"
+    },
+    "longitudCuerpoCola": {
+      "macho": "Altura total ≈4.8 - 6.0 m; Cola: ≈1 m.",
+      "hembra": "Altura total ≈4.0 - 5.5 m; Cola: ≈1 m."
+    },
+    "colorPelaje": "Patrón reticulado de manchas grandes, poligonales, marrón-rojizo, separadas por líneas blancas.",
+    "caracteristicasEspeciales": "El animal terrestre más alto; Cuello extremadamente largo (7 vértebras); Patrón de 'red' (reticulado); Osiconos (cuernos cubiertos de piel); Corazón potente (11 kg).",
+    "morfologia": [
+      "Cuello extremadamente largo (el más largo del reino animal, con solo 7 vértebras cervicales alargadas).",
+      "Lengua prensil larga y oscura (hasta 45 cm) para manipular hojas entre espinas.",
+      "Dos a cinco osiconos (cuernos óseos cubiertos de piel) en la cabeza.",
+      "Patas largas y delgadas, con pezuñas adaptadas para correr y soportar el peso."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Sabanas semiáridas, bosques de acacias, matorrales y arbustos.",
+    "distribucionGeografica": [
+      "Kenia (principalmente al norte y este), Etiopía (sur), Somalia (pequeñas poblaciones remanentes)."
+    ],
+    "adaptacionesHabitat": "Cuello largo para la alimentación en árboles altos (navegación arbórea). Su sistema circulatorio compensa la presión de la gravedad.",
+    "descripcionHabitat": [
+      "Prefiere las zonas donde la vegetación arbórea de acacia es abundante y densa, aunque tolera pastizales abiertos.",
+      "En época seca, la dependencia del agua les obliga a permanecer cerca de cuerpos de agua, aumentando su vulnerabilidad a la depredación y la caza."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívora (Ramoneadora/Folívora)",
+    "presasComunes": [
+      "Hojas, brotes y vainas de árboles altos, especialmente especies de *Acacia* y *Commiphora*.",
+      "Frutos ocasionales."
+    ],
+    "estrategiaCaza": null,
+    "descripcionDieta": [
+      "La jirafa es muy selectiva, alimentándose de las partes más nutritivas de las plantas. Utiliza su lengua azul oscura y labios para rodear y arrancar hojas, evitando las espinas.",
+      "Se alimentan durante gran parte del día, ingiriendo hasta 35 kg de follaje diariamente."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Manadas abiertas, fluidas y no territoriales. Los individuos se agrupan y dispersan libremente según la disponibilidad de comida.",
+    "rolMacho": "Compiten con otros machos por el derecho a aparearse a través del 'necking' (combate de cuellos). Muestran poca interacción con las crías.",
+    "rolHembra": "Forman grupos para criar y proteger a las crías ('guarderías'). La protección contra depredadores es una función clave.",
+    "actividadDiaria": "Diurna. Pasan el día alimentándose y el mediodía descansando de pie. Duermen muy poco (a menudo menos de 5 horas al día).",
+    "comunicacion": [
+      "Señales visuales (postura y movimientos del cuello/cabeza).",
+      "Infrasonido (vocalizaciones muy bajas, recientemente estudiadas).",
+      "Olor (el macho prueba la orina de la hembra para detectar el celo)."
+    ],
+    "descripcionComportamiento": [
+      "El 'necking' es una forma de selección sexual; el ganador es el macho más fuerte, lo que favorece los cuellos más largos y musculosos.",
+      "Las jirafas raras veces se tumban, y cuando lo hacen, solo por períodos muy cortos, debido al riesgo de depredación."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "≈10 años (madurez social, pueden aparearse antes)",
+      "hembra": "≈4 años"
+    },
+    "periodoGestacion": "14-15 meses",
+    "tamanoCamada": "1 cría (raramente 2)",
+    "cuidadoCrias": "La madre cuida sola a la cría. La cría puede ponerse de pie y correr a las pocas horas de nacer (esencial para la supervivencia), uniéndose a menudo a una guardería comunitaria.",
+    "descripcionReproduccion": [
+      "La madre da a luz de pie, lo que resulta en una caída de casi dos metros para la cría, ayudándola a romper el saco amniótico y a empezar a respirar.",
+      "La tasa de mortalidad de las crías en el primer año es alta, principalmente por depredación (leones, hienas)."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Al alimentarse del dosel arbóreo, actúa como un importante ramoneador que mantiene la estructura vertical de la vegetación de la sabana, controlando la expansión de ciertos árboles.",
+    "Sus hábitos alimenticios influyen en la regeneración de las especies de acacia al dispersar semillas.",
+    "Como presa, es una fuente importante de alimento para grandes depredadores (especialmente las crías)."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 3,
+    "inteligencia": 5,
+    "adaptabilidad": 6,
+    "fuerza": 5,
+    "velocidad": 4,
+    "tamano": 9,
+    "majestuosidad": 10,
+    "rareza": 5,
+    "supervivencia": 4,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "Su lengua prensil puede medir hasta 45 cm, lo que le permite arrancar hojas espinosas sin lastimarse, gracias a su grosor.",
+    "Tienen un corazón que pesa alrededor de 11 kg y genera una presión arterial excepcionalmente alta para asegurar el flujo sanguíneo al cerebro a través de su cuello de 2 metros.",
+    "Se cree que su patrón de manchas actúa como 'ventanas térmicas' para la regulación de la temperatura, con vasos sanguíneos especializados debajo de las rosetas."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pleurotus_eryngii",
+  "nombre": "Seta de cardo",
+  "nombreCientifico": "Pleurotus eryngii",
+  "familia": "Pleurotaceae",
+  "imagen": "pleurotus_eryngii.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Pleurotus eryngii es un hongo basidiomiceto característico de los ecosistemas de pradera y pastizal. A diferencia de la mayoría de las especies de su género que colonizan troncos, esta especie presenta una especialización biológica que le permite desarrollarse sobre los restos radiculares de plantas del género Eryngium.",
+
+  "caracteristicas": {
+    "sombrero": "3-12 cm de diámetro. Su forma evoluciona de convexa a aplanada-deprimida. Presenta una coloración variable que abarca tonos marrón grisáceo, ocre y pardo oscuro. El margen se mantiene característicamente enrollado en las fases iniciales de desarrollo.",
+    "laminas": "Color blanquecino o crema, dispuestas de forma apretada y con una inserción marcadamente decurrente. El himenóforo incluye lamélulas intercaladas que no alcanzan el pie.",
+    "pie": "Cilíndrico, de consistencia maciza y elástica. Generalmente se sitúa de forma excéntrica respecto al sombrero y presenta una base atenuada de color blanquecino.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Blanco-crema.",
+    "usoCultural": "Especie de gran interés en estudios de fitopatología y ecología de zonas áridas por su estrecha relación de dependencia con la flora del entorno."
+  },
+
+  "habitat": {
+    "tipo": "Áreas abiertas, pastizales, bordes de caminos y terrenos baldíos donde se encuentre presente el cardo corredor (Eryngium campestre).",
+    "relacionEcologica": "Organismo saprófito especializado; su micelio coloniza y descompone específicamente las raíces muertas de los cardos, cumpliendo una función recicladora en el suelo.",
+    "distribucionGeografica": ["Región mediterránea (Sur de Europa y Norte de África), extendiéndose hacia Asia Central y Occidental."],
+    "temporada": "Fructifica principalmente durante el otoño tras periodos de precipitación, pudiendo reaparecer en primaveras húmedas.",
+    "altitudRango": "Desde zonas costeras hasta mesetas y páramos de altitud media."
+  },
+
+  "curiosidades": [
+    "Su ciclo de vida está intrínsecamente ligado al del cardo corredor; la fructificación del hongo depende de la presencia de restos vegetales en descomposición de la planta anfitriona del ciclo anterior.",
+    "Presenta una notable resistencia a la degradación física y al ataque de larvas de dípteros en comparación con otros hongos de pradera, lo que prolonga la exposición de sus estructuras reproductivas.",
+    "Aunque su hábitat natural es el suelo, su morfología y tipo de inserción de láminas lo vinculan filogenéticamente con hongos lignícolas (que crecen en madera).",
+    "Es capaz de persistir en condiciones de humedad relativa baja gracias a la consistencia firme y algo coriácea de sus tejidos."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 5,
+    "rareza": 5,
+    "simbolismo": 6,
+    "resistencia": 8,
+    "velocidadDeCrecimiento": 7,
+    "aura": 4
+  }
+}

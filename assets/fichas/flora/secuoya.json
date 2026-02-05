@@ -1,0 +1,114 @@
+{
+  "id": "secuoya",
+  "nombre": "Secuoya Roja de California",
+  "nombreCientifico": "Sequoia sempervirens",
+  "fechaInformacion": "2025",
+  "imagen": "secuoya.webp",
+  "introduccionPlanta": [
+    "La secuoya roja de California es el ser vivo más alto de la Tierra, un árbol conífero perenne que puede superar los 100 metros de altura, nativo de la costa del Pacífico de Norteamérica.",
+    "Simboliza la longevidad y la resistencia, ya que puede vivir más de 2.000 años y su corteza fibrosa lo protege del fuego y los insectos."
+  ],
+  "descripcionLarga": [
+    "La secuoya roja de California (*Sequoia sempervirens*) es una conífera perenne que ostenta el título de ser el árbol más alto del mundo. Con un tronco masivo de corteza fibrosa y rojiza que puede alcanzar los 30 cm de grosor, estos gigantes se alzan majestuosamente a lo largo de una estrecha franja costera del Pacífico de América del Norte, desde Oregón hasta California. Su hábitat está intrínsecamente ligado a la niebla costera, que proporciona la humedad esencial para su crecimiento fenomenal.",
+    "Estas imponentes criaturas vivientes son verdaderas reliquias, con una esperanza de vida que puede superar los 2.000 años. La combinación de su corteza resistente al fuego y su capacidad para rebrotar de la base les ha permitido sobrevivir a innumerables incendios forestales, a diferencia de otras especies.",
+    "A pesar de su tamaño, sus conos de semillas son sorprendentemente pequeños. La secuoya se reproduce tanto sexualmente, a través de estas semillas que se dispersan por el viento, como asexualmente, mediante brotes que emergen de la base de los árboles maduros. Históricamente, su valiosa madera fue objeto de una intensa tala que llevó a la especie a un estado de peligro. Hoy en día, la conservación es una prioridad, con vastas áreas de protección dedicadas a salvaguardar estos monumentales árboles, que no solo son un espectáculo visual, sino también un pilar fundamental de sus ecosistemas."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Pinophyta",
+    "clase": "Pinopsida",
+    "orden": "Pinales",
+    "familia": "Cupressaceae",
+    "genero": "Sequoia",
+    "especie": "S. sempervirens"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN)",
+    "tendenciaPoblacion": "Disminuyendo (debido a la tala histórica y amenazas actuales).",
+    "amenazasPrincipales": [
+      "Tala y deforestación histórica (siglos XIX y XX).",
+      "Cambio climático (sequías prolongadas, aumento de incendios forestales).",
+      "Pérdida de hábitat y fragmentación."
+    ],
+    "esfuerzosConservacion": [
+      "Creación de parques nacionales y áreas protegidas (Parque Nacional Redwood, etc.).",
+      "Programas de reforestación y restauración de ecosistemas.",
+      "Legislación para proteger los árboles viejos y el hábitat circundante."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol conífero, perenne, el ser vivo más alto de la Tierra.",
+    "alturaPromedio": "60 - 100 m (200 - 330 ft); récord actual 115.92 m.",
+    "colorFollaje": "Verde oscuro, hojas perennes.",
+    "tipoRaiz": "Raíces superficiales y extendidas, adaptadas a absorber la humedad de la niebla.",
+    "tallos": "Tronco masivo, recto, con corteza gruesa, fibrosa, de color marrón rojizo. Resiste el fuego y los insectos.",
+    "hojas": "Dos tipos: agujas aplanadas, dispuestas en dos filas (ramas bajas) y escamas superpuestas (copa).",
+    "flores": {
+      "forma": "Conos (masculinos y femeninos en el mismo árbol).",
+      "colores": "Amarillo a marrón claro (masculinos), verde (femeninos).",
+      "fragancia": "Conífera, suave.",
+      "tamano": "Conos masculinos pequeños (2-4 mm), conos femeninos pequeños (1.5-3 cm)."
+    },
+    "frutos": "Conos leñosos, pequeños y ovoides, que contienen de 3 a 7 semillas por escama."
+  },
+  "habitat": {
+    "tipo": "Bosques costeros templados y muy húmedos (Bosques de Redwood), a menudo con neblina.",
+    "distribucionGeografica": [
+      "Una estrecha franja de la costa del Pacífico de América del Norte, desde el sur de Oregón hasta el centro de California."
+    ],
+    "preferenciasSuelo": "Suelos profundos, ricos en humus, bien drenados y constantemente húmedos.",
+    "preferenciasLuz": "Sombra parcial en la etapa de plántula, pero pleno sol en la madurez."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Principalmente por semilla.",
+      "Rebrote (reproducción vegetativa) de la base del árbol.",
+      "Esquejes (para propagación controlada)."
+    ],
+    "riego": "Requiere humedad constante, especialmente cuando es joven. Los árboles maduros dependen de la lluvia y la niebla.",
+    "poda": "No se poda, ya que desarrolla una forma natural. Se eliminan ramas muertas o dañadas en ejemplares de jardín.",
+    "fertilizacion": "Generalmente no es necesaria en su hábitat natural. En cultivo, fertilizantes para coníferas en etapas jóvenes.",
+    "plagasComunes": [
+      "Pocas plagas significativas para árboles maduros."
+    ],
+    "enfermedadesComunes": [
+      "Pudrición de la raíz (en condiciones de encharcamiento prolongado)."
+    ]
+  },
+  "usos": {
+    "ornamental": "Parques y grandes jardines, especialmente en climas frescos y húmedos, como árbol de declaración.",
+    "culinario": [
+      "No tiene usos culinarios."
+    ],
+    "medicinal": [
+      "No tiene usos medicinales directos conocidos."
+    ],
+    "industrial": [
+      "Madera (históricamente) para construcción, muebles, revestimientos y más, valorada por su resistencia a la pudrición y los insectos."
+    ],
+    "simbolismo": "Longevidad, inmortalidad, majestuosidad, resistencia y perseverancia."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (reproducción vegetativa por brotes basales).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Invierno/Principios de primavera (producción de conos).",
+    "cicloVida": "Perenne, de extremada longevidad (más de 2.000 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 5,
+    "vitalidad": 5,
+    "resistencia": 5,
+    "impactoEcologico": 5,
+    "misticismo": 5,
+    "fraganciaMagica": 3,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "La secuoya roja de California (*Sequoia sempervirens*) es el ser vivo más alto del planeta, con el árbol 'Hyperion' midiendo casi 116 metros.",
+    "Pueden vivir más de 2.000 años, lo que las convierte en una de las especies de árboles más longevas.",
+    "Su corteza gruesa y fibrosa, que puede medir hasta 30 cm de espesor, es extremadamente resistente al fuego.",
+    "A pesar de su tamaño masivo, sus conos y semillas son increíblemente pequeños, lo que demuestra la eficiencia de la naturaleza.",
+    "La mayoría de la reproducción se produce a través de brotes basales o 'copos' que crecen del tronco o de las raíces de un árbol padre."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "rana_dardo_dorada",
+  "nombre": "Rana Dardo Dorada",
+  "nombreCientifico": "Phyllobates terribilis",
+  "fechaInformacion": "2025",
+
+  "imagen": "rana_dardo_dorada.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La rana dardo dorada (*Phyllobates terribilis*) es un anfibio endémico de la costa del Pacífico de Colombia, y está catalogada como el vertebrado más venenoso del planeta. ",
+    "Su brillante coloración amarilla, naranja o menta es una señal de advertencia (aposematismo) clara para cualquier depredador sobre la potente neurotoxina que segrega su piel."
+  ],
+
+  "descripcionLarga": [
+    "Esta rana de pequeño tamaño habita en las selvas tropicales húmedas. La toxina que produce, la **batracotoxina**, es un potente neurotóxico que interfiere con el funcionamiento de los canales de sodio de las células nerviosas, causando parálisis e insuficiencia cardíaca. Se estima que la cantidad de veneno en una sola rana salvaje es suficiente para matar hasta diez humanos adultos.",
+    "A diferencia de las serpientes, las ranas dardo no inyectan el veneno; las toxinas son segregadas por glándulas en la piel. Históricamente, este veneno fue utilizado por los indígenas Emberá para untar la punta de sus dardos de caza.",
+    "Su toxicidad está directamente relacionada con su dieta natural. Las ranas dardo criadas en cautiverio y alimentadas con insectos comunes pierden completamente su toxicidad, lo que sugiere que acumulan las toxinas a partir de ácaros y hormigas específicos en su hábitat selvático. "
+  ],
+
+  "observaciones": [
+    "El término 'terribilis' en su nombre científico hace referencia a la potencia letal de su veneno.",
+    "Es una especie diurna, lo que le permite mostrar su coloración de advertencia de manera efectiva.",
+    "Su conservación es crítica debido a su distribución extremadamente restringida."
+  ],
+
+  "longevidad": {
+    "enLibertad": "4-6 años",
+    "enCautividad": "Hasta 10 años (máximo registrado 15 años)"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Amphibia",
+    "orden": "Anura (Ranas y sapos)",
+    "familia": "Dendrobatidae (Ranas dardo o flecha)",
+    "genero": "Phyllobates",
+    "especie": "P. terribilis"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN)",
+    "tendenciaPoblacion": "Declinante (Estimada en >50% de reducción en los últimos 10 años).",
+    "amenazasPrincipales": [
+      "Deforestación y minería ilegal, que destruyen su hábitat único y limitado.",
+      "Tráfico ilegal para el comercio de mascotas, aunque su cría en cautividad es común.",
+      "Fragmentación del hábitat, lo que dificulta la dispersión y el flujo genético."
+    ],
+    "esfuerzosConservacion": [
+      "Protección de las reservas naturales en su área de distribución (Cauca y Valle del Cauca, Colombia).",
+      "Programas de reproducción en cautividad ex situ para evitar la extinción.",
+      "Investigación sobre la fuente dietética de sus toxinas."
+    ],
+    "descripcionConservacion": [
+      "El hábitat natural de *P. terribilis* está bajo grave amenaza. Dada su pequeña área de distribución (endemicidad), cualquier evento local (como un derrame o un incendio) representa un riesgo catastrófico para la especie."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "3-4 g",
+      "hembraAdulta": "3-5 g",
+      "maximoRegistrado": "5 g"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "2-3 cm (Longitud hocico-cloaca)",
+      "hembra": "2-3 cm (Longitud hocico-cloaca)"
+    },
+    "colorPelaje": "N/A (Piel). Típicamente amarillo brillante, pero puede presentar variaciones de color verde menta o naranja.",
+    "caracteristicasEspeciales": "Piel lisa y brillante con glándulas de veneno; Dedos anchos con almohadillas adhesivas para trepar; Coloración aposemática.",
+    "morfologia": [
+      "Cuerpo pequeño, ligero y compacto, típico de las ranas dardo.",
+      "Piel continuamente húmeda para facilitar la respiración cutánea.",
+      "Ojos grandes y saltones. Las hembras tienden a ser ligeramente más largas y robustas que los machos."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Selvas tropicales muy húmedas (Bosques lluviosos de tierras bajas) y zonas cercanas a arroyos o pantanos.",
+    "distribucionGeografica": [
+      "Endémica de una pequeña región de la costa del Pacífico de Colombia (departamentos de Cauca y Valle del Cauca)."
+    ],
+    "adaptacionesHabitat": "Metabolismo y fisiología adaptados a la alta humedad y temperaturas estables. Defensa química extrema contra depredadores.",
+    "descripcionHabitat": [
+      "Se encuentra en el sotobosque, sobre el suelo o en la vegetación baja (hasta 10 metros).",
+      "Prefiere áreas con alta precipitación (pluviisilva) y hojarasca abundante para ocultarse y cazar."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívora (Micropredadora)",
+    "presasComunes": [
+      "Hormigas pequeñas (especialmente de la familia Formicidae).",
+      "Ácaros.",
+      "Pequeños insectos y colémbolos.",
+      "Pequeños artrópodos que contienen los alcaloides precursores de la batracotoxina."
+    ],
+    "estrategiaCaza": "Acecho en la hojarasca y captura rápida de presas con su larga lengua pegajosa.",
+    "descripcionDieta": [
+      "La dieta en la naturaleza es crucial, ya que la rana bioacumula los alcaloides necesarios para sintetizar la batracotoxina a partir de los artrópodos que consume.",
+      "Es una cazadora diurna oportunista en el suelo del bosque."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Generalmente solitario o en pequeños grupos no reproductivos.",
+    "rolMacho": "Defiende activamente un pequeño territorio de alimentación y desove. Es responsable de guiar y transportar a los renacuajos.",
+    "rolHembra": "Puesta de huevos y alimentación indirecta a través de la protección territorial del macho.",
+    "actividadDiaria": "Diurna; se alimenta y corteja durante las horas de luz.",
+    "comunicacion": [
+      "Vocalizaciones específicas de cortejo y advertencia territorial (un zumbido característico).",
+      "Señales visuales (coloración brillante) y químicas (feromonas)."
+    ],
+    "descripcionComportamiento": [
+      "Es un anfibio terrestre, aunque necesita cuerpos de agua para el desarrollo de sus crías. Es sorprendentemente tolerante a la presencia de otros individuos fuera de la temporada de cría.",
+      "Muestra cuidado parental en la etapa de renacuajo."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "1 año",
+      "hembra": "1 año"
+    },
+    "periodoGestacion": "Incubación externa de los huevos: 10-14 días. Desarrollo del renacuajo: varias semanas.",
+    "tamanoCamada": "10-20 huevos por puesta (son huevos pequeños de gelatina).",
+    "cuidadoCrias": "El macho vigila los huevos depositados en hojas húmedas. Después de la eclosión, el macho transporta individualmente a los renacuajos adheridos a su espalda hasta pequeñas charcas o cuerpos de agua permanentes.",
+    "descripcionReproduccion": [
+      "El desove se produce en la hojarasca o sobre hojas cerca del suelo húmedo.",
+      "Los renacuajos son acuáticos y completan su metamorfosis en el agua antes de regresar al sotobosque como juveniles."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Depredador de pequeños artrópodos (incluyendo aquellos que transfieren la toxina).",
+    "Su existencia es un indicador de la salud y la integridad de los bosques pluviales de tierras bajas de Colombia."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 5,
+    "adaptabilidad": 6,
+    "fuerza": 1,
+    "velocidad": 4,
+    "tamano": 1,
+    "majestuosidad": 6,
+    "rareza": 8,
+    "supervivencia": 5,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "El veneno de una sola rana dardo dorada silvestre es la toxina más potente que se encuentra en cualquier vertebrado. Se estima que 2 microgramos de batracotoxina pura son letales para un humano adulto.",
+    "En cautividad, las ranas pierden su toxicidad, lo que prueba que necesitan insectos específicos de su dieta para producir la toxina.",
+    "El nombre científico *Phyllobates* significa 'escalador de hojas'."
+  ]
+}

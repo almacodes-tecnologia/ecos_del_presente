@@ -1,0 +1,87 @@
+{
+  "id": "bosque_laurisilva",
+  "nombre": "Bosque de Laurisilva",
+  "imagenPrincipal": "bosque_laurisilva.webp",
+  "descripcionDetallada": [
+    "La laurisilva es un tipo de bosque nuboso subtropical, un ecosistema relicto de la Era Terciaria que desapareció de la mayor parte del continente tras las glaciaciones. Se mantiene vivo en la región de la Macaronesia gracias a la humedad constante proporcionada por el mar de nubes.",
+    "Este bosque se caracteriza por una frondosidad perenne donde los árboles presentan hojas similares a las del laurel (laurioides). Es un mundo de penumbra, humedad casi saturada y una explosión de musgos, helechos y líquenes que recubren cada superficie disponible."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Principalmente en las islas de la Macaronesia: Canarias (Garajonay, Anaga), Madeira y Azores. También existen reductos similares en áreas muy específicas de la costa de Chile y el sur de China.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Árboles de la familia de las lauráceas con hojas perennes, coriáceas y brillantes.",
+    "dominanciaAnimal": "Destaca la presencia de avifauna endémica especializada y una ingente biodiversidad de invertebrados y moluscos terrestres.",
+    "estratosVerticales": [
+      "Dosel Arbóreo: Copas densas que filtran la luz, dominadas por el Laurel, el Viñátigo y el Til.",
+      "Sotobosque: Ambiente sombrío con arbustos esciáfilos (amantes de la sombra) como el brezo arborescente.",
+      "Estrato Muscinal/Helechos: Suelo y troncos cubiertos por tapices de briófitos y grandes helechos que aprovechan el goteo constante."
+    ],
+    "adaptacionesClave": "Lluvia horizontal: las hojas terminadas en punta (mucrones) están diseñadas para condensar la niebla y hacer que el agua gotee hacia las raíces."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima subtropical de montaña caracterizado por una temperatura suave y constante durante todo el año, sin heladas ni calor extremo.",
+      "El factor determinante es el 'Mar de Nubes', creado por el choque de los vientos alisios contra las laderas de las montañas."
+    ],
+    "caracteristicas": [
+      "Humedad relativa extremadamente alta, frecuentemente cercana al 100%.",
+      "Escasa oscilación térmica estacional (eterna primavera).",
+      "Baja radiación solar directa en el interior del bosque debido a la nubosidad persistente."
+    ],
+    "precipitacionAnualRango": "500 - 1100 mm (más el aporte de la lluvia horizontal)",
+    "temperaturaMediaRango": "13 - 19°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos de origen volcánico, muy evolucionados y profundos, con una capacidad extraordinaria para retener agua.",
+      "Presentan un color oscuro debido a la altísima concentración de materia orgánica en descomposición lenta."
+    ],
+    "caracteristicas": [
+      "Ricos en nutrientes pero con tendencia a la acidez debido a la lixiviación constante.",
+      "Gran porosidad que permite un drenaje eficiente a pesar de la saturación hídrica.",
+      "Presencia de una capa gruesa de hojarasca y musgo que protege el suelo de la erosión."
+    ]
+  },
+
+  "faunaDestacada": [
+    "paloma_rabiche",
+    "paloma_turque",
+    "pinzon_azul",
+    "lagarto_gigante",
+    "canario_silvestre"
+  ],
+  "floraDestacada": [
+    "laurel_canario",
+    "til",
+    "vinatigo",
+    "barbusano",
+    "helecho_vaquero"
+  ],
+  "hongosDestacados": [
+    "cantharellus_cibarius",
+    "hydnum_repandum",
+    "hemitrichia_serpula",
+    "clathrus_archeri"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Muy frágil y localizado. Considerado un fósil viviente de gran valor científico y ecológico.",
+    "amenazasPrincipales": [
+      "Especies Invasoras: Plantas exóticas que compiten por el espacio y la luz.",
+      "Cambio Climático: La elevación de la cota del mar de nubes podría 'secar' el bosque por arriba.",
+      "Presión Turística: El pisoteo en senderos compacta el suelo y daña las raíces superficiales.",
+      "Incendios Forestales: Aunque es un bosque húmedo, las sequías prolongadas aumentan el riesgo en los bordes."
+    ],
+    "beneficiosEcosistemicos": [
+      "Recarga de Acuíferos: La lluvia horizontal es la principal fuente de agua dulce en islas oceánicas.",
+      "Sumidero de Carbono: Alta densidad de biomasa por metro cuadrado.",
+      "Arqueología Botánica: Refugio de especies que no existen en ningún otro lugar del mundo.",
+      "Regulación Térmica: Actúa como un climatizador natural para las zonas bajas de las islas."
+    ]
+  }
+}

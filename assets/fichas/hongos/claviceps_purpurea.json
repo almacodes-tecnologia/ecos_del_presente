@@ -1,0 +1,43 @@
+{
+  "id": "claviceps_purpurea",
+  "nombre": "Cornezuelo del centeno",
+  "nombreCientifico": "Claviceps purpurea",
+  "familia": "Clavicipitaceae",
+  "imagen": "claviceps_purpurea.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Claviceps purpurea es un hongo ascomiceto parásito especializado en la colonización de los ovarios de gramíneas, principalmente del género Secale (centeno). Sustituye el desarrollo del grano por una estructura fúngica endurecida denominada esclerocio, la cual concentra una compleja batería de alcaloides del grupo de las ergolinas.",
+
+  "caracteristicas": {
+    "sombrero": "No posee. Su fase visible es un esclerocio (masa de micelio compactada) con forma de cuerno o espolón curvado, de 1 a 4 cm de longitud y coloración violácea oscura o negruzca.",
+    "laminas": "Ausentes.",
+    "pie": "Ausente durante su etapa parasitaria. En su fase teleomorfa (sexual), tras pasar el invierno en el suelo, el esclerocio germina produciendo estromas: diminutos pedúnculos terminados en cabezuelas globosas donde se alojan los peritecios.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "No aplicable; la dispersión se realiza mediante ascosporas filiformes producidas en estructuras microscópicas especializadas.",
+    "usoCultural": "Especie de inmenso impacto etnobotánico y clínico. Es el origen del ergotismo y la fuente biológica de los precursores químicos utilizados en la síntesis de compuestos psicodélicos y diversos alcaloides de interés en la farmacología molecular."
+  },
+
+  "habitat": {
+    "tipo": "Inflorescencias de cereales y gramíneas silvestres en ambientes con alta humedad relativa durante la floración del huésped.",
+    "relacionEcologica": "Parásito biotrófico obligado; secuestra los recursos nutritivos de la planta para formar su estructura de resistencia, interfiriendo en la producción de semillas del cereal.",
+    "distribucionGeografica": ["Cosmopolita; con mayor incidencia en zonas templadas y húmedas del hemisferio norte vinculadas a la agricultura extensiva."],
+    "temporada": "Fase de esclerocio visible durante la maduración del cereal (verano); fase de germinación estromática en primavera.",
+    "altitudRango": "Estrechamente ligado a las cotas de cultivo de cereales y praderas naturales."
+  },
+
+  "curiosidades": [
+    "El fenómeno histórico conocido como 'Fuego de San Antonio' se debe a la acción vasoconstrictora de sus alcaloides, que provocaban necrosis en las extremidades de quienes consumían cereales contaminados.",
+    "Produce un exudado azucarado llamado 'melaza' que atrae a los insectos, utilizándolos como vectores biológicos para dispersar sus conidios hacia espigas sanas.",
+    "La presencia de este hongo en restos arqueológicos ha permitido reconstruir patrones dietéticos y condiciones climáticas de civilizaciones antiguas.",
+    "Sus esclerocios pueden permanecer viables en el suelo durante varios años, esperando las condiciones térmicas y de humedad óptimas para completar su ciclo reproductivo."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 3,
+    "rareza": 5,
+    "simbolismo": 10,
+    "resistencia": 9,
+    "velocidadDeCrecimiento": 7,
+    "aura": 10
+  }
+}

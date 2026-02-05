@@ -1,0 +1,165 @@
+{
+  "id": "rebeco_comun",
+  "nombre": "Rebeco Común",
+  "nombreCientifico": "Rupicapra rupicapra",
+  "fechaInformacion": "2025",
+
+  "imagen": "rebeco_comun.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El rebeco común o gamuza es un mamífero ungulado de la familia Bovidae, famoso por su increíble agilidad y destreza en terrenos montañosos escarpados. ",
+    "Es un habitante característico de las cordilleras europeas, adaptado a vivir a grandes altitudes y a soportar condiciones climáticas extremas."
+  ],
+
+  "descripcionLarga": [
+    "El rebeco se distribuye por las altas montañas de Europa, incluyendo los Alpes, los Cárpatos, el Cáucaso y la cordillera Cantábrica (donde se encuentra una subespecie diferente). Su cuerpo es robusto, pero ligero, y sus patas son extraordinariamente fuertes, lo que le permite saltar distancias de hasta 6 metros y subir pendientes casi verticales.",
+    "Su pelaje cambia drásticamente con la estación. En verano es de color marrón rojizo, y en invierno se vuelve pardo oscuro o negro, proporcionando un aislamiento térmico superior. Ambos sexos poseen cuernos negros y ganchudos que se curvan hacia atrás y terminan en una punta característica ('gancho').",
+    "Son animales sociales que viven en rebaños de hembras y crías, mientras que los machos adultos suelen ser solitarios, uniéndose al grupo solo durante el período de celo."
+  ],
+
+  "observaciones": [
+    "Su habilidad para correr en la nieve y el hielo se debe a las almohadillas blandas que hay entre sus pezuñas, que le dan tracción.",
+    "Los machos durante la época de celo (noviembre-diciembre) realizan persecuciones extenuantes para conseguir parejas, a menudo en condiciones climáticas adversas.",
+    "La subespecie ibérica (*Rupicapra pyrenaica*) se considera una especie aparte por algunos taxónomos, pero comparte muchas características ecológicas con *R. rupicapra*."
+  ],
+
+  "longevidad": {
+    "enLibertad": "15-20 años",
+    "enCautividad": "Hasta 25 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia (Mamíferos)",
+    "orden": "Artiodactyla",
+    "familia": "Bovidae (Bóvidos)",
+    "genero": "Rupicapra",
+    "especie": "R. rupicapra"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable o localmente creciente.",
+    "amenazasPrincipales": [
+      "Fragmentación del hábitat debido a la infraestructura turística de montaña.",
+      "Enfermedades infecciosas (como la sarna, que puede diezmar poblaciones locales).",
+      "Caza deportiva regulada (legal en algunos países)."
+    ],
+    "esfuerzosConservacion": [
+      "Monitoreo constante de poblaciones para controlar brotes de enfermedades.",
+      "Regulación de la caza deportiva y control de acceso a zonas sensibles.",
+      "Creación de parques nacionales y áreas protegidas de alta montaña."
+    ],
+    "descripcionConservacion": [
+      "A pesar de la alta presión antrópica en su hábitat (turismo de esquí y senderismo), las poblaciones son generalmente estables en los Alpes. La principal preocupación radica en la gestión de enfermedades que se propagan fácilmente en las poblaciones densas."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "30-50 kg",
+      "hembraAdulta": "25-40 kg",
+      "maximoRegistrado": "60 kg"
+    },
+    "alturaHombro": {
+      "macho": "75-85 cm (A la cruz)",
+      "hembra": "70-80 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "110-140 cm (Cuerpo); 3-8 cm (Cola)",
+      "hembra": "105-135 cm (Cuerpo); 3-8 cm (Cola)"
+    },
+    "colorPelaje": "Invierno: Marrón oscuro a negro. Verano: Marrón rojizo. Presenta una mancha negra característica a lo largo del hocico, como un antifaz.",
+    "caracteristicasEspeciales": "Cuernos cortos y ganchudos (presentes en ambos sexos). Patas adaptadas para escalar (pezuñas con borde duro y almohadilla central blanda).",
+    "morfologia": [
+      "Cuerpo robusto y patas delgadas pero musculosas. Tiene glándulas odoríferas prominentes detrás de los cuernos, usadas para marcar territorio.",
+      "El pelaje de invierno es muy denso, con pelos de hasta 20 cm de longitud en el dorso.",
+      "Pezuñas que se separan para mejorar el agarre en terrenos irregulares."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Zonas subalpinas y alpinas (bosques altos, prados de montaña, zonas rocosas y acantilados).",
+    "distribucionGeografica": [
+      "Alpes (Francia, Suiza, Austria, Italia, Alemania, Eslovenia)",
+      "Cárpatos",
+      "Balcanes",
+      "Cáucaso"
+    ],
+    "adaptacionesHabitat": "Adaptación a alturas elevadas, nieve, hielo y grandes variaciones de temperatura. Sus pezuñas son la adaptación clave para la locomoción en pendientes.",
+    "descripcionHabitat": [
+      "En verano, asciende a prados y zonas rocosas por encima de la línea de árboles (hasta 3,600 m).",
+      "En invierno, desciende a bosques subalpinos para encontrar refugio y alimento bajo la nieve."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro (Rumiante)",
+    "presasComunes": [
+      "Hierbas y pastos de altura (en verano).",
+      "Brotes de árboles, líquenes, musgos y agujas de pino (en invierno)."
+    ],
+    "estrategiaCaza": "N/A (Pastoreo y ramoneo).",
+    "descripcionDieta": [
+      "Su dieta varía estacionalmente en función de la disponibilidad, siendo muy selectivo con los pastos más nutritivos en verano.",
+      "Pasa varias horas del día buscando alimento, compensando la baja calidad nutricional de la vegetación de altura."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Rebaños matriarcales (hembras y crías) y machos solitarios o en pequeños grupos de solteros.",
+    "rolMacho": "Solitario gran parte del año. Lucha por el acceso a las hembras durante el celo (rut).",
+    "rolHembra": "Lidera el rebaño, defiende a las crías y conoce las rutas de migración estacional.",
+    "actividadDiaria": "Diurna (Principalmente crepuscular, con picos de actividad al amanecer y atardecer).",
+    "comunicacion": [
+      "Silbidos fuertes de alarma (emitidos al detectar peligro).",
+      "Señales visuales (golpeteo de patas).",
+      "Marcaje de olor (glándulas retrocorneales)."
+    ],
+    "descripcionComportamiento": [
+      "Son extremadamente cautelosos y su oído y vista son muy agudos. El silbido de alarma puede alertar a todo el rebaño en un instante.",
+      "La época de celo es un período de alta energía donde los machos defienden vigorosamente a sus grupos de hembras."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo",
+    "madurezSexual": {
+      "macho": "3-4 años (Empiezan a reproducirse a los 6-8 años por competencia).",
+      "hembra": "2-3 años"
+    },
+    "periodoGestacion": "Aproximadamente 170 días (Casi 6 meses).",
+    "tamanoCamada": "1 cabrito (Raramente 2).",
+    "cuidadoCrias": "La cría permanece con la madre durante su primer año. La madre lo esconde en zonas rocosas mientras busca alimento.",
+    "descripcionReproduccion": [
+      "El parto ocurre en mayo o junio, coincidiendo con el pico de pastos frescos y la mejor cobertura vegetal.",
+      "Los cabritos son capaces de seguir a sus madres en el terreno más difícil a pocas horas de nacer."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Ingeniero del paisaje: Su pastoreo ayuda a mantener el equilibrio de los prados alpinos.",
+    "Presa clave: Es una fuente de alimento vital para grandes depredadores de montaña, como el águila real y el lince."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 4,
+    "inteligencia": 6,
+    "adaptabilidad": 7,
+    "fuerza": 5,
+    "velocidad": 8,
+    "tamano": 4,
+    "majestuosidad": 7,
+    "rareza": 5,
+    "supervivencia": 9,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "La agilidad del rebeco es legendaria: puede descender acantilados rocosos a gran velocidad donde otros animales no podrían ni caminar.",
+    "Los anillos en sus cuernos indican su edad, similar a los anillos de un árbol.",
+    "La sangre del rebeco está adaptada para transportar mucho más oxígeno, una adaptación esencial para la vida en la atmósfera enrarecida de las alturas."
+  ]
+}

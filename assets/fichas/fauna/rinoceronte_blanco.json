@@ -1,0 +1,160 @@
+{
+  "id": "rinoceronte_blanco",
+  "nombre": "Rinoceronte Blanco",
+  "nombreCientifico": "Ceratotherium simum",
+  "fechaInformacion": "2025",
+
+  "imagen": "rinoceronte_blanco.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El rinoceronte blanco (*Ceratotherium simum*) es el segundo mamífero terrestre más grande del mundo y el mayor de las cinco especies de rinocerontes, emblemático de la fauna africana. ",
+    "Se distingue por su enorme tamaño, su prominente joroba cervical, y especialmente por su labio ancho y plano, adaptado perfectamente al pastoreo."
+  ],
+
+  "descripcionLarga": [
+    "El rinoceronte blanco del sur (*C. s. simum*), que es la subespecie predominante, es un herbívoro macizo que habita las sabanas de África. Su piel, de color gris pálido, es gruesa y tiene pliegues a la altura de los hombros. Posee dos cuernos de queratina, siendo el cuerno frontal el más largo y valioso, lo que lamentablemente lo convierte en un objetivo principal para la caza furtiva.",
+    "A diferencia de otras especies, es relativamente social, formando grupos sueltos de hasta 15 individuos, generalmente hembras y crías. Los machos, aunque territoriales, marcan su área y su estado reproductivo con montículos de estiércol ('middens').",
+    "Su nombre 'blanco' es una mala traducción o corrupción de la palabra afrikáans 'wyd' (o 'weit'), que significa **'ancho'** o **'amplio'**, haciendo referencia a su característico labio cuadrado, adaptado para arrancar hierba corta del suelo, diferenciándolo del rinoceronte negro (que tiene un labio puntiagudo para ramonear)."
+  ],
+
+  "observaciones": [
+    "Su sentido del olfato es excelente, compensando su vista relativamente pobre.",
+    "La subespecie del norte (*C. s. cottoni*) está en peligro crítico funcionalmente extinto en la naturaleza, con solo dos hembras vivas en cautividad. La subespecie del sur es la que ha tenido éxito en la conservación.",
+    "El cuerno de rinoceronte está hecho de queratina, el mismo material que nuestras uñas y pelo."
+  ],
+
+  "longevidad": {
+    "enLibertad": "35-40 años",
+    "enCautividad": "40-50 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia (Mamíferos)",
+    "orden": "Perissodactyla (Perisodáctilos)",
+    "familia": "Rhinocerotidae",
+    "genero": "Ceratotherium",
+    "especie": "C. simum (incluye dos subespecies: *simum* y *cottoni*)"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Casi Amenazado (NT) (Rinoceronte Blanco del Sur)",
+    "tendenciaPoblacion": "Disminuyendo (a pesar de ser la población de rinocerontes más grande del mundo, la caza furtiva ha provocado un descenso en los últimos años).",
+    "amenazasPrincipales": [
+      "Caza furtiva masiva para obtener sus cuernos, utilizados en medicina tradicional asiática.",
+      "Fragmentación y pérdida de hábitat por la agricultura y el desarrollo humano.",
+      "Inestabilidad política y pobreza que impulsan las redes de caza ilegal."
+    ],
+    "esfuerzosConservacion": [
+      "Patrullas armadas y vigilancia intensiva (antipoaching) en reservas clave.",
+      "Descuerno preventivo (retirar el cuerno) para disuadir a los cazadores furtivos.",
+      "Programas de cría e investigación, incluyendo avances genéticos para la subespecie del norte."
+    ],
+    "descripcionConservacion": [
+      "La población del sur se recuperó milagrosamente de apenas 100 individuos a principios del siglo XX, pero la crisis de la caza furtiva de la última década ha puesto a la especie bajo presión. Su futuro depende de la erradicación del mercado ilegal de cuerno."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "2300-3600 kg",
+      "hembraAdulta": "1700-2300 kg",
+      "maximoRegistrado": "4500 kg"
+    },
+    "alturaHombro": {
+      "macho": "1.7-1.9 m",
+      "hembra": "1.6-1.8 m"
+    },
+    "longitudCuerpoCola": {
+      "macho": "3.4-4.2 m",
+      "hembra": "3.4-4.0 m"
+    },
+    "colorPelaje": "Piel gruesa de color gris pizarra a gris claro.",
+    "caracteristicasEspeciales": "Labio ancho y cuadrado; Gran tamaño corporal; Dos cuernos de queratina; Joroba muscular detrás del cuello.",
+    "morfologia": [
+      "Cuerpo voluminoso con patas cortas y robustas, adaptadas para soportar su inmenso peso.",
+      "Cabeza larga y cuello corto y grueso, con una joroba distintiva debido a los potentes músculos del cuello necesarios para sostener la cabeza mientras pastan.",
+      "El cuerno principal puede medir más de 1.5 metros en ejemplares grandes."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Sabanas, praderas abiertas, y matorrales con acceso a agua.",
+    "distribucionGeografica": [
+      "Principalmente Sudáfrica, Namibia, Zimbabue, Kenia y Botsuana."
+    ],
+    "adaptacionesHabitat": "Labio ancho especializado para el pastoreo eficiente de hierba corta. Gran necesidad de agua y baños de barro (para refrescarse y protegerse de parásitos).",
+    "descripcionHabitat": [
+      "Prefiere hábitats de pastizales abiertos con acceso cercano a agua y sombra para refrescarse durante el mediodía.",
+      "Son animales sedentarios, pero deben recorrer grandes distancias en busca de pasto y agua fresca."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro (Graminívoro estricto)",
+    "presasComunes": [
+      "Hierbas cortas.",
+      "Pastos frescos y suculentos.",
+      "Poca variedad dietética fuera de los pastos."
+    ],
+    "estrategiaCaza": "N/A (Pastoreo).",
+    "descripcionDieta": [
+      "Su labio ancho es como una cortadora de césped natural, permitiéndole consumir grandes volúmenes de hierba baja, su principal fuente de alimento.",
+      "Ingieren hasta 45-50 kg de vegetación al día y pasan la mitad del día pastando."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Semi-social. Hembras con crías y adolescentes forman grupos estables. Machos adultos son solitarios y territoriales.",
+    "rolMacho": "Defiende un territorio con agresividad, especialmente las fronteras, utilizando cuerno, bufidos y marcaje de olor. Su principal objetivo es acceder a las hembras en celo.",
+    "rolHembra": "Protege vigorosamente a su única cría durante un periodo prolongado (2-3 años). Es más social que el macho.",
+    "actividadDiaria": "Activos principalmente en la mañana, tarde y noche; descansan y se revuelcan en el barro durante las horas de calor.",
+    "comunicacion": [
+      "Vocalizaciones (gruñidos, bufidos, jadeos de alarma).",
+      "Marcaje de territorio intensivo mediante montículos de estiércol (middens) y orina.",
+      "Posturas corporales defensivas y de cortejo."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo",
+    "madurezSexual": {
+      "macho": "8-10 años",
+      "hembra": "6-7 años"
+    },
+    "periodoGestacion": "16 meses (uno de los más largos entre los mamíferos terrestres).",
+    "tamanoCamada": "1 cría.",
+    "cuidadoCrias": "La cría es altamente dependiente y permanece con la madre hasta 2-3 años, cuando la madre está lista para concebir de nuevo. El intervalo entre partos es de 3-4 años.",
+    "descripcionReproduccion": [
+      "El rinoceronte blanco tiene una baja tasa reproductiva, lo que hace que la pérdida de un solo individuo adulto sea crítica para la población.",
+      "Las crías nacen bien desarrolladas y pueden seguir a la madre poco después del nacimiento."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Ingeniero de ecosistemas: su pastoreo mantiene las praderas abiertas y en buen estado para otros herbívoros.",
+    "Contribuye a la dispersión de semillas y al ciclo de nutrientes a través del estiércol.",
+    "Su estatus como megafauna es vital para el equilibrio trófico y la salud de la sabana."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 4,
+    "inteligencia": 3,
+    "adaptabilidad": 5,
+    "fuerza": 10,
+    "velocidad": 5,
+    "tamano": 10,
+    "majestuosidad": 8,
+    "rareza": 6,
+    "supervivencia": 5,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "Su nombre no se refiere al color, sino a la palabra afrikáans 'weit' (ancho), que describe su labio cuadrado para pastar.",
+    "Puede correr a casi 50 km/h, superando la velocidad de un caballo de carreras en distancias cortas.",
+    "Los rinocerontes a menudo tienen garcillas bueyeras sobre su espalda, que se alimentan de los insectos y parásitos de su piel (mutualismo)."
+  ]
+}

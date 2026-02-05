@@ -1,0 +1,43 @@
+{
+  "id": "coprinus_comatus",
+  "nombre": "Coprinus comatus",
+  "nombreCientifico": "Coprinus comatus",
+  "familia": "Agaricaceae",
+  "imagen": "coprinus_comatus.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Coprinus comatus es un hongo basidiomiceto inconfundible debido a su morfología cilíndrica y alargada. Su superficie está recubierta de escamas blancas de textura fibrosa y sedosa. Destaca biológicamente por su proceso de delicuescencia, un mecanismo de autodigestión enzimática que transforma el tejido del hongo en un líquido negro denso.",
+
+  "caracteristicas": {
+    "sombrero": "3-8 cm de diámetro y 5-20 cm de altura. Inicialmente ovoide-cilíndrico, evoluciona a una forma acampanada. La cutícula se fragmenta en escamas imbricadas y curvadas hacia arriba, excepto en el ápice, que permanece liso.",
+    "laminas": "Extremadamente apretadas, anchas y libres. Exhiben una progresión cromática distintiva: comienzan blancas, pasan a tonos rosados en los bordes y finalizan en una licuefacción negra total por autodigestión.",
+    "pie": "Largo, cilíndrico, hueco y quebradizo. Presenta una coloración blanca pura y una base ligeramente atenuada o bulbosa.",
+    "anillo": "Presente, delgado y de naturaleza móvil; suele desplazarse hacia la base del pie a medida que el cuerpo fructífero se expande.",
+    "volva": "Ausente.",
+    "esporada": "Negra.",
+    "usoCultural": "Históricamente relevante en estudios de micología por su ciclo de vida efímero, siendo un modelo clásico para el estudio de la maduración esporal y la dispersión mediante fluidos."
+  },
+
+  "habitat": {
+    "tipo": "Suelos con alto contenido de nitrógeno, áreas antropizadas como jardines, parques, bordes de senderos y terrenos removidos.",
+    "relacionEcologica": "Organismo saprófito que desempeña un papel crucial en el ciclo del carbono, descomponiendo materia orgánica compleja en el sustrato.",
+    "distribucionGeografica": ["Cosmopolita: se encuentra en zonas templadas de casi todo el planeta."],
+    "temporada": "Principalmente otoño, aunque puede aparecer en primavera si las condiciones de humedad son óptimas.",
+    "altitudRango": "Desde el nivel del mar hasta zonas de montaña media."
+  },
+
+  "curiosidades": [
+    "La delicuescencia es una estrategia reproductiva: al disolverse, las esporas quedan suspendidas en el líquido negro para su dispersión por contacto o gravedad.",
+    "El líquido resultante de su licuefacción posee una estabilidad pigmentaria que permitió su uso como tinta orgánica en siglos pasados.",
+    "Su ciclo de vida es extremadamente veloz; puede emerger, madurar y disolverse por completo en menos de 24 o 48 horas.",
+    "A diferencia de otros miembros de su antiguo grupo taxonómico, presenta una estructura celular única que lo separa genéticamente de los Coprinopsis."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 7,
+    "rareza": 3,
+    "simbolismo": 8,
+    "resistencia": 2,
+    "velocidadDeCrecimiento": 10,
+    "aura": 9
+  }
+}

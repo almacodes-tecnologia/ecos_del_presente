@@ -1,0 +1,161 @@
+{
+  "id": "medusa_comun",
+  "nombre": "Medusa Común",
+  "nombreCientifico": "Aurelia aurita",
+  "fechaInformacion": "2025",
+
+  "imagen": "medusa_comun.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La medusa común o medusa luna (*Aurelia aurita*) es una de las especies de medusa más conocidas y ampliamente distribuidas del mundo, famosa por su forma de campana transparente y sus cuatro gónadas circulares características.",
+    "Pertenece al filo Cnidaria y es un depredador pasivo crucial en la red trófica marina."
+  ],
+
+  "descripcionLarga": [
+    "Es una medusa abundante en mares templados y tropicales. Se distingue por su umbrela (campana) gelatinosa y casi transparente, con bordes finos y cortos tentáculos urticantes. Los cuatro órganos reproductores (gónadas) en forma de herradura, a menudo teñidos de púrpura, son visibles a través de la umbrela.",
+    "La mayor parte de su cuerpo está compuesta por mesoglea (una sustancia gelatinosa), lo que le da su ligereza. Su movilidad es limitada, impulsándose mediante pulsaciones rítmicas de la campana, pero dependiendo fuertemente de las corrientes marinas para el transporte.",
+    "Posee células urticantes (cnidocitos) en sus tentáculos y brazos orales que utiliza para capturar zooplancton. Afortunadamente, su picadura es generalmente inofensiva o muy suave para los humanos."
+  ],
+
+  "observaciones": [
+    "Es frecuentemente observada en grandes enjambres o proliferaciones (blooms) estacionales, a menudo arrastradas por las corrientes a las costas.",
+    "Su abundancia se ha relacionado con el calentamiento global y la eutrofización (exceso de nutrientes) en mares costeros, ya que sus competidores (peces y otros depredadores) son más sensibles a estos cambios.",
+    "Carece de estructuras complejas como cerebro, corazón o sistema respiratorio; el gas y los nutrientes se intercambian por difusión a través de sus finas paredes."
+  ],
+
+  "longevidad": {
+    "enLibertad": "3-12 meses (fase medusa)",
+    "enCautividad": "1-2 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Cnidaria",
+    "clase": "Scyphozoa",
+    "orden": "Semaeostomeae",
+    "familia": "Ulmaridae",
+    "genero": "Aurelia",
+    "especie": "A. aurita"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "No evaluada (NE)",
+    "tendenciaPoblacion": "Estable o Aumentando (especialmente en zonas costeras alteradas)",
+    "amenazasPrincipales": [
+      "Contaminación marina y microplásticos (confundidos con alimento).",
+      "Calentamiento del agua (favorece su ciclo de vida y tasas de reproducción).",
+      "Impacto de la actividad humana, aunque a menudo sale favorecida por la alteración de los ecosistemas."
+    ],
+    "esfuerzosConservacion": [
+      "No se aplica directamente; los esfuerzos se centran en la investigación oceanográfica para entender su rol como bioindicador de cambios ambientales.",
+      "Control de la contaminación costera."
+    ],
+    "descripcionConservacion": [
+      "La especie es extremadamente común y resistente. De hecho, el aumento de las poblaciones de medusas ('medusificación') en muchas áreas se considera un signo de degradación ecológica o sobrepesca, no una amenaza para la especie en sí misma."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": null,
+      "hembraAdulta": null,
+      "maximoRegistrado": null
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "Diámetro 25-40 cm",
+      "hembra": "Diámetro 25-40 cm"
+    },
+    "colorPelaje": "No aplica; transparente con tonos azulados, blancos o rosados; las gónadas suelen tener color púrpura o amarillo.",
+    "caracteristicasEspeciales": "Campana gelatinosa; Cuatro gónadas visibles en forma de herradura; Tentáculos finos y urticantes; Ausencia de estructuras nerviosas centralizadas.",
+    "morfologia": [
+      "Campana (umbrela) gelatinosa y acampanada, con bordes finos.",
+      "Ocho estructuras sensoriales (ropalias) que detectan luz y gravedad.",
+      "Brazos orales (cuatro) que se extienden desde el centro, utilizados para transportar el alimento a la boca."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Aguas saladas y salobres, zonas costeras y mar abierto (epipelágico).",
+    "distribucionGeografica": [
+      "Océano Atlántico (Norte), Mar Mediterráneo, Mar del Norte, Océano Pacífico (Norte), incluyendo la mayoría de las costas templadas y subtropicales."
+    ],
+    "adaptacionesHabitat": "Simplicidad estructural que requiere poca energía; capacidad de vivir en aguas con bajo oxígeno (zonas muertas); ciclo de vida con fase pólipo bentónico resistente.",
+    "descripcionHabitat": [
+      "Prefiere aguas templadas y tranquilas con abundante plancton.",
+      "El pólipo (fase sésil) se adhiere a rocas, estructuras artificiales o algas en zonas costeras."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro planctófago (Filtrador pasivo)",
+    "presasComunes": [
+      "Zooplancton (copépodos, cladóceros).",
+      "Larvas de peces y huevos de otros organismos marinos.",
+      "Pequeños crustáceos y organismos filtrados del agua."
+    ],
+    "estrategiaCaza": "Captura pasiva: Las presas quedan adheridas a los tentáculos urticantes y los brazos orales las transportan al centro de la campana, donde está la boca.",
+    "descripcionDieta": [
+      "Su alimentación depende de la densidad del plancton. Son importantes consumidoras de zooplancton, compitiendo con peces pequeños.",
+      "El veneno de sus cnidocitos paraliza a las pequeñas presas."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Generalmente solitaria, pero se congrega en grandes enjambres (blooms) en respuesta a corrientes, mareas o la fase de reproducción.",
+    "rolMacho": "Libera esperma en el agua.",
+    "rolHembra": "Recoge el esperma en sus brazos orales y alberga los huevos fertilizados.",
+    "actividadDiaria": "Dependiente de corrientes y luz (pueden migrar verticalmente).",
+    "comunicacion": [
+      "No se comunican activamente; su comportamiento se basa en la quimiorrecepción y la detección de luz a través de las ropalias."
+    ],
+    "descripcionComportamiento": [
+      "Su movimiento es una contracción rítmica de la campana. La campana pulsa unas 15 a 25 veces por minuto.",
+      "A pesar de no tener cerebro, las ropalias le permiten orientarse en el agua."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Asexual y Sexual (Ciclo de vida dimórfico)",
+    "madurezSexual": {
+      "macho": "3-6 meses (al alcanzar el tamaño adulto)",
+      "hembra": "3-6 meses (al alcanzar el tamaño adulto)"
+    },
+    "periodoGestacion": "No aplica; los huevos se desarrollan externamente o en los brazos orales.",
+    "tamanoCamada": "Miles de huevos por evento.",
+    "cuidadoCrias": "Nulo; los huevos y larvas son liberados directamente en la columna de agua (planctónicos).",
+    "descripcionReproduccion": [
+      "Presenta un ciclo de vida complejo con metagénesis",
+      "* **Fase Medusa (Sexual):** Los machos liberan esperma y las hembras retienen los huevos para la fertilización. Estos dan lugar a larvas **plánulas** (móviles).",
+      "* **Fase Pólipo (Asexual):** Las plánulas se asientan y se convierten en pólipos **escifistomas** sésiles. El pólipo se reproduce asexualmente por **estrobila** (división transversal), produciendo pequeñas medusas juveniles llamadas **éfiras**."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Indicador de cambios en la productividad marina y el calentamiento del agua. Las poblaciones grandes pueden señalar un ecosistema estresado (sobrepesca de competidores).",
+    "Forma parte crucial del ecosistema planctónico, siendo depredador de zooplancton y presa de tortugas marinas y algunos peces oceánicos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 1,
+    "adaptabilidad": 7,
+    "fuerza": 2,
+    "velocidad": 1,
+    "tamano": 3,
+    "majestuosidad": 5,
+    "rareza": 2,
+    "supervivencia": 6,
+    "impactoEcologico": 4
+  },
+
+  "curiosidades": [
+    "Carece de cerebro, corazón y órganos de respiración. Se compone de más del 95% de agua.",
+    "Su picadura es una de las más suaves entre las medusas, a menudo imperceptible para los humanos.",
+    "Su ciclo de vida es un notable ejemplo de alternancia generacional entre la reproducción sexual (medusa) y la asexual (pólipo)."
+  ]
+}

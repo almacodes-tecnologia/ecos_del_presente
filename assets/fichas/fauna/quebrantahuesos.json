@@ -1,0 +1,161 @@
+{
+  "id": "quebrantahuesos",
+  "nombre": "Quebrantahuesos",
+  "nombreCientifico": "Gypaetus barbatus",
+  "fechaInformacion": "2025",
+
+  "imagen": "quebrantahuesos.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El quebrantahuesos (*Gypaetus barbatus*) es un impresionante buitre del Viejo Mundo, único por su especialización dietética casi exclusiva en el consumo de huesos, ganándose su apodo.",
+    "Es una de las aves voladoras más grandes de Europa, con una envergadura que supera los 2.8 metros, y un indicador clave de la salud de los ecosistemas montañosos. "
+  ],
+
+  "descripcionLarga": [
+    "El quebrantahuesos se distingue fácilmente de otros buitres por su larga cola en forma de cuña o rombo y su coloración. Los adultos tienen una cabeza blanquecina y un cuello y vientre que a menudo presentan un tono naranja oxidado (adquirido de forma cosmética al bañarse en fuentes ferruginosas), contrastando con el dorso y alas negras. Bajo el pico luce un mechón de plumas negras que forma una distintiva 'barba', de donde proviene su nombre científico (*barbatus*).",
+    "Su dieta es única: el 70-90% de su alimentación consiste en huesos y médula ósea. Para ingerir huesos demasiado grandes, el quebrantahuesos los transporta en vuelo a gran altura (hasta 80 metros) y los deja caer sobre plataformas rocosas designadas ('rompehuesos') hasta que se fragmentan en porciones digeribles.",
+    "Habita en remotas cordilleras montañosas, donde utiliza su excepcional capacidad de planeo para patrullar grandes territorios en busca de carroña, siendo crucial para el reciclaje de nutrientes."
+  ],
+
+  "observaciones": [
+    "Posee uno de los jugos gástricos más ácidos del reino animal, con un pH cercano a 1, lo que le permite digerir eficientemente el hueso, incluido el colágeno y el calcio.",
+    "Muestra **cainismo facultativo**: aunque la hembra pone dos huevos, generalmente solo el primer polluelo sobrevive, ya que el mayor compite agresivamente por la comida.",
+    "La coloración rojiza de su pecho y vientre no es genética, sino cosmética, adquirida por baños de lodo o polvo con óxido de hierro."
+  ],
+
+  "longevidad": {
+    "enLibertad": "20–30 años",
+    "enCautividad": "Hasta 45 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Accipitriformes",
+    "familia": "Accipitridae (Rapaces diurnas)",
+    "genero": "Gypaetus",
+    "especie": "Gypaetus barbatus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Casi Amenazado (NT) (Próximo a ser vulnerable)",
+    "tendenciaPoblacion": "Creciente (gracias a la reintroducción y conservación activa en Eurasia).",
+    "amenazasPrincipales": [
+      "Envenenamientos por cebos ilegales (la principal causa de mortalidad no natural).",
+      "Electrocución y colisiones con infraestructuras (tendidos eléctricos y aerogeneradores).",
+      "Perturbación humana durante el largo ciclo reproductivo (turismo, escalada)."
+    ],
+    "esfuerzosConservacion": [
+      "Programas internacionales de cría en cautividad y reintroducción (ej. en los Alpes y otras zonas de Europa).",
+      "Establecimiento de Puntos de Alimentación Suplementaria (PAS) y control de venenos.",
+      "Protección de zonas de nidificación y planes de vigilancia."
+    ],
+    "descripcionConservacion": [
+      "A pesar del éxito de los programas de reintroducción en los Pirineos y los Alpes, el quebrantahuesos sigue siendo vulnerable debido a su baja tasa reproductiva y su lenta madurez sexual. La lucha contra el veneno es fundamental para su recuperación."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "5–6 kg",
+      "hembraAdulta": "6–7 kg (Ligeramente más pesada)",
+      "maximoRegistrado": "7.5 kg"
+    },
+    "alturaCuerpo": {
+      "macho": "95–120 cm (Longitud desde el pico hasta la punta de la cola)",
+      "hembra": "100–125 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "2.5-2.8 m (Envergadura alar)",
+      "hembra": "2.6-2.8 m (Envergadura alar)"
+    },
+    "colorPelaje": "Plumaje dorsal gris pizarra y negro; cabeza y partes inferiores blancas a naranja oxidado. Plumas negras en la base del pico (la 'barba').",
+    "caracteristicasEspeciales": "Barba facial; Cola en forma de rombo o cuña; Jugos gástricos altamente ácidos; Patas y garras relativamente débiles (no cazadoras).",
+    "morfologia": [
+      "Cuerpo esbelto, adaptado al vuelo planeado eficiente en corrientes térmicas de montaña.",
+      "Largas alas y una cola en forma de diamante que proporcionan gran estabilidad y maniobrabilidad en vuelo.",
+      "Pico fuerte, pero a diferencia de otros buitres, está adaptado para ingerir huesos, no para desgarrar carne grande."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Cordilleras montañosas, zonas rocosas, cortados y desfiladeros inaccesibles.",
+    "distribucionGeografica": [
+      "Fragmentada en altas cordilleras de Eurasia y África (Pirineos, Alpes, Balcanes, Cáucaso, Himalaya, África Oriental y del Sur)."
+    ],
+    "adaptacionesHabitat": "Vuelo planeador excepcional para cubrir grandes extensiones montañosas y detectar carroña desde el aire. Anidación en grandes acantilados para protegerse.",
+    "descripcionHabitat": [
+      "Prefiere hábitats alpinos y subalpinos con baja presión humana y alta disponibilidad de grandes ungulados (ciervos, cabras montesas, ovejas).",
+      "Los nidos (*aires*) suelen estar en cuevas o repisas inaccesibles en cortados verticales."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carroñero especializado (Osteófago)",
+    "presasComunes": [
+      "Huesos, médula ósea y restos óseos de grandes ungulados (domésticos y salvajes).",
+      "Trozas de carne, ligamentos y piel (en menor proporción)."
+    ],
+    "estrategiaCaza": "Búsqueda aérea. Utiliza la técnica de **romper huesos** (soltándolos desde lo alto sobre rocas) para acceder a la médula y fragmentar piezas grandes. ",
+    "descripcionDieta": [
+      "El quebrantahuesos ingiere los fragmentos de hueso enteros, que son digeridos en su totalidad por sus jugos gástricos ultra-ácidos.",
+      "Su dieta lo coloca al final de la cadena carroñera, aprovechando lo que otros buitres y depredadores dejan atrás."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Generalmente solitario o en parejas reproductoras permanentes. Los juveniles pueden formar grupos no reproductores.",
+    "rolMacho": "Defiende el territorio, coopera en la construcción del nido y participa en la incubación y alimentación del polluelo.",
+    "rolHembra": "Mayor dedicación al inicio de la incubación y al cuidado del polluelo joven. Ligeramente dominante en la pareja.",
+    "actividadDiaria": "Diurna; busca alimento y planea durante las horas de luz.",
+    "comunicacion": [
+      "Vocalizaciones agudas, silbidos y llamadas de contacto.",
+      "Vuelo de exhibición ('danza aérea') y posturas de apareamiento sobre el nido."
+    ],
+    "descripcionComportamiento": [
+      "A pesar de su tamaño, es un ave tímida y evita el contacto humano. Su presencia es un indicador de la tranquilidad del ecosistema.",
+      "La técnica de la caída de huesos requiere una gran precisión y memoria para localizar y recuperar los fragmentos."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "6–7 años",
+      "hembra": "6–7 años"
+    },
+    "periodoGestacion": "Incubación de 53–55 días.",
+    "tamanoCamada": "1–2 huevos (raramente eclosionan dos; el cainismo es común).",
+    "cuidadoCrias": "El periodo de cría es extremadamente largo (cerca de 4 meses en el nido). Ambos padres alimentan al polluelo, que depende de ellos durante un tiempo después de abandonar el nido.",
+    "descripcionReproduccion": [
+      "La reproducción ocurre en el invierno, lo que permite que el polluelo madure durante la primavera y el verano, cuando hay más alimento.",
+      "Los nidos son grandes estructuras de ramas decoradas con huesos y lana."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Carroñero final: es el único vertebrado que 'cierra el ciclo' al consumir huesos, liberando nutrientes que de otra forma tardarían mucho en degradarse.",
+    "Ayuda a prevenir la propagación de enfermedades al eliminar restos orgánicos de forma eficiente en las montañas."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 3,
+    "inteligencia": 6,
+    "adaptabilidad": 5,
+    "fuerza": 6,
+    "velocidad": 6,
+    "tamano": 7,
+    "majestuosidad": 9,
+    "rareza": 7,
+    "supervivencia": 7,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "El color naranja oxidado de su pecho y cabeza es cosmético; lo adquiere frotándose contra rocas o bañándose en fuentes ricas en óxido de hierro.",
+    "Su técnica de dejar caer huesos desde gran altura es un comportamiento aprendido y altamente especializado, único entre las aves del mundo.",
+    "Se encuentra distribuido de forma fragmentada en algunas de las cadenas montañosas más altas y emblemáticas del planeta."
+  ]
+}

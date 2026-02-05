@@ -1,0 +1,43 @@
+{
+  "id": "craterellus_cornucopioides",
+  "nombre": "Trompeta de los muertos",
+  "nombreCientifico": "Craterellus cornucopioides",
+  "familia": "Cantharellaceae",
+  "imagen": "craterellus_cornucopioides.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Craterellus cornucopioides es un hongo basidiomiceto caracterizado por su coloración melánica (gris oscuro a negro) y su morfología infundibuliforme profunda. Su cuerpo fructífero es íntegramente hueco, adoptando una forma de cornucopia que le permite maximizar la superficie del himenio en relación a su biomasa.",
+
+  "caracteristicas": {
+    "sombrero": "3-10 cm de diámetro. Presenta una forma de embudo o trompeta que penetra de forma continua hasta la base del espécimen. El margen es marcadamente ondulado, irregular y festoneado. La coloración oscila entre el gris ceniza y el negro azulado, dependiendo del grado de hidratación.",
+    "laminas": "Ausentes. El himenio (superficie externa del cuerpo fructífero) es liso o levemente rugoso, sin pliegues ni nervaduras definidas, presentando a menudo una ligera pruina grisácea en la madurez.",
+    "pie": "No diferenciado; constituye la prolongación tubular y hueca del sombrero. Es de textura elástica, tenaz y resistente a la fractura, con una coloración similar a la parte superior.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Blanca o crema pálido.",
+    "usoCultural": "Especie de gran interés etnobotánico debido a su nombre vernáculo, vinculado históricamente a su periodo de fructificación coincidente con los ciclos otoñales de senescencia forestal."
+  },
+
+  "habitat": {
+    "tipo": "Bosques de frondosas, con especial preferencia por suelos húmedos bajo hayas (Fagus sylvatica) y robles (Quercus), habitualmente entre la hojarasca densa.",
+    "relacionEcologica": "Establece simbiosis micorrícica con árboles planifolios, contribuyendo a la estabilidad del ecosistema en suelos ácidos o descalcificados con alta retención de humedad.",
+    "distribucionGeografica": ["Zonas templadas del Hemisferio Norte: Europa, Asia y América del Norte."],
+    "temporada": "Finales de verano y otoño (septiembre a noviembre).",
+    "altitudRango": "Desde altitudes bajas hasta zonas de montaña media con alta pluviosidad."
+  },
+
+  "curiosidades": [
+    "Posee un mimetismo excepcional; su coloración y forma le permiten pasar desapercibido entre la hojarasca en descomposición y las sombras del sotobosque.",
+    "A diferencia de otros hongos carnosos, su estructura elástica y la ausencia de ciertos azúcares atractivos para insectos le confieren una resistencia notable frente a la putrefacción.",
+    "Su morfología hueca es una adaptación eficiente para la dispersión de esporas, permitiendo que las corrientes de aire circulen a través de la cavidad central.",
+    "La intensidad de su pigmentación negra es el resultado de una alta concentración de melaninas, que actúan como protección contra el estrés ambiental en entornos boscosos sombríos."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 7,
+    "rareza": 7,
+    "simbolismo": 10,
+    "resistencia": 9,
+    "velocidadDeCrecimiento": 6,
+    "aura": 9
+  }
+}

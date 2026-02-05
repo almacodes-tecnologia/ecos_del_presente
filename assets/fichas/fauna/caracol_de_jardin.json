@@ -1,0 +1,164 @@
+{
+  "id": "caracol_de_jardin",
+  "nombre": "Caracol de Jardín",
+  "nombreCientifico": "Cornu aspersum",
+  "fechaInformacion": "2025",
+
+  "imagen": "caracol_de_jardin.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El caracol de jardín es uno de los gasterópodos terrestres más comunes en zonas urbanas y rurales de todo el mundo.",
+    "Su concha en espiral y su movimiento lento lo convierten en un habitante característico de huertos y jardines. Es notable su capacidad de adaptación y su ciclo de vida hermafrodita."
+  ],
+
+  "descripcionLarga": [
+    "El caracol de jardín es un molusco terrestre que utiliza una concha espiralada para protegerse de depredadores y condiciones ambientales adversas. La concha, compuesta principalmente de carbonato de calcio, crece de forma continua con el caracol a lo largo de su vida.",
+    "Su cuerpo es blando y está recubierto de moco, una sustancia fundamental para evitar la desecación, facilitar el desplazamiento y protegerle de pequeñas abrasiones. Este moco es clave para su termorregulación y movilidad.",
+    "Es un animal principalmente nocturno. Prefiere ambientes húmedos y frescos, por lo que su aparición masiva está ligada a periodos de lluvia. En muchas regiones fuera de su área nativa (Mediterráneo) es considerado una especie invasora debido a su voracidad y alta capacidad reproductiva."
+  ],
+
+  "observaciones": [
+    "Es una especie hermafrodita capaz de autofecundarse, aunque prefiere el intercambio de esperma con otro individuo.",
+    "Para sobrevivir a la sequía o el frío extremo, el caracol entra en **estivación** (verano) o **hibernación** (invierno), sellando la apertura de su concha con un 'epifragma' (una capa de moco endurecido).",
+    "Su moco ha sido estudiado por sus propiedades regenerativas y humectantes, lo que lo hace relevante en la industria cosmética."
+  ],
+
+  "longevidad": {
+    "enLibertad": "2-5 años",
+    "enCautividad": "Hasta 10 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Mollusca",
+    "clase": "Gastropoda",
+    "orden": "Stylommatophora",
+    "familia": "Helicidae",
+    "genero": "Cornu",
+    "especie": "C. aspersum"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable o en incremento",
+    "amenazasPrincipales": [
+      "Pérdida de hábitat en zonas urbanizadas",
+      "Depredación por aves (zorzales, mirlos), roedores y escarabajos",
+      "Uso de pesticidas y molusquicidas en la agricultura"
+    ],
+    "esfuerzosConservacion": [
+      "No requiere programas especiales de conservación.",
+      "Se monitorea en áreas agrícolas donde puede desplazar a especies nativas."
+    ],
+    "descripcionConservacion": [
+      "El caracol de jardín es una de las especies de gasterópodos más exitosas y cosmopolitas, lo que garantiza su estado de Preocupación Menor (LC).",
+      "Su principal interacción con la conservación es su gestión como plaga en zonas agrícolas y su potencial impacto como especie introducida en nuevos ecosistemas."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "2-15 g",
+      "hembraAdulta": "2-15 g",
+      "maximoRegistrado": "20 g"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "3-5 cm (cuerpo); Concha: 3-4 cm de diámetro",
+      "hembra": "3-5 cm (cuerpo); Concha: 3-4 cm de diámetro"
+    },
+    "colorPelaje": null,
+    "caracteristicasEspeciales": "Concha helicoidal, cuerpo blando cubierto de moco, rádula dentada.",
+    "morfologia": [
+      "La concha es globulosa, de color marrón con bandas oscuras y claras.",
+      "Dos pares de tentáculos retráctiles: los superiores llevan los ojos (con visión muy básica) y los inferiores son para el olfato y el tacto.",
+      "El pie musculoso se mueve mediante ondas de contracción lubricadas por moco."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Jardines, huertos, bosques húmedos, zonas urbanas y agrícolas",
+    "distribucionGeografica": [
+      "Nativo de Europa occidental y Mediterráneo; introducido en todos los continentes excepto Antártida."
+    ],
+    "adaptacionesHabitat": "Capacidad para retener humedad y producir un epifragma para sellar la concha durante la latencia.",
+    "descripcionHabitat": [
+      "Prefiere ambientes templados y húmedos, donde pueda encontrar refugio de la luz solar directa.",
+      "Suele buscar refugios bajo rocas, hojas y escombros durante el día, saliendo a alimentarse cuando la humedad es máxima."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro (Polífago)",
+    "presasComunes": [
+      "Hojas y tallos tiernos (especialmente brotes jóvenes)",
+      "Frutas y verduras en descomposición",
+      "Algún hongo o alga superficial"
+    ],
+    "estrategiaCaza": null,
+    "descripcionDieta": [
+      "Se alimenta raspando la superficie de las plantas con su **rádula**  (una lengua cubierta de miles de dientes microscópicos).",
+      "Es una plaga común porque prefiere la vegetación joven y tierna y puede consumir grandes cantidades en poco tiempo."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario",
+    "rolMacho": "Hermafrodita (comparte roles de macho y hembra)",
+    "rolHembra": "Hermafrodita (comparte roles de macho y hembra)",
+    "actividadDiaria": "Principalmente nocturno y crepuscular, altamente dependiente de la humedad ambiental.",
+    "comunicacion": [
+      "Secreciones químicas (feromonas) para la reproducción y el rastreo de senderos",
+      "Contacto táctil durante el cortejo, que puede incluir el intercambio de 'dardos de amor'"
+    ],
+    "descripcionComportamiento": [
+      "Su principal preocupación es evitar la desecación, por lo que el moco y la elección de horario son clave.",
+      "En el cortejo, a menudo se clavan un 'dardo de amor' (estructura calcárea) el uno al otro antes del intercambio de esperma."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo (Hermafrodita simultáneo)",
+    "madurezSexual": {
+      "macho": "6-12 meses",
+      "hembra": "6-12 meses"
+    },
+    "periodoGestacion": "2-4 semanas (incubación de huevos en la tierra)",
+    "tamanoCamada": "50-100 huevos por puesta (varias puestas por año)",
+    "cuidadoCrias": "Ausente; los huevos son enterrados y se desarrollan solos.",
+    "descripcionReproduccion": [
+      "Como hermafrodita, ambos caracoles actúan como macho y hembra. Intercambian esperma para una fecundación cruzada.",
+      "Tras la cópula, el caracol deposita los huevos blancos y esféricos en un agujero excavado en suelo húmedo y blando.",
+      "El éxito reproductivo está muy ligado a la temperatura y la humedad. Pueden hacer múltiples puestas si las condiciones son favorables."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Ayuda a reciclar materia orgánica y es un eslabón importante en la cadena trófica (alimento para aves, erizos, etc.).",
+    "Contribuye a la aireación y descomposición del suelo con sus movimientos y desechos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 1,
+    "inteligencia": 2,
+    "adaptabilidad": 7,
+    "fuerza": 1,
+    "velocidad": 1,
+    "tamano": 1,
+    "majestuosidad": 3,
+    "rareza": 2,
+    "supervivencia": 7,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Puede producir diferentes tipos de moco, uno delgado para el movimiento rápido y otro más denso para la protección.",
+    "Su concha crece de forma continua desde que nace, añadiendo capas de carbonato de calcio en el borde de la abertura.",
+    "Su moco le permite trepar superficies verticales, incluso vidrio, gracias a su adherencia y la lubricación del pie.",
+    "Sus 'ojos' en los tentáculos superiores solo perciben la intensidad de la luz, no formando imágenes detalladas."
+  ]
+}

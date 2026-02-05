@@ -1,0 +1,166 @@
+{
+  "id": "camello_bactriano",
+  "nombre": "Camello Bactriano",
+  "nombreCientifico": "Camelus bactrianus",
+  "fechaInformacion": "2025",
+
+  "imagen": "camello_bactriano.webp",
+
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El camello bactriano es un gran herbívoro asiático reconocido por sus dos jorobas y su increíble resistencia a condiciones extremas.",
+    "Es el mamífero mejor adaptado para sobrevivir en desiertos fríos, donde las temperaturas fluctúan drásticamente."
+  ],
+
+  "descripcionLarga": [
+    "El camello bactriano habita regiones áridas, montañosas y frías de Asia Central, incluyendo el desierto de Gobi. Sus dos jorobas almacenan grasa, una reserva vital de energía metabólica (no agua) para sobrevivir largos periodos sin alimento.",
+    "Posee un pelaje espeso que le protege del frío invernal (puede soportar hasta -30°C) y que muda por completo en verano para combatir el calor. Sus adaptaciones fisiológicas son únicas, permitiéndole perder hasta el 25% de su peso corporal por deshidratación sin morir, mucho más que la mayoría de los mamíferos.",
+    "Es una especie crucial, históricamente utilizada para transporte y carga en la Ruta de la Seda. Existen poblaciones salvajes muy pequeñas y en Peligro Crítico."
+  ],
+
+  "observaciones": [
+    "Tolera bien la falta de agua y puede beber hasta 100 litros en 10 minutos para rehidratarse rápidamente.",
+    "Es más robusto, lento y tolerante al frío que el camello dromedario (una sola joroba).",
+    "La subespecie salvaje (Camelus ferus) está al borde de la extinción y se distingue de los domesticados por su estructura ósea y su habilidad para beber agua salobre."
+  ],
+
+  "longevidad": {
+    "enLibertad": "30-40 años",
+    "enCautividad": "40-50 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Artiodactyla",
+    "familia": "Camelidae",
+    "genero": "Camelus",
+    "especie": "C. bactrianus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Domesticado (salvaje: En Peligro Crítico (CR))",
+    "tendenciaPoblacion": "Estable o en aumento (domesticado); Decreciente (salvaje)",
+    "amenazasPrincipales": [
+      "Caza furtiva y envenenamiento",
+      "Competencia directa con el ganado doméstico por pastos escasos y agua",
+      "Hibridación con camellos domésticos, contaminando el acervo genético salvaje",
+      "Minería y desarrollo industrial en su limitado hábitat"
+    ],
+    "esfuerzosConservacion": [
+      "Protección estricta en reservas naturales de Mongolia y China",
+      "Programas de cría en cautividad y monitoreo genético",
+      "Restricciones de pastoreo de ganado doméstico en zonas críticas"
+    ],
+    "descripcionConservacion": [
+      "La especie salvaje (Camelus ferus) es uno de los mamíferos más amenazados del planeta, con menos de 1000 individuos. Su supervivencia depende de la protección de su hábitat frente a la invasión humana y la minería.",
+      "La mayoría de los camellos bactrianos que se encuentran son domesticados y su población es numerosa y estable."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "450-500 kg",
+      "hembraAdulta": "350-450 kg",
+      "maximoRegistrado": "600 kg"
+    },
+    "alturaHombro": {
+      "macho": "180-210 cm",
+      "hembra": "170-200 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "250-345 cm",
+      "hembra": "240-330 cm"
+    },
+    "colorPelaje": "Lana gruesa de color beige, marrón o gris, más larga en invierno y durante la muda.",
+    "caracteristicasEspeciales": "Dos jorobas prominentes; pelaje doble y espeso; células sanguíneas ovaladas únicas que facilitan la hidratación.",
+    "morfologia": [
+      "Dos jorobas usadas como almacenamiento de grasa para energía y aislamiento.",
+      "Narinas estrechables, pestañas dobles largas y orejas peludas para protección contra la arena y el viento.",
+      "Pies grandes, planos con dos dedos y almohadillas gruesas para evitar hundirse en la arena o la nieve."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Desiertos fríos, estepas áridas, zonas montañosas",
+    "distribucionGeografica": [
+      "Asia Central (Desierto de Gobi en Mongolia y China)"
+    ],
+    "adaptacionesHabitat": "Tolerancia a temperaturas extremas (de -30ºC a 40ºC); capacidad de beber agua salobre; eficiencia metabólica del agua.",
+    "descripcionHabitat": [
+      "Habita zonas muy secas con grandes fluctuaciones climáticas estacionales.",
+      "Debe recorrer grandes distancias entre oasis y zonas de pasto escaso, siendo un animal clave en la ecología de los desiertos fríos."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro (Generalista y oportunista)",
+    "presasComunes": [
+      "Hierbas espinosas",
+      "Arbustos secos y leñosos",
+      "Plantas salinas (halófitas)"
+    ],
+    "estrategiaCaza": null,
+    "descripcionDieta": [
+      "Se alimenta de vegetación escasa, dura, espinosa o salina que la mayoría de los herbívoros no pueden consumir.",
+      "Puede masticar y tragar casi cualquier tipo de vegetación desértica. Las jorobas le permiten depender menos de la ingesta constante de alimentos."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Manadas pequeñas, lideradas por un macho dominante.",
+    "rolMacho": "Defensa agresiva del grupo, especialmente durante la época de celo.",
+    "rolHembra": "Cuidado prolongado y protección de las crías.",
+    "actividadDiaria": "Mayormente diurna, pasando la mayor parte del día buscando alimento.",
+    "comunicacion": [
+      "Vocalizaciones fuertes (incluidos gruñidos y rugidos de celo)",
+      "Posturas corporales y exhibiciones de fuerza",
+      "Orina y heces para marcar territorio"
+    ],
+    "descripcionComportamiento": [
+      "Son animales resistentes, con movimientos lentos y deliberateos. Los machos entran en un estado de celo muy agresivo conocido como 'musth'.",
+      "Su principal estrategia de supervivencia es la resistencia y la capacidad de soportar ambientes extremos."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "4-5 años",
+      "hembra": "3-4 años"
+    },
+    "periodoGestacion": "390-410 días",
+    "tamanoCamada": "1 cría",
+    "cuidadoCrias": "Lactancia prolongada (hasta 18 meses) y fuerte vínculo materno, con la cría permaneciendo en el grupo por varios años.",
+    "descripcionReproduccion": [
+      "El macho domina el grupo y lucha violentamente con otros machos por el derecho a aparearse.",
+      "El largo período de lactancia y el cuidado parental aseguran que la cría, vulnerable a las condiciones extremas, tenga altas tasas de supervivencia."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Clave en ecosistemas desérticos al dispersar semillas de plantas que de otro modo no se propagarían.",
+    "Sus hábitos alimenticios influyen en la estructura de la vegetación de la estepa."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 3,
+    "inteligencia": 5,
+    "adaptabilidad": 10,
+    "fuerza": 7,
+    "velocidad": 4,
+    "tamano": 7,
+    "majestuosidad": 6,
+    "rareza": 7,
+    "supervivencia": 10,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Sus jorobas están formadas exclusivamente por tejido graso; cuando las jorobas se encogen, indica que el camello está utilizando sus reservas de grasa.",
+    "Puede sobrevivir a variaciones de temperatura de hasta 70°C (desde -30°C hasta 40°C).",
+    "Puede cerrar completamente sus fosas nasales para protegerse de las tormentas de arena."
+  ]
+}

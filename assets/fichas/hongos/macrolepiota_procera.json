@@ -1,0 +1,43 @@
+{
+  "id": "macrolepiota_procera",
+  "nombre": "Parasol",
+  "nombreCientifico": "Macrolepiota procera",
+  "familia": "Agaricaceae",
+  "imagen": "macrolepiota_procera.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "La Macrolepiota procera es uno de los hongos basidiomicetos más esbeltos y de mayor envergadura del continente. Su porte se caracteriza por un sombrero de dimensiones excepcionales que, junto a su pie elongado, le permite sobresalir significativamente entre la vegetación herbácea de los ecosistemas donde habita.",
+
+  "caracteristicas": {
+    "sombrero": "10-30 cm de diámetro. Su ontogenia comienza con una forma globosa (maza de tambor) que se expande hasta quedar plana. Posee un mamelón central oscuro y una superficie densamente recubierta de escamas pardas dispuestas radialmente sobre un fondo crema.",
+    "laminas": "Blancas, muy anchas y apretadas. Son de inserción libre y se encuentran separadas del pie por una estructura circular denominada 'collarium'.",
+    "pie": "Muy largo (20-40 cm), cilíndrico y de consistencia hueca en la madurez. Presenta una base bulbosa y una ornamentación cortical 'atigrada' o en zigzag, formada por la ruptura de la capa externa marrón sobre el fondo blanquecino.",
+    "anillo": "Doble, grande y membranoso. Presenta una característica mecánica única: es un anillo móvil, capaz de desplazarse a lo largo del pie sin desprenderse de su estructura.",
+    "volva": "Ausente.",
+    "esporada": "Blanca.",
+    "usoCultural": "Especie emblemática de la micología de campo, utilizada frecuentemente en educación ambiental para ilustrar las estructuras del velo parcial y la diversidad morfológica de las Agaricáceas."
+  },
+
+  "habitat": {
+    "tipo": "Espacios abiertos, prados, claros de bosque, pastizales y márgenes de caminos forestales.",
+    "relacionEcologica": "Organismo saprófito; cumple una función degradadora de la materia orgánica acumulada en el mantillo de las praderas y zonas boscosas aclaradas.",
+    "distribucionGeografica": ["Cosmopolita; presente en la mayoría de las zonas templadas del mundo."],
+    "temporada": "Fructifica desde finales de verano hasta el final del otoño.",
+    "altitudRango": "Desde el nivel del mar hasta pastizales subalpinos."
+  },
+
+  "curiosidades": [
+    "La movilidad de su anillo es un carácter diagnóstico crítico que permite diferenciar biológicamente esta especie de otras lepiotas de menor tamaño y distinta toxicidad.",
+    "Su nombre popular 'apagador' hace referencia a la fase juvenil del hongo, cuya forma geométrica guarda similitud con los instrumentos utilizados históricamente para extinguir llamas.",
+    "Actúa como un indicador fenológico: su aparición masiva en los claros del bosque suele coincidir con el periodo de máxima actividad de fructificación del ecosistema fúngico local.",
+    "Es capaz de soportar fuertes vientos gracias a la flexibilidad y elasticidad de las fibras longitudinales de su pie."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 9,
+    "rareza": 3,
+    "simbolismo": 7,
+    "resistencia": 6,
+    "velocidadDeCrecimiento": 8,
+    "aura": 7
+  }
+}

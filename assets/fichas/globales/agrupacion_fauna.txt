@@ -1,0 +1,28 @@
+Nº	Filtro	Ejemplos representativos
+1	Anfibios	Ranas, sapos, salamandras
+2	Reptiles	Serpientes, lagartos, tortugas
+3	Pájaros	Gorriones, patos, palomas
+4	Rapaces	Águilas, halcones, búhos
+5	Aves no voladoras	Avestruz, pingüino, emú
+6	Insectos	Mariposas, escarabajos, abejas
+7	Arácnidos	Arañas, escorpiones
+8	Crustáceos	Cangrejos, langostas, camarones
+9	Moluscos	Caracoles, pulpos, calamares
+10	Equinodermos	Estrellas de mar, erizos de mar
+11	Esponjas	Esponjas marinas
+12	Gusanos	Lombrices, sanguijuelas, gusanos marinos
+13	Peces	Tiburones, salmones, caballitos de mar
+14	Cetáceos	Ballenas, delfines, orcas
+15	Felinos	Leones, tigres, linces
+16	Caninos	Lobos, zorros, coyotes
+17	Úrsidos	Osos
+18	Suidos	Jabalí, cerdo
+19	Équidos	Caballos, cebras, asnos
+20	Bóvidos	Búfalos, vacas, antílopes
+21	Cérvidos	Ciervos, renos
+22	Camélidos	Camellos, llamas
+23	Megaherbívoros	Elefantes, rinocerontes, hipopótamos, jirafas
+24	Cnidarios	Medusas, corales, anémonas de mar
+25 Murcielagos
+26 roedores
+27 Mangostas

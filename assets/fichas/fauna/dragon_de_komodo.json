@@ -1,0 +1,168 @@
+{
+  "id": "dragon_de_komodo",
+  "nombre": "Dragón de Komodo",
+  "nombreCientifico": "Varanus komodoensis",
+  "fechaInformacion": "2025",
+
+  "imagen": "dragon_de_komodo.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El dragón de Komodo (*Varanus komodoensis*) es el lagarto más grande y pesado del mundo, un depredador ápice endémico de las islas de la Sonda Menor en Indonesia.",
+    "Se trata de un cazador solitario y carroñero, conocido por su fuerza, su mordedura venenosa y la capacidad única de algunas hembras para reproducirse asexualmente."
+  ],
+
+  "descripcionLarga": [
+    "El dragón de Komodo es un varano de gran tamaño y fuerza excepcional, con un cuerpo robusto, musculoso y patas poderosas. Es capaz de cazar presas grandes, incluyendo ciervos de Timor y búfalos de agua, a menudo abatiéndolas mediante una emboscada y una mordedura venenosa. ",
+    "Posee un sentido del olfato altamente desarrollado facilitado por su larga lengua bífida, que utiliza para muestrear el aire y transferir información química al **órgano de Jacobson** en el paladar. Este mecanismo le permite detectar carroña o presas a varios kilómetros de distancia, incluso bajo el viento.",
+    "Su piel es gruesa y escamosa, reforzada con pequeños huesos llamados osteodermos, que forman una 'cota de malla' defensiva. Los dragones jóvenes exhiben un comportamiento arbóreo para evitar ser depredados por los adultos (canibalismo filial)."
+  ],
+
+  "observaciones": [
+    "Es estrictamente territorial y solitario. Las interacciones entre adultos son raras, excepto durante las comidas (donde se establece una estricta jerarquía de tamaño) o la reproducción.",
+    "Su mordedura es venenosa. Estudios confirman que las glándulas venenosas en la mandíbula inferior inyectan toxinas con propiedades anticoagulantes y que causan shock, debilitando a la presa rápidamente. Este veneno, junto con bacterias de su boca, ayuda a inmovilizar y matar a presas grandes.",
+    "Es una especie clave, protegida por el Parque Nacional de Komodo, declarado Patrimonio de la Humanidad por la UNESCO."
+  ],
+
+  "longevidad": {
+    "enLibertad": "30 años",
+    "enCautividad": "25-30 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Reptilia",
+    "orden": "Squamata",
+    "familia": "Varanidae",
+    "genero": "Varanus",
+    "especie": "V. komodoensis"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN)",
+    "tendenciaPoblacion": "Decreciente",
+    "amenazasPrincipales": [
+      "Pérdida y fragmentación del hábitat debido a la expansión humana y la actividad turística descontrolada.",
+      "Cambio climático: El aumento de la temperatura afecta la determinación del sexo de las crías (TSD), lo que podría desequilibrar las poblaciones.",
+      "Disminución de las poblaciones de sus presas naturales (ciervos y jabalíes) debido a la caza furtiva.",
+      "Caza furtiva y comercio ilegal."
+    ],
+    "esfuerzosConservacion": [
+      "Protección total en el Parque Nacional de Komodo y otras reservas (Flores, Rinca, Gili Motang y Padar).",
+      "Programas de monitoreo poblacional y esfuerzos para proteger las poblaciones de presas.",
+      "Educación ambiental y control estricto del turismo para minimizar la interferencia humana."
+    ],
+    "descripcionConservacion": [
+      "Debido a las poblaciones muy pequeñas y aisladas, la UICN elevó recientemente su estado de conservación a 'En Peligro' (EN). Esto subraya la urgencia de proteger su limitado hábitat y fuente de alimento.",
+      "El fenómeno de canibalismo filial es un factor natural que limita el crecimiento poblacional de los juveniles, haciendo que la recuperación de la especie sea lenta."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "70–90 kg",
+      "hembraAdulta": "50–70 kg",
+      "maximoRegistrado": "166 kg (en estado salvaje)"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "2.5–3 m (máx. 3.1 m)",
+      "hembra": "2–2.5 m"
+    },
+    "colorPelaje": null,
+    "caracteristicasEspeciales": "Piel blindada con osteodermos; Mordedura venenosa; Lengua bífida altamente sensorial; Dientes aserrados y curvados.",
+    "morfologia": [
+      "Cuerpo muscular y robusto con cola tan larga como el cuerpo, utilizada para equilibrio, natación y para derribar presas en la caza.",
+      "Cabeza ancha y fuerte con dientes aserrados y curvados hacia atrás, reemplazados continuamente (hasta 60 dientes).",
+      "La lengua bífida es el principal órgano sensorial para el rastreo, actuando como un 'gusto a distancia' químico."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Islas tropicales volcánicas, bosques secos, sabanas abiertas, matorrales y playas.",
+    "distribucionGeografica": [
+      "Endémico de las islas de Komodo, Rinca, Flores (zonas costeras), Gili Motang y Padar (Indonesia)."
+    ],
+    "adaptacionesHabitat": "Metabolismo bajo (reptil) y capacidad de excavar madrigueras profundas (hasta 9 m) para termorregulación y descanso, protegiéndose del calor excesivo.",
+    "descripcionHabitat": [
+      "Habitan principalmente áreas secas y abiertas, lo que facilita la caza por emboscada.",
+      "Son excelentes excavadores y buscan activamente lugares de asoleo para aumentar su temperatura corporal y su eficiencia metabólica."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Depredador de emboscada y carroñero)",
+    "presasComunes": [
+      "Ciervos de Timor (principal presa de ungulado)",
+      "Búfalos de agua (jóvenes o enfermos)",
+      "Jabalíes, cabras, monos, aves.",
+      "Otros dragones de Komodo jóvenes (canibalismo filial).",
+      "Carroña de cualquier tipo (detectada a grandes distancias)."
+    ],
+    "estrategiaCaza": "Acecho silencioso y emboscada. Mordedura venenosa para herir y debilitar a la presa. Rastreo de la presa herida, a veces durante días, hasta que sucumbe al veneno y la infección.",
+    "descripcionDieta": [
+      "Los adultos pueden consumir hasta el 80% de su peso corporal en una sola comida, almacenando grandes reservas de grasa.",
+      "Su dieta carroñera es facilitada por su excelente olfato químico, que les permite encontrar cadáveres a kilómetros de distancia."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario y territorial, especialmente los machos. La alimentación en grupo sigue una estricta jerarquía de tamaño: los más grandes comen primero.",
+    "rolMacho": "Dominante; lucha por el acceso a la alimentación y a las hembras durante la época de apareamiento.",
+    "rolHembra": "Construye y protege nidos. Puede realizar **partenogénesis** (reproducción asexual) en entornos donde los machos son escasos.",
+    "actividadDiaria": "Diurna; más activo entre la mañana y la tarde, utilizando la termorregulación solar (asoleo) para optimizar su metabolismo.",
+    "comunicacion": [
+      "Siseos agresivos, gruñidos guturales y lengüetazos rápidos para el rastreo químico.",
+      "Peleas rituales entre machos (lucha libre) por la dominancia y el acceso a las hembras."
+    ],
+    "descripcionComportamiento": [
+      "El Dragón de Komodo exhibe una alta inteligencia de rastreo. Las crías son arbóreas (para evitar ser devoradas) y ruedan en sus propias heces para oler mal y disuadir a los adultos.",
+      "Son capaces de excavar madrigueras con sus poderosas garras para el descanso y la puesta de huevos."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo (Capaz de Partenogénesis)",
+    "madurezSexual": {
+      "macho": "8–9 años",
+      "hembra": "8–9 años"
+    },
+    "periodoGestacion": "Incubación de los huevos: 7–8 meses (210-240 días).",
+    "tamanoCamada": "15–30 huevos (promedio 20).",
+    "cuidadoCrias": "Ningún cuidado parental post-eclosión. Las crías se dispersan inmediatamente y se vuelven arbóreas para sobrevivir al canibalismo.",
+    "descripcionReproduccion": [
+      "La hembra excava nidos o utiliza nidos abandonados. La eclosión es altamente sincronizada.",
+      "La **partenogénesis** es una forma de reproducción asexual en la que las hembras producen descendencia viable (solo machos), asegurando la supervivencia de la especie en entornos aislados o sin machos. ",
+      "Los huevos tienen cáscara blanda, similar a la de un cuero, para permitir el intercambio de gases y agua durante la larga incubación."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Como el depredador ápice insular, mantiene la salud y el equilibrio de las poblaciones de ungulados en su hábitat endémico, eliminando animales enfermos o débiles.",
+    "Su comportamiento carroñero ayuda a la limpieza y el reciclaje de nutrientes en el ecosistema insular."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 8,
+    "inteligencia": 6,
+    "adaptabilidad": 7,
+    "fuerza": 9,
+    "velocidad": 6,
+    "tamano": 10,
+    "majestuosidad": 9,
+    "rareza": 9,
+    "supervivencia": 7,
+    "impactoEcologico": 10
+  },
+
+  "curiosidades": [
+    "El Dragón de Komodo puede llegar a pesar 166 kg, lo que lo convierte en el lagarto más pesado del mundo.",
+    "Posee la capacidad única entre los reptiles de reproducirse por **partenogénesis** (reproducción asexual) en ausencia de machos, siendo crucial para la colonización de nuevas islas.",
+    "Los jóvenes pasan sus primeros años en los árboles para escapar del canibalismo de los adultos, un ejemplo de canibalismo filial.",
+    "Puede detectar una carroña a más de 4-10 km de distancia, dependiendo de la dirección del viento, gracias a su lengua bífida."
+  ]
+}

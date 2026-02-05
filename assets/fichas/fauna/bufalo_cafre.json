@@ -1,0 +1,163 @@
+{
+  "id": "bufalo_cafre",
+  "nombre": "Búfalo Cafre",
+  "nombreCientifico": "Syncerus caffer",
+  "fechaInformacion": "2025",
+
+  "imagen": "bufalo_cafre.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El búfalo cafre es un bovino salvaje de gran tamaño que habita las sabanas y matorrales del África subsahariana.",
+    "Forma parte del llamado “Big Five” de África debido a su peligrosidad, temperamento y potencia física."
+  ],
+
+  "descripcionLarga": [
+    "El búfalo cafre es un mamífero robusto con cabeza maciza, cuello musculoso y cuernos gruesos que en los machos se unen en la base formando un escudo óseo (conocido como 'boss').",
+    "Habita sabanas, pastizales con hierba alta y zonas cercanas a agua, ya que necesita beber frecuentemente. Es un herbívoro que se alimenta de pastos y hierbas, y en grupos numerosos forma manadas que ofrecen defensa colectiva frente a depredadores."
+  ],
+
+  "observaciones": [
+    "Puede ser extremadamente peligroso si está herido o acorralado; es conocido por atacar a humanos y leones.",
+    "Su dependencia del agua lo hace vulnerable a sequías y cambios en los recursos hídricos.",
+    "Las manadas de la subespecie de sabana son algunas de las más grandes entre los bóvidos."
+  ],
+
+  "longevidad": {
+    "enLibertad": "15-25 años",
+    "enCautividad": "Hasta 30 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Artiodactyla",
+    "familia": "Bovidae",
+    "genero": "Syncerus",
+    "especie": "caffer"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Variable; estable en áreas protegidas, en descenso fuera de ellas.",
+    "amenazasPrincipales": [
+      "Caza furtiva (carne, trofeos)",
+      "Pérdida de hábitat y acceso a recursos hídricos",
+      "Enfermedades transmitidas por ganado doméstico (ej. Tuberculosis bovina)"
+    ],
+    "esfuerzosConservacion": [
+      "Protección estricta en grandes parques y reservas nacionales",
+      "Control antipoaching",
+      "Programas de manejo de vida silvestre y salud animal"
+    ],
+    "descripcionConservacion": [
+      "Aunque clasificado como Preocupación Menor, algunas subpoblaciones específicas han sufrido grandes pérdidas.",
+      "Su gestión de conservación es un ejemplo de éxito en grandes áreas protegidas africanas."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "500-910 kg",
+      "hembraAdulta": "400-600 kg",
+      "maximoRegistrado": "910 kg"
+    },
+    "alturaHombro": {
+      "macho": "1.4-1.7 m",
+      "hembra": "1.3-1.5 m"
+    },
+    "longitudCuerpoCola": {
+      "macho": "2.1-3.4 m",
+      "hembra": "2.0-3.0 m"
+    },
+    "colorPelaje": "Marrón oscuro a negro, con pelo corto y grueso.",
+    "caracteristicasEspeciales": "Cuernos fusionados en la frente (boss) en machos adultos; forma parte del 'Big Five'.",
+    "morfologia": [
+      "Cuerpo pesado y musculoso, patas robustas con pezuñas anchas.",
+      "Cuernos gruesos con base fusionada (boss), que usa para la defensa y la lucha intrasexual.",
+      "Cuello corto y fuerte, ideal para embestir."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Sabanas, pastizales, matorrales, zonas ribereñas",
+    "distribucionGeografica": [
+      "África subsahariana: Sur, Este y Centro de África"
+    ],
+    "adaptacionesHabitat": "Necesita disponibilidad de agua diaria; su constitución robusta le permite sobrevivir en pastizales con hierba alta y terrenos abiertos.",
+    "descripcionHabitat": [
+      "Prefiere zonas con pastos altos, cobertura dispersa y fuentes de agua accesibles y permanentes.",
+      "Las manadas se desplazan siguiendo los recursos hídricos y pastos frescos."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro (Pastador)",
+    "presasComunes": [
+      "Pastos largos y ásperos",
+      "Hierbas",
+      "Vegetación herbácea"
+    ],
+    "estrategiaCaza": null,
+    "descripcionDieta": [
+      "Es un pastador no selectivo que consume hierbas largas y ásperas, lo que ayuda a despejar la vegetación y facilita la alimentación de herbívoros más selectivos.",
+      "Necesita grandes cantidades de pasto diario debido a su tamaño."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Manadas numerosas y cohesionadas (cientos o miles en sabana).",
+    "rolMacho": "Protección de los márgenes del grupo; los machos viejos a veces son solitarios ('Dagga Boys').",
+    "rolHembra": "Las hembras y sus crías forman el núcleo protegido de la manada.",
+    "actividadDiaria": "Principalmente diurna, con picos de actividad al amanecer y atardecer para pastar.",
+    "comunicacion": [
+      "Gruñidos, mugidos y bufidos",
+      "Marcas olfativas",
+      "Posturas corporales y exhibiciones de cuernos"
+    ],
+    "descripcionComportamiento": [
+      "La defensa colectiva es su principal arma contra depredadores como leones, a los que a menudo hacen retroceder.",
+      "Demuestran una notable cooperación en la defensa de los miembros heridos o acorralados."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "5-6 años",
+      "hembra": "4-5 años"
+    },
+    "periodoGestacion": "300-330 días",
+    "tamanoCamada": "1 cría (raramente 2)",
+    "cuidadoCrias": "Cuidado parental extenso por la madre, con protección de grupo ante depredadores.",
+    "descripcionReproduccion": [
+      "El pico de nacimientos suele coincidir con la temporada de lluvias para asegurar abundante pasto.",
+      "Las crías se integran rápidamente a la manada, beneficiándose de la seguridad y el apoyo grupal."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Herbívoro clave ('ingeniero de ecosistemas') que mantiene las praderas abiertas y evita la invasión de matorrales.",
+    "Su papel en la dieta de grandes depredadores (especialmente el león) es fundamental para la cadena alimentaria de la sabana."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 8,
+    "inteligencia": 4,
+    "adaptabilidad": 7,
+    "fuerza": 9,
+    "velocidad": 6,
+    "tamano": 9,
+    "majestuosidad": 7,
+    "rareza": 5,
+    "supervivencia": 6,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Es considerado el animal más peligroso de África en términos de encuentros con humanos.",
+    "La subespecie de bosque (Syncerus caffer nanus) es mucho más pequeña y de color rojizo.",
+    "Los machos viejos y solitarios se llaman 'Dagga Boys', por el barro que cubre sus cuerpos al revolcarse en el lodo (Dagga es barro en zulú)."
+  ]
+}

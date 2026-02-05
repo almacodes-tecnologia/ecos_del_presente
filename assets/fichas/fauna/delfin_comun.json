@@ -1,0 +1,170 @@
+{
+  "id": "delfin_comun",
+  "nombre": "Delfín Común de Pico Corto",
+  "nombreCientifico": "Delphinus delphis",
+  "fechaInformacion": "2025",
+
+  "imagen": "delfin_comun.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El delfín común de pico corto (*Delphinus delphis*) es uno de los cetáceos odontocetos (delfines con dientes) más abundantes y socialmente complejos del planeta.",
+    "Es reconocido por su agilidad, su patrón de coloración distintivo en forma de reloj de arena y sus complejas interacciones sociales en grandes manadas."
+  ],
+
+  "descripcionLarga": [
+    "Este delfín habita mares templados y tropicales de todo el mundo. Su cuerpo es altamente hidrodinámico, lo que le permite alcanzar altas velocidades (hasta 40-50 km/h) y realizar saltos acrobáticos (breaching) que facilitan la comunicación y la eliminación de parásitos.",
+    "Forma grandes agregaciones sociales llamadas **supermanadas** (de cientos a miles de individuos) altamente cooperativas. Utiliza la **ecolocalización** (chasquidos de alta frecuencia) para navegar, identificar obstáculos y localizar a sus presas en aguas profundas o turbias.",
+    "Su patrón lateral de coloración, que se asemeja a un reloj de arena de tonos amarillentos y grises, es una característica de identificación crucial."
+  ],
+
+  "observaciones": [
+    "A menudo viajan en grupos mixtos con otras especies de delfines, e incluso con grandes ballenas, probablemente para aumentar la protección contra depredadores como las orcas y los grandes tiburones.",
+    "Son conocidos por el comportamiento de 'cabalgar la proa' (bow-riding) de barcos y embarcaciones, aprovechando las olas de presión.",
+    "La contaminación acústica submarina generada por barcos y sonares afecta seriamente su capacidad de ecolocalización, esencial para su supervivencia."
+  ],
+
+  "longevidad": {
+    "enLibertad": "25-35 años",
+    "enCautividad": "Hasta 40 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Artiodactyla (suborden Cetacea)",
+    "familia": "Delphinidae (Delfines oceánicos)",
+    "genero": "Delphinus",
+    "especie": "D. delphis"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Desconocida (aunque localmente decreciente en el Mediterráneo y algunas zonas del Atlántico)",
+    "amenazasPrincipales": [
+      "Capturas accidentales (bycatch) en redes de arrastre y enmalle, que representan la mayor amenaza.",
+      "Contaminación química (DDTs, PCBs) que se acumula en sus tejidos grasos, afectando su reproducción e inmunidad.",
+      "Ruido submarino (sonares y tráfico marítimo) que interfiere con su comunicación y ecolocalización."
+    ],
+    "esfuerzosConservacion": [
+      "Regulación de capturas y desarrollo de métodos de pesca que excluyan a los cetáceos (ej. pingers acústicos).",
+      "Planes marinos protegidos y santuarios oceánicos.",
+      "Investigación y reducción de la contaminación acústica y química."
+    ],
+    "descripcionConservacion": [
+      "A pesar de ser una especie globalmente abundante, las poblaciones locales en muchas regiones están bajo presión severa debido a las actividades pesqueras y la contaminación. El Mediterráneo occidental y el Mar Negro son ejemplos de regiones con poblaciones en declive.",
+      "Su estado de conservación es complejo debido a que existen varias subespecies y poblaciones geográficas distintas que se evalúan por separado."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "80-150 kg",
+      "hembraAdulta": "70-120 kg",
+      "maximoRegistrado": "≈235 kg"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "2-2.7 m",
+      "hembra": "1.9-2.4 m"
+    },
+    "colorPelaje": "Gris oscuro a negro en el dorso, blanco cremoso en el vientre. Lados con un patrón distintivo de franjas amarillentas y grises en forma de reloj de arena.",
+    "caracteristicasEspeciales": "Órgano del melón para la ecolocalización; Patrón de coloración de reloj de arena; Alta velocidad y acrobacias; Más de 100 dientes cónicos.",
+    "morfologia": [
+      "Cuerpo esbelto y altamente hidrodinámico, adaptado a la velocidad sostenida.",
+      "Aleta dorsal alta, triangular y falcada (curvada).",
+      "Hocico alargado y delgado (rostrum) conocido como 'pico', con hasta 100-110 dientes cónicos en cada mandíbula, ideal para atrapar peces pequeños.",
+      "Órgano del **melón** en la frente, una masa de grasa y aceite esencial para la generación y enfoque de los chasquidos de ecolocalización."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Océanos templados y tropicales; zonas costeras, mares interiores y aguas pelágicas.",
+    "distribucionGeografica": [
+      "Océano Atlántico (incluido el Mediterráneo y el Mar Negro)",
+      "Océano Pacífico (incluida la costa de California y Japón)",
+      "Océano Índico"
+    ],
+    "adaptacionesHabitat": "Ecolocalización avanzada para navegar y cazar en la columna de agua. Capacidad para bucear profundamente (más de 200m) y resistir la presión.",
+    "descripcionHabitat": [
+      "Suele habitar aguas pelágicas (alta mar), sobre la plataforma continental o en cañones submarinos. También se encuentra en estuarios y cerca de la costa.",
+      "Prefiere áreas de surgencia (upwelling) y frentes oceánicos ricas en peces forrajeros y calamares."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Piscívoro/Comedor de calamares)",
+    "presasComunes": [
+      "Peces pequeños de cardumen (ej. sardinas, anchoas, caballas)",
+      "Calamares y cefalópodos",
+      "Crustáceos (raramente)"
+    ],
+    "estrategiaCaza": "Caza cooperativa y coordinada en grupo. Utilizan el 'arreo' (herding) para concentrar a los bancos de peces en una 'bola de cebo' antes de atacar con rápidos movimientos y mordidas.",
+    "descripcionDieta": [
+      "Su dieta es variada y depende de la disponibilidad local. Pueden cazar de noche, basándose casi por completo en su ecolocalización y visión adaptada a la oscuridad.",
+      "Son depredadores oportunistas y eficientes, capaces de sumergirse más de 200 metros en busca de alimento en la zona mesopelágica."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Manadas de 10 a más de 200 individuos, que pueden unirse temporalmente en **supermanadas** de miles.",
+    "rolMacho": "Participan en la defensa, la caza, y en coaliciones para el cortejo y la competencia por las hembras.",
+    "rolHembra": "Cuida y enseña a las crías; forma fuertes lazos maternos y alianzas dentro de la manada.",
+    "actividadDiaria": "Activo tanto de día como de noche. Alternan periodos de caza y alimentación con descanso, socialización y viajes rápidos.",
+    "comunicacion": [
+      "Chasquidos de alta frecuencia (para ecolocalización).",
+      "Silbidos distintivos (para comunicación social; cada uno es un 'silbido firma').",
+      "Sonidos pulsados (rallas, chillidos) durante la excitación o la caza.",
+      "Comportamiento acrobático como el breaching y el lobtailing (golpear la cola)."
+    ],
+    "descripcionComportamiento": [
+      "Es conocido por ser muy sociable y altamente acrobático. Su inteligencia permite el aprendizaje social, la transmisión cultural y la resolución de problemas complejos.",
+      "El fenómeno del 'silbido firma' individual funciona como una etiqueta acústica o nombre para el reconocimiento entre individuos."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario (Nacimiento en Agua)",
+    "madurezSexual": {
+      "macho": "8-13 años",
+      "hembra": "5-12 años"
+    },
+    "periodoGestacion": "10-12 meses",
+    "tamanoCamada": "1 cría",
+    "cuidadoCrias": "La madre amamanta al delfín durante 1.5 a 2 años con leche rica en grasa. El vínculo puede durar varios años más, con un alto grado de inversión parental.",
+    "descripcionReproduccion": [
+      "Las crías nacen bajo el agua, de cola primero. A menudo hay apoyo de otro miembro de la manada (comportamiento de 'tía' o asistente).",
+      "La madre debe nadar rápidamente para llevar a la cría a la superficie para su primera respiración, un momento de alta vulnerabilidad.",
+      "El bajo índice de natalidad y la alta inversión parental reflejan su complejidad social y longevidad, y hacen que las poblaciones sean lentas para recuperarse de los declives."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Como depredador de nivel medio, controla poblaciones de peces y calamares.",
+    "Actúa como un bioindicador fiable de la salud del ecosistema oceánico y de la contaminación en la columna de agua."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 3,
+    "inteligencia": 10,
+    "adaptabilidad": 8,
+    "fuerza": 4,
+    "velocidad": 7,
+    "tamano": 4,
+    "majestuosidad": 8,
+    "rareza": 4,
+    "supervivencia": 6,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "Cada delfín tiene un 'silbido firma' único, el cual es aprendido y utilizado por otros miembros para llamarlo individualmente, similar a un nombre.",
+    "Son capaces de alcanzar y mantener velocidades de hasta 40-50 km/h, superando a la mayoría de las embarcaciones pequeñas, especialmente cuando 'cabalgan la proa'.",
+    "El órgano del melón, una masa de grasa en la frente, enfoca los chasquidos de ecolocalización como un sonar natural de alta precisión.",
+    "El delfín común es conocido por formar las manadas más grandes y densas de cualquier cetáceo."
+  ]
+}

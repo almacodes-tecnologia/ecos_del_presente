@@ -1,0 +1,43 @@
+{
+  "id": "amanita_rubescens",
+  "nombre": "Amanita vinosa",
+  "nombreCientifico": "Amanita rubescens",
+  "familia": "Amanitaceae",
+  "imagen": "amanita_rubescens.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "La Amanita rubescens es un hongo basidiomiceto caracterizado por su capacidad de rubescencia; su tejido experimenta una oxidación cromática hacia tonos rojos vinosos al contacto con el oxígeno tras una fractura o roce. Esta peculiaridad bioquímica es un rasgo distintivo dentro de su género.",
+
+  "caracteristicas": {
+    "sombrero": "5-15 cm de diámetro. Presenta una coloración pardo-rojiza o rosada. La cutícula está ornamentada con numerosas verrugas granulosas de color grisáceo o rosado, que representan los restos del velo universal tras la expansión del cuerpo fructífero.",
+    "laminas": "Blancas, densas y libres. Una característica diagnóstica es la aparición de máculas de color vinoso en las aristas o superficies dañadas por el paso del tiempo o la manipulación.",
+    "pie": "Cilíndrico y de constitución robusta. Presenta una transición de color del blanco al rosado-vinoso, especialmente marcada en la base bulbosa. Su interior suele presentar cámaras o galerías causadas por microfauna forestal.",
+    "anillo": "Presente, situado en la parte superior. Es amplio, membranoso y persistente, caracterizándose por poseer estrías longitudinales muy nítidas en su cara superior.",
+    "volva": "No envolvente; se manifiesta como un engrosamiento bulboso y napiforme en la base, frecuentemente fragmentado en escamas harinosas de tonos rojizos.",
+    "esporada": "Blanca.",
+    "usoCultural": "Especie de alto interés micológico debido a su presencia de hemolisinas termoestables en estado natural, lo que la convierte en un objeto de estudio recurrente en la bioquímica de los metabolitos fúngicos."
+  },
+
+  "habitat": {
+    "tipo": "Ecosistemas forestales diversos, incluyendo formaciones de frondosas (Quercus, Fagus) y bosques de coníferas (Pinus, Abies).",
+    "relacionEcologica": "Micorrícico generalista; establece simbiosis con una gran diversidad de especies arbóreas, mostrando una notable adaptabilidad a diferentes condiciones edáficas.",
+    "distribucionGeografica": ["Ampliamente distribuida por las regiones templadas de Europa y América del Norte."],
+    "temporada": "Desde el inicio del periodo estival hasta finales del otoño.",
+    "altitudRango": "Desde el nivel del mar hasta áreas de alta montaña."
+  },
+
+  "curiosidades": [
+    "El fenómeno de rubescencia es un carácter taxonómico clave: la ausencia de viraje hacia el color vinoso al herir el tejido (especialmente en la base del bulbo) excluye la pertenencia a esta especie.",
+    "Las galerías producidas por larvas de insectos actúan como indicadores biológicos precoces del color vinoso, al acelerar la oxidación interna del hongo.",
+    "Su nombre específico, 'rubescens', alude directamente a este proceso de enrojecimiento gradual que experimenta ante cualquier agresión mecánica.",
+    "A diferencia de otras Amanitas, su anillo estriado es una de las estructuras más fiables para su identificación morfológica en el campo."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 6,
+    "rareza": 3,
+    "simbolismo": 6,
+    "resistencia": 7,
+    "velocidadDeCrecimiento": 8,
+    "aura": 7
+  }
+}

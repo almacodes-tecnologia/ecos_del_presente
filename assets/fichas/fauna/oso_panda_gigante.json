@@ -1,0 +1,162 @@
+{
+  "id": "oso_panda_gigante",
+  "nombre": "Oso Panda Gigante",
+  "nombreCientifico": "Ailuropoda melanoleuca",
+  "fechaInformacion": "2025",
+
+  "imagen": "oso_panda_gigante.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El oso panda gigante (*Ailuropoda melanoleuca*) es un mamífero emblemático nativo de China, famoso mundialmente por su distintivo pelaje blanco y negro y su dieta altamente especializada basada en bambú.",
+    "A pesar de pertenecer al orden Carnivora, es funcionalmente un herbívoro, y su supervivencia está intrínsecamente ligada a la salud de los bosques de bambú."
+  ],
+
+  "descripcionLarga": [
+    "El oso panda gigante habita en las remotas cadenas montañosas del centro de China (provincias de Sichuan, Shaanxi y Gansu). Su pelaje denso y lanoso tiene un patrón único: cuerpo blanco, orejas y manchas alrededor de los ojos negras, y extremidades negras. Se cree que este patrón puede ayudar en el camuflaje en bosques nevados y densos.",
+    "Su dieta es casi el 99% bambú. Para sostener y pelar los tallos de bambú, ha desarrollado un hueso de la muñeca agrandado que funciona como un **'pulgar falso'** (sesamoide radial), una adaptación evolutiva clave para su especialización dietética.",
+    "Son animales robustos, con una gran cabeza y una potente mandíbula adaptada para triturar los tallos duros y fibrosos del bambú. Pasan hasta 14 horas al día alimentándose para obtener la energía necesaria."
+  ],
+
+  "observaciones": [
+    "Es un símbolo de la conservación global, representando la fragilidad de las especies en peligro y el éxito de los esfuerzos de protección intensiva.",
+    "Su éxito reproductivo en cautividad y su posterior reintroducción han sido cruciales para el cambio de su estado de 'En Peligro' a 'Vulnerable'.",
+    "Los pandas se encuentran en un grupo único de carnívoros que han desarrollado la capacidad de saborear los sabores umami, lo cual es inusual para un herbívoro."
+  ],
+
+  "longevidad": {
+    "enLibertad": "18-20 años",
+    "enCautividad": "25-30 años (el registro actual es de 38 años)"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Carnivora",
+    "familia": "Ursidae",
+    "genero": "Ailuropoda",
+    "especie": "A. melanoleuca"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Vulnerable (VU)",
+    "tendenciaPoblacion": "En aumento, gracias a los esfuerzos de conservación.",
+    "amenazasPrincipales": [
+      "Fragmentación de hábitat debido a la infraestructura humana, lo que aísla las poblaciones.",
+      "Pérdida de hábitat (deforestación y conversión de bosques en tierras agrícolas).",
+      "Cambios climáticos que afectan el crecimiento y la floración sincrónica de las especies de bambú."
+    ],
+    "esfuerzosConservacion": [
+      "Establecimiento y expansión de reservas naturales (más de 67 en China).",
+      "Programas de cría en cautividad y liberación de ejemplares para aumentar la población salvaje.",
+      "Creación de corredores de bambú para conectar poblaciones fragmentadas."
+    ],
+    "descripcionConservacion": [
+      "Gracias a décadas de protección, la población salvaje ha superado los 1.800 individuos, lo que llevó a su reclasificación a 'Vulnerable' en 2016. Esto es un hito importante, aunque la especie sigue dependiendo de la intervención humana para su supervivencia a largo plazo."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "85-125 kg",
+      "hembraAdulta": "70-100 kg",
+      "maximoRegistrado": "160 kg"
+    },
+    "alturaHombro": {
+      "macho": "60-90 cm",
+      "hembra": "60-80 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "1.2-1.9 m (del hocico a la base de la cola)",
+      "hembra": "1.2-1.8 m"
+    },
+    "colorPelaje": "Blanco y negro (patrón criptico de camuflaje en bosques de bambú).",
+    "caracteristicasEspeciales": "Pulgar falso (sexto dedo) para manipular bambú; Pelaje distintivo; Dieta herbívora única entre los osos.",
+    "morfologia": [
+      "Cuerpo robusto y redondeado, característico de los osos.",
+      "Patas fuertes y garras adaptadas para trepar y sostener el bambú.",
+      "Cabeza grande y hocico ancho con fuertes músculos de masticación.",
+      "Posee el **pulgar falso** (hueso sesamoide radial)  que le permite agarrar los tallos con destreza."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques templados de bambú en montaña (entre 1,200 y 3,500 metros sobre el nivel del mar).",
+    "distribucionGeografica": [
+      "China central: En las montañas de Sichuan, Shaanxi y Gansu (principalmente en la Reserva Natural de Wolong)."
+    ],
+    "adaptacionesHabitat": "Especialización en la alimentación de bambú; Pelaje grueso que les protege del frío de la montaña; Capacidad de trepar árboles.",
+    "descripcionHabitat": [
+      "Habita en bosques templados y húmedos con densos y vastos rodales de bambú, su principal fuente de alimento.",
+      "Necesita corredores de hábitat para moverse entre los distintos rodales de bambú, especialmente cuando las especies de bambú locales florecen y mueren."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro especializado (Carnívoro funcionalmente herbívoro)",
+    "presasComunes": [
+      "Bambú (más de 25 especies diferentes), constituyendo el 99% de su dieta.",
+      "Frutas, tubérculos y pequeños animales (pikas, roedores) ocasionalmente o si el bambú es escaso."
+    ],
+    "estrategiaCaza": "N/A (Forrajeo pasivo)",
+    "descripcionDieta": [
+      "Pasa la mayor parte del día (10-14 horas) comiendo debido al bajo valor nutritivo del bambú, del cual debe consumir entre 12 y 38 kg diariamente.",
+      "Su sistema digestivo sigue siendo el de un carnívoro, por lo que su eficiencia en la digestión del bambú es baja, lo que requiere un consumo masivo y constante."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario (excepto durante la época de cría o el cuidado materno).",
+    "rolMacho": "Defensa territorial y búsqueda de hembras receptivas durante la corta ventana de celo.",
+    "rolHembra": "Cuidado intenso de la cría (la cría permanece con la madre por más de un año).",
+    "actividadDiaria": "Diurna y crepuscular, principalmente forrajeando y descansando.",
+    "comunicacion": [
+      "Vocalizaciones suaves (balidos, chirridos y gruñidos) para el contacto cercano y el cortejo.",
+      "Señales de olor (glándulas anales y orina) para marcar territorio y señalar disposición reproductiva."
+    ],
+    "descripcionComportamiento": [
+      "Son generalmente pacíficos y evitan el conflicto. La interacción se limita al breve periodo de apareamiento.",
+      "Debido a su dieta baja en calorías, los pandas se mueven lentamente y conservan energía."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "4-5 años",
+      "hembra": "4-5 años"
+    },
+    "periodoGestacion": "95-160 días (con la posibilidad de implantación diferida).",
+    "tamanoCamada": "1-2 crías (si nacen dos, la madre generalmente abandona una).",
+    "cuidadoCrias": "La madre cuida intensamente a la cría. Los cachorros nacen minúsculos (unos 100 gramos) y ciegos, permaneciendo con la madre hasta 1.5 a 3 años.",
+    "descripcionReproduccion": [
+      "Las hembras son receptivas solo durante 2-3 días al año, lo que dificulta la reproducción, especialmente en cautividad.",
+      "La gestación varía en duración debido a la implantación diferida, donde el óvulo fecundado no se adhiere al útero inmediatamente."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Especie clave de los bosques de bambú, su forrajeo ayuda a la regeneración del bambú y a mantener la salud de su ecosistema.",
+    "Su conservación protege indirectamente las grandes extensiones de hábitats montañosos y numerosas especies que coexisten allí."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 3,
+    "inteligencia": 6,
+    "adaptabilidad": 5,
+    "fuerza": 7,
+    "velocidad": 4,
+    "tamano": 6,
+    "majestuosidad": 8,
+    "rareza": 8,
+    "supervivencia": 6,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "El oso panda tiene un hueso de la muñeca agrandado que funciona como un 'pulgar falso', esencial para manipular el bambú.",
+    "El cachorro de panda es uno de los recién nacidos más pequeños en relación con el tamaño de su madre (aproximadamente 1:900, comparable a un kiwi respecto a una sandía).",
+    "Su clasificación taxonómica fue históricamente controvertida, debatiéndose si era un oso (Ursidae) o un pariente del mapache (Procyonidae), pero los estudios genéticos confirmaron que es un oso."
+  ]
+}

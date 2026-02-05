@@ -1,0 +1,165 @@
+{
+  "id": "gavilan_comun",
+  "nombre": "Gavilán Común",
+  "nombreCientifico": "Accipiter nisus",
+  "fechaInformacion": "2025",
+
+  "imagen": "gavilan_comun.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El gavilán común es un ave rapaz de tamaño pequeño a mediano, especializada en la caza de aves, y es reconocida por su extraordinaria agilidad y velocidad en vuelos de persecución entre la vegetación densa.",
+    "Habita en bosques, parques y zonas arbustivas de Europa, Asia y el norte de África."
+  ],
+
+  "descripcionLarga": [
+    "El gavilán común es un depredador ágil con una morfología perfectamente adaptada a la caza en entornos boscosos: alas cortas y redondeadas para la propulsión rápida y una cola larga para la dirección y el frenado. ",
+    "Presenta un **dimorfismo sexual inverso** muy marcado, siendo las hembras significativamente mayores y más pesadas que los machos. Esto permite que la pareja cace diferentes tamaños de presas, reduciendo la competencia alimentaria.",
+    "Su vuelo es una combinación de aleteos rápidos y planeos cortos, utilizando la sorpresa y la maniobrabilidad para capturar aves directamente en vuelo o posadas."
+  ],
+
+  "observaciones": [
+    "El gavilán es un ave migratoria parcial o completa, dependiendo de su ubicación geográfica; las poblaciones del norte migran al sur durante el invierno.",
+    "A menudo es confundido con el Azor (*Accipiter gentilis*), pero el Gavilán Común es notablemente más pequeño y posee una cabeza más pequeña y redondeada en proporción.",
+    "Su población sufrió un declive significativo en el siglo XX debido al uso de pesticidas organoclorados (como el DDT), pero se ha recuperado notablemente tras la prohibición de estas sustancias."
+  ],
+
+  "longevidad": {
+    "enLibertad": "5-7 años",
+    "enCautividad": "Hasta 15 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Accipitriformes",
+    "familia": "Accipitridae",
+    "genero": "Accipiter",
+    "especie": "A. nisus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable o en ligera recuperación en muchas zonas.",
+    "amenazasPrincipales": [
+      "Pérdida de hábitat y fragmentación forestal.",
+      "Riesgos de envenenamiento secundario (por consumir presas afectadas por rodenticidas).",
+      "Colisiones con estructuras humanas (ventanas y cercas)."
+    ],
+    "esfuerzosConservacion": [
+      "Protección de hábitats forestales y corredores verdes en áreas semiurbanas.",
+      "Monitoreo de poblaciones y estudios de toxicidad ambiental.",
+      "Legislación estricta sobre el uso de químicos agrícolas."
+    ],
+    "descripcionConservacion": [
+      "Tras una recuperación exitosa del impacto de los pesticidas, el gavilán mantiene poblaciones estables, pero requiere vigilancia continua debido a la presión urbana y la caza ilegal ocasional.",
+      "Su adaptación a zonas urbanas con jardines grandes y parques es crucial para su supervivencia en paisajes modificados."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "120-200 g",
+      "hembraAdulta": "200-340 g",
+      "maximoRegistrado": "340 g"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "28-35 cm",
+      "hembra": "35-45 cm"
+    },
+    "colorPelaje": "Dorso gris azulado (machos) o pardo grisáceo (hembras). Partes ventrales blancas con finas barras rojizas-anaranjadas (macho) o pardo-grisáceas (hembra).",
+    "caracteristicasEspeciales": "Marcado dimorfismo sexual inverso (la hembra es mucho más grande); Alas cortas y redondeadas para la maniobrabilidad; Ojos amarillos/anaranjados; Cola larga de timón.",
+    "morfologia": [
+      "Cuerpo compacto con alas cortas y redondeadas (lo que minimiza el riesgo de colisión al maniobrar).",
+      "Cola relativamente larga que actúa como timón para la maniobrabilidad rápida, con bandas oscuras distintivas.",
+      "Ojos amarillos o anaranjados. Pico ganchudo y fuerte, típico de las rapaces que desmiembran pequeñas presas."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques (de coníferas o caducifolios), áreas arbustivas, setos vivos, parques urbanos y jardines grandes.",
+    "distribucionGeografica": [
+      "Europa (desde el Círculo Polar hasta el Mediterráneo)",
+      "Asia occidental y central (hasta Japón)",
+      "Norte de África"
+    ],
+    "adaptacionesHabitat": "Vuelo extremadamente ágil y técnica de emboscada. Esto le permite cazar en entornos densamente vegetados donde otras rapaces fallarían.",
+    "descripcionHabitat": [
+      "Prefiere las zonas donde los hábitats de caza (setos, lindes) se mezclan con áreas de anidación (bosques densos).",
+      "Las poblaciones del norte y las montañas migran para evitar los inviernos severos, mientras que las del sur suelen ser sedentarias."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Especialista en aves)",
+    "presasComunes": [
+      "Aves pequeñas y medianas (gorriones, pinzones, mirlos, estorninos, palomas jóvenes).",
+      "Pequeños roedores y murciélagos (ocasionalmente en la dieta de las hembras)."
+    ],
+    "estrategiaCaza": "Vuelo rasante de sorpresa (acecho) o persecución rápida a través de la vegetación (carrera de obstáculos). Atrapa a la presa con sus garras y la desmiembra con el pico.",
+    "descripcionDieta": [
+      "El Gavilán Común es un depredador voraz. Los machos, más pequeños, cazan aves más pequeñas (hasta el tamaño de un gorrión); las hembras pueden abatir presas del tamaño de una paloma o un mirlo.",
+      "A menudo utiliza las esquinas de los edificios y los setos como puntos ciegos para sorprender a las aves en el momento de la embestida."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario o en parejas durante la cría. Los juveniles se dispersan tras la independencia. Migraciones en bandadas sueltas.",
+    "rolMacho": "Proporciona la mayoría del alimento a la hembra durante la incubación y a las crías en las primeras semanas.",
+    "rolHembra": "Incuba los huevos y protege a los polluelos jóvenes; a menudo la hembra es la cazadora principal de presas mayores una vez que los polluelos son más grandes.",
+    "actividadDiaria": "Diurno; caza activa durante la mañana y al final de la tarde, aprovechando la actividad de sus presas.",
+    "comunicacion": [
+      "Llamadas agudas y repetitivas ('kiu-kiu-kiu') usadas para la comunicación de pareja o la defensa territorial.",
+      "Señales visuales como vuelos de exhibición o posturas de amenaza."
+    ],
+    "descripcionComportamiento": [
+      "El Gavilán exhibe un comportamiento de caza altamente especializado y sigiloso, utilizando la vegetación para camuflarse antes del ataque final.",
+      "Los machos realizan el 'traspaso de presa' en el aire o en un punto de entrega para evitar exponer el nido."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "1 año",
+      "hembra": "2 años (aunque la mayoría se reproduce más tarde)"
+    },
+    "periodoGestacion": "Incubación de 33-35 días por huevo.",
+    "tamanoCamada": "3-5 huevos por puesta (hasta 7 excepcionalmente).",
+    "cuidadoCrias": "La hembra incuba y el macho alimenta inicialmente; ambos padres alimentan a los polluelos hasta que son independientes (volanderos, a las 4-5 semanas).",
+    "descripcionReproduccion": [
+      "Construyen el nido en árboles altos, a menudo reutilizando viejos nidos de otras aves (como palomas o cuervos), recubriéndolos con ramitas nuevas.",
+      "La hembra es la principal protectora del nido y de los polluelos jóvenes hasta que empluman."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Regulador crucial de las poblaciones de aves pequeñas, especialmente en zonas boscosas y urbanas, contribuyendo a la selección natural.",
+    "Su recuperación poblacional sirvió como un importante indicador de la salud ambiental tras la prohibición del uso de pesticidas organoclorados."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 6,
+    "inteligencia": 6,
+    "adaptabilidad": 8,
+    "fuerza": 5,
+    "velocidad": 8,
+    "tamano": 4,
+    "majestuosidad": 6,
+    "rareza": 5,
+    "supervivencia": 7,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "El dimorfismo sexual en el Gavilán Común es uno de los más extremos entre las rapaces (la hembra puede ser el doble de pesada que el macho).",
+    "Sus ojos, de color intenso (amarillo o anaranjado), le confieren una vista telescópica y lateral excepcional, crucial para la caza en movimiento rápido.",
+    "A pesar de ser un ave forestal, se ha adaptado con éxito a cazar en parques y jardines de ciudades muy pobladas.",
+    "La cola larga y cuadrada es fundamental para realizar giros cerrados a alta velocidad entre los árboles."
+  ]
+}

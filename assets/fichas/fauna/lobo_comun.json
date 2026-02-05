@@ -1,0 +1,163 @@
+{
+  "id": "lobo_comun",
+  "nombre": "Lobo Común",
+  "nombreCientifico": "Canis lupus",
+  "fechaInformacion": "2025",
+
+  "imagen": "lobo_comun.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El lobo común (*Canis lupus*) es un carnívoro social ampliamente distribuido por el Hemisferio Norte y es el ancestro del perro doméstico. ",
+    "Vive en manadas organizadas bajo una estricta jerarquía social y es un depredador ápice sumamente eficaz que regula poblaciones de ungulados."
+  ],
+
+  "descripcionLarga": [
+    "El lobo común habita una diversidad de ecosistemas —desde bosques boreales y tundras hasta desiertos y montañas. Su cuerpo es robusto, atlético, con orejas erectas y cola poblada. Su pelaje varía estacional y geográficamente, abarcando tonos de gris, pardo, negro o blanco.",
+    "Su organización social en manadas (generalmente una unidad familiar de padres e hijos) es clave para su éxito. Esta estructura les permite cooperar en la caza de presas grandes y rápidas, como ciervos, alces o bisontes.",
+    "El lobo es un animal de gran resistencia, capaz de recorrer largas distancias a un trote constante, buscando presas y patrullando su extenso territorio."
+  ],
+
+  "observaciones": [
+    "La persecución humana histórica, especialmente en Europa Occidental y Norteamérica, ha diezmado sus poblaciones y restringido su hábitat a zonas remotas.",
+    "El lobo tiene un profundo impacto ecológico (llamado 'efecto cascada trófica'), ya que su depredación de herbívoros influye en la vegetación y la distribución de otras especies.",
+    "A pesar de su capacidad de adaptación, el conflicto con la ganadería sigue siendo la mayor amenaza para su supervivencia."
+  ],
+
+  "longevidad": {
+    "enLibertad": "6-8 años típicamente (debido a la caza y conflictos), aunque pueden vivir hasta 13-14 años en condiciones favorables.",
+    "enCautividad": "16-20 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Carnivora",
+    "familia": "Canidae",
+    "genero": "Canis",
+    "especie": "C. lupus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Variable según región; aumentando en Norteamérica y Europa en áreas protegidas, y en declive en Asia y zonas de conflicto.",
+    "amenazasPrincipales": [
+      "Persecución humana (caza legal e ilegal) debido al conflicto con el ganado.",
+      "Pérdida y fragmentación de hábitat (barreras viales y asentamientos humanos).",
+      "Disminución de sus presas naturales (caza furtiva de ungulados)."
+    ],
+    "esfuerzosConservacion": [
+      "Protección legal estricta y reintroducción de poblaciones (ej. Parque Nacional Yellowstone).",
+      "Programas de coexistencia que emplean métodos no letales para proteger el ganado (perros guardianes, vallados).",
+      "Establecimiento de corredores ecológicos y manejo de hábitats."
+    ],
+    "descripcionConservacion": [
+      "Su estado global de 'Preocupación Menor' es engañoso; mientras es abundante en grandes extensiones de Canadá y Rusia, muchas subespecies y poblaciones locales en Europa y Asia se encuentran En Peligro o Vulnerables."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "30-50 kg (puede variar, lobos árticos/europeos suelen ser más grandes).",
+      "hembraAdulta": "20-40 kg aproximadamente.",
+      "maximoRegistrado": "Hasta 80 kg (subespecies árticas o siberianas)."
+    },
+    "alturaHombro": {
+      "macho": "≈70-80 cm",
+      "hembra": "≈65-75 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "90-160 cm cuerpo + 30-50 cm cola (total 120-210 cm).",
+      "hembra": "Menos que el macho (total 110-190 cm)."
+    },
+    "colorPelaje": "Gris, pardo, a veces mezclado con tonos oscuros o claros, dependiendo de zona y estación (ej. blanco en el tundra).",
+    "caracteristicasEspeciales": "Manada social con jerarquía; Sentido del olfato excepcional; Gran resistencia en la carrera; Dentadura carnívora robusta.",
+    "morfologia": [
+      "Cuerpo robusto y alargado, con patas largas que favorecen el trote y la resistencia para recorrer grandes territorios.",
+      "Orejas erectas y punta de la cola a menudo oscura.",
+      "Dentadura adaptada al consumo de carne, con grandes caninos (para matar) y molares adecuados para desgarrar carne y triturar huesos."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques boreales, montañas, tundra, estepas, desiertos y matorrales.",
+    "distribucionGeografica": [
+      "Ampliamente distribuido en Europa (principalmente Europa del Este y del Norte), Asia (Rusia, China) y Norteamérica (Canadá, Alaska y EE. UU.)."
+    ],
+    "adaptacionesHabitat": "Pelaje doble (capa interna aislante, capa externa protectora) para tolerar temperaturas extremas; patas largas y fuertes para recorrer grandes territorios; gran adaptabilidad alimentaria.",
+    "descripcionHabitat": [
+      "Puede habitar desde zonas costeras hasta altitudes montañosas; tolera diversidad climática.",
+      "Prefiere zonas con suficiente población de ungulados y cobertura vegetal que le permiten cazar y establecer guaridas."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Hipercarnívoro)",
+    "presasComunes": [
+      "Ungulados de tamaño medio a grande: Ciervos, Alces, Corzos, Caribúes, Bisontes.",
+      "Presas secundarias: Castores, Liebres, Roedores, Carroña."
+    ],
+    "estrategiaCaza": "Caza cooperativa en manada: uno o dos lobos localizan a la presa (a menudo buscando individuos viejos, enfermos o jóvenes) y la manada completa la persigue, ataca y derriba para compartirla. ",
+    "descripcionDieta": [
+      "La caza grupal permite derribar presas mucho mayores que el lobo individual, proporcionando suficiente alimento para toda la manada.",
+      "En invierno y escasez, dependen de la carroña. Un lobo puede consumir hasta 9 kg de carne en una sola comida."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Manadas de estructura familiar jerárquica, compuesta por una pareja reproductora dominante ('alfa') y su descendencia de varios años. Los roles son fluidos, no rígidos.",
+    "rolMacho": "Junto con la hembra dominante (la pareja alfa) lidera la manada, toma decisiones de caza/movimiento, y participa en la protección del territorio y el cuidado de las crías.",
+    "rolHembra": "La hembra alfa es la única que suele reproducirse en el grupo; igualmente implicada en caza, cuidado de crías y mantenimiento de la cohesión grupal.",
+    "actividadDiaria": "Crepuscular y nocturna, aunque la actividad diurna aumenta en áreas sin persecución humana.",
+    "comunicacion": [
+      "Aullidos (uso social y territorial a larga distancia).",
+      "Ladridos, gruñidos y gemidos.",
+      "Señales olfativas (marcas territoriales con orina/excrementos).",
+      "Posturas corporales y expresiones faciales complejas para comunicar jerarquía y estados de ánimo."
+    ],
+    "descripcionComportamiento": [
+      "El aullido permite reforzar la cohesión del grupo, comunicarse con miembros perdidos y delimitar territorio entre manadas. ",
+      "La cooperación en la caza y la defensa territorial son la base de su éxito evolutivo."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "≈2-3 años",
+      "hembra": "≈2 años"
+    },
+    "periodoGestacion": "≈60-63 días (aproximadamente 2 meses).",
+    "tamanoCamada": "3 a 8 crías (cachorros) habitualmente.",
+    "cuidadoCrias": "La madre amamanta; toda la manada (ambos padres y subordinados) provee protección y alimento a las crías, regurgitando carne para ellas una vez son destetadas.",
+    "descripcionReproduccion": [
+      "La reproducción ocurre generalmente una vez al año, y el nacimiento suele coincidir con la primavera/principios del verano, favoreciendo la disponibilidad de presas jóvenes y débiles.",
+      "Las crías nacen ciegas e indefensas en una guarida excavada o un refugio natural, y no salen hasta las 3-4 semanas de edad."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Regula poblaciones de herbívoros (depredación selectiva de enfermos/débiles), lo que mantiene la salud del rebaño y ayuda al equilibrio ecológico.",
+    "Su reintroducción en áreas como Yellowstone ha demostrado su capacidad para restaurar ecosistemas enteros (reduciendo el pastoreo excesivo y afectando la dinámica de los ríos)."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 7,
+    "inteligencia": 8,
+    "adaptabilidad": 9,
+    "fuerza": 6,
+    "velocidad": 7,
+    "tamano": 6,
+    "majestuosidad": 7,
+    "rareza": 4,
+    "supervivencia": 6,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "La caza en manada les permite derribar presas mucho mayores que un solo lobo podría, siendo uno de los ejemplos más avanzados de cooperación en carnívoros.",
+    "El lobo es capaz de recorrer más de 50 kilómetros en una noche en busca de presas.",
+    "El perro doméstico es una subespecie domesticada del lobo común (*Canis lupus familiaris*)."
+  ]
+}

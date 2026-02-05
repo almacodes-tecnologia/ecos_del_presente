@@ -1,0 +1,116 @@
+{
+  "id": "arbol_del_caucho",
+  "nombre": "Árbol del Caucho",
+  "nombreCientifico": "Hevea brasiliensis",
+  "fechaInformacion": "2025",
+  "imagen": "arbol_del_caucho.webp",
+  "introduccionPlanta": [
+    "El Árbol del Caucho es una especie de árbol tropical perenne, nativo del Amazonas, famoso por ser la principal fuente de látex utilizado para producir caucho natural a nivel mundial.",
+    "Su importancia económica lo convirtió en un motor de la historia industrial, pero también en un factor clave en la deforestación y la pérdida de biodiversidad en los trópicos."
+  ],
+  "descripcionLarga": [
+    "El **árbol del caucho** (*Hevea brasiliensis*) es una especie de árbol de la familia de las euforbiáceas, famosa por ser la principal fuente de **látex** para la producción de caucho natural. Originario de la cuenca del Amazonas, este árbol ha sido cultivado a gran escala en vastas plantaciones en el sudeste de Asia y África, donde las condiciones climáticas son ideales para su crecimiento. Su tronco, de corteza lisa y de un color gris claro, es el centro de su valor económico, ya que de él se extrae el látex mediante un proceso conocido como 'sangrado'.",
+    "El látex es una savia lechosa que fluye desde los vasos de la corteza del árbol. Para recolectarlo, se hacen incisiones en V en el tronco, y el líquido gotea lentamente en un recipiente. Este látex es procesado y coagulado para obtener el **caucho natural**, un material elástico y resistente que se utiliza en una inmensa variedad de productos, desde neumáticos y guantes hasta ropa y adhesivos. Su rápida popularidad en el siglo XIX lo llevó a ser un motor de la economía mundial, pero también a una explotación desmedida en la Amazonia, provocando conflictos y degradación ambiental.",
+    "Aunque la especie es abundante en plantaciones, la sobreexplotación de sus genes y la **vulnerabilidad a enfermedades**, como el mal sudamericano de las hojas, representan una amenaza para su diversidad genética en su hábitat nativo. El árbol del caucho es un claro ejemplo de cómo una planta puede transformar la economía y la industria, pero también de los desafíos ecológicos que surgen cuando la demanda supera la gestión sostenible de un recurso natural. Su historia es una de las más fascinantes y complejas en el mundo de la botánica económica."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Malpighiales",
+    "familia": "Euphorbiaceae",
+    "genero": "Hevea",
+    "especie": "H. brasiliensis"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Vulnerable (VU)",
+    "tendenciaPoblacion": "Decreciente en su hábitat natural, pero estable en plantaciones.",
+    "amenazasPrincipales": [
+      "Tala de bosques nativos para la expansión de plantaciones.",
+      "Enfermedad del mal sudamericano de las hojas (*Microcyclus ulei*).",
+      "Pérdida de biodiversidad y ecosistemas debido a los monocultivos."
+    ],
+    "esfuerzosConservacion": [
+      "Control de la enfermedad en las plantaciones.",
+      "Creación de reservas genéticas para preservar la diversidad de la especie.",
+      "Desarrollo de clones resistentes a la enfermedad."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol perenne de hoja caduca en climas secos, conocido por producir látex.",
+    "alturaPromedio": "20 - 30 m (65 - 100 ft); puede superar los 40 m.",
+    "colorFollaje": "Verde brillante (folíolos).",
+    "tipoRaiz": "Pivotante, profunda (para estabilidad y acceso al agua).",
+    "tallos": "Tronco recto, con corteza lisa y de color gris claro. El látex se extrae de la capa más externa del tronco, justo debajo de la corteza.",
+    "hojas": "Compuestas, con tres folíolos elípticos de color verde brillante, que cambian a rojo o naranja antes de caer en la estación seca.",
+    "flores": {
+      "forma": "Pequeñas, discretas, sin pétalos vistosos, agrupadas en panículas.",
+      "colores": "Blanco-crema a amarillento.",
+      "fragancia": "Dulce y suave.",
+      "tamano": "Muy pequeñas, de unos pocos milímetros."
+    },
+    "frutos": "Una cápsula leñosa, grande y trilobulada, que se abre de forma explosiva para dispersar las semillas."
+  },
+  "habitat": {
+    "tipo": "Bosques tropicales húmedos y de galería.",
+    "distribucionGeografica": [
+      "Nativo de la cuenca del Amazonas en América del Sur.",
+      "Cultivado a nivel global en regiones tropicales (Sudeste de Asia, África Occidental)."
+    ],
+    "preferenciasSuelo": "Suelos profundos, ricos en humus y con buen drenaje. Requiere alta humedad y temperaturas cálidas.",
+    "preferenciasLuz": "Sombra parcial en la etapa de plántula, luego requiere pleno sol para un crecimiento óptimo."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Principalmente por semillas.",
+      "También por injertos para propagar clones de alto rendimiento."
+    ],
+    "riego": "Requiere una alta humedad constante. No tolera la sequía prolongada.",
+    "poda": "Poda de formación en árboles jóvenes. La poda de ramas bajas es común para facilitar la extracción del látex.",
+    "fertilizacion": "Responde bien a fertilizantes ricos en potasio y fósforo para optimizar la producción de látex.",
+    "plagasComunes": [
+      "Enfermedad del mal sudamericano de las hojas (*Microcyclus ulei*).",
+      "Insectos perforadores del tronco."
+    ],
+    "enfermedadesComunes": [
+      "Pudrición de la raíz (por mal drenaje)."
+    ]
+  },
+  "usos": {
+    "ornamental": "No es de uso común en jardinería, pero sí en paisajismo tropical.",
+    "culinario": [
+      "No tiene usos culinarios."
+    ],
+    "medicinal": [
+      "No tiene usos medicinales directos conocidos."
+    ],
+    "industrial": [
+      "Producción de caucho natural a partir de su látex.",
+      "Madera para muebles y tableros (madera de caucho)."
+    ],
+    "simbolismo": "Flexibilidad, resistencia, utilidad. En algunas culturas indígenas, es un símbolo de conexión con la naturaleza (y toxicidad, debido a que el látex es irritante antes de ser procesado)."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Entomófila (por insectos), en particular moscas y polillas.",
+    "momentoFloracion": "Generalmente después de la caída de las hojas en la estación seca o al comienzo de la temporada de lluvias (varía según la región de cultivo).",
+    "cicloVida": "Perenne, de larga vida (vida económica de 25-30 años, vida natural mucho más larga)."
+  },
+  "atributosFantasia": {
+    "belleza": 3,
+    "rareza": 3,
+    "vitalidad": 4,
+    "resistencia": 3,
+    "impactoEcologico": 3,
+    "misticismo": 2,
+    "fraganciaMagica": 2,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "El látex del árbol del caucho es la fuente principal de caucho natural a nivel mundial.",
+    "Para extraer el látex, se realiza un corte en la corteza en ángulo, permitiendo que el látex fluya hacia un recipiente. Este proceso se conoce como 'sangrado'.",
+    "La industria del caucho natural es una de las principales causas de deforestación en el sudeste asiático.",
+    "La enfermedad del mal sudamericano de las hojas ha impedido el cultivo de plantaciones de caucho a gran escala en su región nativa de América del Sur.",
+    "El caucho natural es un polímero de isopreno, un compuesto orgánico que le da sus propiedades elásticas."
+  ]
+}

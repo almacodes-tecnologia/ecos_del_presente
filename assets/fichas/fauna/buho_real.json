@@ -1,0 +1,168 @@
+{
+  "id": "buho_real",
+  "nombre": "Búho Real",
+  "nombreCientifico": "Bubo bubo",
+  "fechaInformacion": "2025",
+
+  "imagen": "buho_real.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El búho real es una de las rapaces nocturnas más grandes del mundo y la mayor de Europa.",
+    "Destaca por sus impresionantes ojos anaranjados y sus característicos penachos en la cabeza."
+  ],
+
+  "descripcionLarga": [
+    "El búho real es un ave rapaz de gran tamaño perteneciente a la familia Strigidae. Su aspecto imponente y su capacidad de adaptación lo han convertido en un superdepredador nocturno ampliamente distribuido por Eurasia.",
+    "Su plumaje moteado en tonos pardos y negros le permite camuflarse perfectamente entre rocas, cortados y bosques, mientras que su vuelo silencioso le permite sorprender a sus presas con facilidad.",
+    "Es una especie territorial, especialmente durante la época de reproducción, y se alimenta de una amplia variedad de presas, desde pequeños mamíferos hasta aves de mediano tamaño."
+  ],
+
+  "observaciones": [
+    "Evita generalmente zonas muy humanizadas.",
+    "Sus penachos no son orejas, sino plumas utilizadas para comunicación visual y camuflaje.",
+    "Es muy sensible a la perturbación humana en época de cría, lo que puede provocar el abandono del nido."
+  ],
+
+  "longevidad": {
+    "enLibertad": "15-20 años",
+    "enCautividad": "20-30 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Strigiformes",
+    "familia": "Strigidae",
+    "genero": "Bubo",
+    "especie": "B. bubo"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable o en incremento moderado en algunas regiones",
+    "amenazasPrincipales": [
+      "Electrocuciones en tendidos eléctricos (principal causa de mortalidad no natural)",
+      "Disminución de presas en zonas agrícolas",
+      "Caza y persecución ilegal",
+      "Perturbación humana en áreas de nidificación"
+    ],
+    "esfuerzosConservacion": [
+      "Corrección y aislamiento de tendidos eléctricos peligrosos",
+      "Protección legal de nidos y zonas de cría",
+      "Programas de reintroducción en áreas donde desapareció",
+      "Campañas de sensibilización y educación"
+    ],
+    "descripcionConservacion": [
+      "El Búho Real ha demostrado ser resiliente, con poblaciones recuperadas tras la prohibición de venenos y la persecución. Sin embargo, la mortalidad por infraestructuras eléctricas sigue siendo una preocupación principal en muchos países europeos.",
+      "Su gestión se centra en proteger los sitios de nidificación y reducir los riesgos ambientales."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "1.5–2.8 kg",
+      "hembraAdulta": "2.3–4.2 kg",
+      "maximoRegistrado": "4.2 kg"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "60–75 cm",
+      "hembra": "65–80 cm"
+    },
+    "colorPelaje": "Plumaje pardo moteado (críptico) con tonos negros y anaranjados.",
+    "caracteristicasEspeciales": "Penachos plumosos en la cabeza; grandes ojos anaranjados; vuelo silencioso. Envergadura alar de hasta 1.8 metros.",
+    "morfologia": [
+      "Cráneo ancho y discos faciales sutiles que dirigen el sonido.",
+      "Garras fuertes y afiladas adaptadas para capturar presas grandes (ej. erizos y liebres).",
+      "Plumaje muy suave para facilitar el vuelo silencioso."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques, cortados rocosos, montañas, zonas semiáridas, estepas",
+    "distribucionGeografica": [
+      "Eurasia (Europa, Asia Central, Rusia, China)"
+    ],
+    "adaptacionesHabitat": "Visión y audición nocturna sobresalientes; camuflaje excelente; utiliza cortados y repisas para anidar.",
+    "descripcionHabitat": [
+      "Prefiere una combinación de zonas abiertas para cazar y cortados rocosos o bosques densos para nidificar y descansar.",
+      "Su distribución abarca una amplia variedad de climas y ecosistemas."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Generalista)",
+    "presasComunes": [
+      "Conejos y liebres (en zonas ibéricas)",
+      "Ratas y micromamíferos",
+      "Aves medianas (ej. palomas, urracas)",
+      "Erizos",
+      "Reptiles ocasionalmente"
+    ],
+    "estrategiaCaza": "Acecho desde posadero elevado o vuelo bajo y silencioso, utilizando el oído para localizar presas.",
+    "descripcionDieta": [
+      "Es un superdepredador nocturno con una dieta extremadamente variada, lo que le confiere gran éxito en diversos hábitats.",
+      "Es capaz de capturar presas que superan su propio peso."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitaria, excepto durante la época reproductiva, donde forma parejas estables.",
+    "rolMacho": "Defiende el territorio, caza y aporta la mayor parte del alimento.",
+    "rolHembra": "Incuba los huevos y protege a los pollos en las primeras semanas.",
+    "actividadDiaria": "Principalmente nocturno y crepuscular, durmiendo en posaderos discretos durante el día.",
+    "comunicacion": [
+      "Ululeos graves y potentes ('canto') audibles a varios kilómetros",
+      "Silbidos, siseos y chasquidos de pico para intimidación y comunicación cercana"
+    ],
+    "descripcionComportamiento": [
+      "Utiliza su potente ululeo para marcar territorio y atraer a la hembra.",
+      "Establece territorios muy amplios y es uno de los pocos depredadores capaces de controlar la población de erizos."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "2-3 años",
+      "hembra": "2-3 años"
+    },
+    "periodoGestacion": "35-36 días (incubación)",
+    "tamanoCamada": "1–4 huevos (normalmente 2-3)",
+    "cuidadoCrias": "Cuidado biparental; la hembra incuba y el macho alimenta, luego ambos cazan para los pollos.",
+    "descripcionReproduccion": [
+      "No construyen nidos; utilizan depresiones naturales en cortados rocosos, cuevas o incluso nidos abandonados de otras rapaces.",
+      "El apareamiento suele ocurrir al inicio del invierno, aprovechando el aumento de presas en primavera."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Depredador ápice nocturno que controla eficazmente las poblaciones de roedores y otros animales, incluyendo otros depredadores.",
+    "Su presencia es un indicador de la integridad y diversidad biológica de los hábitats forestales y rocosos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 4,
+    "inteligencia": 8,
+    "adaptabilidad": 7,
+    "fuerza": 5,
+    "velocidad": 6,
+    "tamano": 4,
+    "majestuosidad": 9,
+    "rareza": 6,
+    "supervivencia": 7,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Es una de las rapaces nocturnas más grandes del mundo.",
+    "Su grito profundo puede escucharse hasta a 4 kilómetros de distancia.",
+    "Los pollos abandonan el nido antes de poder volar (comportamiento conocido como 'branching').",
+    "Puede girar la cabeza hasta 270 grados."
+  ]
+}

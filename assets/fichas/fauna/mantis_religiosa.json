@@ -1,0 +1,164 @@
+{
+  "id": "mantis_religiosa",
+  "nombre": "Mantis Religiosa",
+  "nombreCientifico": "Mantis religiosa",
+  "fechaInformacion": "2025",
+
+  "imagen": "mantis_religiosa.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La mantis religiosa (*Mantis religiosa*) es un insecto depredador de la orden Mantodea, conocido mundialmente por su característica postura de 'oración' y sus patas delanteras raptoras especializadas en la captura de presas.",
+    "Es un maestro del camuflaje, habitando principalmente en áreas con vegetación densa en climas templados de Europa, Asia y, gracias a su introducción, en Norteamérica."
+  ],
+
+  "descripcionLarga": [
+    "La mantis religiosa es un insecto de cuerpo alargado y coloración que varía entre verde brillante y marrón seco, lo que le permite mimetizarse perfectamente con su entorno. Las hembras son generalmente más grandes y voluminosas que los machos, con alas más cortas.",
+    "Posee una cabeza triangular que puede rotar casi 180 grados, ojos compuestos que le proporcionan una excelente visión estereoscópica para medir distancias con precisión y patas delanteras raptoras (en forma de guadaña) armadas con espinas afiladas para inmovilizar a sus presas.",
+    "Es un depredador de emboscada eficiente. Su estrategia consiste en permanecer inmóvil, imitando hojas o tallos, y atacar con una velocidad fulminante cuando la presa se encuentra a su alcance."
+  ],
+
+  "observaciones": [
+    "Es tristemente célebre por el canibalismo sexual, donde la hembra puede devorar al macho (empezando a menudo por la cabeza) después o incluso durante el apareamiento.",
+    "La mantis religiosa no es peligrosa para los humanos, aunque sus garras raptoras pueden pinchar la piel si se manipula de forma brusca.",
+    "Se utiliza como agente de control biológico natural en jardinería y agricultura debido a su apetito por plagas de insectos."
+  ],
+
+  "longevidad": {
+    "enLibertad": "10-12 meses (el ciclo de vida completo)",
+    "enCautividad": "12-18 meses"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Arthropoda",
+    "clase": "Insecta",
+    "orden": "Mantodea",
+    "familia": "Mantidae",
+    "genero": "Mantis",
+    "especie": "M. religiosa"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "No evaluada (NE)",
+    "tendenciaPoblacion": "Estable (Globalmente)",
+    "amenazasPrincipales": [
+      "Uso indiscriminado de pesticidas (su principal fuente de alimento son otros insectos).",
+      "Pérdida de hábitat (praderas y matorrales) por monocultivos y urbanización.",
+      "Depredación por aves y reptiles."
+    ],
+    "esfuerzosConservacion": [
+      "Fomento de la agricultura orgánica y la jardinería natural (que valoran a la mantis como depredador beneficioso).",
+      "Programas educativos sobre la importancia de los insectos en el ecosistema."
+    ],
+    "descripcionConservacion": [
+      "Debido a su amplia distribución y capacidad de colonización (en Norteamérica es una especie introducida exitosa), no está globalmente amenazada. Sin embargo, su estatus local puede ser vulnerable debido a la destrucción del hábitat y la intoxicación por químicos."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "1-2 g",
+      "hembraAdulta": "2-4 g",
+      "maximoRegistrado": "4 g"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "60-70 mm",
+      "hembra": "70-100 mm (las hembras son notablemente más grandes)"
+    },
+    "colorPelaje": "No aplica; coloración criptica verde o marrón.",
+    "caracteristicasEspeciales": "Postura de 'oración'; Patas raptoras espinosas; Cabeza triangular móvil; Dimorfismo sexual (hembra más grande).",
+    "morfologia": [
+      "Cuerpo alargado y delgado (similar a un palo o una hoja), adaptado al camuflaje en plantas.",
+      "Patas delanteras raptoras, dobladas en ángulo, con fuertes espinas para sujetar a la presa.",
+      "Ojos grandes y compuestos con visión estereoscópica para calcular la distancia del ataque.",
+      "La hembra tiene un abdomen más ancho y pesado que el macho."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Praderas, matorrales, jardines, cultivos, campos con vegetación densa.",
+    "distribucionGeografica": [
+      "Europa, Asia, África. Introducida exitosamente en Norteamérica (Canadá y EE. UU.)."
+    ],
+    "adaptacionesHabitat": "Camuflaje (coloración críptica) entre la vegetación para cazar y evitar depredadores. Requiere climas cálidos y templados para completar su ciclo de vida.",
+    "descripcionHabitat": [
+      "Habita principalmente en áreas con abundante vegetación alta y arbustos, donde puede acechar y posarse sobre flores o ramas.",
+      "Suele buscar áreas soleadas."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro insectívoro (Depredador de emboscada)",
+    "presasComunes": [
+      "Moscas y dípteros",
+      "Saltamontes y grillos",
+      "Abejas y avispas",
+      "Polillas, mariposas y orugas",
+      "Arañas y, ocasionalmente, pequeños vertebrados (ranas, lagartijas jóvenes)."
+    ],
+    "estrategiaCaza": "Acecha inmóvil (mimetismo) hasta que la presa se aproxima a corta distancia, momento en el que lanza un ataque ultrarrápido con sus patas raptoras.",
+    "descripcionDieta": [
+      "Es un depredador generalista. Caza por visión, por lo que solo ataca a presas en movimiento que están a su alcance.",
+      "La hembra, debido a su mayor tamaño, puede consumir presas mucho más grandes que el macho."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario, excepto durante el apareamiento.",
+    "rolMacho": "Busca hembras para aparearse, asumiendo el riesgo de ser devorado.",
+    "rolHembra": "Depredadora dominante; tras aparearse, deposita una gran cantidad de huevos en la ooteca. El canibalismo puede proporcionar nutrientes cruciales para el desarrollo de los huevos.",
+    "actividadDiaria": "Principalmente diurna; utiliza la luz y el calor para cazar y desplazarse.",
+    "comunicacion": [
+      "Señales visuales mediante movimientos de patas y alas (exhibiciones de amenaza o cortejo).",
+      "Posturas defensivas (mostrando manchas de advertencia en las alas) para ahuyentar depredadores."
+    ],
+    "descripcionComportamiento": [
+      "Son solitarias y altamente territoriales, especialmente las hembras.",
+      "El camuflaje y la inmovilidad son la primera línea de defensa, seguidos de exhibiciones de amenaza si son detectadas."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovípara (Metamorfosis incompleta: Huevo - Ninfa - Adulto)",
+    "madurezSexual": {
+      "macho": "2-3 meses (alcanzada la fase adulta)",
+      "hembra": "3-4 meses (alcanzada la fase adulta)"
+    },
+    "periodoGestacion": "No aplica; los huevos son depositados en ootecas en otoño.",
+    "tamanoCamada": "30-200 huevos por ooteca (estructura espumosa endurecida).",
+    "cuidadoCrias": "No hay cuidado parental. Los huevos eclosionan como ninfas que son réplicas en miniatura de los adultos, iniciando una vida independiente.",
+    "descripcionReproduccion": [
+      "La hembra deposita sus huevos en una estructura espumosa que se endurece, llamada **ooteca**, que protege los huevos durante el invierno.",
+      "El apareamiento suele ocurrir a finales del verano o principios del otoño, y las ninfas eclosionan en primavera, una vez que el clima es cálido y hay abundante comida."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Controla poblaciones de insectos, incluyendo plagas agrícolas (áfidos, moscas, orugas), siendo un aliado natural en jardines.",
+    "Contribuye al equilibrio del ecosistema mediante depredación natural, limitando las poblaciones de otros artrópodos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 3,
+    "inteligencia": 5,
+    "adaptabilidad": 7,
+    "fuerza": 2,
+    "velocidad": 5,
+    "tamano": 1,
+    "majestuosidad": 4,
+    "rareza": 6,
+    "supervivencia": 7,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Su nombre proviene de la postura de oración de sus patas delanteras, aunque la palabra *Mantis* significa 'profeta' o 'adivino' en griego.",
+    "Las hembras pueden practicar canibalismo sexual con los machos para obtener nutrientes esenciales para la producción de huevos.",
+    "La ooteca (el estuche de huevos) es una estructura muy resistente, a prueba de agua y depredadores, que permite a la especie sobrevivir a los inviernos fríos."
+  ]
+}

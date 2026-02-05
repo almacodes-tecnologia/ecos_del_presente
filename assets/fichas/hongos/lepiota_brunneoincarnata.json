@@ -1,0 +1,43 @@
+{
+  "id": "lepiota_brunneoincarnata",
+  "nombre": "Lepiota mortal",
+  "nombreCientifico": "Lepiota brunneoincarnata",
+  "familia": "Agaricaceae",
+  "imagen": "lepiota_brunneoincarnata.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "La Lepiota brunneoincarnata es un hongo basidiomiceto de dimensiones reducidas y letalidad extrema. Sintetiza amatoxinas, compuestos peptídicos que inhiben la ARN polimerasa II, provocando necrosis hepática fulminante. Su ecología, vinculada a entornos humanizados, la convierte en una de las especies más críticas en la toxicología micológica urbana.",
+
+  "caracteristicas": {
+    "sombrero": "2-7 cm de diámetro. Presenta una morfología que evoluciona de convexa a plana. La superficie posee un fondo blanquecino o rosáceo densamente cubierto por escamas concéntricas de color pardo-rosado o marrón rojizo, con mayor concentración melánica en el disco central.",
+    "laminas": "Blancas, densas y de inserción libre. Mantienen su coloración inmutable durante todo el ciclo de vida del cuerpo fructífero.",
+    "pie": "Cilíndrico y corto (2-5 cm). Exhibe una coloración blanquecina en el ápice que transiciona hacia tonos vinoso-pardos en la base, mostrando frecuentemente una zona cortical fibrosa.",
+    "anillo": "Simple, poco definido y de naturaleza frágil. A diferencia de otros géneros de Agaricáceas, este anillo es fijo y tiende a desintegrarse rápidamente ante agentes externos como la lluvia o el contacto mecánico.",
+    "volva": "Ausente.",
+    "esporada": "Blanca.",
+    "usoCultural": "Especie de referencia prioritaria en protocolos de emergencia médica y toxicología forense debido a su presencia recurrente en zonas antropizadas."
+  },
+
+  "habitat": {
+    "tipo": "Entornos urbanos y periurbanos, incluyendo parques, jardines públicos, áreas de césped nitrificadas y márgenes de caminos.",
+    "relacionEcologica": "Organismo saprófito; cumple una función de degradación de materia orgánica en suelos con alta actividad antropogénica y presencia de residuos vegetales.",
+    "distribucionGeografica": ["Regiones templadas de Europa, Asia y Norte de África, con una presencia notable en la cuenca mediterránea."],
+    "temporada": "Finales de verano y periodo otoñal.",
+    "altitudRango": "Predominantemente en zonas de baja altitud y áreas residenciales niveladas."
+  },
+
+  "curiosidades": [
+    "Provoca el cuadro clínico conocido como síndrome faloidiano, con una patogenia idéntica a la de la Amanita phalloides a pesar de pertenecer a una familia taxonómica distinta.",
+    "Su reducida escala biométrica es un factor de riesgo crítico; en micología científica, el pequeño tamaño de las escamas y el sombrero se consideran indicadores de alerta biológica.",
+    "Su adaptabilidad a suelos nitrogenados le permite colonizar espacios verdes urbanos, donde la presión biológica de otros hongos forestales es menor.",
+    "El periodo de latencia tras la exposición a sus toxinas es prolongado, lo que dificulta el diagnóstico precoz antes de que se manifiesten los daños celulares en el hígado."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 3,
+    "rareza": 5,
+    "simbolismo": 9,
+    "resistencia": 4,
+    "velocidadDeCrecimiento": 8,
+    "aura": 10
+  }
+}

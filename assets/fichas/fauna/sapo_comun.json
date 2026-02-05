@@ -1,0 +1,163 @@
+{
+  "id": "sapo_comun",
+  "nombre": "Sapo Común",
+  "nombreCientifico": "Bufo bufo",
+  "fechaInformacion": "2025",
+
+  "imagen": "sapo_comun.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El sapo común (*Bufo bufo*) es uno de los anfibios más grandes y extendidos de Europa, conocido por su estilo de vida principalmente terrestre y nocturno. ",
+    "Es famoso por su piel rugosa, su marcha lenta y, sobre todo, por las glándulas que secretan una sustancia tóxica como mecanismo de defensa contra los depredadores."
+  ],
+
+  "descripcionLarga": [
+    "El sapo común habita una gran variedad de ecosistemas, desde bosques densos y praderas hasta jardines urbanos, siendo muy adaptable. Pasa la mayor parte del año en tierra, refugiándose de día bajo piedras, troncos o en madrigueras.",
+    "Su principal característica es su piel gruesa, seca y cubierta de **verrugas**, que aloja las glándulas parotoides detrás de los ojos. Estas glándulas secretan una mezcla de toxinas (bufotoxinas) que, aunque no son venenosas para el tacto humano, resultan desagradables e irritantes (o letales en dosis altas) para muchos depredadores. ",
+    "Cada primavera, los sapos comunes migran en masa hacia el mismo cuerpo de agua donde nacieron para reproducirse, realizando a menudo travesías peligrosas a través de carreteras y campos."
+  ],
+
+  "observaciones": [
+    "Los machos son significativamente más pequeños que las hembras y a menudo se aferran a ellas (amplexo) durante la migración para asegurar la fertilización.",
+    "El sapo común no salta como las ranas; generalmente camina o se arrastra lentamente.",
+    "Es un valioso aliado en la agricultura y jardinería, ya que controla eficazmente plagas de insectos y babosas."
+  ],
+
+  "longevidad": {
+    "enLibertad": "10-12 años (puede variar según el entorno)",
+    "enCautividad": "Hasta 20 años (récords de hasta 30 años)"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Amphibia (Anfibios)",
+    "orden": "Anura (Ranas y sapos)",
+    "familia": "Bufonidae",
+    "genero": "Bufo",
+    "especie": "B. bufo"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable (Aunque algunas poblaciones locales están declinando).",
+    "amenazasPrincipales": [
+      "Fragmentación del hábitat y atropellos durante las migraciones reproductivas.",
+      "Drenaje de humedales y pérdida de charcas de cría.",
+      "Contaminación del agua (pesticidas y fertilizantes) que afecta a los renacuajos."
+    ],
+    "esfuerzosConservacion": [
+      "Construcción de túneles y barreras para sapos en carreteras ('pasos de sapos') durante las migraciones.",
+      "Restauración y protección de las charcas temporales y permanentes utilizadas para el desove.",
+      "Programas de educación y monitoreo de las rutas migratorias."
+    ],
+    "descripcionConservacion": [
+      "A pesar de su resiliencia general, la conservación de esta especie se centra en mitigar los efectos de la civilización moderna, especialmente los atropellos masivos en las rutas de migración y la calidad del agua de cría."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "70-150 g",
+      "hembraAdulta": "100-200 g (Las hembras son más grandes y pesadas)",
+      "maximoRegistrado": "210 g"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "8-12 cm",
+      "hembra": "10-15 cm"
+    },
+    "colorPelaje": "Piel sin pelo. Marrón, gris, verdoso u oliváceo. El color de los ojos suele ser cobrizo o dorado.",
+    "caracteristicasEspeciales": "Piel verrugosa y seca; Glándulas parotoides; Ausencia de dientes; Pupilas horizontales.",
+    "morfologia": [
+      "Cuerpo ancho, robusto y rechoncho. Extremidades posteriores relativamente cortas, adaptadas para caminar o saltos cortos.",
+      "Piel con una apariencia 'verrugosa', pero estas protuberancias son en realidad glándulas cutáneas.",
+      "Ojos prominentes y grandes glándulas parotoides justo detrás de ellos."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques, matorrales, praderas, jardines, zonas agrícolas (terrestre, cerca de cuerpos de agua para reproducción).",
+    "distribucionGeografica": [
+      "Toda Europa (excepto el norte de Escandinavia e Irlanda), partes del Norte de África y Asia occidental."
+    ],
+    "adaptacionesHabitat": "Actividad nocturna para evitar la deshidratación y la depredación. Hibernación durante el invierno, a menudo enterrado.",
+    "descripcionHabitat": [
+      "Es el anfibio menos dependiente del agua fuera de la época de reproducción, pudiendo vivir lejos de los estanques si el ambiente es lo suficientemente húmedo.",
+      "Utiliza áreas protegidas y húmedas como refugio diurno (debajo de rocas, madera podrida o compostas)."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Insectívoro/Invertebrado)",
+    "presasComunes": [
+      "Babosas y caracoles (son una parte importante de su dieta).",
+      "Lombrices de tierra.",
+      "Insectos (escarabajos, arañas) y otros pequeños invertebrados.",
+      "Ocasionalmente, pequeños vertebrados."
+    ],
+    "estrategiaCaza": "Acecho (espera) y captura por proyección de su lengua pegajosa, rápida y extensible.",
+    "descripcionDieta": [
+      "El sapo detecta a sus presas principalmente por el movimiento. Su dieta es muy beneficiosa para el control de plagas en jardines.",
+      "Traga la comida entera, a menudo ayudándose con los ojos para empujarla hacia la garganta."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitaria, excepto durante la breve pero intensa temporada de reproducción.",
+    "rolMacho": "Realiza la migración al agua, croa para atraer a las hembras, y se aferra a ellas en amplexo.",
+    "rolHembra": "Realiza la migración y deposita los huevos en forma de largas cadenas.",
+    "actividadDiaria": "Nocturna (Crepuscular y nocturna).",
+    "comunicacion": [
+      "Croares (un sonido suave de llamada) y vocalizaciones de advertencia territorial (un chillido audible cuando es agarrado).",
+      "Señales químicas y tacto durante el amplexo."
+    ],
+    "descripcionComportamiento": [
+      "Durante la migración de primavera, los machos compiten ferozmente por las hembras, a menudo resultando en 'bolas de sapos' donde varios machos se aferran a una hembra.",
+      "Hiberna desde el otoño hasta la primavera en lugares protegidos y bajo tierra."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "3-4 años",
+      "hembra": "4-5 años"
+    },
+    "periodoGestacion": "No aplica. Desarrollo de renacuajos: varias semanas a meses.",
+    "tamanoCamada": "1.000-6.000 huevos por puesta.",
+    "cuidadoCrias": "No hay cuidado parental después de la puesta. Los renacuajos (larvas) se desarrollan de forma independiente en el agua.",
+    "descripcionReproduccion": [
+      "Las hembras depositan los huevos en dos largas cadenas gelatinosas, que a menudo se enredan alrededor de la vegetación acuática. ",
+      "Los renacuajos son pequeños, negros y gregarios, nadando en grandes grupos. Poseen toxinas en su piel que los hacen desagradables para la mayoría de los peces depredadores."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Depredador clave de invertebrados terrestres, especialmente babosas y caracoles, ayudando a controlar sus poblaciones.",
+    "Es una parte vital de la cadena alimentaria, especialmente en la fase de renacuajo y en las migraciones, siendo fuente de alimento para aves, culebras de agua y mamíferos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 4,
+    "adaptabilidad": 7,
+    "fuerza": 2,
+    "velocidad": 3,
+    "tamano": 3,
+    "majestuosidad": 2,
+    "rareza": 5,
+    "supervivencia": 8,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Aunque no es venenoso al tacto, su toxina (bufotoxina) es desagradable para muchos depredadores, que lo evitan tras un primer intento de comerlo.",
+    "El sapo común es uno de los anfibios de vida más larga, pudiendo vivir más de dos décadas en un entorno protegido.",
+    "Durante las migraciones de primavera, miles de sapos comunes pueden moverse simultáneamente hacia los estanques de cría."
+  ]
+}

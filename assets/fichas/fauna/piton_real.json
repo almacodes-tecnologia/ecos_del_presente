@@ -1,0 +1,159 @@
+{
+  "id": "piton_real",
+  "nombre": "Pitón Real (Pitón Bola)",
+  "nombreCientifico": "Python regius",
+  "fechaInformacion": "2023",
+
+  "imagen": "piton_real.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La pitón real, o pitón bola, es una serpiente constrictora no venenosa nativa de África occidental y central, célebre por su temperamento dócil y su mecanismo defensivo único. ",
+    "Cuando se siente amenazada, se enrolla firmemente en una apretada esfera, protegiendo su cabeza en el centro."
+  ],
+
+  "descripcionLarga": [
+    "La pitón real habita en ambientes variados, desde sabanas hasta bosques secos. Es una de las pitones de menor tamaño, lo que la hace menos intimidante que sus parientes más grandes, como la pitón reticulada o la pitón de Birmania.",
+    "A diferencia de las serpientes arbóreas, la pitón real tiene un cuerpo robusto y muscular, adaptado a una vida terrestre, pasando gran parte del día oculta en madrigueras de roedores o bajo montones de vegetación. Su actividad es principalmente nocturna.",
+    "Su popularidad en la terrariofilia se debe a su naturaleza tranquila, lo que ha llevado a una cría extensiva en cautiverio y al desarrollo de cientos de patrones de color y mutaciones genéticas (morphs) diferentes."
+  ],
+
+  "observaciones": [
+    "Su nombre, 'pitón real', deriva posiblemente de la leyenda de que era llevada por la realeza egipcia, mientras que 'pitón bola' se debe a su característica postura defensiva.",
+    "Puede ser reacia a alimentarse bajo estrés (especialmente en cautividad), un comportamiento conocido como 'huelga de hambre', que puede durar semanas o meses.",
+    "Las hembras son generalmente más grandes y pesadas que los machos."
+  ],
+
+  "longevidad": {
+    "enLibertad": "10-20 años",
+    "enCautividad": "20-30 años (el registro más alto conocido es de 47 años)"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Reptilia",
+    "orden": "Squamata (Escamosos)",
+    "familia": "Pythonidae",
+    "genero": "Python",
+    "especie": "P. regius"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable globalmente, aunque decreciente en algunas áreas de alta explotación.",
+    "amenazasPrincipales": [
+      "Captura masiva e ilegal para el comercio internacional de mascotas (aunque gran parte del comercio actual es de animales criados en cautividad).",
+      "Pérdida de hábitat y fragmentación por la expansión agrícola."
+    ],
+    "esfuerzosConservacion": [
+      "Regulación de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (CITES).",
+      "Cría responsable en cautividad para reducir la dependencia de especímenes capturados en la naturaleza."
+    ],
+    "descripcionConservacion": [
+      "Aunque la especie está clasificada como Preocupación Menor, el comercio ilegal y la destrucción del hábitat siguen siendo preocupaciones, especialmente para las poblaciones silvestres restantes en África Occidental."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "1-1.5 kg",
+      "hembraAdulta": "1.5-2.5 kg (hasta 4 kg en ejemplares grandes)",
+      "maximoRegistrado": "4.5 kg"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "0.9-1.1 m",
+      "hembra": "1.2-1.5 m (Longitud total)"
+    },
+    "colorPelaje": "N/A (Escamas). Patrón de coloración que varía entre marrón oscuro, negro y manchas irregulares de color dorado, crema o amarillento.",
+    "caracteristicasEspeciales": "Fosetas labiales termo-sensibles; Espolones pélvicos vestigiales (más prominentes en machos); Cuerpo robusto.",
+    "morfologia": [
+      "Cuerpo robusto y cilíndrico, más grueso que otras serpientes de longitud similar.",
+      "Cabeza pequeña y triangular, con fosetas labiales profundas (pequeños orificios a lo largo de los labios) que le permiten detectar el calor de presas de sangre caliente en la oscuridad absoluta. ",
+      "Cola relativamente corta y puntiaguda, utilizada para el agarre durante la constricción."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Sabanas, praderas, áreas boscosas y agrícolas. Prefiere hábitats terrestres con acceso a refugios.",
+    "distribucionGeografica": [
+      "África Occidental y Central (Países como Ghana, Togo, Benín, Nigeria, Senegal, Sierra Leona)."
+    ],
+    "adaptacionesHabitat": "Comportamiento fosorial (uso de madrigueras subterráneas) y termorregulación mediante la exposición al sol o refugio.",
+    "descripcionHabitat": [
+      "Prefiere zonas cálidas con suficiente vegetación y rocas para esconderse. Depende de las madrigueras de mamíferos para protegerse durante las horas más calurosas del día.",
+      "Es primordialmente terrestre, aunque los juveniles a veces suben a árboles bajos."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Constrictor)",
+    "presasComunes": [
+      "Roedores (ratones, ratas, musarañas).",
+      "Aves pequeñas (ocasionalmente)."
+    ],
+    "estrategiaCaza": "Embosca a la presa y la sujeta con una mordida inicial antes de envolverla rápidamente para constreñirla. ",
+    "descripcionDieta": [
+      "Caza principalmente de noche. Utiliza sus fosetas labiales para localizar la fuente de calor de su presa.",
+      "La constricción detiene la circulación sanguínea de la víctima, causando la pérdida de conciencia y la muerte rápidamente."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario, excepto durante el apareamiento.",
+    "rolMacho": "Busca activamente hembras en épocas de apareamiento, utilizando señales químicas (feromonas).",
+    "rolHembra": "Después de la puesta, la hembra se enrolla alrededor de los huevos para protegerlos y termorregularlos.",
+    "actividadDiaria": "Nocturna (Crepuscular y nocturna).",
+    "comunicacion": [
+      "Señales químicas (feromonas) para el rastreo y la reproducción.",
+      "Movimientos corporales (postura de bola defensiva)."
+    ],
+    "descripcionComportamiento": [
+      "Su comportamiento defensivo es pasivo: se enrolla formando una bola compacta con la cabeza oculta, resistiendo cualquier intento de desenrollarla, antes que morder.",
+      "Pasa el día inactiva, conservando energía en un refugio."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo (Pone huevos)",
+    "madurezSexual": {
+      "macho": "1-2 años",
+      "hembra": "2-3 años"
+    },
+    "periodoGestacion": "45-55 días (desarrollo interno) antes de la puesta.",
+    "tamanoCamada": "4-10 huevos por puesta (promedio).",
+    "cuidadoCrias": "La hembra cuida los huevos, enrollándose a su alrededor y usando contracciones musculares (escalofríos) para elevar la temperatura de incubación.",
+    "descripcionReproduccion": [
+      "La hembra pone los huevos en un nido escondido y los incuba durante unos 60 días.",
+      "A diferencia de muchos reptiles, la hembra no abandona el nido y proporciona calor activo (termogénesis).",
+      "Las crías nacen listas para cazar y son totalmente independientes."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Depredador importante que controla poblaciones de roedores en su hábitat, ayudando a prevenir la propagación de enfermedades asociadas a los roedores."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 4,
+    "adaptabilidad": 7,
+    "fuerza": 3,
+    "velocidad": 3,
+    "tamano": 3,
+    "majestuosidad": 6,
+    "rareza": 5,
+    "supervivencia": 7,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Su nombre en inglés, 'Ball Python', proviene de la postura defensiva en forma de bola que adopta cuando se siente amenazada, de ahí 'pitón bola'.",
+    "Utiliza órganos sensoriales únicos (fosetas labiales) para detectar las firmas de calor de sus presas en completa oscuridad.",
+    "Puede vivir muchos años y es famosa por su longevidad en cautividad."
+  ]
+}

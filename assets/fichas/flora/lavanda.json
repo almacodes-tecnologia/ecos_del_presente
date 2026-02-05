@@ -1,0 +1,112 @@
+{
+  "id": "lavanda",
+  "nombre": "Lavanda",
+  "nombreCientifico": "Lavandula angustifolia",
+  "fechaInformacion": "2025",
+  "imagen": "lavanda.webp",
+  "introduccionPlanta": [
+    "La Lavanda es un arbusto aromático perenne, nativo del Mediterráneo, mundialmente conocido por su inconfundible fragancia floral y sus espigas de flores de color violeta intenso.",
+    "Es una planta rústica y esencial en la aromaterapia por sus propiedades calmantes, y es vital para los polinizadores, como las abejas."
+  ],
+  "descripcionLarga": [
+    "La **lavanda** (*Lavandula angustifolia*) es un arbusto perenne de la familia de las mentas, Lamiaceae. Originaria de la cuenca del Mediterráneo, se ha convertido en una de las plantas aromáticas más cultivadas en todo el mundo, famosa por su belleza, su inconfundible fragancia y sus propiedades terapéuticas. Sus tallos leñosos en la base sostienen espigas de flores de un vibrante color violeta, que se alzan sobre un follaje de color verde grisáceo.",
+    "El cultivo de la lavanda es relativamente sencillo, ya que es una planta rústica y resistente, que prefiere suelos pobres, calcáreos y un drenaje excelente. Es una planta de pleno sol, que odia el exceso de agua y la sombra. Su resistencia a la sequía la convierte en una elección ideal para jardines de bajo mantenimiento en climas cálidos. La **poda** es crucial para mantener la forma compacta de la planta y asegurar una floración abundante y vigorosa cada año.",
+    "La lavanda es un tesoro de la naturaleza con una amplia gama de usos. En la cocina, sus flores secas se utilizan para dar sabor a postres y bebidas. En la medicina, su **aceite esencial** es un remedio natural para el estrés, la ansiedad y el insomnio, y se utiliza en la aromaterapia y en la cosmética. Su nombre, derivado del latín 'lavare', nos recuerda su uso ancestral en rituales de limpieza. La lavanda no es solo una planta, es un símbolo de calma, pureza y paz, una flor que nos conecta con la tierra y nos invita a la serenidad."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Lamiales",
+    "familia": "Lamiaceae",
+    "genero": "Lavandula",
+    "especie": "L. angustifolia"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable. Muy cultivada a nivel global.",
+    "amenazasPrincipales": [
+      "Ninguna amenaza significativa debido a su amplio cultivo."
+    ],
+    "esfuerzosConservacion": [
+      "Ningún esfuerzo de conservación específico, ya que no se considera en peligro."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Arbusto perenne, leñoso en la base (subarbusto), con tallos herbáceos.",
+    "alturaPromedio": "0.5 - 1 m (1.6 - 3.3 ft).",
+    "colorFollaje": "Verde grisáceo o plateado (debido a la vellosidad).",
+    "tipoRaiz": "Fasciculada, fibrosa y leñosa.",
+    "tallos": "Erectos, cuadrangulares y ramificados, cubiertos de una vellosidad plateada.",
+    "hojas": "Lineales, estrechas, opuestas y muy aromáticas.",
+    "flores": {
+      "forma": "Pequeñas, agrupadas en espigas terminales y densas. Cálices tubulares y corola bilabiada.",
+      "colores": "Típicamente violeta o azul-púrpura.",
+      "fragancia": "Dulce, floral, herbal y penetrante. Muy apreciada.",
+      "tamano": "Cada flor mide unos 5-8 mm de largo."
+    },
+    "frutos": "Cuatro nueces ovoides, lisas y brillantes, contenidas dentro del cáliz persistente."
+  },
+  "habitat": {
+    "tipo": "Matorrales secos, garrigas y laderas rocosas.",
+    "distribucionGeografica": [
+      "Nativa de la cuenca del Mediterráneo (sur de Europa, norte de África).",
+      "Cultivada a gran escala en regiones templadas de todo el mundo (ej. Provenza, Francia)."
+    ],
+    "preferenciasSuelo": "Suelos calcáreos, bien drenados y pobres en nutrientes.",
+    "preferenciasLuz": "Pleno sol. Requiere al menos 6-8 horas de luz solar directa al día."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Principalmente por esquejes de madera blanda o semileñosa (para mantener la variedad).",
+      "También por semillas, aunque la germinación puede ser irregular."
+    ],
+    "riego": "Bajo. Muy tolerante a la sequía una vez establecida. El exceso de humedad es perjudicial.",
+    "poda": "Esencial para mantener la forma y promover una floración abundante. Se poda después de la floración y en primavera.",
+    "fertilizacion": "No es necesaria. Crece mejor en suelos pobres. El exceso de fertilizante puede reducir la floración.",
+    "plagasComunes": [
+      "Pulgones (ocasionalmente)."
+    ],
+    "enfermedadesComunes": [
+      "Pudrición de la raíz (por exceso de riego)."
+    ]
+  },
+  "usos": {
+    "ornamental": "Jardines de rocas, bordes, setos bajos. Utilizada para crear grandes campos de color y fragancia.",
+    "culinario": [
+      "Sus flores se utilizan en la cocina (infusiones, postres, miel, condimento Herbes de Provence)."
+    ],
+    "medicinal": [
+      "El aceite esencial de lavanda es un potente relajante y sedante, usado para aliviar el estrés, el insomnio y la ansiedad.",
+      "Propiedades antisépticas, antiinflamatorias y cicatrizantes."
+    ],
+    "industrial": [
+      "Producción de aceites esenciales para perfumería, cosmética, productos de limpieza y aromaterapia.",
+      "Elaboración de miel de lavanda."
+    ],
+    "simbolismo": "Calma, pureza, serenidad, devoción y tranquilidad. Un símbolo de la belleza natural y la paz interior."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (esquejes).",
+    "polinizacion": "Entomófila (por insectos), especialmente abejas y mariposas.",
+    "momentoFloracion": "Finales de primavera a verano (junio a agosto en el hemisferio norte).",
+    "cicloVida": "Perenne, de vida relativamente larga (décadas) si se poda adecuadamente."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 2,
+    "vitalidad": 4,
+    "resistencia": 5,
+    "impactoEcologico": 4,
+    "misticismo": 4,
+    "fraganciaMagica": 5,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "El nombre 'lavanda' proviene del latín 'lavare', que significa 'lavar', en referencia a su uso histórico en baños y para perfumar la ropa.",
+    "Es una de las plantas aromáticas más cultivadas y su fragancia es universalmente reconocida.",
+    "Es una planta muy atractiva para las abejas y otros insectos polinizadores, lo que la convierte en una planta esencial para la biodiversidad de un jardín.",
+    "El color 'lavanda' toma su nombre de esta flor, que ha influido en la moda y el diseño.",
+    "El aceite esencial de lavanda se ha utilizado durante siglos en la aromaterapia por sus propiedades relajantes y terapéuticas."
+  ]
+}

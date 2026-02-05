@@ -1,0 +1,160 @@
+{
+  "id": "vicuna",
+  "nombre": "Vicuña",
+  "nombreCientifico": "Vicugna vicugna",
+  "fechaInformacion": "2025",
+
+  "imagen": "vicuna.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La vicuña (*Vicugna vicugna*) es uno de los dos camélidos sudamericanos salvajes (junto con el guanaco) y es originaria de los altos Andes. ",
+    "Es mundialmente famosa por poseer la **fibra natural más fina y valiosa del mundo**, lo que históricamente la llevó al borde de la extinción."
+  ],
+
+  "descripcionLarga": [
+    "La vicuña habita los altiplanos, punas y páramos, desde los 3,200 hasta más de 4,800 metros sobre el nivel del mar. Su pequeño tamaño y elegante figura se complementan con un pelaje excepcional: una capa externa larga y protectora, y una capa interna de fibra extremadamente densa y fina que actúa como un aislante térmico superior contra el frío andino. ",
+    "Viven en pequeños grupos sociales formados por un macho dominante, varias hembras y sus crías (grupos familiares), o en grupos de machos solteros ('troperos'). Son animales diurnos que dedican la mañana a pastar y la tarde a descansar. Su supervivencia ha dependido de rigurosos programas de conservación y del manejo sostenible ('Chaccu'), una práctica ancestral inca de esquila sin daño."
+  ],
+
+  "observaciones": [
+    "Su fibra, con un diámetro de entre 6 y 12 micras, es más fina que la cachemira más delicada y es extremadamente codiciada en la industria textil de lujo.",
+    "Para compensar la escasez de oxígeno en la altura, las vicuñas tienen un corazón grande y glóbulos rojos elípticos en mayor cantidad que otros mamíferos, lo que les permite transportar oxígeno de manera más eficiente."
+  ],
+
+  "longevidad": {
+    "enLibertad": "15-20 años",
+    "enCautividad": "20-25 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia (Mamíferos)",
+    "orden": "Artiodactyla",
+    "familia": "Camelidae (Camélidos)",
+    "genero": "Vicugna",
+    "especie": "V. vicugna (Subespecies: *V. v. vicugna* y *V. v. mensalis*)"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Casi Amenazada (NT)",
+    "tendenciaPoblacion": "Creciente/Estable (Se ha recuperado significativamente desde el peligro de extinción en 1970).",
+    "amenazasPrincipales": [
+      "Caza furtiva (a pesar de la protección legal, la demanda de fibra impulsa el comercio ilegal).",
+      "Conflicto con ganado doméstico por pastos y agua.",
+      "Cambio climático afectando los pastos de altura."
+    ],
+    "esfuerzosConservacion": [
+      "Regulación internacional CITES (Comercio).",
+      "Programas de conservación basados en comunidades (Manejo del 'Chaccu').",
+      "Creación de áreas protegidas y reservas nacionales (ej. Reserva Nacional de Pampa Galeras)."
+    ],
+    "descripcionConservacion": [
+      "La vicuña fue clasificada en 'Peligro de Extinción' en los años 60, pero los intensos esfuerzos de conservación han permitido una recuperación notable, llevando a la especie a la categoría de Casi Amenazada. Su manejo está estrictamente regulado a nivel internacional."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "45-65 kg",
+      "hembraAdulta": "35-50 kg",
+      "maximoRegistrado": "65 kg"
+    },
+    "alturaHombro": {
+      "macho": "80-90 cm (A la cruz)",
+      "hembra": "70-80 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "1.2-1.5 m (Cuerpo)",
+      "hembra": "1.1-1.4 m (Cuerpo)"
+    },
+    "colorPelaje": "Marrón claro (canela) en el lomo y flancos; Blanco o cremoso en el pecho, abdomen y la parte interior de las patas.",
+    "caracteristicasEspeciales": "Pelaje de fibra extremadamente fino. Dientes incisivos especializados que crecen continuamente (similares a los roedores).",
+    "morfologia": [
+      "Cuerpo delgado y esbelto, con un cuello largo. Patas largas y flexibles adaptadas para la velocidad en terrenos irregulares.",
+      "Sus pies terminan en almohadillas suaves, que son más adecuadas para el suelo blando de la puna que las pezuñas de otros ungulados.",
+      "Posee un mechón de pelo largo y blanco en la parte baja del pecho (el 'peto')."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Puna, altiplano andino, pastizales de altura y zonas rocosas.",
+    "distribucionGeografica": [
+      "Andes de Perú (mayor población), Bolivia, Chile, Argentina y un pequeño grupo reintroducido en Ecuador."
+    ],
+    "adaptacionesHabitat": "Adaptación a la hipoxia (bajos niveles de oxígeno). Gran capacidad para soportar grandes variaciones de temperatura entre el día y la noche.",
+    "descripcionHabitat": [
+      "Vive en pastizales de montaña abiertos (pajonales) que ofrecen pasto y agua cerca, y pendientes rocosas para refugiarse.",
+      "La altitud extrema es la característica definitoria de su entorno."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro (Pastoreador/Rumiante)",
+    "presasComunes": [
+      "Pastos duros andinos (gramíneas).",
+      "Hierbas bajas y arbustos de la puna."
+    ],
+    "estrategiaCaza": "N/A (Pastoreo).",
+    "descripcionDieta": [
+      "Utiliza sus incisivos de crecimiento continuo (únicos entre los artiodáctilos) para cortar el pasto muy cerca del suelo.",
+      "Su sistema digestivo es muy eficiente, permitiéndole extraer el máximo de nutrientes de la vegetación escasa y dura de la puna."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Grupos familiares territoriales (1 macho, 2-5 hembras y crías) y grupos de machos solteros ('troperos').",
+    "rolMacho": "Macho alfa dominante. Defiende activamente el territorio (que incluye recursos de alimentación y descanso) contra otros machos.",
+    "rolHembra": "Reproducción y cuidado de la cría. Pastorean y buscan alimento colectivamente.",
+    "actividadDiaria": "Diurna (Caza y pastoreo).",
+    "comunicacion": [
+      "Vocalizaciones agudas de alarma (silbidos y bufidos).",
+      "Marcaje de territorio con montículos de heces (bosteaderos).",
+      "Posturas de alerta (erguidos)."
+    ],
+    "descripcionComportamiento": [
+      "Son extremadamente tímidos y alertas. Su principal defensa contra los depredadores (como el puma) es la detección temprana y la velocidad.",
+      "La cohesión del grupo es vital, ya que el macho centinela alerta al resto ante cualquier amenaza."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo",
+    "madurezSexual": {
+      "macho": "3-4 años",
+      "hembra": "2-3 años"
+    },
+    "periodoGestacion": "Aproximadamente 11 meses.",
+    "tamanoCamada": "1 cría ('Cría' o 'Tuquillo').",
+    "cuidadoCrias": "La cría es capaz de ponerse de pie y correr casi inmediatamente. Permanece con la madre durante 6-8 meses antes de ser destetada y expulsada del grupo al año.",
+    "descripcionReproduccion": [
+      "El parto se sincroniza con la época de lluvias (verano andino) para asegurar el mejor suministro de pasto.",
+      "La hembra solo da a luz una vez al año, lo que hace que la tasa de recuperación poblacional sea lenta."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Bioindicador: Su presencia es un indicador clave de la salud del ecosistema de la puna.",
+    "Especie nativa: Ha coevolucionado con el ecosistema andino, manteniendo la diversidad vegetal y sirviendo de presa a los carnívoros nativos (puma andino)."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 3,
+    "inteligencia": 5,
+    "adaptabilidad": 6,
+    "fuerza": 4,
+    "velocidad": 6,
+    "tamano": 4,
+    "majestuosidad": 6,
+    "rareza": 7,
+    "supervivencia": 7,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "La fibra de vicuña era considerada un tesoro sagrado en el Imperio Inca y solo podía ser usada por la realeza.",
+    "El 'Chaccu' es un ritual de manejo ancestral donde las comunidades acorralan a las vicuñas, las esquilan y las liberan, asegurando el uso sostenible de la fibra.",
+    "Es el animal nacional del Perú y aparece en el escudo de armas nacional."
+  ]
+}

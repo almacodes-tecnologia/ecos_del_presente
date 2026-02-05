@@ -1,0 +1,115 @@
+{
+  "id": "flor_de_las_nieves",
+  "nombre": "Flor de las Nieves",
+  "nombreCientifico": "Leontopodium alpinum",
+  "fechaInformacion": "2025",
+  "imagen": "flor_de_las_nieves.webp",
+  "introduccionPlanta": [
+    "La Flor de las Nieves (Edelweiss) es una icónica hierba alpina perenne, famosa por su aspecto aterciopelado en forma de estrella y su capacidad para prosperar en las altas montañas rocosas de Europa.",
+    "Simboliza la pureza, el coraje y el amor eterno, y es el emblema nacional de varios países alpinos, gozando de estricta protección legal."
+  ],
+  "descripcionLarga": [
+    "La Flor de las Nieves, conocida universalmente como **Edelweiss** (*Leontopodium alpinum*), es una pequeña pero icónica hierba perenne que habita las praderas y laderas rocosas de alta montaña en Europa. Su fama no solo se debe a su delicada belleza, sino también a su simbolismo de coraje y pureza, al crecer en los entornos más hostiles y elevados de los Alpes.",
+    "Físicamente, la Edelweiss es un prodigio de la adaptación. Sus tallos y hojas están cubiertos por una densa y lanosa pelusa blanca, que la protege de las extremas temperaturas alpinas, el viento gélido y la intensa radiación solar. Lo que a menudo se considera una única flor es, en realidad, una inflorescencia compuesta por pequeños capítulos florales amarillos, rodeados por varias **brácteas** aterciopeladas que forman la característica 'estrella de nieve'.",
+    "Debido a la recolección masiva en el pasado, la Edelweiss se convirtió en una especie en peligro, pero las estrictas leyes de protección y la educación pública han ayudado a que sus poblaciones se recuperen, llevándola a una categoría de Preocupación Menor. En la cultura, la Flor de las Nieves ha trascendido su existencia botánica para convertirse en un emblema de la resistencia, la belleza que florece en la adversidad y un tesoro de la flora alpina."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Tracheophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Asterales",
+    "familia": "Asteraceae",
+    "genero": "Leontopodium",
+    "especie": "L. alpinum"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable, aunque protegida en muchos lugares (históricamente amenazada).",
+    "amenazasPrincipales": [
+      "Recolección excesiva por turistas y coleccionistas (históricamente).",
+      "Pérdida de hábitat debido a la infraestructura turística de montaña.",
+      "Cambio climático (retroceso de glaciares y permafrost)."
+    ],
+    "esfuerzosConservacion": [
+      "Protección legal estricta en países como Austria y Suiza (prohibición de recolección).",
+      "Educación ambiental para desalentar la recolección.",
+      "Monitoreo de poblaciones en hábitats alpinos.",
+      "Cultivo comercial para reducir la presión sobre las poblaciones silvestres."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Hierba perenne, de vida corta, con pubescencia lanosa y densa (aterciopelada).",
+    "alturaPromedio": "5 - 20 cm (2 - 8 in).",
+    "colorFollaje": "Verde grisáceo, cubierto de pelusa blanca.",
+    "tipoRaiz": "Fasciculada, adaptada a suelos rocosos y fisuras.",
+    "tallos": "Erectos, no ramificados, cubiertos de vellosidad blanca y lanosa.",
+    "hojas": "Espátulas o lanceoladas, cubiertas por una densa pelusa blanca para protegerse del frío y la radiación UV.",
+    "flores": {
+      "forma": "Capítulo floral compuesto por flores tubulares, rodeado por brácteas que forman una estrella.",
+      "colores": "Las brácteas son de un blanco nieve, las flores interiores son amarillas.",
+      "fragancia": "Poco perceptible (herbácea).",
+      "tamano": "La 'estrella' completa mide entre 2-6 cm de diámetro."
+    },
+    "frutos": "Aquenios pequeños con un vilano (estructura de pelos) que facilita la dispersión por el viento."
+  },
+  "habitat": {
+    "tipo": "Praderas y laderas rocosas de alta montaña (zonas alpinas y subalpinas).",
+    "distribucionGeografica": [
+      "Montañas de Europa (principalmente Alpes, pero también Cárpatos, Pirineos, Balcanes, y montañas del Jura)."
+    ],
+    "preferenciasSuelo": "Suelos calcáreos, rocosos y pobres en nutrientes, con buen drenaje.",
+    "preferenciasLuz": "Pleno sol. Requiere una alta exposición a la luz solar para crecer y florecer."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Principalmente por semillas.",
+      "División de mata en primavera u otoño."
+    ],
+    "riego": "Bajo. Muy sensible al exceso de humedad. Es fundamental un sustrato muy bien drenado.",
+    "poda": "Generalmente no se poda. Se pueden retirar las flores marchitas para prolongar la floración.",
+    "fertilizacion": "No es necesaria. En exceso puede perjudicar a la planta.",
+    "plagasComunes": [
+      "Muy resistente a plagas y enfermedades."
+    ],
+    "enfermedadesComunes": [
+      "Pudrición de la raíz (por encharcamiento)."
+    ]
+  },
+  "usos": {
+    "ornamental": "Jardines de rocas, paisajes alpinos y macetas.",
+    "culinario": [
+      "No tiene usos culinarios."
+    ],
+    "medicinal": [
+      "Uso tradicional para problemas respiratorios y digestivos.",
+      "Estudios recientes han investigado sus propiedades antioxidantes y antiinflamatorias."
+    ],
+    "industrial": [
+      "Extractos en la industria cosmética (cremas antienvejecimiento, protectores solares) por sus antioxidantes."
+    ],
+    "simbolismo": "Pureza, coraje, nobleza, y belleza. Un símbolo nacional en Suiza y Austria, y un emblema del montañismo y el amor eterno."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Entomófila (por insectos como moscas y escarabajos).",
+    "momentoFloracion": "Verano alpino (julio a septiembre).",
+    "cicloVida": "Perenne, de vida relativamente corta en comparación con los árboles."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 4,
+    "vitalidad": 3,
+    "resistencia": 5,
+    "impactoEcologico": 4,
+    "misticismo": 5,
+    "fraganciaMagica": 2,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "El nombre 'Edelweiss' proviene del alemán, 'edel' (noble) y 'weiss' (blanco).",
+    "Está protegida en gran parte de Europa. La recolección de plantas silvestres está prohibida y puede llevar a multas elevadas.",
+    "La densa pubescencia blanca que cubre la planta actúa como una capa protectora contra el frío extremo y la alta radiación ultravioleta de las zonas alpinas.",
+    "Es una de las flores más famosas y reconocibles del mundo, popularizada por la canción 'Edelweiss' del musical *Sonrisas y Lágrimas*.",
+    "Crece a grandes altitudes, generalmente entre los 1.800 y 3.000 metros sobre el nivel del mar."
+  ]
+}

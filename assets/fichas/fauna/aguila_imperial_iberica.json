@@ -1,0 +1,142 @@
+{
+  "id": "aguila_imperial_iberica",
+  "nombre": "Águila Imperial Ibérica",
+  "nombreCientifico": "Aquila adalberti",
+  "fechaInformacion": "2025",
+  "imagen": "aguila_imperial_iberica.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "Ave rapaz endémica de la península ibérica, considerada especie **Vulnerable**."
+  ],
+
+  "descripcionLarga": [
+    "El águila imperial ibérica es un gran ave de presa con plumaje oscuro y hombros dorados, siendo una de las rapaces más grandes y majestuosas de Europa.",
+    "Se alimenta principalmente de conejos y otras presas medianas, desempeñando un papel crucial en el control de estas poblaciones.",
+    "Habita bosques mediterráneos, dehesas y áreas abiertas con árboles altos para anidar. Su territorio de caza puede ser extenso."
+  ],
+
+  "observaciones": [
+    "Muy sensible a la perturbación humana durante la reproducción.",
+    "Sus nidos son utilizados durante décadas y requieren protección legal estricta."
+  ],
+
+  "longevidad": {
+    "enLibertad": "20-25 años",
+    "enCautividad": "30-35 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Accipitriformes",
+    "familia": "Accipitridae",
+    "genero": "Aquila",
+    "especie": "adalberti"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Vulnerable (VU)",
+    "tendenciaPoblacion": "Aumentando lentamente",
+    "amenazasPrincipales": ["Pérdida y degradación del hábitat", "Caza ilegal", "Electrocución en tendidos eléctricos", "Envenenamiento por cebos"],
+    "esfuerzosConservacion": ["Programas de protección de nidos", "Reintroducciones y marcaje", "Aislamiento de tendidos eléctricos peligrosos", "Educación ambiental"],
+    "descripcionConservacion": [
+      "El águila imperial ibérica ha sido foco de intensos programas de conservación. Su población se ha recuperado lentamente, pero su distribución sigue siendo fragmentada y está limitada a la Península Ibérica."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "2.5-3.5 kg",
+      "hembraAdulta": "3-4.5 kg",
+      "maximoRegistrado": "5 kg"
+    },
+    "alturaHombro": {
+      "macho": "70-75 cm",
+      "hembra": "75-85 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "78-88 cm",
+      "hembra": "85-95 cm"
+    },
+    "colorPelaje": "Plumaje marrón oscuro con dorado en la cabeza y hombros",
+    "caracteristicasEspeciales": "Manchas alares blancas en los hombros ('charreteras'); envergadura de 1.8 a 2.2 metros.",
+    "morfologia": [
+      "Pico fuerte y ganchudo adaptado a desgarrar carne.",
+      "Garras poderosas para capturar presas.",
+      "Gran envergadura alar que facilita el planeo."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosque mediterráneo, dehesa",
+    "distribucionGeografica": ["España (centro y suroeste), Portugal"],
+    "adaptacionesHabitat": "Anida en árboles altos y utiliza áreas abiertas para cazar.",
+    "descripcionHabitat": [
+      "Prefiere las grandes dehesas donde abundan los conejos, su principal alimento.",
+      "Requiere zonas tranquilas para la cría y áreas con escasa perturbación humana."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro (Principalmente lagomorfo)",
+    "presasComunes": ["Conejos (principal)", "Liebres", "Perdices", "Palomas"],
+    "estrategiaCaza": "Vuelo de acecho a baja altura, emboscada desde posaderos elevados.",
+    "descripcionDieta": [
+      "El conejo de monte constituye hasta el 80% de su dieta. También consume aves medianas y reptiles.",
+      "Caza por lo general de forma solitaria o en pareja."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario o en pareja monógama",
+    "rolMacho": "Caza, defensa del territorio y alimentación de la hembra y crías.",
+    "rolHembra": "Incubación de huevos, cuidado directo de los polluelos.",
+    "actividadDiaria": "Diurna",
+    "comunicacion": ["Vocalizaciones nasales y llamadas de cortejo"],
+    "descripcionComportamiento": [
+      "Establece fuertes lazos de pareja. Es una especie muy territorial, especialmente durante la época reproductiva.",
+      "Los ejemplares jóvenes a menudo dispersan grandes distancias antes de establecer su propio territorio."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "4-5 años",
+      "hembra": "4-5 años"
+    },
+    "periodoGestacion": "36-42 días (incubación)",
+    "tamanoCamada": "1-3 huevos",
+    "cuidadoCrias": "Ambos padres alimentan y protegen a los polluelos hasta que pueden volar",
+    "descripcionReproduccion": [
+      "Los nidos son grandes estructuras hechas de ramas en árboles altos. La pareja puede usar el mismo nido o varios alternativamente durante décadas.",
+      "Es común el fenómeno de 'cainismo' (el polluelo mayor mata al más pequeño) en años de escasez."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Depredador clave en los ecosistemas mediterráneos de la Península Ibérica, regulando las poblaciones de conejos.",
+    "Su presencia es un indicador de la salud y calidad del hábitat de la dehesa."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 6,
+    "inteligencia": 7,
+    "adaptabilidad": 5,
+    "fuerza": 6,
+    "velocidad": 8,
+    "tamano": 6,
+    "majestuosidad": 9,
+    "rareza": 8,
+    "supervivencia": 6,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "Es el ave rapaz más amenazada de Europa.",
+    "Su población se concentra principalmente en el centro y sur de España.",
+    "Se diferencia del águila real por sus característicos hombros blancos."
+  ]
+}

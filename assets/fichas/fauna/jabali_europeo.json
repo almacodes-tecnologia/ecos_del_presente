@@ -1,0 +1,166 @@
+{
+  "id": "jabali_europeo",
+  "nombre": "Jabalí Europeo",
+  "nombreCientifico": "Sus scrofa",
+  "fechaInformacion": "2025",
+
+  "imagen": "jabali_europeo.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El jabalí (*Sus scrofa*) es un mamífero omnívoro y gregario, el suido silvestre más ampliamente distribuido en el mundo. Es el antecesor directo de todas las razas de cerdos domésticos.",
+    "Posee una notoria adaptabilidad ecológica, lo que le ha permitido prosperar en casi cualquier ecosistema, desde el desierto hasta los bosques templados y áreas periurbanas."
+  ],
+
+  "descripcionLarga": [
+    "El jabalí es un animal robusto, con un cuerpo compacto y una cabeza grande que termina en un hocico potente, adaptado para la excavación o 'hozar' en busca de alimento. El pelaje denso y duro (cerdas) le protege contra el frío y la vegetación espinosa. ",
+    "Se alimenta de una dieta extremadamente variada, incluyendo raíces, bellotas, insectos y carroña, siendo un omnívoro oportunista. Su éxito se debe en gran parte a esta flexibilidad alimentaria.",
+    "Vive en grupos sociales llamados **'piaras'**, estructuradas jerárquicamente en torno a una o varias hembras adultas (la matriarca). Los machos adultos ('verracos') son solitarios fuera de la época de reproducción."
+  ],
+
+  "observaciones": [
+    "Puede ser muy peligroso si se le acorrala o se amenaza a las crías ('rayones'). La principal arma de los machos son sus colmillos ('amuesgos').",
+    "Su población ha experimentado un crecimiento y expansión significativos en el último siglo en Europa y Norteamérica (donde fue introducido), causando daños considerables a la agricultura y problemas de tráfico.",
+    "Los ejemplares jóvenes tienen rayas longitudinales claras y oscuras, conocidas como **rayones**, que les proporcionan camuflaje en el sotobosque."
+  ],
+
+  "longevidad": {
+    "enLibertad": "10-14 años (raro)",
+    "enCautividad": "20 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Artiodactyla",
+    "familia": "Suidae",
+    "genero": "Sus",
+    "especie": "S. scrofa"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "En aumento generalizado.",
+    "amenazasPrincipales": [
+      "Enfermedades infecciosas (como la Peste Porcina Africana) que pueden diezmar poblaciones.",
+      "Conflictos con los intereses humanos (caza de control, daños agrícolas y atropellos).",
+      "Hibridación con el cerdo doméstico asilvestrado (en algunas regiones)."
+    ],
+    "esfuerzosConservacion": [
+      "Regulación y gestión cinegética para el control poblacional.",
+      "Monitoreo sanitario intensivo, especialmente en la frontera con zonas de cría porcina.",
+      "Desarrollo de métodos de disuasión no letales en zonas agrícolas."
+    ],
+    "descripcionConservacion": [
+      "Es una de las especies con mayor éxito de adaptación. En muchas regiones, la preocupación no es su conservación, sino el manejo de sus números para mitigar su impacto en los ecosistemas y la economía local."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "75–100 kg (Europa); más pesado en el este de Asia.",
+      "hembraAdulta": "50–80 kg",
+      "maximoRegistrado": "Hasta 350 kg (ejemplares en Asia y en ambientes favorables)"
+    },
+    "alturaHombro": {
+      "macho": "90 cm",
+      "hembra": "80 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "1.4–1.9 m",
+      "hembra": "1.2–1.7 m"
+    },
+    "colorPelaje": "Varía de pardo oscuro a negro. Los jóvenes ('rayones') tienen rayas longitudinales de camuflaje.",
+    "caracteristicasEspeciales": "Colmillos afilados ('amuesgos') en machos; Hocico reforzado (hozar); Crías 'rayones'; Pelaje denso de cerdas; Antecesor del cerdo doméstico.",
+    "morfologia": [
+      "Cabeza cuneiforme con un hocico reforzado por un disco cartilaginoso y un hueso prenasal, ideal para excavar (hozar).",
+      "Los machos desarrollan colmillos afilados ('amuesgos' y 'defensas') curvados hacia arriba, utilizados en la lucha.",
+      "Cuerpo muscular y comprimido lateralmente, lo que facilita el movimiento a través de la vegetación densa."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques (caducifolios, coníferos), matorrales, zonas agrícolas, humedales y estuarios.",
+    "distribucionGeografica": [
+      "Europa, Asia (Oriental y Occidental)",
+      "Ampliamente introducido y asilvestrado en muchos otros continentes."
+    ],
+    "adaptacionesHabitat": "Gran adaptabilidad a diferentes climas. Su dieta omnívora le permite explotar diversos nichos, desde el bosque hasta los residuos urbanos.",
+    "descripcionHabitat": [
+      "Busca refugio durante el día en la vegetación densa (encame) y se alimenta al amparo de la noche. Necesita acceso a barro o agua para bañarse (revolcarse) para regular la temperatura y combatir parásitos.",
+      "Su capacidad de hozar le permite encontrar alimento incluso bajo la nieve o la tierra compacta."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Omnívoro Oportunista",
+    "presasComunes": [
+      "Raíces, tubérculos, rizomas (excavación).",
+      "Frutos (bellotas, bayas) y semillas.",
+      "Insectos, lombrices, reptiles, huevos de aves.",
+      "Carroña y pequeños vertebrados (ocasionalmente)."
+    ],
+    "estrategiaCaza": "Excavación activa con el hocico y las patas; forrajeo nocturno. Puede seguir rastros de olor con gran precisión.",
+    "descripcionDieta": [
+      "Su dieta varía enormemente según la estación, siendo más frugívora en otoño (bellotas, castañas) y más carnívora/vegetal en primavera (raíces e invertebrados).",
+      "Su capacidad para consumir una amplia variedad de alimentos contribuye a su éxito biológico."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Piaras matriarcales permanentes (hembras relacionadas y sus crías); machos adultos solitarios (verracos) la mayor parte del año.",
+    "rolMacho": "Solitario; busca hembras en celo durante la época de reproducción (otoño/invierno) y compite ferozmente con otros machos.",
+    "rolHembra": "Dirige la piara, toma decisiones de movimiento, y proporciona cuidado parental intenso. La matriarca es la hembra más vieja y experimentada.",
+    "actividadDiaria": "Principalmente nocturno y crepuscular para evitar depredadores y el calor diurno. Puede ser diurno en zonas muy remotas.",
+    "comunicacion": [
+      "Amplio rango de vocalizaciones (gruñidos, resoplidos, chillidos) para mantener el contacto y advertir.",
+      "Señales olfativas mediante glándulas y marcaje de territorio con barro (baños de barro)."
+    ],
+    "descripcionComportamiento": [
+      "Muestran una alta inteligencia social. Son muy protectores y el macho puede ser extremadamente peligroso durante el celo.",
+      "El acto de revolcarse en el barro no solo regula la temperatura sino que también ayuda a la higiene y al control parasitario."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "1-2 años (madurez social más tarde, a los 4-5 años)",
+      "hembra": "1 año (capaz de reproducirse, aunque a menudo ocurre más tarde)"
+    },
+    "periodoGestacion": "115 días (3 meses, 3 semanas y 3 días).",
+    "tamanoCamada": "4–12 crías (promedio de 6).",
+    "cuidadoCrias": "Las crías ('rayones') permanecen con la madre durante varios meses (hasta el siguiente parto), aprendiendo las rutas de alimentación.",
+    "descripcionReproduccion": [
+      "La hembra preñada construye un nido voluminoso y acolchado ('cama') donde da a luz y mantiene a las crías en las primeras semanas.",
+      "La alta tasa de reproducción (hasta dos camadas por año en condiciones óptimas) contribuye a su rápido crecimiento poblacional."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Ingeniero de ecosistemas: Su comportamiento de hozar y excavar remueve la capa superior del suelo, ayudando a la aireación y la germinación de semillas.",
+    "Actúa como un importante dispersor de semillas, especialmente de frutos carnosos.",
+    "Controla poblaciones de pequeños vertebrados e invertebrados, manteniendo el equilibrio."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 6,
+    "inteligencia": 6,
+    "adaptabilidad": 9,
+    "fuerza": 7,
+    "velocidad": 6,
+    "tamano": 6,
+    "majestuosidad": 5,
+    "rareza": 4,
+    "supervivencia": 8,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "El período de gestación es tradicionalmente recordado como 'tres meses, tres semanas y tres días' (aproximadamente 115 días).",
+    "Los ejemplares jóvenes tienen rayas de camuflaje que desaparecen después de unos seis meses. Por esta razón se les llama **rayones**.",
+    "Los machos utilizan sus colmillos ('amuesgos' y 'defensas') para proteger los costados de heridas graves durante las peleas contra otros machos en celo.",
+    "Pueden correr hasta 40 km/h en distancias cortas, una sorpresa dada su apariencia robusta."
+  ]
+}

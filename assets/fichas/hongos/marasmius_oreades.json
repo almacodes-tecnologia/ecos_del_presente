@@ -1,0 +1,43 @@
+{
+  "id": "marasmius_oreades",
+  "nombre": "Senderuela",
+  "nombreCientifico": "Marasmius oreades",
+  "familia": "Marasmiaceae",
+  "imagen": "marasmius_oreades.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "La Marasmius oreades es un hongo basidiomiceto de dimensiones discretas que destaca por su capacidad de reviviscencia: puede deshidratarse por completo bajo el sol y recuperar su turgencia y actividad metabólica al rehidratarse. Crece de forma gregaria formando hileras o estructuras circulares en terrenos herbosos.",
+
+  "caracteristicas": {
+    "sombrero": "2-5 cm de diámetro. Evoluciona de una forma acampanada a una aplanada, manteniendo siempre un mamelón (protuberancia) central prominente. Su coloración es crema o avellana claro, mostrando higrofanía (cambia de color según el grado de hidratación).",
+    "laminas": "Notablemente separadas entre sí, gruesas y de inserción libre. Presentan un color blanquecino o crema y cuentan con lamélulas intercaladas.",
+    "pie": "Delgado, cilíndrico y proporcionalmente largo respecto al sombrero. Posee una consistencia extremadamente tenaz y elástica, característica diagnóstica clave, ya que resiste la torsión manual sin fracturarse.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Blanca.",
+    "usoCultural": "Especie de gran relevancia en el folclore y la mitología europea, asociada históricamente a la formación de estructuras circulares naturales en los campos de pastoreo."
+  },
+
+  "habitat": {
+    "tipo": "Suelos herbosos, prados de montaña, pastizales y zonas de césped bien conservadas.",
+    "relacionEcologica": "Saprófito; descompone restos vegetales en el sustrato. Genera el fenómeno de los 'corros de brujas' (fairy rings), donde el micelio fertiliza el suelo periférico con nitrógeno, provocando que la hierba circundante adquiera un verde más intenso.",
+    "distribucionGeografica": ["Ampliamente distribuido en las zonas templadas de Europa y América del Norte."],
+    "temporada": "Primavera y otoño, condicionado a la presencia de precipitaciones intermitentes.",
+    "altitudRango": "Desde el nivel del mar hasta praderas de alta montaña."
+  },
+
+  "curiosidades": [
+    "Su capacidad de reviviscencia le permite sobrevivir a periodos de sequía prolongados en los que otros hongos perecerían, volviendo a esporular en cuanto regresa la lluvia.",
+    "Los 'corros de brujas' expanden su radio cada año; algunos ejemplares en praderas estables se estiman en cientos de años de antigüedad debido al diámetro alcanzado.",
+    "Contiene altas concentraciones de trehalosa, un disacárido que actúa como protector de las membranas celulares y proteínas durante los procesos de desecación extrema.",
+    "La elasticidad de su pie es una adaptación que permite al cuerpo fructífero oscilar con el viento en espacios abiertos sin romperse, facilitando la dispersión de esporas."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 4,
+    "rareza": 3,
+    "simbolismo": 9,
+    "resistencia": 10,
+    "velocidadDeCrecimiento": 8,
+    "aura": 7
+  }
+}

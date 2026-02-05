@@ -1,0 +1,161 @@
+{
+  "id": "lince_iberico",
+  "nombre": "Lince Ibérico",
+  "nombreCientifico": "Lynx pardinus",
+  "fechaInformacion": "2025",
+
+  "imagen": "lince_iberico.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El lince ibérico (*Lynx pardinus*) es un felino endémico de la península ibérica, mundialmente reconocido por sus característicos pinceles en las orejas y su 'barba'. Es el felino más amenazado del mundo.",
+    "Es un depredador altamente especializado, cuya supervivencia está intrínsecamente ligada a la abundancia de conejos, su principal fuente de alimento."
+  ],
+
+  "descripcionLarga": [
+    "El lince ibérico es un felino de tamaño medio, notablemente más pequeño que otros linces, con un pelaje amarillo-rojizo distintivo y moteado (que varía en densidad y tamaño de las manchas) y orejas puntiagudas rematadas por pinceles de pelo negro.",
+    "El rasgo más distintivo son sus patillas largas y negras (barba), que crecen con la edad y son más prominentes en los machos dominantes. Estas patillas ayudan a enfocar los sonidos hacia sus oídos.",
+    "Habita zonas de matorral mediterráneo denso, bosques abiertos y dehesas, pero siempre en áreas con una alta densidad poblacional de conejos, que sustentan su dieta."
+  ],
+
+  "observaciones": [
+    "Su gran especialización dietética lo hace extremadamente sensible a la escasez de conejos (debida a enfermedades como la mixomatosis y la enfermedad hemorrágica del conejo).",
+    "La conservación ha sido un esfuerzo monumental, pasando de 'En Peligro Crítico' a una recuperación cautelosa en las últimas décadas.",
+    "Es un cazador solitario y extremadamente sigiloso."
+  ],
+
+  "longevidad": {
+    "enLibertad": "10-12 años",
+    "enCautividad": "15-20 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Carnivora",
+    "familia": "Felidae",
+    "genero": "Lynx",
+    "especie": "L. pardinus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN) (Recientemente rebajado de Crítico)",
+    "tendenciaPoblacion": "Aumentando lentamente y de manera sostenible.",
+    "amenazasPrincipales": [
+      "Fragmentación del hábitat y atropellos en carreteras.",
+      "Escasez de conejos (debido a enfermedades que diezman sus poblaciones).",
+      "Caza ilegal y trampas dirigidas a otras especies."
+    ],
+    "esfuerzosConservacion": [
+      "Programas de cría en cautividad y reintroducción exitosos en España y Portugal.",
+      "Mejora de la calidad del hábitat y recuperación de poblaciones de conejos.",
+      "Medidas para reducir los atropellos (vallados y pasos de fauna)."
+    ],
+    "descripcionConservacion": [
+      "El lince ibérico es un ejemplo de éxito en la conservación, pasando de cerca de 100 individuos en 2002 a superar los 1,600 en 2023. Sin embargo, su estatus 'En Peligro' (EN) sigue siendo crítico, y la dependencia del conejo es un desafío constante."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "12-15 kg",
+      "hembraAdulta": "8-13 kg",
+      "maximoRegistrado": "17 kg"
+    },
+    "alturaHombro": {
+      "macho": "50-60 cm",
+      "hembra": "45-55 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "85-110 cm (cuerpo + cola)",
+      "hembra": "75-105 cm (cuerpo + cola)"
+    },
+    "colorPelaje": "Amarillo-rojizo o pardo-amarillento con manchas negras bien definidas (pardus = leopardo/moteado).",
+    "caracteristicasEspeciales": "Patillas (barba) prominentes; Pinceles de pelo negro en las orejas; Patas grandes y acolchadas; Felino altamente especializado en el conejo.",
+    "morfologia": [
+      "Orejas puntiagudas con pinceles negros que mejoran su audición.",
+      "Patas traseras más largas que las delanteras, adaptadas para saltos cortos y rápidos.",
+      "Cola muy corta (aproximadamente 12-15 cm) con una punta gruesa de color negro."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Matorral mediterráneo denso (matorral de monte bajo), bosques abiertos de alcornoque y encina (dehesas).",
+    "distribucionGeografica": [
+      "España (Andalucía, Castilla-La Mancha, Extremadura) y Portugal (Valle del Guadiana)."
+    ],
+    "adaptacionesHabitat": "Especializado en cazar conejos en el sotobosque mediterráneo. Requiere una combinación de cobertura para cazar y zonas de matorral para refugio.",
+    "descripcionHabitat": [
+      "Prefiere hábitats con abundante cobertura para acechar a los conejos (su presa vital) y evitar a los humanos.",
+      "Evita las zonas de cultivo intensivo o los bosques de monocultivo, necesitando la compleja estructura del ecosistema mediterráneo."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro especializado (Monófago relativo)",
+    "presasComunes": [
+      "Conejo europeo (*Oryctolagus cuniculus*) (80-90% de la dieta).",
+      "Pequeños mamíferos (roedores, musarañas), patos y perdices (presa secundaria)."
+    ],
+    "estrategiaCaza": "Acecho (utilizando la densa cobertura) y emboscada. Confía en su agilidad y velocidad en distancias cortas.",
+    "descripcionDieta": [
+      "El lince es notablemente dependiente del conejo. Una disminución en la población de conejos tiene un impacto directo y severo en la tasa de supervivencia y éxito reproductivo del lince.",
+      "Consume presas de menor tamaño que otros linces debido a su menor masa corporal."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario y territorial.",
+    "rolMacho": "Defiende un territorio que puede ser de 10 a 20 km², solapándose con los territorios de varias hembras para la reproducción.",
+    "rolHembra": "Cuida sola de las crías en guaridas protegidas y es la única responsable de la caza y enseñanza hasta la independencia de los jóvenes.",
+    "actividadDiaria": "Crepuscular y nocturno; caza principalmente durante el amanecer y el anochecer, descansando durante las horas más cálidas del día.",
+    "comunicacion": [
+      "Marcaje con orina, heces y rasguños para delimitar territorios (feromonas).",
+      "Vocalizaciones suaves (gruñidos, 'maullidos') y gritos más fuertes durante el celo o las disputas territoriales."
+    ],
+    "descripcionComportamiento": [
+      "Los territorios de los linces son estables y defendidos activamente contra intrusos del mismo sexo.",
+      "La dispersión de los jóvenes es un periodo peligroso, ya que deben cruzar zonas abiertas y carreteras en busca de un territorio vacío."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "2-3 años (aunque socialmente dominantes más tarde)",
+      "hembra": "2 años"
+    },
+    "periodoGestacion": "60-70 días (aproximadamente 2 meses).",
+    "tamanoCamada": "1-4 crías (generalmente 2 o 3).",
+    "cuidadoCrias": "La madre cuida intensamente de las crías hasta que se independizan, alrededor de los 9-10 meses, cuando ya han aprendido a cazar conejos.",
+    "descripcionReproduccion": [
+      "La época de celo principal ocurre entre enero y marzo. La disponibilidad de conejos es el factor más importante para la supervivencia de las crías.",
+      "Las crías nacen en guaridas protegidas (árboles huecos, formaciones rocosas)."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Depredador ápice: Controla la población de conejos, aunque su especialización lo hace vulnerable a los cambios en la población de su presa.",
+    "Su recuperación ha llevado a la protección de vastas extensiones del matorral mediterráneo, beneficiando a muchas otras especies."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 5,
+    "inteligencia": 6,
+    "adaptabilidad": 5,
+    "fuerza": 5,
+    "velocidad": 8,
+    "tamano": 4,
+    "majestuosidad": 7,
+    "rareza": 9,
+    "supervivencia": 4,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "El lince ibérico es el felino más amenazado del mundo (aunque su estado de conservación ha mejorado gracias a la intervención humana).",
+    "Sus pinceles en las orejas actúan como antenas, ayudándole a localizar el conejo incluso bajo tierra o en la densa vegetación.",
+    "La 'barba' o patillas son únicas y crecen con la edad, sirviendo para la exhibición y el reconocimiento social."
+  ]
+}

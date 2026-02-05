@@ -1,0 +1,283 @@
+[
+  {
+    "id": "rosa",
+    "nombre": "Rosa",
+    "nombreCientifico": "Rosa gallica",
+    "imagen": "rosa.webp",
+    "origenHabitat": ["Bosque Templado", "Ribera Fluvial"],
+    "tipoCrecimiento": "Arbusto",
+    "conservacion": "Preocupación Menor",
+    "distribucion": ["Europa", "Asia"]
+  },
+{
+"id": "roble",
+"nombre": "Roble",
+"nombreCientifico": "Quercus robur",
+"imagen": "roble.webp"
+},
+  {
+    "id": "agave",
+    "nombre": "Agave",
+    "nombreCientifico": "Agave spp.",
+    "imagen": "agave.webp"
+  },
+  {
+    "id": "secuoya",
+    "nombre": "Secuoya",
+    "nombreCientifico": "Sequoiadendron giganteum",
+    "imagen": "secuoya.webp"
+  },
+  {
+    "id": "pino_araucano",
+    "nombre": "Pino Araucano",
+    "nombreCientifico": "Araucaria araucana",
+    "imagen": "pino_araucano.webp"
+  },
+  {
+    "id": "orquidea",
+    "nombre": "Orquídea",
+    "nombreCientifico": "Orchidaceae",
+    "imagen": "orquidea.webp"
+  },
+  {
+    "id": "flor_de_las_nieves",
+    "nombre": "Flor de las nieves",
+    "nombreCientifico": "Leontopodium alpinum",
+    "imagen": "flor_de_las_nieves.webp"
+  },
+  {
+    "id": "amapola",
+    "nombre": "Amapola",
+    "nombreCientifico": "Papaver rhoeas",
+    "imagen": "amapola.webp"
+  },
+  {
+    "id": "baobab",
+    "nombre": "Baobab",
+    "nombreCientifico": "Adansonia",
+    "imagen": "baobab.webp"
+  },
+  {
+    "id": "protea",
+    "nombre": "Protea",
+    "nombreCientifico": "Protea cynaroides",
+    "imagen": "protea.webp"
+  },
+  {
+    "id": "ginkgo",
+    "nombre": "Ginkgo",
+    "nombreCientifico": "Ginkgo biloba",
+    "imagen": "ginkgo.webp"
+  },
+  {
+    "id": "bambu",
+    "nombre": "Bambú",
+    "nombreCientifico": "Bambusoideae",
+    "imagen": "bambu.webp"
+  },
+  {
+    "id": "eucalipto",
+    "nombre": "Eucalipto",
+    "nombreCientifico": "Eucalyptus",
+    "imagen": "eucalipto.webp"
+  },
+  {
+    "id": "acacia",
+    "nombre": "Acacia",
+    "nombreCientifico": "Acacia",
+    "imagen": "acacia.webp"
+  },
+  {
+    "id": "clavel_antartico",
+    "nombre": "Clavel antártico",
+    "nombreCientifico": "Colobanthus quitensis",
+    "imagen": "clavel_antartico.webp"
+  },
+  {
+    "id": "hierba_antartica",
+    "nombre": "Hierba antártica",
+    "nombreCientifico": "Deschampsia antarctica",
+    "imagen": "hierba_antartica.webp"
+  },
+  {
+    "id": "caoba",
+    "nombre": "Caoba",
+    "nombreCientifico": "Swietenia",
+    "imagen": "caoba.webp"
+  },
+  {
+    "id": "arbol_del_caucho",
+    "nombre": "Árbol del caucho",
+    "nombreCientifico": "Hevea brasiliensis",
+    "imagen": "arbol_del_caucho.webp"
+  },
+  {
+    "id": "boj",
+    "nombre": "Boj",
+    "nombreCientifico": "Buxus sempervirens",
+    "imagen": "boj.webp"
+  },
+  {
+    "id": "lavanda",
+    "nombre": "Lavanda",
+    "nombreCientifico": "Lavandula",
+    "imagen": "lavanda.webp"
+  },
+  {
+    "id": "arbol_candelabro",
+    "nombre": "Árbol candelabro",
+    "nombreCientifico": "Euphorbia ingens",
+    "imagen": "arbol_candelabro.webp"
+  },
+  {
+    "id": "loto",
+    "nombre": "Loto",
+    "nombreCientifico": "Nelumbo nucifera",
+    "imagen": "loto.webp"
+  },
+  {
+    "id": "arbol_del_pan",
+    "nombre": "Árbol del pan",
+    "nombreCientifico": "Artocarpus altilis",
+    "imagen": "arbol_del_pan.webp"
+  },
+  {
+    "id": "pohutukawa",
+    "nombre": "Pohutukawa",
+    "nombreCientifico": "Metrosideros excelsa",
+    "imagen": "pohutukawa.webp"
+  },
+  {
+    "id": "haya",
+    "nombre": "Haya Común",
+    "nombreCientifico": "Fagus sylvatica",
+    "imagen": "haya.webp"
+  },
+  {
+    "id": "cerezo",
+    "nombre": "Cerezo Silvestre",
+    "nombreCientifico": "Prunus avium",
+    "imagen": "cerezo.webp"
+  },
+  {
+    "id": "nogal",
+    "nombre": "Nogal Común",
+    "nombreCientifico": "Juglans regia",
+    "imagen": "nogal.webp"
+  },
+  {
+    "id": "fresno",
+    "nombre": "Fresno Común",
+    "nombreCientifico": "Fraxinus excelsior",
+    "imagen": "fresno.webp"
+  },
+  {
+    "id": "cipres",
+    "nombre": "Ciprés Común",
+    "nombreCientifico": "Cupressus sempervirens",
+    "imagen": "cipres.webp"
+  },
+  {
+    "id": "olivo",
+    "nombre": "Olivo",
+    "nombreCientifico": "Olea europaea",
+    "imagen": "olivo.webp"
+  },
+  {
+    "id": "encina",
+    "nombre": "Encina",
+    "nombreCientifico": "Quercus rotundifolia",
+    "imagen": "encina.webp"
+  },
+  {
+    "id": "alcornoque",
+    "nombre": "Alcornoque",
+    "nombreCientifico": "Quercus suber",
+    "imagen": "alcornoque.webp"
+  },
+  {
+    "id": "lentisco",
+    "nombre": "Lentisco",
+    "nombreCientifico": "Pistacia lentiscus",
+    "imagen": "lentisco.webp"
+  },
+  {
+    "id": "abeto_blanco",
+    "nombre": "Abeto Blanco",
+    "nombreCientifico": "Abies alba",
+    "imagen": "abeto_blanco.webp"
+  },
+  {
+    "id": "castaño",
+    "nombre": "Castaño",
+    "nombreCientifico": "Castanea sativa",
+    "imagen": "castaño.webp"
+  },
+  {
+    "id": "manzano",
+    "nombre": "Manzano Común",
+    "nombreCientifico": "Malus domestica",
+    "imagen": "manzano.webp"
+  },
+  {
+    "id": "platano_de_sombra",
+    "nombre": "Plátano de Sombra",
+    "nombreCientifico": "Platanus orientalis",
+    "imagen": "platano_de_sombra.webp"
+  },
+  {
+    "id": "sauce_lloron",
+    "nombre": "Sauce Llorón",
+    "nombreCientifico": "Salix babylonica",
+    "imagen": "sauce_lloron.webp"
+  },
+  {
+    "id": "tilo",
+    "nombre": "Tilo",
+    "nombreCientifico": "Tilia cordata",
+    "imagen": "tilo.webp"
+  },
+  {
+    "id": "jazmin",
+    "nombre": "Jazmín Común",
+    "nombreCientifico": "Jasminum officinale",
+    "imagen": "jazmin.webp"
+  },
+  {
+    "id": "hortensia",
+    "nombre": "Hortensia",
+    "nombreCientifico": "Hydrangea macrophylla",
+    "imagen": "hortensia.webp"
+  },
+  {
+    "id": "girasol",
+    "nombre": "Girasol Común",
+    "nombreCientifico": "Helianthus annuus",
+    "imagen": "girasol.webp"
+  },
+  {
+    "id": "dalia",
+    "nombre": "Dalia",
+    "nombreCientifico": "Dahlia pinnata",
+    "imagen": "dalia.webp"
+  },
+  {
+    "id": "rododendro",
+    "nombre": "Rododendro Alpino",
+    "nombreCientifico": "Rhododendron ferrugineum",
+    "imagen": "rododendro.webp"
+  },
+  {
+    "id": "muerdago",
+    "nombre": "Muérdago",
+    "nombreCientifico": "Viscum album",
+    "imagen": "muerdago.webp"
+  }
+,
+  {
+    "id": "muerdago",
+    "nombre": "Muérdago",
+    "nombreCientifico": "Viscum album",
+    "imagen": "muerdago.webp"
+  }
+]

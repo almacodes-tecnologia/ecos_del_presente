@@ -1,0 +1,43 @@
+{
+  "id": "lactarius_deliciosus",
+  "nombre": "Lactarius deliciosus",
+  "nombreCientifico": "Lactarius deliciosus",
+  "familia": "Russulaceae",
+  "imagen": "lactarius_deliciosus.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "El Lactarius deliciosus es un hongo basidiomiceto característico de los ecosistemas de coníferas. Se identifica por su coloración anaranjada y su capacidad de segregar un látex de color naranja intenso ante cualquier fractura en su tejido, el cual tiende a oxidarse y volverse verdoso con la exposición al aire.",
+
+  "caracteristicas": {
+    "sombrero": "5-15 cm de diámetro. Evoluciona de convexo con margen enrollado a una forma infundibuliforme (embudo). Presenta una cutícula zonada con círculos concéntricos de tonos naranja vivo sobre un fondo más pálido, mostrando manchas verdes en zonas rozadas.",
+    "laminas": "Apretadas, decurrentes y de color naranja. Al producirse una rotura, exudan de forma inmediata un látex de color naranja brillante que no vira al púrpura.",
+    "pie": "Cilíndrico, corto y macizo (aunque puede volverse hueco con la edad). Presenta una superficie ornamentada con escrobículas, que son pequeñas depresiones circulares u ovaladas de color naranja más oscuro.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Blanco crema a ocre muy pálido.",
+    "usoCultural": "Referente en el estudio de la familia Russulaceae debido a la textura de su carne, que es granuda y quebradiza, rompiéndose de forma limpia de manera similar a la tiza."
+  },
+
+  "habitat": {
+    "tipo": "Bosques de coníferas, principalmente asociado a diversas especies de pinos (Pinus spp.).",
+    "relacionEcologica": "Establece simbiosis micorrícica con las raíces de los pinos, prefiriendo suelos de naturaleza ácida o descalcificada y zonas con buena acumulación de acículas.",
+    "distribucionGeografica": ["Ampliamente distribuido por Europa, Asia y el Norte de África; se ha naturalizado en zonas de Oceanía y América debido a repoblaciones forestales."],
+    "temporada": "Otoño y principios de invierno, dependiendo de la humedad acumulada en el sustrato.",
+    "altitudRango": "Desde el nivel del mar hasta formaciones boscosas de alta montaña."
+  },
+
+  "curiosidades": [
+    "La presencia de manchas verdes es un proceso químico natural de oxidación de sus componentes denominado verdecimiento, y es una seña de identidad diagnóstica de la especie.",
+    "El nombre científico 'deliciosus' fue asignado por Carlos Linneo en 1753, marcando el inicio de su clasificación taxonómica moderna.",
+    "Su látex naranja contiene metabolitos secundarios (sesquiterpenos) que el hongo utiliza como mecanismo de defensa contra microorganismos patógenos.",
+    "Pertenece a un grupo de especies similares (Sección Dapetes), cuyas diferencias radican principalmente en el color inicial del látex y su velocidad de oxidación."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 6,
+    "rareza": 4,
+    "simbolismo": 7,
+    "resistencia": 7,
+    "velocidadDeCrecimiento": 6,
+    "aura": 5
+  }
+}

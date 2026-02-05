@@ -1,0 +1,43 @@
+{
+  "id": "tuber_magnatum",
+  "nombre": "Trufa blanca",
+  "nombreCientifico": "Tuber magnatum",
+  "familia": "Tuberaceae",
+  "imagen": "tuber_magnatum.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "La Tuber magnatum es un hongo ascomiceto de vida hipogea, reconocido por su extrema especialización ecológica y su compleja huella química volátil. A diferencia de otros miembros de su género, presenta una estructura externa lisa y una dependencia estricta de ecosistemas riparios y valles húmedos de alta especificidad edáfica.",
+
+  "caracteristicas": {
+    "sombrero": "No posee. El cuerpo fructífero (ascocarpo) es una estructura tuberiforme irregular, lobulada y de dimensiones variables. Su peridio (capa externa) es liso, carente de verrugas, con coloraciones que oscilan entre el crema, el ocre pálido y el amarillento verdoso.",
+    "laminas": "No posee. La gleba (tejido interno) es compacta, de color marrón amarillento a rosado pálido, y está recorrida por una densa red de venas estériles blancas extremadamente finas.",
+    "pie": "Ausente.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Marrón chocolate a amarillenta (esporas elipsoidales y reticuladas contenidas en ascas).",
+    "usoCultural": "Especie de máximo interés en la ecología fúngica debido a la complejidad de sus compuestos aromáticos, que actúan como señales bióticas para la fauna edáfica."
+  },
+
+  "habitat": {
+    "tipo": "Suelos margosos y calizos con alta retención de humedad, situados generalmente en llanuras aluviales, fondos de valles sombríos y zonas próximas a cursos de agua.",
+    "relacionEcologica": "Micorrícico estricto; establece simbiosis con las raíces de árboles específicos como chopos (Populus), sauces (Salix), tilos (Tilia) y ciertos robles (Quercus).",
+    "distribucionGeografica": ["Endémica de regiones específicas del sur de Europa, con mayor presencia en la península itálica (Piamonte) y la península de Istria."],
+    "temporada": "Fructificación otoñal e invernal, de octubre a diciembre.",
+    "altitudRango": "Valles y llanuras de baja y media altitud con microclimas frescos."
+  },
+
+  "curiosidades": [
+    "Presenta una resistencia nula a la domesticación; a diferencia de la trufa negra, hasta la fecha (2026) no se han logrado cultivos comerciales reproducibles, dependiendo exclusivamente de la recolección silvestre.",
+    "Su estrategia reproductiva depende de la emisión de gases azufrados y volátiles complejos que atraviesan las capas del suelo para atraer a animales dispersores de esporas.",
+    "Es una especie extremadamente sensible a las alteraciones del régimen hídrico y a la compactación del suelo, lo que la convierte en un bioindicador de la integridad de los bosques de ribera.",
+    "La variabilidad cromática de su gleba suele estar influenciada directamente por la especie de árbol hospedador con la que establece la simbiosis."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 10,
+    "rareza": 10,
+    "simbolismo": 10,
+    "resistencia": 3,
+    "velocidadDeCrecimiento": 2,
+    "aura": 10
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "salmon_del_atlantico",
+  "nombre": "Salmón del Atlántico",
+  "nombreCientifico": "Salmo salar",
+  "fechaInformacion": "2025",
+
+  "imagen": "salmon_atlantico.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El salmón del Atlántico (*Salmo salar*) es un pez osteíctio conocido mundialmente por su increíble migración **anádroma**, un ciclo de vida que lo obliga a transitar entre hábitats marinos y fluviales. ",
+    "Considerado el 'Rey de los Peces de Agua Dulce', regresa a su río natal para reproducirse, recorriendo miles de kilómetros y superando obstáculos como cascadas."
+  ],
+
+  "descripcionLarga": [
+    "El salmón del Atlántico es un pez plateado y elegante, con un cuerpo fusiforme ideal para nadar a gran velocidad. Su ciclo de vida es extraordinario: nace en agua dulce, migra al Atlántico Norte para alimentarse y crecer durante uno o más años, y luego regresa al mismo río donde nació para desovar.",
+    "Durante su estancia en el río (fase juvenil o 'parr'), presenta un camuflaje de puntos azules y rojos. Al prepararse para el océano (fase 'smolt'), su cuerpo se vuelve plateado para mimetizarse con el mar abierto. En la fase reproductiva ('salmón'), los machos desarrollan una mandíbula ganchuda llamada **kype** y su coloración se oscurece.",
+    "A diferencia de todas las especies de salmón del Pacífico (que mueren tras el desove), el salmón del Atlántico es iteróparo, lo que significa que algunos individuos pueden sobrevivir y regresar al mar para desovar en años posteriores."
+  ],
+
+  "observaciones": [
+    "La migración y el retorno al río natal es guiado por un sentido del olfato excepcionalmente desarrollado, que les permite recordar la 'huella' química de su río de origen.",
+    "La fase de smoltificación (adaptación al agua salada) es un proceso fisiológico complejo y delicado.",
+    "Las presas y los obstáculos fluviales han tenido un impacto devastador en las rutas migratorias históricas."
+  ],
+
+  "longevidad": {
+    "enLibertad": "5-8 años (incluyendo 1-3 años en agua dulce)",
+    "enCautividad": "Hasta 10 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Actinopterygii (Peces de aletas radiadas)",
+    "orden": "Salmoniformes",
+    "familia": "Salmonidae",
+    "genero": "Salmo",
+    "especie": "S. salar"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC) (Globalmente) / Vulnerable (Subpoblaciones específicas)",
+    "tendenciaPoblacion": "Disminuyendo (Las poblaciones silvestres han caído drásticamente en muchas áreas debido a amenazas humanas).",
+    "amenazasPrincipales": [
+      "Sobrepesca y captura incidental.",
+      "Degradación del hábitat de desove (sedimentación, calentamiento, acidificación).",
+      "Barreras físicas (presas y vertidos) que impiden la migración.",
+      "Impacto de la acuicultura (escape de salmones de piscifactoría, parásitos, enfermedades)."
+    ],
+    "esfuerzosConservacion": [
+      "Regulación y moratorias de pesca en ríos y zonas costeras.",
+      "Construcción de pasos y escaleras para peces en presas.",
+      "Programas de repoblación con cepas silvestres autóctonas.",
+      "Proyectos de restauración de la calidad del agua en zonas de desove."
+    ],
+    "descripcionConservacion": [
+      "Aunque la especie en su conjunto se clasifica como Preocupación Menor (principalmente por la robustez de las poblaciones de piscifactoría), las poblaciones salvajes de salmón del Atlántico en muchas partes de Europa y América del Norte están en declive crítico y requieren intervención urgente."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "4-15 kg",
+      "hembraAdulta": "3-12 kg",
+      "maximoRegistrado": "45 kg (histórico)"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "70-120 cm",
+      "hembra": "60-100 cm"
+    },
+    "colorPelaje": "Plateado brillante en el mar; Marrón rojizo a oscuro con manchas rojas en la fase de desove.",
+    "caracteristicasEspeciales": "Kype (gancho mandibular) en machos reproductores; Cuerpo fusiforme; Aleta adiposa (característica de los salmónidos); Escamas pequeñas y lisas.",
+    "morfologia": [
+      "Cuerpo alargado, robusto y muy musculoso, optimizado para el nado de resistencia.",
+      "La cabeza es relativamente pequeña, pero se transforma drásticamente en machos durante la época de cría con el desarrollo del kype.",
+      "Aletas pélvicas y dorsales bien desarrolladas. La aleta caudal es fuerte para la propulsión."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Océano (aguas pelágicas del Atlántico Norte) y Agua Dulce (ríos de cabecera y afluentes limpios).",
+    "distribucionGeografica": [
+      "Ambos lados del Océano Atlántico Norte: Desde Nueva Inglaterra (EE. UU.) y Canadá hasta Groenlandia, e Islandia, Noruega, Escocia, hasta el norte de España y Portugal."
+    ],
+    "adaptacionesHabitat": "Tolerancia a la salinidad (Eurihalino), lo que permite la migración entre agua dulce y salada.",
+    "descripcionHabitat": [
+      "Los juveniles (parr y smolt) viven en las zonas de rápidos de los ríos, buscando corrientes fuertes y agua fría y muy oxigenada.",
+      "En el mar, se mueven en cardúmenes, alimentándose en grandes zonas de alta productividad del Atlántico."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívora (Piscívora/Planctívora)",
+    "presasComunes": [
+      "Fase marina: Eufausiáceos (krill), anguila, arenque, lanzones y otros peces pelágicos.",
+      "Fase juvenil (río): Larvas de insectos acuáticos, pequeños invertebrados y alevines de otros peces."
+    ],
+    "estrategiaCaza": "Caza activa en cardúmenes en el océano. Emboscada o acecho de insectos en el río.",
+    "descripcionDieta": [
+      "El salmón acumula la mayor parte de su biomasa y reservas de energía mientras se alimenta en el océano.",
+      "Dejan de alimentarse o comen muy poco una vez que comienzan la migración río arriba para desovar."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Cardúmenes en el océano; Solitario o en parejas/tríos durante la migración y el desove.",
+    "rolMacho": "Compiten agresivamente por el acceso a las hembras, utilizando el kype y mordiendo a los rivales. Fertilización externa de los huevos.",
+    "rolHembra": "Construye un nido (redd) excavando en la grava del fondo del río con su aleta caudal. Deposita los huevos en el nido y los cubre.",
+    "actividadDiaria": "Diurna y crepuscular en el río; varía en el océano.",
+    "comunicacion": [
+      "Señales químicas (feromonas) para sincronizar el desove y guiar la migración.",
+      "Comportamiento agresivo y luchas entre machos en el lugar de desove."
+    ],
+    "descripcionComportamiento": [
+      "La migración es un acto de resistencia, donde nadan contra fuertes corrientes y saltan obstáculos, impulsados por la necesidad de reproducirse en el lugar exacto de su nacimiento.",
+      "Los machos se vuelven extremadamente territoriales y agresivos al llegar a la zona de desove."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo (Anádromo)",
+    "madurezSexual": {
+      "macho": "3-5 años (dependiendo de la fase marina)",
+      "hembra": "3-5 años"
+    },
+    "periodoGestacion": "No aplica. Incubación de los huevos: 90-150 días (depende de la temperatura del agua).",
+    "tamanoCamada": "1,500 a 8,000 huevos por hembra (promedio de 1,500 a 1,800 huevos por kg de peso corporal).",
+    "cuidadoCrias": "No hay cuidado parental directo después de que la hembra entierra los huevos en el nido de grava. Los huevos están protegidos por la grava.",
+    "descripcionReproduccion": [
+      "El desove se produce en otoño o principios de invierno en las cabeceras de los ríos. Los huevos se depositan en los 'redds' (nidos de grava) para asegurar un suministro constante de agua limpia y oxigenada.",
+      "Las crías (*alevinos* o *parr*) permanecen en el río hasta que su fisiología les permite migrar al mar (*smolts*)."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Vínculo vital: Transfiere importantes nutrientes marinos (como nitrógeno y fósforo) de vuelta a los ecosistemas fluviales y terrestres a través de sus cadáveres después del desove.",
+    "Es una presa clave para una amplia gama de depredadores, incluyendo osos, águilas y nutrias."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 3,
+    "inteligencia": 5,
+    "adaptabilidad": 8,
+    "fuerza": 6,
+    "velocidad": 7,
+    "tamano": 5,
+    "majestuosidad": 6,
+    "rareza": 4,
+    "supervivencia": 7,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Su asombrosa migración se guía por el olfato, siendo capaz de recordar y localizar la 'firma' química exacta de su arroyo natal después de años en el mar.",
+    "El salmón del Atlántico es una especie iterópara (puede desovar varias veces), a diferencia de sus parientes del Pacífico (salvo el salmón real).",
+    "Los alevines se llaman *parr* y los juveniles que se preparan para el mar se llaman *smolt*."
+  ]
+}

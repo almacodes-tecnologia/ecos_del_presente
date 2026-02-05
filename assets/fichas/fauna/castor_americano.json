@@ -1,0 +1,166 @@
+{
+  "id": "castor_americano",
+  "nombre": "Castor Americano",
+  "nombreCientifico": "Castor canadensis",
+  "fechaInformacion": "2025",
+
+  "imagen": "castor_americano.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El castor americano es un **ingeniero ecológico** capaz de modificar ríos y crear humedales enteros mediante la construcción de presas y diques.",
+    "Es el roedor más grande de Norteamérica y es fundamental para la salud de los ecosistemas acuáticos ribereños."
+  ],
+
+  "descripcionLarga": [
+    "Es un mamífero semiacuático conocido por su comportamiento constructor, utilizando ramas, barro y rocas para levantar presas que detienen el flujo del agua. Esto crea estanques y humedales esenciales para innumerables especies, desde anfibios hasta aves.",
+    "Viven en una estructura comunal llamada **castorera** o **lodge**, que es un montículo de ramas con una o más cámaras secas interiores y entradas subacuáticas que lo protegen de depredadores terrestres. ",
+    "Su cuerpo está perfectamente adaptado para este estilo de vida: tiene membranas interdigitales en las patas traseras, un pelaje impermeable y dientes incisivos que crecen continuamente para roer madera."
+  ],
+
+  "observaciones": [
+    "Su presencia aumenta enormemente la biodiversidad, filtrando el agua, recargando acuíferos y reduciendo el riesgo de inundaciones aguas abajo.",
+    "La caza excesiva por su piel (castóreo) a lo largo de la historia casi llevó a su extinción en Norteamérica.",
+    "Son animales monógamos que viven en grupos familiares estables y jerárquicos."
+  ],
+
+  "longevidad": {
+    "enLibertad": "10-15 años",
+    "enCautividad": "Hasta 20 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Rodentia",
+    "familia": "Castoridae",
+    "genero": "Castor",
+    "especie": "C. canadensis"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación Menor (LC)",
+    "tendenciaPoblacion": "Estable y en recuperación tras la reintroducción y protección.",
+    "amenazasPrincipales": [
+      "Conflicto con actividades humanas (obstrucción de canales, inundación de campos)",
+      "Caza y trampeo ilegal en algunas áreas",
+      "Destrucción de hábitats ribereños"
+    ],
+    "esfuerzosConservacion": [
+      "Programas de reintroducción en estados donde desapareció (ej. California, Arizona)",
+      "Protección de hábitats ribereños y gestión de conflictos (ej. uso de tubos de control de nivel)",
+      "Valoración de su rol ecológico como mitigador de la sequía y el fuego."
+    ],
+    "descripcionConservacion": [
+      "Tras la caza histórica, la población se ha recuperado notablemente. La principal preocupación de conservación es la gestión del conflicto entre sus presas y las necesidades humanas.",
+      "Hoy en día, es reconocido como un aliado natural en la restauración de humedales."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "16-32 kg",
+      "hembraAdulta": "16-32 kg",
+      "maximoRegistrado": "40 kg"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "74-90 cm (Cuerpo y cabeza); Cola: 25-30 cm",
+      "hembra": "74-90 cm (Cuerpo y cabeza); Cola: 25-30 cm"
+    },
+    "colorPelaje": "Marrón oscuro y denso, con subpelo suave e impermeable.",
+    "caracteristicasEspeciales": "Cola escamosa, plana y ancha; incisivos fuertes de color naranja; patas traseras palmeadas.",
+    "morfologia": [
+      "Cola ancha, plana y escamosa en forma de pala, que utiliza para bucear, como timón, como soporte y para señalización (golpes en el agua).",
+      "Dientes incisivos extremadamente fuertes que crecen continuamente, usados para cortar árboles de hasta 40 cm de diámetro.",
+      "Membranas interdigitales en las patas traseras para nadar eficientemente y pequeñas garras en las patas delanteras para cavar y manejar materiales."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Ríos, arroyos, lagos, y humedales creados por ellos mismos.",
+    "distribucionGeografica": [
+      "Norteamérica (Canadá, Estados Unidos, Norte de México)",
+      "Poblaciones introducidas en Tierra del Fuego."
+    ],
+    "adaptacionesHabitat": "Creación de presas para mantener un nivel de agua constante, permitiendo la seguridad de su madriguera (lodge) y el acceso a alimento durante el invierno.",
+    "descripcionHabitat": [
+      "Prefiere masas de agua de flujo lento bordeadas por vegetación leñosa (sauces, álamos, abedules).",
+      "Sus lagunas artificiales ralentizan el agua, reduciendo la erosión y aumentando la filtración del agua, lo que beneficia a toda la cuenca."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívora (Corteza y cambium)",
+    "presasComunes": [
+      "Corteza interior (cambium) y madera tierna de árboles caducifolios (álamos, sauces)",
+      "Hojas y brotes tiernos",
+      "Plantas acuáticas y raíces"
+    ],
+    "estrategiaCaza": null,
+    "descripcionDieta": [
+      "Se alimenta principalmente de la capa nutritiva interna de los árboles (cambium). El resto de la madera se utiliza para construir presas.",
+      "Almacena grandes cantidades de ramas sumergidas en el estanque, cerca de la lodge, como reserva alimenticia para el invierno."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Grupos familiares monógamos (colonias) de 4 a 8 individuos.",
+    "rolMacho": "Mantenimiento y defensa del territorio. Co-parental en el cuidado de las crías.",
+    "rolHembra": "Reproducción anual, supervisión de la construcción. Co-parental en el cuidado de las crías.",
+    "actividadDiaria": "Principalmente nocturna y crepuscular, concentrando las actividades de tala y construcción en la noche.",
+    "comunicacion": [
+      "Golpes con la cola en la superficie del agua (señal de alarma audible a gran distancia)",
+      "Olores (castóreo) para marcar territorio y comunicación química.",
+      "Vocalizaciones suaves (quejidos, silbidos) dentro de la madriguera."
+    ],
+    "descripcionComportamiento": [
+      "Son hiperactivos en la modificación del entorno, dedicando la mayor parte de su tiempo fuera del lodge a la construcción y la búsqueda de madera.",
+      "Los jóvenes permanecen en la colonia hasta los dos años, ayudando a criar a las nuevas camadas y a mantener las estructuras."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+    "madurezSexual": {
+      "macho": "2 años",
+      "hembra": "2 años"
+    },
+    "periodoGestacion": "105-107 días",
+    "tamanoCamada": "2-4 crías (kits)",
+    "cuidadoCrias": "Cuidado biparental intensivo; las crías son semi-precoces, nacen con pelo y visión, y aprenden a nadar pronto.",
+    "descripcionReproduccion": [
+      "Se reproducen en invierno, asegurando que los nacimientos (kits) ocurran en primavera y verano, cuando la comida es abundante.",
+      "La cópula ocurre bajo el agua. Las crías nacen dentro de la cámara seca de la lodge."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Clasificado como 'Ingeniero de Ecosistemas'. La construcción de presas crea humedales permanentes que aumentan el hábitat de peces, anfibios e invertebrados, y filtran contaminantes.",
+    "Ayuda a mitigar el impacto de la sequía al elevar los niveles de agua subterránea y mantener reservas superficiales."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 7,
+    "adaptabilidad": 8,
+    "fuerza": 4,
+    "velocidad": 3,
+    "tamano": 4,
+    "majestuosidad": 3,
+    "rareza": 4,
+    "supervivencia": 7,
+    "impactoEcologico": 10
+  },
+
+  "curiosidades": [
+    "Es uno de los pocos animales capaces de modificar el paisaje a gran escala, solo superado por el humano.",
+    "Su cola ancha sirve para comunicar alarma, sumergirse rápidamente y regular la temperatura corporal.",
+    "Poseen una segunda membrana transparente que les permite ver bajo el agua mientras bucean.",
+    "El 'castóreo', una secreción de sus glándulas, se utiliza en perfumería y, antiguamente, en medicina."
+  ]
+}

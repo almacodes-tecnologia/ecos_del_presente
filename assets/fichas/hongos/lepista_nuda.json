@@ -1,0 +1,43 @@
+{
+  "id": "lepista_nuda",
+  "nombre": "Pie azul",
+  "nombreCientifico": "Lepista nuda",
+  "familia": "Tricholomataceae",
+  "imagen": "lepista_nuda.webp",
+  "fechaInformacion": "2026",
+  "descripcionGeneral": "La Lepista nuda es un hongo basidiomiceto que destaca por su intensa coloración violeta o azulada, la cual presenta una transición hacia tonos pardos conforme el ejemplar alcanza la madurez. Es una especie relevante en los ecosistemas forestales por su capacidad para procesar la materia orgánica acumulada en el suelo.",
+
+  "caracteristicas": {
+    "sombrero": "5-15 cm de diámetro. Evoluciona de una forma convexa a una aplanada, manteniendo el margen involuto (enrollado) durante gran parte de su desarrollo. La superficie es lisa y de aspecto higrófano, con tonalidades violetas intensas que palidecen a ocre-violáceo con el tiempo.",
+    "laminas": "Dispuestas de forma apretada y delgada, con un color violeta brillante muy característico. Son láminas escotadas (unidas al pie mediante una pequeña muesca) y poseen la particularidad de separarse físicamente con facilidad de la carne del sombrero.",
+    "pie": "Cilíndrico, robusto y de consistencia fibrosa. Exhibe un color violeta azulado persistente, presentando con frecuencia restos de micelio lanoso de color lila en la zona de inserción con el sustrato.",
+    "anillo": "Ausente.",
+    "volva": "Ausente.",
+    "esporada": "Rosa pálido o crema rosado (característica diagnóstica esencial para su diferenciación taxonómica de otros géneros similares).",
+    "usoCultural": "Especie de gran interés micológico por sus peculiares pigmentos naturales y su resistencia térmica, lo que le permite mantener su actividad biológica en periodos de descenso de temperaturas."
+  },
+
+  "habitat": {
+    "tipo": "Suelos de bosques de coníferas y frondosas caracterizados por una capa densa de materia orgánica y hojarasca.",
+    "relacionEcologica": "Organismo saprófito especializado en la descomposición del mantillo forestal, donde suele fructificar de forma gregaria o formando círculos de crecimiento conocidos como corros de brujas.",
+    "distribucionGeografica": ["Ampliamente distribuida por las regiones templadas de Europa, América del Norte y Asia."],
+    "temporada": "Fructificación tardía en otoño y principios de invierno, mostrando una notable tolerancia a las primeras heladas estacionales.",
+    "altitudRango": "Desde el nivel del mar hasta áreas boscosas de montaña."
+  },
+
+  "curiosidades": [
+    "Presenta una composición química volátil que genera un aroma distintivo, frecuentemente comparado con fragancias florales o frutales.",
+    "Desempeña una función vital en el reciclaje de nutrientes al ser una de las principales especies encargadas de degradar las hojas muertas en los bosques de Quercus y Pinus.",
+    "La pigmentación violeta del hongo se debe a compuestos que actúan como protección química frente a ciertos microorganismos competidores del suelo.",
+    "La observación del color de la esporada es fundamental en esta especie para evitar confusiones con otros hongos de coloración similar pero de distinta familia biológica."
+  ],
+
+  "atributosFantasia": {
+    "majestuosidad": 7,
+    "rareza": 4,
+    "simbolismo": 7,
+    "resistencia": 8,
+    "velocidadDeCrecimiento": 6,
+    "aura": 9
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "ostra_comun",
+  "nombre": "Ostra Común Europea",
+  "nombreCientifico": "Ostrea edulis",
+  "fechaInformacion": "2025",
+
+  "imagen": "ostra_comun.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La ostra común o ostra plana europea (*Ostrea edulis*) es un molusco bivalvo marino nativo del Atlántico nororiental, de gran importancia tanto ecológica como gastronómica.",
+    "Su capacidad como **organismo filtrador** y su rol en la formación de arrecifes las convierte en piezas clave para la salud y la transparencia de las aguas costeras."
+  ],
+
+  "descripcionLarga": [
+    "La ostra común es nativa de las aguas costeras europeas, formando 'arrecifes' o bancos en fondos arenosos, rocosos y zonas estuarinas. Su concha es redonda y relativamente plana, con dos valvas muy desiguales: la valva inferior es cóncava y se utiliza para la fijación al sustrato, mientras que la superior es plana y actúa como tapa.",
+    "Su cuerpo interno está rodeado por un manto que secreta la concha, y posee branquias que utiliza tanto para la respiración como para la alimentación por filtración.",
+    "A lo largo de los siglos ha sido un alimento muy apreciado (la *huître plate* de Francia), y hoy es objeto de programas de recuperación y acuicultura, dada la drástica disminución de sus poblaciones naturales."
+  ],
+
+  "observaciones": [
+    "A diferencia de otras ostras, la ostra común es **hermafrodita secuencial**, cambiando de sexo varias veces a lo largo de su vida.",
+    "Es muy sensible a la contaminación, la eutrofización y a los cambios drásticos de temperatura, lo que la convierte en un excelente bioindicador.",
+    "Sufre de enfermedades parasitarias graves, como la Bonamia, que han diezmado las poblaciones salvajes y cultivadas en Europa."
+  ],
+
+  "longevidad": {
+    "enLibertad": "10-20 años",
+    "enCautividad": "Hasta 25 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Mollusca",
+    "clase": "Bivalvia",
+    "orden": "Ostreoida",
+    "familia": "Ostreidae",
+    "genero": "Ostrea",
+    "especie": "O. edulis"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN) (en muchas áreas específicas)",
+    "tendenciaPoblacion": "Decreciente o Colapsada en muchas poblaciones naturales europeas.",
+    "amenazasPrincipales": [
+      "Enfermedades parasitarias (principalmente *Bonamia ostreae*).",
+      "Sobreexplotación histórica y pesca destructiva.",
+      "Contaminación y eutrofización (disminución de oxígeno en el agua).",
+      "Especies invasoras (como la ostra portuguesa o rizada)."
+    ],
+    "esfuerzosConservacion": [
+      "Programas de repoblación y restauración de bancos de ostras naturales (Reef Restoration).",
+      "Control de calidad del agua y áreas de veda.",
+      "Acuicultura responsable y desarrollo de cepas resistentes a enfermedades."
+    ],
+    "descripcionConservacion": [
+      "La ostra común ha sufrido un declive catastrófico en el último siglo. Los esfuerzos se centran ahora en recrear los hábitats de arrecifes de ostras, que son cruciales para la biodiversidad costera."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "30-100 g",
+      "hembraAdulta": "30-100 g",
+      "maximoRegistrado": "150 g"
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "5-12 cm (diámetro de la concha)",
+      "hembra": "5-12 cm (diámetro de la concha)"
+    },
+    "colorPelaje": "No aplica; Concha gris, marrón o verdosa, a menudo con bandas concéntricas.",
+    "caracteristicasEspeciales": "Hermafrodita secuencial; Valvas desiguales; Filtrador activo; Ausencia de pie muscular en estado adulto.",
+    "morfologia": [
+      "Posee dos valvas desiguales (una plana, otra cóncava) que no son totalmente simétricas.",
+      "La superficie externa es rugosa y cubierta de estrías concéntricas que marcan el crecimiento.",
+      "Se adhiere permanentemente al sustrato (bentónica) por la valva cóncava después de la fase larvaria."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Zonas costeras, estuarios, fondos arenosos o fangosos con sustrato duro (bentónica).",
+    "distribucionGeografica": [
+      "Océano Atlántico nororiental (desde Noruega hasta Marruecos), Mar Mediterráneo y Mar del Norte."
+    ],
+    "adaptacionesHabitat": "Capacidad de cementarse permanentemente a sustratos duros (rocas, otras conchas). Tolerancia a variaciones de salinidad y turbidez.",
+    "descripcionHabitat": [
+      "Habita aguas poco profundas, generalmente sublitorales, con buena circulación de nutrientes y un suministro constante de fitoplancton.",
+      "Forman colonias densas que, históricamente, creaban arrecifes de ostras que actuaban como protectores costeros."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Filtradora pasiva/activa (Suspencívora)",
+    "presasComunes": [
+      "Fitoplancton (microalgas)",
+      "Zooplancton pequeño",
+      "Materia orgánica suspendida (detritus)"
+    ],
+    "estrategiaCaza": "No caza; utiliza sus branquias y cilios para crear una corriente de agua que arrastra las partículas de alimento hacia su boca. ",
+    "descripcionDieta": [
+      "Puede filtrar más de 5 litros de agua por hora para obtener sus nutrientes. Esta acción aclara el agua y mejora la penetración de luz.",
+      "La calidad del agua es vital, ya que al filtrar, acumula contaminantes y toxinas, lo que la hace susceptible a la contaminación."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Agregada en densos bancos o arrecifes.",
+    "rolMacho": "N/A (Hermafrodita secuencial).",
+    "rolHembra": "N/A (Hermafrodita secuencial).",
+    "actividadDiaria": "Constante (filtración y crecimiento) cuando las condiciones del agua lo permiten.",
+    "comunicacion": [
+      "No existe comunicación conocida entre individuos. El comportamiento se limita a la respuesta a estímulos ambientales (temperatura, alimento)."
+    ],
+    "descripcionComportamiento": [
+      "Su vida adulta es sedentaria y solitaria en cuanto a interacción. El único movimiento es el cierre de sus valvas ante amenazas o cambios ambientales.",
+      "La fijación al sustrato ocurre después de la fase larvaria nadadora (spat)."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Sexual (Hermafrodita Secuencial) con fertilización externa e interna.",
+    "madurezSexual": {
+      "macho": "1 año",
+      "hembra": "1-2 años"
+    },
+    "periodoGestacion": "10-14 días (incubación larvaria en las branquias).",
+    "tamanoCamada": "Miles a millones de larvas por evento reproductivo.",
+    "cuidadoCrias": "Incubación interna por la madre durante la fase inicial de larva; nulo tras la liberación de la larva nadadora.",
+    "descripcionReproduccion": [
+      "Es una especie **hermafrodita protándrica secuencial**: comienza su vida sexual como macho y luego alterna entre macho y hembra (o ambos a la vez) a lo largo de su vida, a menudo en ciclos anuales. ",
+      "La fertilización es interna, y la hembra incuba las larvas en su manto durante la fase inicial antes de liberarlas al agua."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Actúa como ingeniera del ecosistema: sus arrecifes estabilizan la costa, proporcionan refugio y mejoran la calidad del agua a través de la filtración.",
+    "La base de sus bancos estructurales proporciona hábitat y refugio para peces, crustáceos y otros invertebrados, aumentando la biodiversidad local."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 1,
+    "inteligencia": 1,
+    "adaptabilidad": 6,
+    "fuerza": 1,
+    "velocidad": 1,
+    "tamano": 1,
+    "majestuosidad": 2,
+    "rareza": 4,
+    "supervivencia": 5,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Puede cambiar de sexo varias veces durante su vida, una adaptación para maximizar el éxito reproductivo en colonias.",
+    "Una sola ostra puede filtrar hasta 200 litros de agua por día en condiciones óptimas, lo que es vital para la claridad del agua.",
+    "Son consideradas *delicatessen* en Europa y se consumen tradicionalmente con limón o salsa mignonette."
+  ]
+}

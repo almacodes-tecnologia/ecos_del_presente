@@ -1,0 +1,162 @@
+{
+  "id": "tortuga_galapagos_santa_cruz",
+  "nombre": "Tortuga Galápago de Santa Cruz",
+  "nombreCientifico": "Chelonoidis porteri",
+  "fechaInformacion": "2025",
+
+  "imagen": "tortuga_galapagos_santa_cruz.webp",
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "Es una de las subespecies de tortugas gigantes de Galápagos, endémica de la Isla Santa Cruz.",
+    "Se caracteriza por tener un caparazón de forma intermedia (ni silla de montar ni domo)."
+  ],
+
+  "descripcionLarga": [
+    "La tortuga de Santa Cruz es un reptil terrestre de gran tamaño, notable por su longevidad. Su caparazón es generalmente más pesado y menos elevado que otras subespecies insulares, lo que se asocia a la vegetación densa de las tierras altas de la isla.",
+    "Desempeña un rol crucial como 'ingeniero del ecosistema', dispersando semillas y manteniendo abiertos los senderos de la vegetación, vital para la salud del ecosistema de Galápagos."
+  ],
+
+  "observaciones": [
+    "Es conocida por realizar migraciones estacionales entre las tierras bajas secas y las tierras altas húmedas.",
+    "Su sexo está determinado por la temperatura de incubación de los huevos."
+  ],
+
+  "longevidad": {
+    "enLibertad": "Más de 100 años",
+    "enCautividad": "Hasta 175 años (registros de otras subespecies)"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Reptilia",
+    "orden": "Testudines",
+    "familia": "Testudinidae",
+    "genero": "Chelonoidis",
+    "especie": "porteri"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "En Peligro (EN)",
+    "tendenciaPoblacion": "Aumentando (gracias a esfuerzos de conservación)",
+    "amenazasPrincipales": [
+      "Especies invasoras (ratas, cabras y cerdos)",
+      "Pérdida de hábitat por agricultura",
+      "Mortalidad de crías"
+    ],
+    "esfuerzosConservacion": [
+      "Programas de cría en cautividad y reintroducción de juveniles (Estación Charles Darwin).",
+      "Control de depredadores invasores.",
+      "Restauración de hábitats."
+    ],
+    "descripcionConservacion": [
+      "Aunque la población se ha recuperado significativamente desde el mínimo histórico, sigue enfrentándose a amenazas severas de especies introducidas. La conservación depende del manejo continuo de la población.",
+      "Históricamente, su población fue diezmada por la caza de balleneros y piratas."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "Hasta 250 kg",
+      "hembraAdulta": "Hasta 150 kg",
+      "maximoRegistradoMacho": "Aproximadamente 300 kg"
+    },
+    "alturaHombro": {
+      "macho": "Variable (caparazón en forma de domo/intermedio)",
+      "hembra": "Variable"
+    },
+    "longitudCuerpoCola": {
+      "macho": "Hasta 1.5 metros",
+      "hembra": "Hasta 1.2 metros"
+    },
+    "colorPelaje": "Piel y caparazón de color marrón oscuro a negro.",
+    "caracteristicasEspeciales": "Caparazón abovedado o intermedio, patas cortas y robustas.",
+    "morfologia": [
+      "Caparazón óseo pesado que ofrece gran protección.",
+      "Patas de columna adaptadas para soportar el gran peso.",
+      "El cuello es relativamente corto en comparación con las especies de caparazón de 'silla de montar'."
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Tierras altas húmedas (garúa) y tierras bajas secas (época de anidación)",
+    "distribucionGeografica": [
+      "Endémica de la Isla Santa Cruz (Archipiélago de Galápagos, Ecuador)"
+    ],
+    "adaptacionesHabitat": "Realiza grandes migraciones verticales siguiendo las estaciones y la disponibilidad de alimento.",
+    "descripcionHabitat": [
+      "Pasa la mayor parte del año en las zonas húmedas ricas en pastos y arbustos de las tierras altas.",
+      "Desciende a las zonas más secas para anidar y poner huevos."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívora",
+    "presasComunes": [
+      "Hierbas",
+      "Frutas",
+      "Cactus",
+      "Líquenes y musgos"
+    ],
+    "estrategiaCaza": "Pastoreo continuo y lento.",
+    "descripcionDieta": [
+      "Su dieta cambia según la zona de la isla en la que se encuentren.",
+      "Necesitan grandes cantidades de agua, que a menudo obtienen del rocío matutino o frutas."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitaria, solo se congregan para el apareamiento o en charcas de barro.",
+    "rolMacho": "Competir por el apareamiento, tienen caparazones ligeramente más largos y cuello más grueso.",
+    "rolHembra": "Anidación y puesta de huevos.",
+    "actividadDiaria": "Diurna, pasan gran parte del día alimentándose o descansando en charcas de barro para regular la temperatura.",
+    "comunicacion": [
+      "Resoplidos audibles durante el apareamiento",
+      "Lenguaje corporal y olfativo"
+    ],
+    "descripcionComportamiento": [
+      "Son animales tranquilos, pero pueden volverse territoriales durante la temporada de apareamiento.",
+      "Utilizan los revolcaderos de barro para protegerse del calor y de parásitos."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "A los 20-25 años de edad",
+      "hembra": "A los 25-30 años de edad"
+    },
+    "periodoGestacion": "Incubación de 110 a 200 días, dependiendo de la temperatura (determinación sexual por temperatura)",
+    "tamanoCamada": "2 a 16 huevos por puesta; hasta 4 puestas por temporada.",
+    "cuidadoCrias": "Ninguno. Los juveniles son independientes tras nacer.",
+    "descripcionReproduccion": [
+      "Las hembras excavan nidos en áreas de tierras bajas y secas.",
+      "Los machos se aparean con múltiples hembras a lo largo de la temporada."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Principal dispersor de semillas en Galápagos; sus heces son cruciales para la germinación de muchas especies.",
+    "Modelador del paisaje al abrir claros en la vegetación."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 1,
+    "inteligencia": 3,
+    "adaptabilidad": 7,
+    "fuerza": 8,
+    "velocidad": 1,
+    "tamano": 10,
+    "majestuosidad": 9,
+    "rareza": 8,
+    "supervivencia": 10,
+    "impactoEcologico": 9
+  },
+
+  "curiosidades": [
+    "Pueden sobrevivir sin comida ni agua durante meses, una adaptación clave para la vida insular.",
+    "Se estima que la población actual de *C. porteri* es de alrededor de 10,000 a 15,000 individuos.",
+    "El naturalista Charles Darwin estudió estas tortugas durante su visita a Galápagos, lo que influyó en su teoría de la evolución."
+  ]
+}
