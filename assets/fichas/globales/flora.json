@@ -1,283 +1,497 @@
 [
-  {
-    "id": "rosa",
-    "nombre": "Rosa",
-    "nombreCientifico": "Rosa gallica",
-    "imagen": "rosa.webp",
-    "origenHabitat": ["Bosque Templado", "Ribera Fluvial"],
-    "tipoCrecimiento": "Arbusto",
-    "conservacion": "Preocupación Menor",
-    "distribucion": ["Europa", "Asia"]
-  },
 {
-"id": "roble",
-"nombre": "Roble",
-"nombreCientifico": "Quercus robur",
-"imagen": "roble.webp"
+  "id": "rosa",
+  "nombre": "Rosa",
+  "nombreCientifico": "Rosa gallica",
+  "familia": "Rosaceae",
+  "agrupacion": "Arbusto", 
+  "imagen": "rosa.webp",
+  "conservacion": "Preocupación Menor",
+  "origenHabitat": ["Bosque Templado", "Ribera Fluvial"],
+  "distribucion": ["Europa", "Asia"]
 },
+{
+    "id": "roble",
+    "nombre": "Roble",
+    "nombreCientifico": "Quercus robur",
+    "familia": "Fagaceae",
+    "agrupacion": "Árbol",
+    "imagen": "roble.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Bosque caducifolio"],
+    "distribucion": ["Europa", "Asia Occidental"]
+  },
   {
     "id": "agave",
     "nombre": "Agave",
     "nombreCientifico": "Agave spp.",
-    "imagen": "agave.webp"
+    "familia": "Asparagaceae",
+    "agrupacion": "Suculenta",
+    "imagen": "agave.webp",
+    "conservacion": "No evaluado",
+    "origenHabitat": ["Zonas áridas", "Desierto"],
+    "distribucion": ["América"]
   },
   {
     "id": "secuoya",
     "nombre": "Secuoya",
     "nombreCientifico": "Sequoiadendron giganteum",
-    "imagen": "secuoya.webp"
+    "familia": "Cupressaceae",
+    "agrupacion": "Árbol",
+    "imagen": "secuoya.webp",
+    "conservacion": "En peligro",
+    "origenHabitat": ["Montaña"],
+    "distribucion": ["Norteamérica"]
   },
   {
     "id": "pino_araucano",
     "nombre": "Pino Araucano",
     "nombreCientifico": "Araucaria araucana",
-    "imagen": "pino_araucano.webp"
+    "familia": "Araucariaceae",
+    "agrupacion": "Árbol",
+    "imagen": "pino_araucano.webp",
+    "conservacion": "En peligro",
+    "origenHabitat": ["Bosque andino"],
+    "distribucion": ["Sudamérica"]
   },
   {
     "id": "orquidea",
     "nombre": "Orquídea",
     "nombreCientifico": "Orchidaceae",
-    "imagen": "orquidea.webp"
+    "familia": "Orchidaceae",
+    "agrupacion": "Flor",
+    "imagen": "orquidea.webp",
+    "conservacion": "Variable",
+    "origenHabitat": ["Bosque tropical", "Bosque templado"],
+    "distribucion": ["Cosmopolita"]
   },
   {
     "id": "flor_de_las_nieves",
     "nombre": "Flor de las nieves",
     "nombreCientifico": "Leontopodium alpinum",
-    "imagen": "flor_de_las_nieves.webp"
+    "familia": "Asteraceae",
+    "agrupacion": "Flor",
+    "imagen": "flor_de_las_nieves.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Alta montaña"],
+    "distribucion": ["Europa"]
   },
   {
     "id": "amapola",
     "nombre": "Amapola",
     "nombreCientifico": "Papaver rhoeas",
-    "imagen": "amapola.webp"
+    "familia": "Papaveraceae",
+    "agrupacion": "Flor",
+    "imagen": "amapola.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Campos de cultivo", "Praderas"],
+    "distribucion": ["Europa", "Asia", "África"]
   },
   {
     "id": "baobab",
     "nombre": "Baobab",
     "nombreCientifico": "Adansonia",
-    "imagen": "baobab.webp"
+    "familia": "Malvaceae",
+    "agrupacion": "Árbol",
+    "imagen": "baobab.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Sabana"],
+    "distribucion": ["África", "Australia"]
   },
   {
     "id": "protea",
     "nombre": "Protea",
     "nombreCientifico": "Protea cynaroides",
-    "imagen": "protea.webp"
+    "familia": "Proteaceae",
+    "agrupacion": "Arbusto",
+    "imagen": "protea.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Fynbos"],
+    "distribucion": ["África"]
   },
   {
     "id": "ginkgo",
     "nombre": "Ginkgo",
     "nombreCientifico": "Ginkgo biloba",
-    "imagen": "ginkgo.webp"
+    "familia": "Ginkgoaceae",
+    "agrupacion": "Árbol",
+    "imagen": "ginkgo.webp",
+    "conservacion": "En peligro",
+    "origenHabitat": ["Bosques templados"],
+    "distribucion": ["Asia"]
   },
   {
     "id": "bambu",
     "nombre": "Bambú",
     "nombreCientifico": "Bambusoideae",
-    "imagen": "bambu.webp"
+    "familia": "Poaceae",
+    "agrupacion": "Gramínea",
+    "imagen": "bambu.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Bosques tropicales", "Zonas templadas"],
+    "distribucion": ["Asia", "América", "África"]
   },
   {
     "id": "eucalipto",
     "nombre": "Eucalipto",
     "nombreCientifico": "Eucalyptus",
-    "imagen": "eucalipto.webp"
+    "familia": "Myrtaceae",
+    "agrupacion": "Árbol",
+    "imagen": "eucalipto.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Bosques", "Zonas templadas"],
+    "distribucion": ["Oceanía"]
   },
   {
     "id": "acacia",
     "nombre": "Acacia",
     "nombreCientifico": "Acacia",
-    "imagen": "acacia.webp"
+    "familia": "Fabaceae",
+    "agrupacion": "Árbol",
+    "imagen": "acacia.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Sabanas", "Zonas áridas"],
+    "distribucion": ["África", "Australia"]
   },
   {
     "id": "clavel_antartico",
     "nombre": "Clavel antártico",
     "nombreCientifico": "Colobanthus quitensis",
-    "imagen": "clavel_antartico.webp"
+    "familia": "Caryophyllaceae",
+    "agrupacion": "Flor",
+    "imagen": "clavel_antartico.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Tundra antártica"],
+    "distribucion": ["Antártida", "Sudamérica"]
   },
   {
     "id": "hierba_antartica",
     "nombre": "Hierba antártica",
     "nombreCientifico": "Deschampsia antarctica",
-    "imagen": "hierba_antartica.webp"
+    "familia": "Poaceae",
+    "agrupacion": "Gramínea",
+    "imagen": "hierba_antartica.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Tundra antártica"],
+    "distribucion": ["Antártida", "Sudamérica"]
   },
   {
     "id": "caoba",
     "nombre": "Caoba",
     "nombreCientifico": "Swietenia",
-    "imagen": "caoba.webp"
+    "familia": "Meliaceae",
+    "agrupacion": "Árbol",
+    "imagen": "caoba.webp",
+    "conservacion": "Vulnerable",
+    "origenHabitat": ["Selva tropical"],
+    "distribucion": ["América Central", "América del Sur"]
   },
   {
     "id": "arbol_del_caucho",
     "nombre": "Árbol del caucho",
     "nombreCientifico": "Hevea brasiliensis",
-    "imagen": "arbol_del_caucho.webp"
+    "familia": "Euphorbiaceae",
+    "agrupacion": "Árbol",
+    "imagen": "arbol_del_caucho.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Selva tropical"],
+    "distribucion": ["Sudamérica"]
   },
   {
     "id": "boj",
     "nombre": "Boj",
     "nombreCientifico": "Buxus sempervirens",
-    "imagen": "boj.webp"
+    "familia": "Buxaceae",
+    "agrupacion": "Arbusto",
+    "imagen": "boj.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Bosques", "Zonas rocosas"],
+    "distribucion": ["Europa", "África", "Asia"]
   },
   {
     "id": "lavanda",
     "nombre": "Lavanda",
     "nombreCientifico": "Lavandula",
-    "imagen": "lavanda.webp"
+    "familia": "Lamiaceae",
+    "agrupacion": "Arbusto",
+    "imagen": "lavanda.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Zonas soleadas", "Praderas"],
+    "distribucion": ["Mediterráneo"]
   },
   {
     "id": "arbol_candelabro",
     "nombre": "Árbol candelabro",
     "nombreCientifico": "Euphorbia ingens",
-    "imagen": "arbol_candelabro.webp"
+    "familia": "Euphorbiaceae",
+    "agrupacion": "Suculenta",
+    "imagen": "arbol_candelabro.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Zonas rocosas", "Sabanas"],
+    "distribucion": ["África"]
   },
   {
     "id": "loto",
     "nombre": "Loto",
     "nombreCientifico": "Nelumbo nucifera",
-    "imagen": "loto.webp"
+    "familia": "Nelumbonaceae",
+    "agrupacion": "Planta acuática",
+    "imagen": "loto.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Estanques", "Lagos"],
+    "distribucion": ["Asia", "Australia"]
   },
   {
     "id": "arbol_del_pan",
     "nombre": "Árbol del pan",
     "nombreCientifico": "Artocarpus altilis",
-    "imagen": "arbol_del_pan.webp"
+    "familia": "Moraceae",
+    "agrupacion": "Árbol",
+    "imagen": "arbol_del_pan.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Selva tropical"],
+    "distribucion": ["Oceanía", "Asia"]
   },
   {
     "id": "pohutukawa",
     "nombre": "Pohutukawa",
     "nombreCientifico": "Metrosideros excelsa",
-    "imagen": "pohutukawa.webp"
+    "familia": "Myrtaceae",
+    "agrupacion": "Árbol",
+    "imagen": "pohutukawa.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Zonas costeras"],
+    "distribucion": ["Nueva Zelanda"]
   },
   {
     "id": "haya",
     "nombre": "Haya Común",
     "nombreCientifico": "Fagus sylvatica",
-    "imagen": "haya.webp"
+    "familia": "Fagaceae",
+    "agrupacion": "Árbol",
+    "imagen": "haya.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Bosques templados"],
+    "distribucion": ["Europa"]
   },
   {
     "id": "cerezo",
     "nombre": "Cerezo Silvestre",
     "nombreCientifico": "Prunus avium",
-    "imagen": "cerezo.webp"
+    "familia": "Rosaceae",
+    "agrupacion": "Árbol",
+    "imagen": "cerezo.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Bosques", "Laderas"],
+    "distribucion": ["Europa", "Asia Occidental"]
   },
   {
     "id": "nogal",
     "nombre": "Nogal Común",
     "nombreCientifico": "Juglans regia",
-    "imagen": "nogal.webp"
+    "familia": "Juglandaceae",
+    "agrupacion": "Árbol",
+    "imagen": "nogal.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Bosques", "Zonas templadas"],
+    "distribucion": ["Asia", "Europa"]
   },
   {
     "id": "fresno",
     "nombre": "Fresno Común",
     "nombreCientifico": "Fraxinus excelsior",
-    "imagen": "fresno.webp"
+    "familia": "Oleaceae",
+    "agrupacion": "Árbol",
+    "imagen": "fresno.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Zonas húmedas", "Bosques"],
+    "distribucion": ["Europa", "Asia"]
   },
   {
     "id": "cipres",
     "nombre": "Ciprés Común",
     "nombreCientifico": "Cupressus sempervirens",
-    "imagen": "cipres.webp"
+    "familia": "Cupressaceae",
+    "agrupacion": "Árbol",
+    "imagen": "cipres.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Zonas mediterráneas"],
+    "distribucion": ["Mediterráneo"]
   },
   {
     "id": "olivo",
     "nombre": "Olivo",
     "nombreCientifico": "Olea europaea",
-    "imagen": "olivo.webp"
+    "familia": "Oleaceae",
+    "agrupacion": "Árbol",
+    "imagen": "olivo.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Zonas mediterráneas"],
+    "distribucion": ["Mediterráneo"]
   },
   {
     "id": "encina",
     "nombre": "Encina",
     "nombreCientifico": "Quercus rotundifolia",
-    "imagen": "encina.webp"
+    "familia": "Fagaceae",
+    "agrupacion": "Árbol",
+    "imagen": "encina.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Dehesas", "Bosques mediterráneos"],
+    "distribucion": ["Mediterráneo"]
   },
   {
     "id": "alcornoque",
     "nombre": "Alcornoque",
     "nombreCientifico": "Quercus suber",
-    "imagen": "alcornoque.webp"
+    "familia": "Fagaceae",
+    "agrupacion": "Árbol",
+    "imagen": "alcornoque.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Bosques mediterráneos"],
+    "distribucion": ["Mediterráneo Occidental"]
   },
   {
     "id": "lentisco",
     "nombre": "Lentisco",
     "nombreCientifico": "Pistacia lentiscus",
-    "imagen": "lentisco.webp"
+    "familia": "Anacardiaceae",
+    "agrupacion": "Arbusto",
+    "imagen": "lentisco.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Maquis", "Matorral"],
+    "distribucion": ["Mediterráneo"]
   },
   {
     "id": "abeto_blanco",
     "nombre": "Abeto Blanco",
     "nombreCientifico": "Abies alba",
-    "imagen": "abeto_blanco.webp"
+    "familia": "Pinaceae",
+    "agrupacion": "Árbol",
+    "imagen": "abeto_blanco.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Bosques de montaña"],
+    "distribucion": ["Europa"]
   },
   {
     "id": "castaño",
     "nombre": "Castaño",
     "nombreCientifico": "Castanea sativa",
-    "imagen": "castaño.webp"
+    "familia": "Fagaceae",
+    "agrupacion": "Árbol",
+    "imagen": "castaño.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Bosques templados"],
+    "distribucion": ["Europa", "Asia Menor"]
   },
   {
     "id": "manzano",
     "nombre": "Manzano Común",
     "nombreCientifico": "Malus domestica",
-    "imagen": "manzano.webp"
+    "familia": "Rosaceae",
+    "agrupacion": "Árbol",
+    "imagen": "manzano.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Zonas templadas"],
+    "distribucion": ["Cosmopolita"]
   },
   {
     "id": "platano_de_sombra",
     "nombre": "Plátano de Sombra",
     "nombreCientifico": "Platanus orientalis",
-    "imagen": "platano_de_sombra.webp"
+    "familia": "Platanaceae",
+    "agrupacion": "Árbol",
+    "imagen": "platano_de_sombra.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Zonas urbanas", "Cerca de ríos"],
+    "distribucion": ["Europa", "Asia"]
   },
   {
     "id": "sauce_lloron",
     "nombre": "Sauce Llorón",
     "nombreCientifico": "Salix babylonica",
-    "imagen": "sauce_lloron.webp"
+    "familia": "Salicaceae",
+    "agrupacion": "Árbol",
+    "imagen": "sauce_lloron.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Zonas húmedas", "Riberas"],
+    "distribucion": ["Asia", "Mundial"]
   },
   {
     "id": "tilo",
     "nombre": "Tilo",
     "nombreCientifico": "Tilia cordata",
-    "imagen": "tilo.webp"
+    "familia": "Malvaceae",
+    "agrupacion": "Árbol",
+    "imagen": "tilo.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Bosques"],
+    "distribucion": ["Europa"]
   },
   {
     "id": "jazmin",
     "nombre": "Jazmín Común",
     "nombreCientifico": "Jasminum officinale",
-    "imagen": "jazmin.webp"
+    "familia": "Oleaceae",
+    "agrupacion": "Arbusto",
+    "imagen": "jazmin.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Zonas templadas"],
+    "distribucion": ["Asia", "Europa"]
   },
   {
     "id": "hortensia",
     "nombre": "Hortensia",
     "nombreCientifico": "Hydrangea macrophylla",
-    "imagen": "hortensia.webp"
+    "familia": "Hydrangeaceae",
+    "agrupacion": "Arbusto",
+    "imagen": "hortensia.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Zonas húmedas y sombrías"],
+    "distribucion": ["Asia", "Mundial"]
   },
   {
     "id": "girasol",
     "nombre": "Girasol Común",
     "nombreCientifico": "Helianthus annuus",
-    "imagen": "girasol.webp"
+    "familia": "Asteraceae",
+    "agrupacion": "Flor",
+    "imagen": "girasol.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Praderas", "Cultivos"],
+    "distribucion": ["América", "Mundial"]
   },
   {
     "id": "dalia",
     "nombre": "Dalia",
     "nombreCientifico": "Dahlia pinnata",
-    "imagen": "dalia.webp"
+    "familia": "Asteraceae",
+    "agrupacion": "Flor",
+    "imagen": "dalia.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Zonas templadas"],
+    "distribucion": ["América Central"]
   },
   {
     "id": "rododendro",
     "nombre": "Rododendro Alpino",
     "nombreCientifico": "Rhododendron ferrugineum",
-    "imagen": "rododendro.webp"
+    "familia": "Ericaceae",
+    "agrupacion": "Arbusto",
+    "imagen": "rododendro.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Alta montaña"],
+    "distribucion": ["Europa"]
   },
   {
     "id": "muerdago",
     "nombre": "Muérdago",
     "nombreCientifico": "Viscum album",
-    "imagen": "muerdago.webp"
-  }
-,
-  {
-    "id": "muerdago",
-    "nombre": "Muérdago",
-    "nombreCientifico": "Viscum album",
-    "imagen": "muerdago.webp"
+    "familia": "Santalaceae",
+    "agrupacion": "Planta parásita",
+    "imagen": "muerdago.webp",
+    "conservacion": "Preocupación Menor",
+    "origenHabitat": ["Sobre árboles hospedadores"],
+    "distribucion": ["Europa", "Asia"]
   }
 ]
