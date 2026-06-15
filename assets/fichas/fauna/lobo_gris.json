@@ -1,10 +1,10 @@
 {
-  "id": "lobo_comun",
-  "nombre": "Lobo Común",
+  "id": "lobo_gris",
+  "nombre": "Lobo Gris",
   "nombreCientifico": "Canis lupus",
-  "fechaInformacion": "2025",
+  "fechaInformacion": "2026",
 
-  "imagen": "lobo_comun.webp",
+  "imagen": "lobo_gris.webp",
   "galeria": [],
 
   "introduccionAnimal": [

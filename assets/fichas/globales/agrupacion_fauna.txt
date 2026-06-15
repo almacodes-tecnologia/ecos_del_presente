@@ -24,5 +24,4 @@ Nº	Filtro	Ejemplos representativos
 23	Megaherbívoros	Elefantes, rinocerontes, hipopótamos, jirafas
 24	Cnidarios	Medusas, corales, anémonas de mar
 25 Murcielagos
-26 roedores
-27 Mangostas
+26 pequeños mamiferos
