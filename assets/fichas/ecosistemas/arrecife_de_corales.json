@@ -1,0 +1,87 @@
+{
+  "id": "arrecife_coral",
+  "nombre": "Arrecife de Coral",
+  "imagenPrincipal": "arrecife_coral.webp",
+  "descripcionDetallada": [
+    "Los arrecifes de coral son estructuras biogénicas masivas construidas por colonias de pólipos de coral. Son conocidos como las 'selvas tropicales del mar' debido a su increíble biodiversidad y complejidad ecológica.",
+    "Funcionan mediante una relación simbiótica obligatoria entre el coral y las algas unicelulares llamadas zooxantelas, que realizan la fotosíntesis y aportan energía al coral a cambio de protección y nutrientes."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Principalmente en aguas tropicales someras y claras, destacando la Gran Barrera de Coral (Australia), el Triángulo del Coral (Sudeste Asiático) y el Caribe.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Algas simbiontes (zooxantelas) dentro de los tejidos del coral y macroalgas en zonas adyacentes.",
+    "dominanciaAnimal": "Pólipos de coral (constructores), peces de arrecife, moluscos, crustáceos y equinodermos.",
+    "estratosVerticales": [
+      "Cresta del arrecife: Zona de mayor energía donde rompen las olas.",
+      "Plataforma arrecifal: Zona de alta diversidad con formaciones coralinas complejas.",
+      "Zona de laguna/talud: Áreas de pendiente que descienden hacia aguas más profundas."
+    ],
+    "adaptacionesClave": "Simbiosis coral-alga para capturar energía solar en aguas pobres en nutrientes (oligotróficas) y estructuras calcáreas para resistir corrientes."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Requieren aguas cálidas, constantes y bien iluminadas. La temperatura es el factor limitante principal para su crecimiento.",
+      "Son extremadamente sensibles a cualquier fluctuación térmica o cambio en la calidad del agua."
+    ],
+    "caracteristicas": [
+      "Temperaturas del agua entre 20°C y 30°C.",
+      "Necesidad de alta transparencia para permitir la penetración de luz solar.",
+      "Ambiente de baja concentración de nutrientes en el agua."
+    ],
+    "precipitacionAnualRango": null,
+    "temperaturaMediaRango": "20 - 30°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "El 'suelo' es la propia estructura de carbonato de calcio formada por generaciones pasadas de corales.",
+      "Se asienta sobre plataformas rocosas o volcánicas que permitieron el crecimiento inicial cerca de la superficie."
+    ],
+    "caracteristicas": [
+      "Estructura porosa que sirve de refugio a miles de especies.",
+      "Sustrato calcáreo altamente estable pero susceptible a la disolución por acidificación.",
+      "Acumulación de sedimentos biogénicos (restos de conchas y coral)."
+    ]
+  },
+
+  "faunaDestacada": [
+    "pez_payaso",
+    "tortuga_carey",
+    "tiburon_de_punta_blanca",
+    "morena",
+    "estrella_de_mar"
+  ],
+  "floraDestacada": [
+    "zooxantelas",
+    "alga_halimeda",
+    "macroalgas_verdes",
+    null,
+    null
+  ],
+  "hongosDestacados": [
+    "hongos_endoliticos",
+    null,
+    null,
+    null
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "En peligro crítico debido al cambio climático y la actividad humana. Es uno de los ecosistemas más vulnerables del planeta.",
+    "amenazasPrincipales": [
+      "Blanqueamiento: Expulsión de zooxantelas debido al estrés térmico por el calentamiento del agua.",
+      "Acidificación oceánica: Impide que el coral calcifique su estructura.",
+      "Contaminación: Eutrofización por vertidos agrícolas que promueven el crecimiento de algas invasoras.",
+      "Pesca destructiva: Uso de dinamita o cianuro que destruye la estructura física."
+    ],
+    "beneficiosEcosistemicos": [
+      "Protección costera: Actúan como barreras naturales frente a oleaje y tormentas.",
+      "Cuna de vida: Fuente de alimentación y refugio para gran parte de la fauna marina comercial.",
+      "Economía: Pilar fundamental para el turismo sostenible y la pesca artesanal.",
+      "Investigación médica: Fuente de compuestos bioactivos únicos para nuevos fármacos."
+    ]
+  }
+}

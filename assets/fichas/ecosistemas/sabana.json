@@ -1,0 +1,87 @@
+{
+  "id": "sabana",
+  "nombre": "Sabana",
+  "imagenPrincipal": "sabana.webp",
+  "descripcionDetallada": [
+    "La sabana es un bioma mixto caracterizado por una cobertura de herbáceas predominante, con una presencia dispersa o aislada de árboles y arbustos. Funciona como una zona de transición entre la selva tropical y los desiertos o zonas áridas.",
+    "Su dinamismo está marcado por la estacionalidad extrema: un periodo de lluvias que dispara la productividad biológica y un periodo de sequía prolongado que somete al ecosistema a un estrés hídrico considerable."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Presente principalmente en regiones tropicales y subtropicales. La sabana africana es la más representativa, pero también existen grandes extensiones en Sudamérica (Llanos de Colombia y Venezuela, Cerrado brasileño) y el norte de Australia.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Gramíneas (hierbas) que dominan el paisaje, acompañadas por árboles adaptados a fuegos periódicos como la acacia.",
+    "dominanciaAnimal": "Grandes herbívoros migratorios y una cadena de depredadores especializados en espacios abiertos.",
+    "estratosVerticales": [
+      "Estrato Herbáceo: Capa continua de gramíneas que pueden alcanzar gran altura en la época de lluvias.",
+      "Estrato Arbóreo: Árboles dispersos (acacias, baobabs) que permiten la entrada de luz solar.",
+      "Estrato Subterráneo: Redes de raíces profundas y órganos de almacenamiento (rizomas, bulbos) para sobrevivir a la sequía."
+    ],
+    "adaptacionesClave": "Estrategias de supervivencia ante el fuego, capacidad de rebrote rápido tras la sequía y migraciones masivas de fauna en busca de agua y pastos frescos."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima tropical con una marcada estacionalidad. Se divide claramente en una estación húmeda (lluvias intensas) y una estación seca (ausencia total o casi total de precipitaciones).",
+      "Las temperaturas se mantienen generalmente cálidas durante todo el año, aunque pueden ser algo más frescas durante la estación seca."
+    ],
+    "caracteristicas": [
+      "Periodos definidos de sequía que limitan el crecimiento arbóreo.",
+      "Temperaturas elevadas con poca variación anual.",
+      "Incendios naturales frecuentes debido a la acumulación de pasto seco al final de la temporada seca."
+    ],
+    "precipitacionAnualRango": "500 - 1500 mm (altamente concentrados)",
+    "temperaturaMediaRango": "20 - 30°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos generalmente arcillosos o arenosos, a menudo con una capa de laterita (costra dura) que dificulta el crecimiento de árboles de raíces profundas.",
+      "Durante la época seca se vuelven duros y propensos a grietas, mientras que en la húmeda pueden encharcarse temporalmente."
+    ],
+    "caracteristicas": [
+      "Pobres en materia orgánica debido a la rápida mineralización y a los incendios.",
+      "Drenaje variable según la composición de arcilla.",
+      "A menudo requieren de la fijación de nitrógeno por parte de ciertas leguminosas (como muchas acacias) para mantener la fertilidad."
+    ]
+  },
+
+  "faunaDestacada": [
+    "leon",
+    "elefante_africano",
+    "cebra",
+    "jirafa",
+    "ñu"
+  ],
+  "floraDestacada": [
+    "acacia_tortilis",
+    "baobab",
+    "hierba_de_elefante",
+    "candelabro_euphorbia",
+    "cesped_limon"
+  ],
+  "hongosDestacados": [
+    "termitomyces_titanicus",
+    "podaxis_pistillaris",
+    "agaricus_campestris",
+    null
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistema sujeto a alta presión por la expansión de actividades agropecuarias y la fragmentación.",
+    "amenazasPrincipales": [
+      "Sobrepastoreo: Degradación de la cobertura herbácea por ganado doméstico.",
+      "Caza furtiva: Amenaza crítica para los grandes mamíferos emblemáticos.",
+      "Cambio Climático: Alteración de los ciclos de lluvia que desajusta las rutas migratorias.",
+      "Conversión de tierras: Transformación de sabanas en cultivos agrícolas intensivos."
+    ],
+    "beneficiosEcosistemicos": [
+      "Soporte de fauna carismática a nivel mundial.",
+      "Captura de carbono en suelos y biomasa aérea.",
+      "Regulación de los ciclos de nutrientes a través del movimiento de grandes herbívoros.",
+      "Sustento de comunidades humanas tradicionales mediante el pastoreo sostenible."
+    ]
+  }
+}

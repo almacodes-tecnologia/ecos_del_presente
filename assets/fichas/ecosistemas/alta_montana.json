@@ -1,0 +1,61 @@
+{
+  "id": "alta_montana",
+  "nombre": "Alta Montaña",
+  "imagenPrincipal": "alta_montana.webp",
+  "descripcionDetallada": [
+    "Ecosistema caracterizado por condiciones ambientales extremas propias de las elevadas altitudes, por encima de la línea de arbolado. Se define por un fuerte gradiente climático que impone severas restricciones a la vida, forzando adaptaciones fisiológicas y morfológicas especializadas.",
+    "El paisaje es predominantemente abierto, dominado por formaciones de pastizales, roquedos, neveros y matorrales achaparrados, configurando un entorno de gran fragilidad y alta tasa de endemismos debido al aislamiento de las cumbres."
+  ],
+  "galeriaImagenes": [],
+  "ubicacionGeografica": "Presente en todas las grandes cadenas montañosas del planeta (Pirineos, Alpes, Andes, Himalaya, etc.), variando su cota inferior según la latitud y la influencia climática regional.",
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Vegetación herbácea, gramíneas y plantas almohadilladas adaptadas al corto periodo vegetativo.",
+    "dominanciaAnimal": "Fauna altamente especializada capaz de soportar bajas temperaturas, escasez de oxígeno y terreno escarpado.",
+    "estratosVerticales": [
+      "Estrato superior (Cumbres): Roquedos y gleras con vegetación rupícola dispersa (líquenes y musgos).",
+      "Estrato intermedio: Prados alpinos y matorrales rastreros que aprovechan el deshielo estival.",
+      "Estrato inferior: Transición hacia el bosque subalpino con especies adaptadas a la carga de nieve."
+    ],
+    "adaptacionesClave": "Plantas en forma de cojín para retener calor y humedad, ciclos vegetativos muy rápidos durante el corto verano, y animales con pelaje denso o capas de grasa para el aislamiento térmico."
+  },
+  "clima": {
+    "descripcion": [
+      "Clima extremo marcado por el descenso de la temperatura con la altitud (gradiente adiabático) y una alta variabilidad meteorológica.",
+      "Caracterizado por inviernos prolongados con persistencia de nieve y veranos cortos, frescos y con alta radiación ultravioleta."
+    ],
+    "caracteristicas": [
+      "Temperaturas medias bajas con heladas frecuentes fuera de la estación estival.",
+      "Alta insolación y gran oscilación térmica diaria.",
+      "Precipitaciones a menudo en forma de nieve con fuertes vientos dominantes."
+    ],
+    "precipitacionAnualRango": "Desconocido",
+    "temperaturaMediaRango": "Desconocido"
+  },
+  "suelo": {
+    "descripcion": [
+      "Suelos generalmente inmaduros, poco profundos y con escasa acumulación de materia orgánica debido a las bajas temperaturas que ralentizan la descomposición.",
+      "Frecuente presencia de suelos esqueléticos, pedregosos o afectados por procesos de gelifracción (rotura por hielo)."
+    ],
+    "caracteristicas": [
+      "Alta inestabilidad debida a la pendiente y a los procesos de crioturbación (movimientos del suelo por hielo-deshielo).",
+      "Pobre capacidad de retención hídrica en las zonas de roca madre expuesta.",
+      "Tendencia a la erosión física intensa."
+    ]
+  },
+  "faunaDestacada": [],
+  "floraDestacada": [],
+  "hongosDestacados": [],
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistema altamente sensible a las variaciones climáticas globales, considerado un excelente indicador biológico del cambio climático.",
+    "amenazasPrincipales": [
+      "Cambio Climático: Retroceso de glaciares y pérdida de hábitat por ascenso de especies de cotas inferiores.",
+      "Presión Turística: Impacto de deportes de montaña y creación de infraestructuras que fragmentan el hábitat.",
+      "Contaminación atmosférica de larga distancia: Acumulación de contaminantes en las zonas altas."
+    ],
+    "beneficiosEcosistemicos": [
+      "Torres de agua: Reservorios naturales que regulan el flujo hídrico hacia los valles y cuencas bajas.",
+      "Refugio de biodiversidad: Conservación de especies boreales y alpinas relicto.",
+      "Protección frente a desastres naturales: Estabilización de laderas frente a avalanchas y aludes."
+    ]
+  }
+}

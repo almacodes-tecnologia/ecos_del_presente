@@ -1,0 +1,87 @@
+{
+  "id": "agroecosistema",
+  "nombre": "Agroecosistema",
+  "imagenPrincipal": "agroecosistema.webp",
+  "descripcionDetallada": [
+    "Un agroecosistema es un ecosistema intervenido y gestionado por el ser humano con fines de producción agrícola, ganadera o forestal. A diferencia de los ecosistemas naturales, su estructura y composición son seleccionadas intencionadamente para optimizar el rendimiento de cultivos o la cría de animales.",
+    "Aunque suelen presentar una menor biodiversidad que los ecosistemas vírgenes, desempeñan un papel crucial en la provisión de alimentos y materias primas. Su estabilidad depende tanto de los procesos ecológicos naturales como de la gestión humana, como la rotación de cultivos, el riego o el uso de nutrientes."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Presentes en prácticamente todas las zonas habitadas del planeta donde las condiciones climáticas y de suelo permiten el desarrollo de cultivos, desde grandes plantaciones industriales hasta huertos familiares de pequeña escala.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Plantas cultivadas (monocultivos o policultivos) y especies arvenses o 'malas hierbas' asociadas.",
+    "dominanciaAnimal": "Fauna asociada a entornos modificados, incluyendo polinizadores, depredadores naturales de plagas y especies domésticas.",
+    "estratosVerticales": [
+      "Estrato Aéreo: Copas de árboles frutales o estructuras de cultivos trepadores.",
+      "Estrato Herbáceo: El nivel predominante compuesto por cultivos de ciclo corto (cereales, hortalizas) o pastizales.",
+      "Estrato Subterráneo: Red radicular de los cultivos y comunidad microbiana del suelo, a menudo modificada por el laboreo."
+    ],
+    "adaptacionesClave": "Selección artificial de variedades con ciclos de crecimiento sincronizados y alta productividad, y uso de infraestructuras de riego para compensar la escasez de agua."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Depende totalmente del clima de la región en la que se establezca el cultivo, adaptándose a las condiciones locales mediante el manejo técnico.",
+      "La gestión humana permite, en algunos casos, mitigar los efectos del clima extremo mediante invernaderos o sistemas de riego, ampliando el rango geográfico de ciertas especies."
+    ],
+    "caracteristicas": [
+      "Clima modificado localmente por el uso de estructuras de protección.",
+      "Regulación artificial de la humedad mediante sistemas de riego o drenaje.",
+      "Exposición a condiciones climáticas regionales, siendo los cultivos altamente sensibles a las heladas, sequías o granizadas."
+    ],
+    "precipitacionAnualRango": "Variable (depende del tipo de cultivo y región)",
+    "temperaturaMediaRango": "Variable (depende del tipo de cultivo y región)"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos modificados frecuentemente mediante el laboreo, la aportación de enmiendas orgánicas y el uso de fertilizantes químicos.",
+      "Suelen ser suelos que han perdido parte de su estructura original debido al arado mecánico y a la extracción constante de nutrientes por la cosecha."
+    ],
+    "caracteristicas": [
+      "Textura y porosidad alteradas por el paso de maquinaria.",
+      "Niveles de nutrientes condicionados por la fertilización externa.",
+      "Tendencia a la compactación superficial si no se aplican técnicas de conservación como la siembra directa."
+    ]
+  },
+
+  "faunaDestacada": [
+    "abeja_melifera",
+    "lombriz_de_tierra",
+    "mariquita",
+    "golondrina",
+    "topillo"
+  ],
+  "floraDestacada": [
+    "trigo",
+    "olivo",
+    "vid",
+    "maiz",
+    "tomatera"
+  ],
+  "hongosDestacados": [
+    "mycorrhiza_spp",
+    "trichoderma_harzianum",
+    "botrytis_cinerea",
+    "fusarium_spp"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistema de gran importancia socioeconómica, cuya sostenibilidad depende de la transición hacia modelos de agroecología y agricultura regenerativa.",
+    "amenazasPrincipales": [
+      "Erosión del suelo: Pérdida de la capa fértil por laboreo excesivo y falta de cobertura vegetal.",
+      "Contaminación: Acumulación de pesticidas y fertilizantes en aguas superficiales y subterráneas.",
+      "Pérdida de biodiversidad: Reducción de la variabilidad genética por el uso de pocas variedades comerciales.",
+      "Abandono rural: Pérdida de prácticas tradicionales que mantenían el equilibrio del agroecosistema."
+    ],
+    "beneficiosEcosistemicos": [
+      "Seguridad alimentaria: Provisión directa de alimentos y fibras.",
+      "Retención de carbono: Bien gestionado, el suelo agrícola puede actuar como un sumidero de carbono.",
+      "Corredores biológicos: Si se mantienen márgenes y setos, facilitan la movilidad de especies silvestres.",
+      "Paisaje cultural: Mantenimiento de la identidad y patrimonio rural del territorio."
+    ]
+  }
+}

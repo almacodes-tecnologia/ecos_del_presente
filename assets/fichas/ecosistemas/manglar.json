@@ -1,0 +1,80 @@
+{
+  "id": "manglar",
+  "nombre": "Manglar",
+  "descripcionDetallada": [
+    "El manglar es un ecosistema costero de transición entre el medio terrestre y el marino, dominado por especies vegetales leñosas altamente especializadas llamadas mangles. Se desarrolla en zonas intermareales protegidas, como estuarios, deltas y bahías.",
+    "Es uno de los ecosistemas más productivos del planeta, actuando como una 'guardería' biológica donde numerosas especies marinas pasan sus etapas juveniles antes de migrar a mar abierto o arrecifes."
+  ],
+  "imagenPrincipal": "manglar.webp",
+  "galeriaImagenes": [],
+  "ubicacionGeografica": "Regiones tropicales y subtropicales de todo el mundo. Destacan las extensas formaciones en el sudeste asiático, la cuenca del Amazonas, el Caribe y las costas del Pacífico y Atlántico de África.",
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Árboles de mangle (familia Rhizophoraceae y otras) adaptados a suelos salinos y anóxicos.",
+    "dominanciaAnimal": "Alta diversidad de crustáceos (cangrejos), moluscos, peces juveniles y aves acuáticas.",
+    "estratosVerticales": [
+      "Estrato Aéreo: Copas densas de mangle donde anidan aves y se refugian primates o reptiles.",
+      "Estrato Intermareal: El complejo sistema de raíces aéreas (zancos y neumatóforos) que sostienen la vida.",
+      "Estrato Subacuático: El fondo del sedimento donde los microorganismos y detritos forman la base de la cadena alimentaria."
+    ],
+    "adaptacionesClave": "Raíces zancudas (fúlcreas) para estabilización, neumatóforos (raíces respiratorias) para obtener oxígeno en suelos inundados, y mecanismos de excreción o exclusión de sal."
+  },
+  "clima": {
+    "descripcion": [
+      "Clima cálido tropical o subtropical, sin riesgo de heladas, ya que las especies de mangle son extremadamente sensibles al frío.",
+      "Dependen de un equilibrio entre la temperatura y la dinámica de las mareas."
+    ],
+    "caracteristicas": [
+      "Temperaturas cálidas durante todo el año.",
+      "Alta humedad ambiental.",
+      "Dinámica marcada por la influencia de mareas, que regula la entrada de agua dulce y salada."
+    ],
+    "precipitacionAnualRango": "1000 - 3000 mm",
+    "temperaturaMediaRango": "20 - 35°C"
+  },
+  "suelo": {
+    "descripcion": [
+      "Suelos sedimentarios, fangosos, con muy poco oxígeno (anóxicos) debido a la saturación hídrica constante.",
+      "Ricos en materia orgánica en descomposición (detritos), lo que los convierte en sumideros de carbono excepcionales."
+    ],
+    "caracteristicas": [
+      "Suelos inestables que atrapan sedimentos, ayudando a la formación de nuevo suelo costero.",
+      "Alta acidez en el sedimento inferior.",
+      "Condiciones reductoras (química sin oxígeno) que producen sulfuro de hidrógeno (olor a huevo podrido)."
+    ]
+  },
+  "faunaDestacada": [
+    "cangrejo_violinista",
+    "pez_arquero",
+    "garza_azul",
+    "cocodrilo_americano",
+    "manati"
+  ],
+  "floraDestacada": [
+    "mangle_rojo",
+    "mangle_negro",
+    "mangle_blanco",
+    "mangle_botoncillo",
+    "avicennia_germinans"
+  ],
+  "hongosDestacados": [
+    "halophytophthora_spp",
+    "calathella_mangrovei",
+    "mycosphaerella_spp",
+    null
+  ],
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistema gravemente amenazado por la expansión urbana, la acuicultura intensiva (camaroneras) y el cambio climático.",
+    "amenazasPrincipales": [
+      "Acuicultura: Conversión masiva de manglares en piscinas de cultivo de camarón.",
+      "Urbanización costera: Destrucción directa para infraestructura turística y portuaria.",
+      "Cambio Climático: El aumento del nivel del mar puede 'ahogar' al mangle si no tiene espacio para migrar tierra adentro.",
+      "Contaminación: Vertidos industriales y aguas residuales no tratadas que afectan la calidad del sedimento."
+    ],
+    "beneficiosEcosistemicos": [
+      "Defensa natural: Actúan como barrera física contra huracanes, tsunamis y erosión costera.",
+      "Sumidero de carbono azul: Capturan significativamente más carbono que las selvas terrestres.",
+      "Filtro biológico: Purifican el agua antes de que llegue al mar abierto.",
+      "Soberanía alimentaria: Base de sustento para pesquerías artesanales a nivel mundial."
+    ]
+  }
+}

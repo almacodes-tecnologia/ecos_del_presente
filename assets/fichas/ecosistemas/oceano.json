@@ -1,0 +1,87 @@
+{
+  "id": "oceano",
+  "nombre": "Océano",
+  "imagenPrincipal": "oceano.webp",
+  "descripcionDetallada": [
+    "El océano es el mayor bioma de la Tierra, cubriendo más del 70% de la superficie del planeta. Es un sistema dinámico y tridimensional que regula el clima global, la composición atmosférica y la vida en el mundo mediante complejas corrientes y ciclos biogeoquímicos.",
+    "Se organiza por gradientes de luz, profundidad y presión, creando desde zonas fóticas altamente productivas hasta abismos donde la vida depende de quimiosíntesis en lugar de la fotosíntesis."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Ocupa las cuencas oceánicas del mundo: Pacífico, Atlántico, Índico, Ártico y Antártico (Océano Austral).",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Fitoplancton microscópico y macroalgas en zonas costeras.",
+    "dominanciaAnimal": "Desde el zooplancton más diminuto hasta los mayores mamíferos marinos, incluyendo una inmensa diversidad de peces, crustáceos y cefalópodos.",
+    "estratosVerticales": [
+      "Zona Fótica (0-200m): Donde llega la luz solar y ocurre la fotosíntesis.",
+      "Zona Afótica (200m - abismo): Regiones de penumbra y oscuridad total donde la presión es extrema.",
+      "Zona Bentónica: El fondo marino, hogar de organismos especializados y comunidades alrededor de fuentes hidrotermales."
+    ],
+    "adaptacionesClave": "Estrategias de flotabilidad, bioluminiscencia en la oscuridad profunda, adaptaciones a altas presiones hidrostáticas y sistemas de filtración altamente eficientes."
+  },
+
+  "clima": {
+    "descripcion": [
+      "No tiene un 'clima' atmosférico en el sentido terrestre, sino regímenes de temperatura y salinidad que determinan la circulación oceánica (corrientes).",
+      "El océano es un inmenso regulador térmico que absorbe la mayor parte del calor solar y lo redistribuye a través del planeta."
+    ],
+    "caracteristicas": [
+      "Gradiente térmico marcado por la profundidad.",
+      "Salinidad variable según la evaporación y el aporte de agua dulce (ríos, deshielos).",
+      "Corrientes marinas que transportan nutrientes y calor."
+    ],
+    "precipitacionAnualRango": null,
+    "temperaturaMediaRango": "2 - 28°C (variable según latitud y profundidad)"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "El lecho marino (suelo oceánico) varía desde plataformas continentales poco profundas hasta llanuras abisales y fosas profundas.",
+      "Composición mayoritariamente sedimentaria, con lodos orgánicos, arenas y formaciones rocosas volcánicas."
+    ],
+    "caracteristicas": [
+      "Sedimentación continua de 'nieve marina' (detritos orgánicos que caen desde la superficie).",
+      "Zonas de actividad geotérmica (dorsales oceánicas) que crean chimeneas de minerales.",
+      "Presión extrema en las zonas profundas que compacta los sedimentos."
+    ]
+  },
+
+  "faunaDestacada": [
+    "ballena_azul",
+    "tiburon_blanco",
+    "atun_rojo",
+    "pulpo_gigante",
+    "krill"
+  ],
+  "floraDestacada": [
+    "posidonia_oceanica",
+    "kelp_gigante",
+    "fitoplancton",
+    "sargazo",
+    "alga_roja"
+  ],
+  "hongosDestacados": [
+    "paradendryphiella_arenaria",
+    "corollospora_maritima",
+    "ascomycota_marinos",
+    null
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistema bajo estrés global debido a la actividad humana, afectando su química y su capacidad de sostener la vida.",
+    "amenazasPrincipales": [
+      "Acidificación: Absorción excesiva de CO2 que debilita corales y moluscos.",
+      "Contaminación por plásticos y microplásticos.",
+      "Sobrepesca: Extracción masiva que rompe las redes tróficas.",
+      "Calentamiento de aguas: Provoca el blanqueamiento de corales y altera las corrientes migratorias."
+    ],
+    "beneficiosEcosistemicos": [
+      "Mayor sumidero de carbono del planeta.",
+      "Producción de más del 50% del oxígeno atmosférico vía fitoplancton.",
+      "Regulación de la temperatura y el clima global.",
+      "Fuente primaria de alimento y recursos para la humanidad."
+    ]
+  }
+}

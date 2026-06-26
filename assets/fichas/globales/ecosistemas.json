@@ -70,5 +70,107 @@
     "nombre": "Ecosistema Urbano",
     "imagen": "ciudad.webp",
     "descripcionCorta": "Ecosistema antrópico creado por el ser humano, incluyendo ciudades e infraestructuras."
+  },
+  {
+    "id": "agroecosistema",
+    "nombre": "Agroecosistema",
+    "imagen": "agroecosistema.webp",
+    "descripcionCorta": "Entornos intervenidos por el ser humano para la producción agrícola o ganadera, como campos de cereal, olivares o viñedos."
+  },
+  {
+    "id": "bosque_ribera",
+    "nombre": "Bosque de Ribera",
+    "imagen": "bosque_ribera.webp",
+    "descripcionCorta": "Vegetación densa y especializada (chopos, sauces, alisos) que crece en las márgenes de ríos y arroyos, actuando como filtro biológico."
+  },
+  {
+    "id": "zonas_pantanosas",
+    "nombre": "Zonas Pantanosas",
+    "imagen": "zonas_pantanosas.webp",
+    "descripcionCorta": "Áreas de aguas someras con abundante vegetación emergente, donde el suelo permanece saturado o cubierto de agua de forma permanente."
+  },
+  {
+    "id": "taiga",
+    "nombre": "Taiga (Bosque Boreal)",
+    "imagen": "taiga.webp",
+    "descripcionCorta": "El mayor bioma terrestre, dominado por vastos bosques de coníferas en latitudes altas."
+  },
+  {
+    "id": "bosque_templado_caducifolio",
+    "nombre": "Bosque Templado Caducifolio",
+    "imagen": "bosque_templado_caducifolio.webp",
+    "descripcionCorta": "Bosques de frondosas como robles y hayas que pierden sus hojas durante el otoño."
+  },
+  {
+    "id": "bosque_templado_lluvioso",
+    "nombre": "Bosque Templado Lluvioso",
+    "imagen": "bosque_templado_lluvioso.webp",
+    "descripcionCorta": "Bosques densos y húmedos de zonas templadas, hogar de árboles gigantes como las secuoyas."
+  },
+  {
+    "id": "estepa_pradera",
+    "nombre": "Estepa / Pradera Templada",
+    "imagen": "estepa_pradera.webp",
+    "descripcionCorta": "Grandes llanuras de hierba en climas templados, sin árboles significativos por falta de humedad."
+  },
+  {
+    "id": "matorral_mediterraneo",
+    "nombre": "Matorral Mediterráneo",
+    "imagen": "matorral_mediterraneo.webp",
+    "descripcionCorta": "Formaciones de vegetación leñosa baja y densa (maquis/garriga) adaptadas al clima mediterráneo."
+  },
+  {
+    "id": "rios_montana",
+    "nombre": "Ríos de Montaña",
+    "imagen": "rios_montana.webp",
+    "descripcionCorta": "Cursos de agua rápidos, muy oxigenados y fríos con fondo de rocas y gravas."
+  },
+  {
+    "id": "rios_llanura",
+    "nombre": "Ríos de Llanura",
+    "imagen": "rios_llanura.webp",
+    "descripcionCorta": "Cursos de agua de corriente lenta, ricos en sedimentos y con abundante vegetación de ribera."
+  },
+  {
+    "id": "lagos_lagunas",
+    "nombre": "Lagos y Lagunas",
+    "imagen": "lagos_lagunas.webp",
+    "descripcionCorta": "Sistemas acuáticos cerrados de agua dulce con biodiversidad adaptada a aguas estancadas."
+  },
+  {
+    "id": "turberas",
+    "nombre": "Turberas",
+    "imagen": "turberas.webp",
+    "descripcionCorta": "Humedales ácidos de alta acumulación de materia orgánica, fundamentales para capturar carbono."
+  },
+  {
+    "id": "cuevas",
+    "nombre": "Cuevas (Ecosistema Hipogeo)",
+    "imagen": "cuevas.webp",
+    "descripcionCorta": "Entornos subterráneos aislados con fauna altamente especializada adaptada a la oscuridad total."
+  },
+  {
+    "id": "dunas_costeras",
+    "nombre": "Dunas Costeras",
+    "imagen": "dunas_costeras.webp",
+    "descripcionCorta": "Ecosistema dunar de transición con vegetación adaptada a la arena y el salitre marino."
+  },
+  {
+    "id": "acantilados_costeros",
+    "nombre": "Acantilados Costeros",
+    "imagen": "acantilados_costeros.webp",
+    "descripcionCorta": "Zonas rocosas de alta energía y viento con flora rupícola altamente especializada."
+  },
+  {
+    "id": "paramo",
+    "nombre": "Páramo",
+    "imagen": "paramo.webp",
+    "descripcionCorta": "Ecosistema de alta montaña tropical situado sobre el bosque, clave en la regulación hídrica."
+  },
+  {
+    "id": "glaciares",
+    "nombre": "Glaciares",
+    "imagen": "glaciares.webp",
+    "descripcionCorta": "Entornos extremos de hielo permanente donde la vida vegetal y animal es mínima y muy específica."
   }
 ]

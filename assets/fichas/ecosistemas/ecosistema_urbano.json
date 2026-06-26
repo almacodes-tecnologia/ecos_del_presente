@@ -1,0 +1,87 @@
+{
+  "id": "ecosistema_urbano",
+  "nombre": "Ecosistema Urbano",
+  "imagenPrincipal": "ecosistema_urbano.webp",
+  "descripcionDetallada": [
+    "El ecosistema urbano es un sistema complejo donde los componentes naturales (flora, fauna, suelo, agua) interactúan con infraestructuras construidas por el ser humano y sus actividades sociales y económicas.",
+    "A diferencia de los ecosistemas naturales, el urbano depende fuertemente de flujos externos de energía y materiales (alimentos, combustibles, agua) y genera una gran cantidad de residuos, lo que lo convierte en un sistema altamente dependiente."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Presente en todas las áreas densamente pobladas del mundo, desde metrópolis globales hasta pueblos y ciudades pequeñas.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Vegetación ornamental, especies invasoras naturalizadas y árboles de alineación urbana.",
+    "dominanciaAnimal": "Especies sinantrópicas (adaptadas a vivir cerca del humano), como aves, roedores e insectos generalistas.",
+    "estratosVerticales": [
+      "Estrato Aéreo: Edificios altos, antenas y tendidos eléctricos que sirven de perchas.",
+      "Estrato Superficial: Parques, jardines, huertos urbanos y azoteas verdes.",
+      "Estrato Subterráneo: Redes de alcantarillado, túneles de metro y cimientos que alteran el perfil del suelo."
+    ],
+    "adaptacionesClave": "Cambios de comportamiento (como el canto de aves a horas distintas para evitar el ruido), dieta omnívora oportunista y tolerancia al estrés lumínico (contaminación lumínica)."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Se caracteriza por el fenómeno de la 'Isla de Calor Urbana', donde la temperatura en la ciudad es significativamente superior a las áreas rurales circundantes.",
+      "La infraestructura de concreto y asfalto absorbe y retiene calor durante el día y lo libera por la noche."
+    ],
+    "caracteristicas": [
+      "Temperatura media más elevada debido a la inercia térmica de los materiales de construcción.",
+      "Patrones de viento alterados por los 'cañones urbanos' (calles con edificios altos).",
+      "Alta contaminación del aire y niveles bajos de humedad relativa."
+    ],
+    "precipitacionAnualRango": "Variable según la ubicación geográfica",
+    "temperaturaMediaRango": "Variable (+2 a +5°C respecto al entorno rural)"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos profundamente alterados, a menudo cubiertos por superficies impermeables como asfalto o cemento.",
+      "Suelen estar compactados, contaminados con metales pesados y presentan una estructura física muy modificada (antrosoles)."
+    ],
+    "caracteristicas": [
+      "Baja capacidad de absorción de agua (riesgo elevado de inundaciones).",
+      "Interrupción del ciclo de nutrientes al eliminar la hojarasca.",
+      "Presencia de escombros, plásticos y otros residuos antrópicos integrados en el sedimento."
+    ]
+  },
+
+  "faunaDestacada": [
+    "paloma_domestica",
+    "rata_gris",
+    "gorrion_comun",
+    "cucaracha",
+    "halcon_peregrino"
+  ],
+  "floraDestacada": [
+    "platanero_de_sombra",
+    "diente_de_leon",
+    "hierba_de_las_aceras",
+    "hiedra",
+    "pino_piñonero"
+  ],
+  "hongosDestacados": [
+    "schizophyllum_commune",
+    "coprinus_comatus",
+    "pleurotus_ostreatus",
+    "aspergillus_spp"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistema en expansión constante que requiere planificación sostenible para evitar el colapso ambiental y mejorar la calidad de vida.",
+    "amenazasPrincipales": [
+      "Impermeabilización: Falta de permeabilidad que impide la recarga de acuíferos.",
+      "Contaminación sonora, lumínica y atmosférica: Estrés ambiental constante para la biodiversidad.",
+      "Fragmentación: Aislamiento de las áreas verdes, impidiendo la migración de especies.",
+      "Efecto Isla de Calor: Riesgo para la salud humana durante olas de calor extremo."
+    ],
+    "beneficiosEcosistemicos": [
+      "Regulación térmica: Las zonas verdes urbanas reducen el efecto isla de calor.",
+      "Conexión con la naturaleza: Bienestar psicológico para los ciudadanos.",
+      "Filtro biológico: Los árboles urbanos capturan partículas en suspensión y CO2.",
+      "Control de drenaje: Los parques actúan como esponjas que previenen inundaciones rápidas."
+    ]
+  }
+}

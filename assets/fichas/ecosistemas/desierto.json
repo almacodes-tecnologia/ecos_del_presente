@@ -1,0 +1,87 @@
+{
+  "id": "desierto",
+  "nombre": "Desierto",
+  "imagenPrincipal": "desierto.webp",
+  "descripcionDetallada": [
+    "El desierto es un bioma caracterizado por una escasez extrema de precipitaciones, lo que impone condiciones de vida muy severas. Lejos de ser lugares inertes, son ecosistemas altamente especializados donde la flora y la fauna han desarrollado adaptaciones fascinantes para gestionar la escasez de agua y los cambios bruscos de temperatura.",
+    "Pueden ser cálidos o fríos, pero todos comparten una alta tasa de evaporación y una baja humedad ambiental. La vida aquí se rige por la disponibilidad intermitente de agua y la gestión eficiente de la energía."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se distribuyen en diversas latitudes, destacando el Sahara (África), el desierto de Arabia, el desierto de Atacama (Chile), el de Gobi (Asia) y el de Sonora (Norteamérica).",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Plantas xerófilas, suculentas y arbustos de hojas pequeñas o espinas, adaptados a la retención de agua.",
+    "dominanciaAnimal": "Fauna con hábitos nocturnos, crepusculares o subterráneos para evitar las horas de mayor insolación.",
+    "estratosVerticales": [
+      "Estrato Superficial: Adaptaciones para reflejar la luz solar y minimizar la pérdida de agua.",
+      "Estrato Subterráneo: Madrigueras, raíces profundas (freatófitas) o tubérculos para acceder a niveles freáticos.",
+      "Estrato Temporal: Especies efímeras que completan su ciclo vital en cuestión de días tras una lluvia."
+    ],
+    "adaptacionesClave": "Metabolismo CAM en plantas (fotosíntesis nocturna), almacenamiento de agua en tejidos, pelajes claros para reflejar el calor y capacidad de concentrar orina en animales."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima marcado por un balance hídrico deficitario, donde la evaporación potencial supera con creces a la precipitación.",
+      "Las temperaturas presentan una gran oscilación diaria, pudiendo alcanzar valores muy elevados durante el día y descender drásticamente por la noche al no existir humedad que retenga el calor."
+    ],
+    "caracteristicas": [
+      "Precipitaciones muy escasas e irregulares (a menudo menos de 250 mm anuales).",
+      "Alta insolación y gran amplitud térmica entre el día y la noche.",
+      "Baja cobertura nubosa persistente."
+    ],
+    "precipitacionAnualRango": "0 - 250 mm",
+    "temperaturaMediaRango": "Desconocido"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos generalmente arenosos, pedregosos o salinos, con una estructura muy pobre en materia orgánica.",
+      "La falta de vegetación protectora los hace muy vulnerables a la erosión eólica y, en episodios de lluvia torrencial, a la erosión hídrica superficial."
+    ],
+    "caracteristicas": [
+      "Alta alcalinidad o salinidad (debido a la evaporación que deja sales en superficie).",
+      "Baja capacidad de retención hídrica por escasez de humus.",
+      "Presencia de costras biológicas (cianobacterias, líquenes) que estabilizan la arena."
+    ]
+  },
+
+  "faunaDestacada": [
+    "camello",
+    "fenec",
+    "escorpion",
+    "serpiente_cascabel",
+    "correcaminos"
+  ],
+  "floraDestacada": [
+    "saguaro",
+    "cactus_higo_chumbo",
+    "palmera_datilera",
+    "artemisa",
+    "acacia_del_desierto"
+  ],
+  "hongosDestacados": [
+    "podaxis_pistillaris",
+    "battarrea_phalloides",
+    "cyphellophora_desertorum",
+    null
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistemas frágiles, muy lentos en recuperarse de cualquier perturbación física debido a la baja tasa de crecimiento biológico.",
+    "amenazasPrincipales": [
+      "Desertificación antropogénica: Sobrepastoreo y actividades humanas que degradan las zonas limítrofes.",
+      "Cambio Climático: Aumento de la aridez y expansión de las zonas desérticas (desplazamiento de ecosistemas).",
+      "Extracción de agua: Agotamiento de acuíferos fósiles para agricultura intensiva.",
+      "Actividades recreativas: Uso de vehículos 4x4 que destruyen las costras biológicas protectoras del suelo."
+    ],
+    "beneficiosEcosistemicos": [
+      "Captura de carbono por costras biológicas (suelos desérticos).",
+      "Refugio de especies extremófilas únicas con alto potencial genético.",
+      "Regulación de polvo atmosférico (el polvo del Sahara fertiliza el Amazonas).",
+      "Importancia cultural y arqueológica."
+    ]
+  }
+}

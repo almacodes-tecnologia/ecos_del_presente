@@ -1,0 +1,87 @@
+{
+  "id": "tundra",
+  "nombre": "Tundra",
+  "imagenPrincipal": "tundra.webp",
+  "descripcionDetallada": [
+    "La tundra es un bioma caracterizado por su subsuelo helado (permafrost), falta de vegetación arbórea y un clima extremadamente frío. Es un entorno de aspecto desolado pero biológicamente resistente, que marca el límite geográfico donde la vida vegetal puede desarrollarse antes de las zonas perpetuamente congeladas.",
+    "Su ecosistema es extremadamente simple, con una cadena alimentaria muy corta y una tasa de recuperación biológica muy lenta, lo que lo hace altamente vulnerable a cualquier alteración."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Principalmente en las regiones circumpolares del hemisferio norte (Ártico de Canadá, Alaska, Siberia, Escandinavia). Existe también la tundra alpina en cumbres elevadas de todo el mundo, aunque sin permafrost permanente.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Musgos, líquenes, hierbas gramíneas y arbustos enanos rastreros que se mantienen cerca del suelo para protegerse del viento.",
+    "dominanciaAnimal": "Fauna adaptada a temperaturas extremas, con migraciones estacionales y pelajes densos o plumajes aislantes.",
+    "estratosVerticales": [
+      "Estrato Superficial: Musgos y líquenes que cubren el suelo.",
+      "Estrato Herbáceo/Arbustivo: Plantas pequeñas que aprovechan el deshielo superficial veraniego.",
+      "Estrato Subterráneo: Capa de permafrost que impide el desarrollo de raíces profundas."
+    ],
+    "adaptacionesClave": "Ciclo de vida acelerado durante el breve verano (2-3 meses), coloración invernal (blanca) y capacidad de hibernación o migración masiva."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima polar o de alta montaña con inviernos largos y extremadamente fríos, y veranos muy cortos y frescos.",
+      "La baja radiación solar y la persistencia de hielo limitan severamente el crecimiento de la biomasa."
+    ],
+    "caracteristicas": [
+      "Temperaturas promedio anuales por debajo de los 0°C.",
+      "Precipitaciones muy escasas, principalmente en forma de nieve.",
+      "Fuertes vientos constantes que aumentan la sensación térmica de frío."
+    ],
+    "precipitacionAnualRango": "150 - 250 mm",
+    "temperaturaMediaRango": "-30 - 5°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelo con permafrost (capa de subsuelo permanentemente congelada). Solo la capa superior (capa activa) se descongela durante el corto verano.",
+      "Drenaje deficiente durante el verano debido a la barrera impermeable del permafrost, lo que genera zonas pantanosas y turberas."
+    ],
+    "caracteristicas": [
+      "Pobre en nutrientes y materia orgánica en descomposición.",
+      "Suelos saturados de agua durante el deshielo estival.",
+      "Movimientos del suelo por congelación/descongelación que crean patrones geométricos en la superficie."
+    ]
+  },
+
+  "faunaDestacada": [
+    "reno",
+    "zorro_artico",
+    "lemming",
+    "oso_polar",
+    "buey_almizclero"
+  ],
+  "floraDestacada": [
+    "musgo_de_reno",
+    "sauce_enano",
+    "algodon_artico",
+    "saxifraga",
+    "liquen_de_la_tundra"
+  ],
+  "hongosDestacados": [
+    "boletus_tundrae",
+    "amanita_nivalis",
+    "geoglossum_sp",
+    null
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistema extremadamente frágil, actualmente en el epicentro de los cambios globales por el calentamiento del Ártico.",
+    "amenazasPrincipales": [
+      "Cambio Climático: El deshielo del permafrost libera metano (gas de efecto invernadero) y altera la estructura del suelo.",
+      "Extracción de recursos: La minería y la perforación petrolífera fragmentan hábitats críticos.",
+      "Contaminación: Acumulación de contaminantes persistentes transportados por corrientes atmosféricas y marinas.",
+      "Erosión costera: El aumento del nivel del mar y la pérdida de hielo marino aceleran la pérdida de territorio."
+    ],
+    "beneficiosEcosistemicos": [
+      "Almacén global de carbono: El permafrost contiene enormes cantidades de carbono orgánico atrapado.",
+      "Regulación climática: El albedo (reflexión de luz solar) del hielo ayuda a enfriar el planeta.",
+      "Área de cría vital: Punto crucial para miles de especies de aves migratorias en verano.",
+      "Indicador biológico: Sensor temprano de la salud climática del planeta."
+    ]
+  }
+}

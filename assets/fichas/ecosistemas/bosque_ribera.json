@@ -1,0 +1,86 @@
+{
+  "id": "bosque_ribera",
+  "nombre": "Bosque de Ribera",
+  "imagenPrincipal": "bosque_ribera.webp",
+  "descripcionDetallada": [
+    "El bosque de ribera, también conocido como bosque en galería, es el ecosistema forestal que se desarrolla en las márgenes de los ríos y arroyos. Se trata de un sistema altamente dinámico que depende de la humedad del suelo y de los aportes periódicos de agua de las avenidas fluviales.",
+    "Estas formaciones vegetales actúan como un corredor biológico fundamental, conectando distintos paisajes y permitiendo el movimiento de la fauna. Su vegetación está adaptada a convivir con inundaciones temporales y a aprovechar la riqueza de nutrientes que arrastran las corrientes de agua dulce."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Presente en todas las cuencas hidrográficas del mundo donde el clima permite el desarrollo forestal, desde zonas templadas hasta tropicales. Se localizan estrictamente en las franjas inmediatas a los cauces de agua.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Especies de hoja caduca amantes de la humedad (higrófilas) como sauces, alisos, chopos y fresnos.",
+    "dominanciaAnimal": "Alta presencia de especies anfibias, avifauna acuática, insectos ligados al agua y pequeños mamíferos que utilizan el corredor como refugio.",
+    "estratosVerticales": [
+      "Estrato Arbóreo: Árboles altos y flexibles que pueden resistir la fuerza de las crecidas.",
+      "Estrato Arbustivo: Matorrales densos que protegen el suelo y ofrecen refugio a la fauna.",
+      "Estrato Herbáceo: Plantas y gramíneas de ribera que crecen en los sedimentos húmedos del borde del agua."
+    ],
+    "adaptacionesClave": "Raíces profundas y flexibles para anclarse en suelos móviles, capacidad de rebrote tras episodios de crecidas y alta tasa de transpiración para gestionar el exceso de agua."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Aunque el clima general es el de la región circundante, el microclima del bosque de ribera es más fresco y húmedo debido a la presencia constante de agua y a la sombra proyectada por el dosel arbóreo.",
+      "El factor limitante no es la lluvia estacional, sino la disponibilidad de agua freática y la frecuencia de las crecidas del río."
+    ],
+    "caracteristicas": [
+      "Humedad relativa significativamente mayor que en el entorno circundante.",
+      "Reducción de la radiación solar directa por la cobertura del dosel.",
+      "Efecto amortiguador de la temperatura extrema gracias a la cercanía de la masa de agua."
+    ],
+    "precipitacionAnualRango": "Variable según la región",
+    "temperaturaMediaRango": "Variable según la región"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos aluviales formados por el depósito de sedimentos (gravas, arenas y limos) transportados por el río.",
+      "Suelen ser suelos muy fértiles pero físicamente inestables, sujetos a erosión y sedimentación constante durante los eventos hidrológicos."
+    ],
+    "caracteristicas": [
+      "Suelos con alta capacidad de filtración y drenaje debido a su composición arenosa/pedregosa.",
+      "Enriquecidos periódicamente por el aporte de materia orgánica aluvial.",
+      "Saturación hídrica frecuente que crea condiciones de baja oxigenación (anaerobiosis) en capas profundas."
+    ]
+  },
+
+  "faunaDestacada": [
+    "nutria",
+    "martin_pescador",
+    "rana_comun",
+    "culebra_de_collar",
+    "garza_real"
+  ],
+  "floraDestacada": [
+    "aliso",
+    "sauce_lloron",
+    "chopo",
+    "fresno",
+    "carrizo"
+  ],
+  "hongosDestacados": [
+    "alnicola_spp",
+    "naucoria_spp",
+    "helvella_crispa"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistema muy frágil, históricamente degradado por la canalización de ríos, la agricultura hasta la misma orilla y la extracción de áridos.",
+    "amenazasPrincipales": [
+      "Canalización y dragado: Alteración del curso natural del río que impide el ciclo de inundaciones.",
+      "Especies Invasoras: Plantas exóticas (como la caña común o el ailanto) que desplazan a la vegetación autóctona.",
+      "Contaminación: Vertidos agrícolas e industriales que afectan la calidad del agua y del sedimento.",
+      "Fragmentación: Construcción de presas y puentes que rompen la continuidad del corredor ecológico."
+    ],
+    "beneficiosEcosistemicos": [
+      "Filtro natural: Eliminación de nitratos y contaminantes del agua antes de que lleguen a los cauces principales.",
+      "Control de inundaciones: Actúan como esponja, laminando las avenidas de agua y reduciendo el riesgo de inundación aguas abajo.",
+      "Biodiversidad: Funcionan como 'autopistas' para la fauna terrestre en entornos degradados.",
+      "Estabilización: Sus raíces mantienen los taludes del río, evitando la erosión masiva de las orillas."
+    ]
+  }
+}

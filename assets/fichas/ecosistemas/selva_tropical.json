@@ -1,0 +1,88 @@
+{
+  "id": "selva_tropical",
+  "nombre": "Selva Tropical",
+  "imagenPrincipal": "selva_tropical.webp",
+  "descripcionDetallada": [
+    "La selva tropical es un bioma caracterizado por altas temperaturas, humedad extrema y precipitaciones abundantes durante todo el año. Se encuentra principalmente en la franja intertropical y alberga la mayor biodiversidad del planeta.",
+    "Es un ecosistema de estructura compleja y estratificada, donde la competencia por la luz solar es el motor principal del desarrollo vegetal, creando una densa masa forestal donde la vida se concentra en distintos niveles desde el suelo hasta el dosel superior."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Regiones próximas al ecuador, destacando la cuenca del Amazonas (América del Sur), la cuenca del Congo (África) y el Sudeste Asiático (Indonesia, Malasia).",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Vegetación latifoliada perennifolia con árboles de gran porte, lianas, epífitas y orquídeas.",
+    "dominanciaAnimal": "Biodiversidad inmensa en insectos, aves, anfibios, reptiles y mamíferos arborícolas.",
+    "estratosVerticales": [
+      "Emergente: Árboles gigantes que sobresalen por encima del dosel.",
+      "Dosel: Capa continua de copas de árboles que intercepta la mayor parte de la luz solar.",
+      "Sotobosque: Zona de sombra con plantas tolerantes a la baja iluminación y arbustos.",
+      "Suelo: Capa de descomposición rápida, donde la hojarasca es degradada casi instantáneamente."
+    ],
+    "adaptacionesClave": "Hojas con 'gotas de goteo' (acuminadas) para drenar el agua rápidamente, raíces tabulares para soporte en suelos delgados y estrategias de trepado para alcanzar la luz."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima cálido y húmedo constante, sin una verdadera estación seca. Las temperaturas apenas varían a lo largo del año.",
+      "Las precipitaciones son regulares y suelen presentarse en forma de lluvias intensas diarias debido a la alta tasa de evapotranspiración."
+    ],
+    "caracteristicas": [
+      "Temperaturas medias mensuales superiores a los 18°C durante todo el año.",
+      "Humedad relativa del aire constantemente alta.",
+      "Ausencia de estacionalidad térmica marcada."
+    ],
+    "precipitacionAnualRango": "2000 - 10000 mm",
+    "temperaturaMediaRango": "24 - 28°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos generalmente pobres en nutrientes (lateríticos), debido a que la intensa lluvia lava los minerales (lixiviación).",
+      "La mayor parte de los nutrientes se encuentran en la biomasa viva, no en el suelo, por lo que el ciclo de reciclaje es extremadamente rápido."
+    ],
+    "caracteristicas": [
+      "Coloración rojiza o amarillenta debido a la alta presencia de óxidos de hierro y aluminio.",
+      "Alta acidez y baja capacidad de intercambio catiónico.",
+      "Capa superficial delgada de materia orgánica que desaparece rápidamente tras la deforestación."
+    ]
+  },
+
+  "faunaDestacada": [
+    "jaguar",
+    "tucan",
+    "mono_aullador",
+    "anaconda",
+    "guacamayo"
+  ],
+  "floraDestacada": [
+    "caoba",
+    "ceiba",
+    "caucho",
+    "orquideas",
+    "bromelias"
+  ],
+  "hongosDestacados": [
+    "mycena_chlorophos",
+    "dictyophora_indusiata",
+    "trametes_versicolor",
+    "ganoderma_lucidum"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Críticamente amenazado por la acción humana, siendo uno de los ecosistemas con mayor tasa de pérdida de superficie a nivel global.",
+    "amenazasPrincipales": [
+      "Deforestación: Tala para agricultura extensiva, ganadería y explotación maderera.",
+      "Fragmentación del hábitat: Creación de infraestructuras que aíslan poblaciones animales.",
+      "Minería ilegal: Contaminación de ríos con metales pesados como el mercurio.",
+      "Cambio Climático: Alteración de los patrones de lluvia que puede llevar a la sabanización de la selva."
+    ],
+    "beneficiosEcosistemicos": [
+      "Pulmón del mundo: Gran capacidad de captura de CO2 y producción de oxígeno.",
+      "Regulación del ciclo hidrológico global.",
+      "Banco genético: Fuente incalculable de compuestos farmacéuticos y recursos biológicos.",
+      "Control de la erosión y prevención de inundaciones en cuencas hidrográficas."
+    ]
+  }
+}
