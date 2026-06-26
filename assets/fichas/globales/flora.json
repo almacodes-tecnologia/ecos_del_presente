@@ -398,7 +398,7 @@
   {
     "id": "platano_de_sombra",
     "nombre": "Plátano de Sombra",
-    "nombreCientifico": "Platanus orientalis",
+    "nombreCientifico": "Platanus x hispanica",
     "familia": "Platanaceae",
     "agrupacion": "Árbol",
     "imagen": "platano_de_sombra.webp",
@@ -419,7 +419,7 @@
   },
   {
     "id": "tilo",
-    "nombre": "Tilo",
+    "nombre": "Tilo de hoja Pequeña",
     "nombreCientifico": "Tilia cordata",
     "familia": "Malvaceae",
     "agrupacion": "Árbol",

@@ -1,0 +1,107 @@
+{
+  "id": "muerdago",
+  "nombre": "Muérdago",
+  "nombreCientifico": "Viscum album",
+  "fechaInformacion": "2026",
+  "imagen": "muerdago.webp",
+  "introduccionPlanta": [
+    "El muérdago es una planta hemiparásita de la familia Santalaceae, que vive sobre las ramas de diversos árboles de hoja caduca.",
+    "Es famoso por su simbolismo mágico, su leyenda en Navidad y su particular ciclo de vida que depende totalmente de sus huéspedes."
+  ],
+  "descripcionLarga": [
+    "El Viscum album no es una planta terrestre; es un arbusto epífito que crece sobre otros árboles (como álamos, manzanos, encinas o pinos). Sus hojas son perennes, coriáceas, de color verde amarillento y dispuestas en parejas opuestas.",
+    "Es una hemiparásita: realiza la fotosíntesis pero extrae agua y sales minerales del árbol huésped mediante un órgano succionador llamado haustorio, que penetra en los tejidos del árbol hasta llegar a sus conductos de savia.",
+    "Produce pequeñas flores discretas y sus frutos son bayas blancas, viscosas y translúcidas, muy atractivas para las aves, quienes son las principales encargadas de dispersar sus semillas pegajosas de rama en rama."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Santalales",
+    "familia": "Santalaceae",
+    "genero": "Viscum",
+    "especie": "Viscum album"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable y extendida; a menudo considerada plaga en explotaciones frutales.",
+    "amenazasPrincipales": [
+      "No tiene amenazas de extinción, pero en ocasiones se elimina de árboles frutales para evitar el debilitamiento del huésped."
+    ],
+    "esfuerzosConservacion": [
+      "Ninguno; es una especie muy común y prolífica."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Arbusto hemiparásito perennifolio.",
+    "alturaPromedio": "Esferas de 30 - 80 cm de diámetro.",
+    "colorFollaje": "Verde amarillento.",
+    "tipoRaiz": "Haustorio (órgano de fijación y succión que penetra en el huésped).",
+    "tallos": "Tallos ramificados de forma dicotómica (en 'Y').",
+    "hojas": "Opuetas, oblongas, coriáceas y persistentes.",
+    "flores": {
+      "forma": "Muy pequeñas, agrupadas en las bifurcaciones de los tallos.",
+      "colores": "Amarillo verdoso.",
+      "fragancia": "Inapreciable.",
+      "tamano": "2 - 3 mm."
+    },
+    "frutos": "Baya esférica, blanca o amarillenta, con pulpa muy viscosa."
+  },
+  "habitat": {
+    "tipo": "Copa de árboles hospedadores.",
+    "distribucionGeografica": [
+      "Europa, norte de Asia y el norte de África."
+    ],
+    "preferenciasSuelo": "No requiere suelo (planta epífita).",
+    "preferenciasLuz": "Luz filtrada a través de la copa del árbol huésped."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Dispersión ornitócora (a través de los excrementos de las aves que comen sus bayas)."
+    ],
+    "riego": "Obtiene toda su humedad del árbol hospedador.",
+    "poda": "No aplica.",
+    "fertilizacion": "Obtiene nutrientes del árbol hospedador.",
+    "plagasComunes": [
+      "Ninguna destacable; es en sí mismo una plaga para el árbol huésped si prolifera demasiado."
+    ],
+    "enfermedadesComunes": [
+      "No aplica."
+    ]
+  },
+  "usos": {
+    "ornamental": "Uso decorativo tradicional en Navidad.",
+    "culinario": [
+      "Ninguno (tóxico)."
+    ],
+    "medicinal": [
+      "Extractos utilizados en terapias alternativas (antroposóficas) para ciertas dolencias, bajo estricto control médico debido a su toxicidad."
+    ],
+    "industrial": [
+      "Históricamente, la pulpa viscosa de sus bayas se usaba para fabricar 'liga' (pegamento para cazar pájaros, hoy prohibido)."
+    ],
+    "simbolismo": "Vida, regeneración, inmortalidad (por permanecer verde en invierno), fertilidad y protección mágica."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas dispersadas por aves).",
+    "polinizacion": "Entomófila (insectos) o anemófila (viento).",
+    "momentoFloracion": "Primavera (marzo-mayo).",
+    "cicloVida": "Perenne, de larga vida."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 4,
+    "vitalidad": 9,
+    "resistencia": 10,
+    "impactoEcologico": 5,
+    "misticismo": 10,
+    "fraganciaMagica": 2,
+    "espinasDefensivas": 0
+  },
+  "curiosidades": [
+    "Las bayas contienen una sustancia llamada 'viscina', que es extremadamente pegajosa; esto permite que la semilla se adhiera firmemente a la rama del árbol cuando un ave la deposita.",
+    "Para los druidas celtas, el muérdago era la planta más sagrada, especialmente si crecía sobre un roble, y se cortaba con una hoz de oro en rituales especiales.",
+    "Es 'hemiparásita', lo que significa que, aunque roba agua y sales, mantiene sus hojas verdes y realiza su propia fotosíntesis.",
+    "La tradición de besarse bajo el muérdago proviene de antiguas leyendas nórdicas y europeas sobre la paz y la reconciliación."
+  ]
+}

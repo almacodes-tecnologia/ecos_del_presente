@@ -1,0 +1,116 @@
+{
+  "id": "manzano-comun",
+  "nombre": "Manzano común",
+  "nombreCientifico": "Malus domestica",
+  "fechaInformacion": "2026",
+  "imagen": "manzano_comun.webp",
+  "introduccionPlanta": [
+    "El manzano común es un árbol caducifolio de la familia Rosaceae, ampliamente cultivado por sus frutos, las manzanas.",
+    "Es uno de los árboles frutales más importantes del mundo, con una historia de domesticación que se remonta a miles de años en Asia Central."
+  ],
+  "descripcionLarga": [
+    "El Malus domestica es un árbol de pequeño a mediano tamaño, que raramente supera los 10 metros de altura, con una copa redondeada y densa. Sus hojas son simples, ovadas, con el margen serrado y una textura ligeramente vellosa en el envés cuando son jóvenes.",
+    "Es famoso por su floración primaveral, que cubre el árbol con una explosión de flores blancas y rosadas, atrayendo a una gran cantidad de polinizadores. El fruto, el pomo o manzana, presenta una enorme diversidad de variedades, colores y sabores, adaptándose a climas templados en todo el planeta.",
+    "El manzano requiere un periodo de frío invernal para romper la dormancia de sus yemas y florecer correctamente. Es una especie fundamental tanto en la fruticultura comercial como en huertos familiares, simbolizando la abundancia y el conocimiento en numerosas culturas."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Rosales",
+    "familia": "Rosaceae",
+    "genero": "Malus",
+    "especie": "Malus domestica"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable (en cultivo).",
+    "amenazasPrincipales": [
+      "Enfermedades fúngicas (moteado, oídio).",
+      "Plagas de insectos como el pulgón lanígero y la carpocapsa.",
+      "Pérdida de diversidad genética por la estandarización comercial."
+    ],
+    "esfuerzosConservacion": [
+      "Bancos de germoplasma para preservar variedades tradicionales.",
+      "Programas de mejora para resistencia a enfermedades.",
+      "Cultivos orgánicos y manejo integrado de plagas."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol caducifolio de tamaño pequeño a medio.",
+    "alturaPromedio": "3 - 10 m (10 - 33 ft).",
+    "colorFollaje": "Verde oscuro, a veces con tintes grisáceos.",
+    "tipoRaiz": "Sistema radicular fasciculado y extendido.",
+    "tallos": "Tronco de corteza grisácea y rugosa que se descama en láminas pequeñas.",
+    "hojas": "Simples, alternas, ovadas, de borde serrado.",
+    "flores": {
+      "forma": "Cinco pétalos, dispuestas en corimbos.",
+      "colores": "Blanco, rosado o rojo claro.",
+      "fragancia": "Suave, dulce.",
+      "tamano": "2.5 - 3.5 cm de diámetro."
+    },
+    "frutos": "Pomo carnoso (manzana) de colores variados (verde, amarillo, rojo, bicolor)."
+  },
+  "habitat": {
+    "tipo": "Zonas templadas del hemisferio norte y sur.",
+    "distribucionGeografica": [
+      "Cultivado globalmente, originario de las regiones montañosas de Asia Central (Kazajistán)."
+    ],
+    "preferenciasSuelo": "Suelos profundos, fértiles, frescos y bien drenados; ligeramente ácidos a neutros.",
+    "preferenciasLuz": "Pleno sol para una fructificación óptima."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Injerto (sobre patrones seleccionados para controlar el tamaño).",
+      "Semillas (solo para obtener nuevas variedades o patrones)."
+    ],
+    "riego": "Regular, necesario para el desarrollo de frutos, especialmente en verano.",
+    "poda": "Poda anual de formación y fructificación para mejorar la calidad y cantidad de la cosecha.",
+    "fertilizacion": "Necesidades de nitrógeno, fósforo y potasio, ajustadas a la producción.",
+    "plagasComunes": [
+      "Carpocapsa (gusano de la manzana)",
+      "Pulgones",
+      "Ácaros"
+    ],
+    "enfermedadesComunes": [
+      "Moteado o roña (Venturia inaequalis)",
+      "Oídio",
+      "Fuego bacteriano"
+    ]
+  },
+  "usos": {
+    "ornamental": "Muy apreciado en jardines por su floración primaveral y fruta decorativa.",
+    "culinario": [
+      "Consumo en fresco, zumos, sidra, repostería, compotas, deshidratados."
+    ],
+    "medicinal": [
+      "Fuente de pectina, fibra y flavonoides; usos tradicionales para salud digestiva y anticolesterol."
+    ],
+    "industrial": [
+      "Producción de vinagre, pectina, extractos alimentarios y madera para tallas pequeñas."
+    ],
+    "simbolismo": "Salud, conocimiento, tentación, fertilidad y amor."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (injertos).",
+    "polinizacion": "Entomófila (principalmente abejas).",
+    "momentoFloracion": "Primavera (marzo-mayo).",
+    "cicloVida": "Perenne, longevidad variable (50 - 100 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 8,
+    "rareza": 1,
+    "vitalidad": 7,
+    "resistencia": 5,
+    "impactoEcologico": 6,
+    "misticismo": 9,
+    "fraganciaMagica": 6,
+    "espinasDefensivas": 0
+  },
+  "curiosidades": [
+    "Existen más de 7.500 variedades de manzanas cultivadas en todo el mundo.",
+    "Si plantas una semilla de una manzana comprada en el supermercado, el árbol resultante no dará las mismas manzanas, ya que la variedad solo se mantiene mediante injertos.",
+    "La manzana es el fruto nacional de varios países y ha sido protagonista en mitos, desde la caída de Troya hasta la gravedad de Newton.",
+    "El manzano necesita 'horas de frío' (temperaturas entre 0 y 7°C) durante el invierno para poder florecer en primavera."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "tilo",
+  "nombre": "Tilo de hoja pequeña",
+  "nombreCientifico": "Tilia cordata",
+  "fechaInformacion": "2026",
+  "imagen": "tilo.webp",
+  "introduccionPlanta": [
+    "El tilo de hoja pequeña es un árbol caducifolio majestuoso de la familia Malvaceae, muy apreciado en toda Europa por su sombra densa y sus flores altamente fragantes.",
+    "Es venerado desde la antigüedad por sus propiedades medicinales y su importancia cultural como árbol protector y sagrado en diversas tradiciones europeas."
+  ],
+  "descripcionLarga": [
+    "El Tilia cordata es un árbol de porte elegante, con una copa piramidal que se vuelve redondeada con la edad, pudiendo alcanzar los 20-30 metros de altura. Su corteza es grisácea y finamente agrietada. Lo que lo diferencia de otras especies es el tamaño de sus hojas, en forma de corazón (cordadas), de color verde oscuro por el haz y verde azulado con vello cobrizo en los nervios del envés.",
+    "Su floración, que ocurre a principios de verano, es un evento muy esperado, no solo por su aroma embriagador, sino por su valor melífero, siendo una de las fuentes preferidas de las abejas. El fruto es una pequeña nuez pequeña que pende de una bráctea característica en forma de hoja, la cual ayuda a su dispersión por el viento.",
+    "Es un árbol muy apreciado en entornos urbanos y parques por su resistencia a la contaminación y su gran valor ornamental. Su madera es blanca, blanda y muy homogénea, siendo una de las favoritas para el tallado de figuras y esculturas."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Malvales",
+    "familia": "Malvaceae",
+    "genero": "Tilia",
+    "especie": "Tilia cordata"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable y ampliamente distribuido en bosques templados.",
+    "amenazasPrincipales": [
+      "Cambios en el uso del suelo forestal.",
+      "Estrés hídrico en áreas urbanas degradadas.",
+      "Plagas que afectan su follaje (pulgones)."
+    ],
+    "esfuerzosConservacion": [
+      "Uso en programas de reforestación europea.",
+      "Protección de ejemplares centenarios en parques históricos."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol caducifolio.",
+    "alturaPromedio": "20 - 30 m (65 - 100 ft).",
+    "colorFollaje": "Verde oscuro intenso, amarillo brillante en otoño.",
+    "tipoRaiz": "Sistema radicular profundo y bien estructurado.",
+    "tallos": "Tronco robusto, corteza grisácea que forma una red fina de estrías con la edad.",
+    "hojas": "Simples, alternas, cordiformes (forma de corazón), borde serrado.",
+    "flores": {
+      "forma": "Cimosas, pequeñas y fragantes, unidas a una bráctea protectora.",
+      "colores": "Amarillo pálido a blanco crema.",
+      "fragancia": "Intensa, dulce y mielosa.",
+      "tamano": "1 - 1.5 cm."
+    },
+    "frutos": "Pequeña nuez globosa, vellosa, unida a una bráctea alada."
+  },
+  "habitat": {
+    "tipo": "Bosques templados frescos, laderas montañosas.",
+    "distribucionGeografica": [
+      "Gran parte de Europa y el suroeste de Asia."
+    ],
+    "preferenciasSuelo": "Suelos profundos, ricos en nutrientes, frescos y ligeramente básicos a neutros.",
+    "preferenciasLuz": "Especie de media sombra; tolera bien la sombra en su juventud."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (estratificadas).",
+      "Injerto."
+    ],
+    "riego": "Requiere humedad en el suelo; sensible a sequías prolongadas en verano.",
+    "poda": "Muy tolerante a la poda; es ideal para setos formales y formas topiarias.",
+    "fertilizacion": "No suele necesitar en suelos naturales; agradece aportes de compost en jardinería.",
+    "plagasComunes": [
+      "Pulgones (que pueden generar melaza)",
+      "Ácaros"
+    ],
+    "enfermedadesComunes": [
+      "Mancha foliar",
+      "Hongos de la madera"
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de alineación urbano, ejemplar aislado en parques, setos formales.",
+    "culinario": [
+      "Flores y brácteas secas para infusiones (tila)."
+    ],
+    "medicinal": [
+      "Infusión de tila: ansiolítico natural, sedante, antiespasmódico y diaforético (ayuda a sudar en resfriados)."
+    ],
+    "industrial": [
+      "Madera para modelismo, talla de madera, instrumentos musicales y fabricación de cajas de resonancia."
+    ],
+    "simbolismo": "Amor, lealtad, protección y paz. Tradicionalmente considerado un árbol que aleja los malos espíritus."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Entomófila (por abejas y otros insectos polinizadores).",
+    "momentoFloracion": "Verano (junio-julio).",
+    "cicloVida": "Perenne, de larga vida (puede vivir más de 500 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 8,
+    "rareza": 2,
+    "vitalidad": 9,
+    "resistencia": 7,
+    "impactoEcologico": 8,
+    "misticismo": 10,
+    "fraganciaMagica": 10,
+    "espinasDefensivas": 0
+  },
+  "curiosidades": [
+    "La miel de tilo es una de las más valoradas por su aroma intenso y sabor delicado, producida gracias a la gran cantidad de néctar de sus flores.",
+    "En la mitología germánica, el tilo era el árbol sagrado de Freya, la diosa del amor y la fertilidad.",
+    "Las hojas y flores del tilo son comestibles cuando son muy jóvenes, pudiendo añadirse en ensaladas.",
+    "Se dice que el árbol de tilo es un 'árbol de justicia', ya que históricamente se celebraban juicios y asambleas bajo su generosa sombra en las plazas de los pueblos europeos."
+  ]
+}

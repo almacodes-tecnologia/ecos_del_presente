@@ -1,0 +1,112 @@
+{
+  "id": "lentisco",
+  "nombre": "Lentisco",
+  "nombreCientifico": "Pistacia lentiscus",
+  "fechaInformacion": "2026",
+  "imagen": "lentisco.webp",
+  "introduccionPlanta": [
+    "El lentisco es un arbusto perennifolio de la familia Anacardiaceae, omnipresente en el matorral mediterráneo.",
+    "Es conocido popularmente como 'la mata' y destaca por su intenso aroma resinoso y su gran capacidad para prosperar en condiciones difíciles."
+  ],
+  "descripcionLarga": [
+    "El Pistacia lentiscus es un arbusto o pequeño árbol que rara vez supera los 3 o 4 metros de altura. Su follaje, denso y persistente, está compuesto por hojas paripinnadas de color verde oscuro brillante, que desprenden un aroma penetrante y característico cuando se frotan.",
+    "Es una especie dioica, donde los ejemplares masculinos y femeninos están separados. Sus flores, pequeñas y sin pétalos, dan paso a frutos carnosos en forma de drupa que cambian de color de rojo a negro al madurar, siendo un recurso alimenticio vital para muchas aves durante el invierno.",
+    "Esta planta es un pilar ecológico del ecosistema mediterráneo, ya que actúa como una 'especie nodriza' que protege a los brotes de otros árboles jóvenes frente a los herbívoros y la insolación excesiva, facilitando así la regeneración natural del bosque."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Sapindales",
+    "familia": "Anacardiaceae",
+    "genero": "Pistacia",
+    "especie": "Pistacia lentiscus"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable y abundante.",
+    "amenazasPrincipales": [
+      "Urbanización de zonas costeras.",
+      "Destrucción del matorral para la agricultura intensiva.",
+      "Incendios forestales recurrentes (aunque tiene gran capacidad de rebrote)."
+    ],
+    "esfuerzosConservacion": [
+      "Protección dentro de Parques Naturales y áreas protegidas.",
+      "Utilización en proyectos de restauración ecológica por su resistencia."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Arbusto o pequeño árbol perennifolio.",
+    "alturaPromedio": "1 - 4 m (3 - 13 ft).",
+    "colorFollaje": "Verde oscuro brillante, perenne.",
+    "tipoRaiz": "Sistema radicular profundo y muy ramificado.",
+    "tallos": "Troncos múltiples, corteza grisácea y ramillas rojizas en los extremos.",
+    "hojas": "Compuestas, paripinnadas, con 6 a 12 folíolos coriáceos y un raquis alado.",
+    "flores": {
+      "forma": "Inflorescencias densas en racimos cortos.",
+      "colores": "Rojizo (masculinas), verdoso (femeninas).",
+      "fragancia": "Resinosa, fuerte.",
+      "tamano": "Muy pequeñas."
+    },
+    "frutos": "Drupa globosa, primero roja y finalmente negra al madurar."
+  },
+  "habitat": {
+    "tipo": "Matorral mediterráneo (maquis), laderas soleadas y zonas costeras.",
+    "distribucionGeografica": [
+      "Toda la cuenca del Mediterráneo, desde la costa hasta los 1.000 metros de altitud."
+    ],
+    "preferenciasSuelo": "Muy adaptable; crece en suelos calizos, arenosos, rocosos y pobres. Tolera la salinidad costera.",
+    "preferenciasLuz": "Pleno sol o semisombra."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas.",
+      "Esquejes de madera semidura."
+    ],
+    "riego": "Muy resistente a la sequía; no requiere riego una vez establecido.",
+    "poda": "Muy tolerante a la poda, frecuente en jardinería de bajo mantenimiento.",
+    "fertilizacion": "No necesaria.",
+    "plagasComunes": [
+      "Pulgones",
+      "Cochinillas"
+    ],
+    "enfermedadesComunes": [
+      "Hongos del suelo en caso de exceso de humedad."
+    ]
+  },
+  "usos": {
+    "ornamental": "Setos densos, pantallas visuales y jardinería de bajo consumo hídrico.",
+    "culinario": [
+      "Su resina (almáciga) se ha utilizado tradicionalmente como goma de mascar y para aromatizar dulces."
+    ],
+    "medicinal": [
+      "Propiedades antisépticas, antiinflamatorias y cicatrizantes (históricamente usado para encías y problemas digestivos)."
+    ],
+    "industrial": [
+      "La resina (almáciga) se usa en la industria de barnices, lacas y en odontología."
+    ],
+    "simbolismo": "Resistencia, adaptación, protección y conexión con la esencia del Mediterráneo."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Primavera (abril-mayo).",
+    "cicloVida": "Perenne, de larga vida."
+  },
+  "atributosFantasia": {
+    "belleza": 6,
+    "rareza": 1,
+    "vitalidad": 10,
+    "resistencia": 10,
+    "impactoEcologico": 9,
+    "misticismo": 6,
+    "fraganciaMagica": 8,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "Es una planta 'nodriza': bajo su copa se crea un microclima que permite que nazcan otros árboles, protegiéndolos del sol y de ser devorados por animales.",
+    "Su resina (almáciga) fue el primer chicle natural del mundo, utilizado desde la antigüedad para limpiar los dientes y refrescar el aliento.",
+    "El nombre científico 'Pistacia' lo emparenta directamente con el árbol del pistacho.",
+    "Tiene una capacidad de rebrote asombrosa tras el fuego, lo que la convierte en una de las primeras en recuperar los campos incendiados."
+  ]
+}

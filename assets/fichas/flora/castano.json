@@ -1,0 +1,114 @@
+{
+  "id": "castano",
+  "nombre": "Castaño",
+  "nombreCientifico": "Castanea sativa",
+  "fechaInformacion": "2026",
+  "imagen": "castano.webp",
+  "introduccionPlanta": [
+    "El castaño es un árbol caducifolio de gran porte perteneciente a la familia Fagaceae.",
+    "Históricamente conocido como el 'árbol del pan' por la importancia vital de sus frutos en la alimentación humana antes de la llegada de la patata."
+  ],
+  "descripcionLarga": [
+    "El Castanea sativa es un árbol robusto que puede superar los 30 metros de altura y alcanzar una longevidad impresionante, superando a menudo los 500 años. Posee una corteza grisácea que se agrieta longitudinalmente con la edad, creando un patrón helicoidal muy característico.",
+    "Sus hojas son grandes, lanceoladas y con un margen dentado muy marcado. Es una especie monoica que florece al inicio del verano, produciendo largos amentos masculinos de color amarillo intenso que dan al árbol un aspecto único durante la floración.",
+    "El fruto es la castaña, que crece protegida dentro de una cúpula espinosa llamada erizo. Este árbol ha modelado el paisaje y la cultura de muchas regiones montañosas europeas, donde se cultivaba en extensos bosques gestionados para la producción de frutos y madera de alta calidad."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Fagales",
+    "familia": "Fagaceae",
+    "genero": "Castanea",
+    "especie": "Castanea sativa"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable en estado silvestre, pero amenazada en zonas de cultivo tradicional.",
+    "amenazasPrincipales": [
+      "Tinta del castaño (Phytophthora cinnamomi), un hongo que pudre las raíces.",
+      "Chancro del castaño (Cryphonectria parasitica), que causa necrosis en ramas y tronco.",
+      "Abandono de los castañares tradicionales."
+    ],
+    "esfuerzosConservacion": [
+      "Programas de selección de variedades resistentes a la tinta y al chancro.",
+      "Revalorización del fruto y la madera de castaño.",
+      "Mantenimiento de los bosques tradicionales mediante podas de rejuvenecimiento."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol caducifolio de gran porte.",
+    "alturaPromedio": "20 - 35 m (65 - 115 ft).",
+    "colorFollaje": "Verde intenso en verano; tonos amarillos y cobrizos en otoño.",
+    "tipoRaiz": "Sistema radicular profundo y potente.",
+    "tallos": "Tronco robusto, corteza gris-parda que se retuerce de forma helicoidal con los años.",
+    "hojas": "Grandes, simples, alternas, lanceoladas y con dientes agudos en el margen.",
+    "flores": {
+      "forma": "Amentos largos y erectos (masculinos) y flores femeninas pequeñas en la base.",
+      "colores": "Amarillo intenso.",
+      "fragancia": "Fuerte y penetrante.",
+      "tamano": "Amentos de hasta 15-20 cm."
+    },
+    "frutos": "Castañas protegidas por un erizo espinoso."
+  },
+  "habitat": {
+    "tipo": "Bosques templados, laderas de montaña con humedad ambiental.",
+    "distribucionGeografica": [
+      "Sur de Europa, el Cáucaso y Asia Menor."
+    ],
+    "preferenciasSuelo": "Prefiere suelos silíceos (ácidos), profundos, frescos y con buen drenaje; evita los suelos calizos.",
+    "preferenciasLuz": "Especie de media luz a sol; requiere buena insolación para producir frutos."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (castañas).",
+      "Injerto (para variedades frutales)."
+    ],
+    "riego": "Requiere humedad en el suelo y buen nivel de precipitaciones; sensible a sequías estivales prolongadas.",
+    "poda": "Poda de formación en jóvenes; poda de limpieza y aclareo en adultos para mejorar la fructificación.",
+    "fertilizacion": "En plantaciones, agradece aportes orgánicos y corrección de acidez si fuera necesario.",
+    "plagasComunes": [
+      "Carpocapsa (gusano de la castaña)",
+      "Avispilla del castaño (Dryocosmus kuriphilus)"
+    ],
+    "enfermedadesComunes": [
+      "Tinta del castaño (Phytophthora)",
+      "Chancro (Cryphonectria parasitica)"
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de gran valor estético en parques y jardines amplios.",
+    "culinario": [
+      "Castañas (asadas, cocidas, en repostería, harina de castaña)."
+    ],
+    "medicinal": [
+      "Hojas y corteza ricas en taninos; tradicionalmente usadas como antitusígeno y astringente."
+    ],
+    "industrial": [
+      "Madera semidura y duradera, muy valorada para mobiliario, tonelería, construcción y ebanistería."
+    ],
+    "simbolismo": "Provisión, generosidad, resistencia y conexión con la vida rural tradicional."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Mixta (anemófila por viento y entomófila por insectos).",
+    "momentoFloracion": "Verano (junio-julio).",
+    "cicloVida": "Perenne, de muy larga vida."
+  },
+  "atributosFantasia": {
+    "belleza": 8,
+    "rareza": 2,
+    "vitalidad": 9,
+    "resistencia": 7,
+    "impactoEcologico": 9,
+    "misticismo": 8,
+    "fraganciaMagica": 6,
+    "espinasDefensivas": 6
+  },
+  "curiosidades": [
+    "La harina de castaña fue el sustituto del cereal en las zonas de montaña donde el trigo no podía crecer debido al frío.",
+    "El 'Castaño de los Cien Caballos' en Sicilia es uno de los árboles más antiguos y grandes del mundo, con una edad estimada de entre 2.000 y 4.000 años.",
+    "Las castañas fueron fundamentales para la supervivencia de las poblaciones rurales europeas durante siglos de hambrunas.",
+    "A diferencia de otros árboles frutales, el erizo es una defensa mecánica extremadamente eficaz para proteger las semillas de los herbívoros."
+  ]
+}

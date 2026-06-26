@@ -1,0 +1,111 @@
+{
+  "id": "girasol_comun",
+  "nombre": "Girasol común",
+  "nombreCientifico": "Helianthus annuus",
+  "fechaInformacion": "2026",
+  "imagen": "girasol_comun.webp",
+  "introduccionPlanta": [
+    "El girasol común es una planta herbácea anual de la familia Asteraceae, icónica por su gran tamaño y su brillante inflorescencia amarilla.",
+    "Es una de las plantas más cultivadas a nivel mundial por sus semillas, ricas en aceites, y por su fascinante comportamiento de heliotropismo."
+  ],
+  "descripcionLarga": [
+    "El Helianthus annuus puede crecer desde 1 hasta más de 3 metros de altura en una sola temporada. Su tallo es erecto, grueso y piloso. Las hojas son grandes, alternas, acorazonadas y de textura áspera.",
+    "La 'flor' del girasol es en realidad un capítulo compuesto por cientos de pequeñas flores fértiles en el centro (que formarán las semillas) y flores estériles en el borde (pétalos amarillos) para atraer a los polinizadores.",
+    "Es famosa por el heliotropismo: las plantas jóvenes giran sus botones florales siguiendo el movimiento del sol durante el día, desde el este por la mañana hacia el oeste al atardecer, un mecanismo que maximiza su fotosíntesis y el éxito reproductivo."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Asterales",
+    "familia": "Asteraceae",
+    "genero": "Helianthus",
+    "especie": "Helianthus annuus"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Muy abundante (especie cultivada masivamente).",
+    "amenazasPrincipales": [
+      "Plagas de insectos específicos.",
+      "Humedad excesiva en la fase de maduración de la semilla."
+    ],
+    "esfuerzosConservacion": [
+      "No aplica (es un cultivo agrícola mayoritario)."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Herbácea anual.",
+    "alturaPromedio": "1 - 3.5 m (3 - 11 ft).",
+    "colorFollaje": "Verde medio.",
+    "tipoRaiz": "Sistema radicular pivotante y profundo.",
+    "tallos": "Tallos gruesos, erectos y cubiertos de vellosidad áspera.",
+    "hojas": "Grandes, acorazonadas, dentadas y alternas.",
+    "flores": {
+      "forma": "Capítulo grande con lígulas amarillas periféricas.",
+      "colores": "Amarillo intenso, disco central marrón o negruzco.",
+      "fragancia": "Suave, herbácea.",
+      "tamano": "10 - 30 cm de diámetro."
+    },
+    "frutos": "Aquenios (semillas/pipas) con pericarpio duro."
+  },
+  "habitat": {
+    "tipo": "Campos abiertos, zonas agrícolas.",
+    "distribucionGeografica": [
+      "Nativa de Norteamérica; distribuida por todo el mundo como cultivo principal."
+    ],
+    "preferenciasSuelo": "Suelos fértiles, profundos y bien drenados; tolera bien diversos tipos de suelos si hay sol.",
+    "preferenciasLuz": "Pleno sol (esencial para su desarrollo)."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas."
+    ],
+    "riego": "Moderado; resistente una vez establecida, pero requiere agua constante para un crecimiento masivo.",
+    "poda": "No aplica.",
+    "fertilizacion": "Requiere buenos niveles de nutrientes, especialmente nitrógeno en la fase de crecimiento vegetativo.",
+    "plagasComunes": [
+      "Pulgones",
+      "Pájaros (comen las semillas)"
+    ],
+    "enfermedadesComunes": [
+      "Mildiu",
+      "Botrytis",
+      "Hongos radiculares"
+    ]
+  },
+  "usos": {
+    "ornamental": "Muy popular en jardines y parterres por su altura y color alegre.",
+    "culinario": [
+      "Aceite de girasol, pipas tostadas, brotes tiernos en ensaladas."
+    ],
+    "medicinal": [
+      "Usos tradicionales de las semillas como nutritivas y energéticas."
+    ],
+    "industrial": [
+      "Extracción de aceite para biocombustibles, cosmética y pinturas."
+    ],
+    "simbolismo": "Felicidad, lealtad, adoración, vitalidad y energía solar."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Entomófila (abejas y polinizadores).",
+    "momentoFloracion": "Verano.",
+    "cicloVida": "Anual (completa su ciclo en una temporada)."
+  },
+  "atributosFantasia": {
+    "belleza": 7,
+    "rareza": 1,
+    "vitalidad": 10,
+    "resistencia": 6,
+    "impactoEcologico": 7,
+    "misticismo": 6,
+    "fraganciaMagica": 3,
+    "espinasDefensivas": 0
+  },
+  "curiosidades": [
+    "Los girasoles maduros ya no siguen al sol; una vez que la flor se abre, su tallo se endurece y suelen quedar orientados hacia el este.",
+    "Las semillas de girasol son un alimento básico que contiene vitamina E, magnesio y selenio.",
+    "El girasol tiene una capacidad increíble para absorber metales pesados del suelo, por lo que se utiliza a veces en procesos de 'fitorremediación' para limpiar tierras contaminadas.",
+    "Una sola planta de girasol puede producir entre 1.000 y 2.000 semillas en su capítulo central."
+  ]
+}

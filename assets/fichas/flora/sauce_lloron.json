@@ -1,0 +1,110 @@
+{
+  "id": "sauce_lloron",
+  "nombre": "Sauce llorón",
+  "nombreCientifico": "Salix babylonica",
+  "fechaInformacion": "2026",
+  "imagen": "sauce_lloron.webp",
+  "introduccionPlanta": [
+    "El sauce llorón es un árbol caducifolio de la familia Salicaceae, mundialmente reconocido por sus largas ramas péndulas que caen hacia el suelo.",
+    "Es un símbolo de elegancia melancólica y una presencia clásica en el diseño de jardines junto a estanques y cursos de agua."
+  ],
+  "descripcionLarga": [
+    "El Salix babylonica es un árbol de crecimiento rápido que puede alcanzar los 15-20 metros de altura. Su característica más distintiva son sus ramas extremadamente flexibles y delgadas, que se cuelgan graciosamente desde las ramas principales, creando un efecto de 'llanto' que llega hasta tocar el suelo o el agua.",
+    "Sus hojas son estrechas, lanceoladas, de color verde brillante por el haz y glauco por el envés. Es una especie dioica, con amentos (flores) que aparecen a principios de primavera junto con las hojas jóvenes.",
+    "Es un árbol que ama el agua y requiere suelos siempre húmedos. Sus raíces son muy potentes y buscan activamente fuentes hídricas, por lo que nunca debe plantarse cerca de canalizaciones, tuberías o piscinas. Su madera es blanda y quebradiza, pero su valor ornamental es inigualable en el paisajismo."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Malpighiales",
+    "familia": "Salicaceae",
+    "genero": "Salix",
+    "especie": "Salix babylonica"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable en cultivo.",
+    "amenazasPrincipales": [
+      "Plagas específicas de insectos barrenadores.",
+      "Vulnerabilidad a tormentas debido a su madera frágil."
+    ],
+    "esfuerzosConservacion": [
+      "No requiere esfuerzos especiales debido a su amplia propagación ornamental."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol caducifolio de porte péndulo.",
+    "alturaPromedio": "10 - 20 m (33 - 65 ft).",
+    "colorFollaje": "Verde claro brillante.",
+    "tipoRaiz": "Sistema radicular muy vigoroso, expansivo y buscador de agua.",
+    "tallos": "Tronco corto con corteza gris parda, ramas extremadamente flexibles y caídas.",
+    "hojas": "Lanceoladas, estrechas, borde finamente serrado.",
+    "flores": {
+      "forma": "Amentos estrechos y alargados.",
+      "colores": "Amarillo verdoso.",
+      "fragancia": "Ligera.",
+      "tamano": "2 - 5 cm."
+    },
+    "frutos": "Cápsulas pequeñas que contienen semillas con pelos sedosos (algodonosas)."
+  },
+  "habitat": {
+    "tipo": "Zonas húmedas, riberas de ríos y estanques.",
+    "distribucionGeografica": [
+      "Originario del norte de China; hoy distribuido globalmente en climas templados."
+    ],
+    "preferenciasSuelo": "Suelos húmedos, ricos y profundos; tolera encharcamientos temporales.",
+    "preferenciasLuz": "Pleno sol o semisombra."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Esquejes (enraízan con extrema facilidad en agua o tierra húmeda)."
+    ],
+    "riego": "Muy exigente; requiere abundante agua durante toda su vida.",
+    "poda": "Poda de mantenimiento para eliminar ramas secas o rotas; no requiere poda de forma.",
+    "fertilizacion": "No suele ser necesaria si el suelo es rico en nutrientes naturales.",
+    "plagasComunes": [
+      "Pulgones",
+      "Orugas defoliadoras"
+    ],
+    "enfermedadesComunes": [
+      "Antracnosis",
+      "Hongos de la madera"
+    ]
+  },
+  "usos": {
+    "ornamental": "Esencial en paisajismo junto a espejos de agua.",
+    "culinario": [
+      "Ninguno."
+    ],
+    "medicinal": [
+      "La corteza contiene salicina (precursor de la aspirina), utilizada ancestralmente como analgésico y antitérmico."
+    ],
+    "industrial": [
+      "Cestería (las ramas flexibles son ideales para entrelazar)."
+    ],
+    "simbolismo": "Melancolía, sensibilidad, protección y conexión con lo femenino y el agua."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (esquejes).",
+    "polinizacion": "Entomófila (por abejas y otros insectos).",
+    "momentoFloracion": "Primavera (marzo-abril).",
+    "cicloVida": "Perenne, longevidad corta a media (50-70 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 10,
+    "rareza": 2,
+    "vitalidad": 8,
+    "resistencia": 4,
+    "impactoEcologico": 6,
+    "misticismo": 9,
+    "fraganciaMagica": 3,
+    "espinasDefensivas": 0
+  },
+  "curiosidades": [
+    "El ácido salicílico se descubrió originalmente en la corteza del sauce, lo que dio nombre a la aspirina.",
+    "A pesar de llamarse 'babylonica', no es originario de Babilonia; su nombre fue un error de clasificación basado en una referencia bíblica.",
+    "Es uno de los árboles que mejor enraíza; una simple rama clavada en suelo húmedo suele convertirse en un nuevo árbol en poco tiempo.",
+    "Su flexibilidad permite que las ramas se doblen con el viento sin romperse fácilmente, aunque la madera vieja puede ser quebradiza."
+  ]
+}

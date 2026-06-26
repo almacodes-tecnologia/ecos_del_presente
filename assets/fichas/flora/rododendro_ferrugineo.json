@@ -1,0 +1,110 @@
+{
+  "id": "rododendro_ferrugineo",
+  "nombre": "Rododendro ferrugíneo",
+  "nombreCientifico": "Rhododendron ferrugineum",
+  "fechaInformacion": "2026",
+  "imagen": "rododendro_ferrugineo.webp",
+  "introduccionPlanta": [
+    "El Rhododendron ferrugineum es un arbusto perennifolio de alta montaña, perteneciente a la familia Ericaceae.",
+    "Es una de las plantas más emblemáticas de los Alpes y los Pirineos, famosa por tapizar las laderas alpinas con sus intensas flores rosadas durante el verano."
+  ],
+  "descripcionLarga": [
+    "Este arbusto de crecimiento lento suele alcanzar entre 30 y 100 cm de altura, adaptándose a las condiciones extremas de la alta montaña. Sus hojas son coriáceas, de forma lanceolada, de color verde oscuro en el haz y, lo que le da nombre a la especie, cubiertas por pequeñas escamas de color óxido (ferruginosas) en el envés.",
+    "Florece entre junio y agosto, presentando corimbos terminales con flores en forma de embudo de un color rosa fucsia vibrante. Es una especie calcífuga, lo que significa que solo crece en suelos ácidos o descalcificados.",
+    "Es una planta extremadamente resistente al frío y a la nieve, sobreviviendo bajo el manto nival durante meses, lo que la convierte en una superviviente nata de los ecosistemas alpinos y subalpinos."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Ericales",
+    "familia": "Ericaceae",
+    "genero": "Rhododendron",
+    "especie": "Rhododendron ferrugineum"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable en sus hábitats naturales de alta montaña.",
+    "amenazasPrincipales": [
+      "Cambio climático (subida de las temperaturas y alteración de los ciclos de nieve).",
+      "Pisoteo por ganado o afluencia turística en zonas vulnerables."
+    ],
+    "esfuerzosConservacion": [
+      "Protección dentro de Parques Nacionales y Reservas de la Biosfera en cadenas montañosas."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Arbusto perennifolio de porte bajo.",
+    "alturaPromedio": "0.3 - 1 m (1 - 3.3 ft).",
+    "colorFollaje": "Verde oscuro arriba, escamas ferruginosas (color óxido) abajo.",
+    "tipoRaiz": "Sistema radicular superficial y ramificado.",
+    "tallos": "Leñosos, ramificados y extendidos sobre el suelo.",
+    "hojas": "Simples, alternas, lanceoladas, coriáceas.",
+    "flores": {
+      "forma": "En forma de embudo, agrupadas en corimbos terminales.",
+      "colores": "Rosa fucsia o carmín intenso.",
+      "fragancia": "Débil.",
+      "tamano": "1 - 2 cm."
+    },
+    "frutos": "Cápsula pequeña, seca, que contiene numerosas semillas diminutas."
+  },
+  "habitat": {
+    "tipo": "Alta montaña, zonas subalpinas, laderas rocosas.",
+    "distribucionGeografica": [
+      "Alpes, Pirineos, Jura, Apeninos y Cárpatos."
+    ],
+    "preferenciasSuelo": "Suelos ácidos, turberas y terrenos silíceos; evita estrictamente los suelos calizos.",
+    "preferenciasLuz": "Pleno sol o semisombra."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (difíciles de germinar).",
+      "Esquejes de madera semidura."
+    ],
+    "riego": "Requiere humedad ambiental y suelo fresco; no tolera el secado total del sustrato.",
+    "poda": "Poda mínima de limpieza tras la floración.",
+    "fertilizacion": "Necesita abonos específicos para plantas acidófilas si se cultiva en maceta o jardín.",
+    "plagasComunes": [
+      "Gorgojos del rododendro",
+      "Ácaros"
+    ],
+    "enfermedadesComunes": [
+      "Podredumbre radicular (Phytophthora) si el drenaje es pobre."
+    ]
+  },
+  "usos": {
+    "ornamental": "Muy apreciado en jardines de rocalla alpinos y zonas de clima fresco.",
+    "culinario": [
+      "Ninguno (planta tóxica)."
+    ],
+    "medicinal": [
+      "Históricamente usada en medicina popular para el reumatismo, pero altamente tóxica por contener grayanotoxinas; no se recomienda su uso casero."
+    ],
+    "industrial": [
+      "Ninguno."
+    ],
+    "simbolismo": "Resistencia, belleza rústica, pureza de las altas cumbres."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Entomófila (insectos)." ,
+    "momentoFloracion": "Verano (junio-agosto).",
+    "cicloVida": "Perenne, larga vida."
+  },
+  "atributosFantasia": {
+    "belleza": 9,
+    "rareza": 5,
+    "vitalidad": 9,
+    "resistencia": 10,
+    "impactoEcologico": 7,
+    "misticismo": 9,
+    "fraganciaMagica": 3,
+    "espinasDefensivas": 0
+  },
+  "curiosidades": [
+    "Es una planta 'calcífuga' estricta: si el suelo contiene cal, sus raíces se bloquean y la planta muere rápidamente, un fenómeno conocido como clorosis.",
+    "El epíteto 'ferrugineum' hace referencia a las pequeñas escamas de color óxido que cubren el envés de sus hojas y que son características para identificar la especie.",
+    "A pesar de su belleza, toda la planta es tóxica si se ingiere, debido a la presencia de toxinas que afectan al sistema nervioso y cardíaco.",
+    "Es capaz de vivir en condiciones donde pocos arbustos sobreviven, soportando vientos huracanados y el peso de metros de nieve durante meses."
+  ]
+}

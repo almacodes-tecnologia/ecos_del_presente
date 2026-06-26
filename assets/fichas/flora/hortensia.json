@@ -1,0 +1,111 @@
+{
+  "id": "hortensia",
+  "nombre": "Hortensia",
+  "nombreCientifico": "Hydrangea macrophylla",
+  "fechaInformacion": "2026",
+  "imagen": "hortensia.webp",
+  "introduccionPlanta": [
+    "La hortensia es un arbusto caducifolio de la familia Hydrangeaceae, mundialmente famoso por sus enormes y coloridas inflorescencias globosas.",
+    "Es la reina de los jardines sombreados y frescos, muy valorada por su capacidad de cambiar de color según la acidez del suelo."
+  ],
+  "descripcionLarga": [
+    "El Hydrangea macrophylla es un arbusto compacto que puede alcanzar entre 1 y 2 metros de altura. Sus hojas son grandes, ovales, de un verde intenso y brillante, con el margen dentado. Lo que llamamos 'flores' son en realidad brácteas modificadas (sépalos) que rodean a las pequeñas flores fértiles, formando corimbos o panículas esféricas de gran tamaño.",
+    "Su característica más fascinante es la química del suelo: en suelos ácidos (pH bajo), las flores se vuelven de un azul intenso debido a la absorción de aluminio; en suelos neutros o alcalinos, los colores tienden al rosa, fucsia o blanco.",
+    "Requiere ambientes con alta humedad ambiental y protección contra el sol directo del mediodía, siendo un excelente indicador de la salud del suelo y de la disponibilidad de agua en el jardín."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Cornales",
+    "familia": "Hydrangeaceae",
+    "genero": "Hydrangea",
+    "especie": "Hydrangea macrophylla"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable en cultivo ornamental.",
+    "amenazasPrincipales": [
+      "Golpes de calor y sequía extrema.",
+      "Clorosis férrica en suelos demasiado calizos.",
+      "Hongos por falta de aireación."
+    ],
+    "esfuerzosConservacion": [
+      "Selección de variedades más resistentes al calor y a la sequía."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Arbusto caducifolio.",
+    "alturaPromedio": "1 - 2 m (3 - 6.5 ft).",
+    "colorFollaje": "Verde medio a oscuro.",
+    "tipoRaiz": "Sistema radicular superficial y fibroso.",
+    "tallos": "Leñosos, ramificados desde la base, con corteza que se desprende en láminas finas.",
+    "hojas": "Grandes, opuestas, ovales, con nervaduras marcadas.",
+    "flores": {
+      "forma": "Grandes cabezuelas (corimbos) esféricas o planas.",
+      "colores": "Azul, rosa, violeta, blanco o bicolor.",
+      "fragancia": "Ligera o inexistente.",
+      "tamano": "Inflorescencias de 15 - 25 cm de diámetro."
+    },
+    "frutos": "Cápsulas pequeñas y poco llamativas."
+  },
+  "habitat": {
+    "tipo": "Bosques frescos, laderas húmedas.",
+    "distribucionGeografica": [
+      "Originaria de Japón y China; naturalizada en zonas templadas de todo el mundo."
+    ],
+    "preferenciasSuelo": "Suelos ricos en materia orgánica, frescos, húmedos y con pH ácido para obtener tonos azules.",
+    "preferenciasLuz": "Sombra parcial o exposición a la luz de la mañana (evitar sol directo de tarde)."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Esquejes de madera blanda en verano."
+    ],
+    "riego": "Muy abundante; durante la floración requiere humedad constante (nombre 'Hydrangea' proviene del griego 'agua' y 'vaso').",
+    "poda": "Poda ligera después de la floración para eliminar flores marchitas y favorecer nuevos brotes.",
+    "fertilizacion": "Fertilizante específico para plantas acidófilas durante la primavera.",
+    "plagasComunes": [
+      "Pulgones",
+      "Araña roja"
+    ],
+    "enfermedadesComunes": [
+      "Oídio (ceniza)",
+      "Mancha foliar bacteriana"
+    ]
+  },
+  "usos": {
+    "ornamental": "Arbusto principal en jardines de sombra, setos informales y como planta en maceta.",
+    "culinario": [
+      "Ninguno (planta tóxica si se ingiere)."
+    ],
+    "medicinal": [
+      "Uso histórico en medicina tradicional asiática (raíz), pero con toxicidad potencial."
+    ],
+    "industrial": [
+      "Flores secas para decoración y arreglos florales."
+    ],
+    "simbolismo": "Gratitud, abundancia, emociones cambiantes y elegancia."
+  },
+  "reproduccion": {
+    "tipo": "Asexual (esquejes).",
+    "polinizacion": "Entomófila (insectos).",
+    "momentoFloracion": "Primavera tardía a finales de verano.",
+    "cicloVida": "Perenne, larga vida."
+  },
+  "atributosFantasia": {
+    "belleza": 10,
+    "rareza": 2,
+    "vitalidad": 7,
+    "resistencia": 5,
+    "impactoEcologico": 4,
+    "misticismo": 7,
+    "fraganciaMagica": 2,
+    "espinasDefensivas": 0
+  },
+  "curiosidades": [
+    "Puedes cambiar el color de tu hortensia de rosa a azul añadiendo sulfato de aluminio al suelo; el proceso inverso (de azul a rosa) se logra añadiendo cal.",
+    "El nombre científico deriva del griego 'hydor' (agua) y 'angeion' (vaso), haciendo referencia a la forma de sus frutos y su necesidad de agua.",
+    "Las hortensias son excelentes plantas para el 'secado' de flores: si las cortas en el momento adecuado, conservan su color durante meses en jarrones sin agua.",
+    "Aunque son muy bellas, todas las partes de la hortensia son ligeramente tóxicas si se ingieren, por lo que deben mantenerse fuera del alcance de mascotas y niños."
+  ]
+}

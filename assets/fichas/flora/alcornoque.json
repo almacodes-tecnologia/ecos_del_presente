@@ -1,0 +1,113 @@
+{
+  "id": "alcornoque",
+  "nombre": "Alcornoque",
+  "nombreCientifico": "Quercus suber",
+  "fechaInformacion": "2026",
+  "imagen": "alcornoque.webp",
+  "introduccionPlanta": [
+    "El alcornoque es un árbol perennifolio de la familia Fagaceae, famoso mundialmente por ser la única fuente comercial de corcho.",
+    "Es un pilar fundamental de los alcornocales mediterráneos, destacando por su corteza gruesa, su resistencia al fuego y su valor ecológico inigualable."
+  ],
+  "descripcionLarga": [
+    "El Quercus suber es un árbol de porte irregular y crecimiento lento que puede alcanzar hasta 20 metros de altura. Su rasgo más distintivo es el 'súber' o corcho, una capa de corteza que engrosa enormemente con la edad y que es capaz de regenerarse tras ser extraída manualmente.",
+    "Sus hojas son persistentes, de forma ovada-oblonga, con un borde ligeramente dentado y un color verde oscuro brillante en el haz y blanquecino en el envés. Como otras especies de su género, produce bellotas que son vitales para la alimentación de la fauna en los ecosistemas donde habita.",
+    "El alcornoque es un superviviente nato. Su corcho actúa como un aislante térmico perfecto, protegiendo al árbol de las altas temperaturas y permitiéndole sobrevivir incluso después de incendios forestales moderados, brotando de nuevo desde su corteza protectora."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Fagales",
+    "familia": "Fagaceae",
+    "genero": "Quercus",
+    "especie": "Quercus suber"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Estable en áreas protegidas, pero vulnerable en zonas de explotación intensiva.",
+    "amenazasPrincipales": [
+      "La seca (hongo Phytophthora cinnamomi).",
+      "Perforadores del tronco (Coroebus undatus).",
+      "Cambios en el uso del suelo y falta de renovación generacional del bosque."
+    ],
+    "esfuerzosConservacion": [
+      "Regulación estricta de los periodos de 'saca' (extracción) del corcho.",
+      "Protección de los alcornocales bajo figuras de parques naturales.",
+      "Programas de reforestación en zonas degradadas."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol perennifolio.",
+    "alturaPromedio": "10 - 20 m (33 - 65 ft).",
+    "colorFollaje": "Verde oscuro brillante por encima, grisáceo por debajo.",
+    "tipoRaiz": "Sistema radicular profundo y muy desarrollado.",
+    "tallos": "Tronco robusto cubierto por una capa gruesa, esponjosa y rugosa de corcho (súber).",
+    "hojas": "Simples, alternas, coriáceas, de forma variable (ovada a lanceolada).",
+    "flores": {
+      "forma": "Amentos masculinos y flores femeninas solitarias o en grupos pequeños.",
+      "colores": "Amarillento-verdoso.",
+      "fragancia": "Ligera.",
+      "tamano": "Muy pequeñas."
+    },
+    "frutos": "Bellota (nuez protegida por una cúpula escamosa)."
+  },
+  "habitat": {
+    "tipo": "Bosque mediterráneo, prefiere suelos silíceos (sin cal).",
+    "distribucionGeografica": [
+      "Región del Mediterráneo occidental (península ibérica, norte de África, sur de Francia, Italia)."
+    ],
+    "preferenciasSuelo": "Suelos ácidos o descalcificados (silíceos), frescos y con cierta humedad ambiental.",
+    "preferenciasLuz": "Pleno sol o semisombra."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (bellotas)."
+    ],
+    "riego": "Resistente a la sequía, necesita humedad ambiental en sus primeras etapas.",
+    "poda": "Poda de formación en jóvenes; se debe evitar podar el tronco para no dañar el corcho.",
+    "fertilizacion": "No necesaria en bosques naturales.",
+    "plagasComunes": [
+      "Culebrilla del corcho (Coroebus undatus)",
+      "Pulgones"
+    ],
+    "enfermedadesComunes": [
+      "La seca (Phytophthora cinnamomi)",
+      "Cancrosis"
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol escultural de gran valor paisajístico en fincas grandes.",
+    "culinario": [
+      "Bellotas consumidas por la fauna (cerdos ibéricos)."
+    ],
+    "medicinal": [
+      "Corteza (taninos) usada para curtir pieles y con fines astringentes."
+    ],
+    "industrial": [
+      "Producción de corcho (tapones, aislantes, suelos, calzado, moda, aeroespacial)."
+    ],
+    "simbolismo": "Resiliencia, paciencia (por la lenta formación del corcho), protección y solidez."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Primavera (abril-mayo).",
+    "cicloVida": "Perenne, larga vida (hasta 200-300 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 7,
+    "rareza": 4,
+    "vitalidad": 9,
+    "resistencia": 10,
+    "impactoEcologico": 9,
+    "misticismo": 7,
+    "fraganciaMagica": 3,
+    "espinasDefensivas": 0
+  },
+  "curiosidades": [
+    "La extracción del corcho es un proceso artesanal ancestral que no daña al árbol; el árbol vuelve a generar la corteza poco a poco.",
+    "Se necesitan unos 25 años para que un alcornoque produzca su primer corcho de calidad y otros 9-12 años entre cada extracción.",
+    "Es uno de los mejores árboles para prevenir incendios, ya que su corteza es un aislante natural que protege el corazón del árbol del calor directo.",
+    "El alcornoque es una especie 'fuga' de los suelos calizos; prácticamente no crece donde el pH del suelo es demasiado alto."
+  ]
+}

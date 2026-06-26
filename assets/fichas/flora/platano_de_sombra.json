@@ -1,0 +1,111 @@
+{
+  "id": "platano_de_sombra",
+  "nombre": "Plátano de sombra",
+  "nombreCientifico": "Platanus x hispanica",
+  "fechaInformacion": "2026",
+  "imagen": "platano_de_sombra.webp",
+  "introduccionPlanta": [
+    "El plátano de sombra es un árbol caducifolio de gran porte y crecimiento rápido, resultante de un híbrido entre el plátano oriental (Platanus orientalis) y el plátano occidental (Platanus occidentalis).",
+    "Es el árbol urbano por excelencia en Europa, valorado por su gran capacidad de dar sombra, su resistencia a la contaminación y su porte majestuoso."
+  ],
+  "descripcionLarga": [
+    "Este árbol destaca por su tronco vigoroso cuya corteza se desprende en grandes placas, revelando un mosaico de tonos grises, verdes y cremas. Posee una copa amplia y densa, con hojas grandes, lobuladas (similares a las del arce) y de color verde intenso que se vuelven amarillentas en otoño.",
+    "Sus flores son poco llamativas, agrupadas en pequeñas esferas colgantes que dan lugar a frutos globosos y espinosos que persisten en el árbol durante el invierno. Es un árbol extremadamente tolerante a la poda, lo que permite moldearlo para el alineamiento en calles y plazas.",
+    "A pesar de sus grandes virtudes, es conocido por el potencial alergénico de sus frutos y polen en primavera, y por el crecimiento agresivo de sus raíces, que pueden levantar pavimentos si no tienen suficiente espacio."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Proteales",
+    "familia": "Platanaceae",
+    "genero": "Platanus",
+    "especie": "Platanus x hispanica"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Muy abundante y en expansión debido a su uso masivo en jardinería urbana.",
+    "amenazasPrincipales": [
+      "Cancro colorado del plátano (hongo Ceratocystis platani), extremadamente contagioso y mortal.",
+      "Poda excesiva y estrés en entornos urbanos muy compactos."
+    ],
+    "esfuerzosConservacion": [
+      "Control estricto de herramientas de poda para evitar la propagación del hongo.",
+      "Monitorización fitosanitaria en parques urbanos históricos."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol caducifolio de gran porte.",
+    "alturaPromedio": "20 - 35 m (65 - 115 ft).",
+    "colorFollaje": "Verde brillante en verano; amarillo pardo en otoño.",
+    "tipoRaiz": "Sistema radicular potente y agresivo (puede causar daños en aceras).",
+    "tallos": "Tronco masivo con corteza característica que se descama en láminas irregulares.",
+    "hojas": "Grandes, alternas, palmatilobadas (5 lóbulos), con estípulas prominentes.",
+    "flores": {
+      "forma": "Inflorescencias globosas colgantes.",
+      "colores": "Verdoso-amarillento.",
+      "fragancia": "Desconocido.",
+      "tamano": "Muy pequeñas."
+    },
+    "frutos": "Infrutescencias globosas (aquenios) dispuestas en bolas colgantes que se deshacen al madurar."
+  },
+  "habitat": {
+    "tipo": "Árbol cosmopolita de uso urbano; originalmente derivado de climas templados.",
+    "distribucionGeografica": [
+      "Ampliamente plantado en ciudades de toda Europa, Norteamérica y zonas templadas del mundo."
+    ],
+    "preferenciasSuelo": "Muy adaptable; prefiere suelos frescos y profundos, pero tolera la mayoría de las condiciones urbanas.",
+    "preferenciasLuz": "Pleno sol o semisombra."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Esquejes de madera dura.",
+      "Semillas."
+    ],
+    "riego": "Moderado, aunque requiere bastante agua durante los veranos secos si está en alineaciones urbanas.",
+    "poda": "Muy tolerante; soporta podas drásticas y severas (desmochado), aunque se recomienda evitarlo para la salud del árbol.",
+    "fertilizacion": "No suele necesitar en parques, aunque en alcorques urbanos puede beneficiarse de abonos orgánicos.",
+    "plagasComunes": [
+      "Tigre del plátano (Corythucha ciliata)"
+    ],
+    "enfermedadesComunes": [
+      "Cancro colorado (Ceratocystis platani)",
+      "Antracnosis"
+    ]
+  },
+  "usos": {
+    "ornamental": "El árbol más común para alineaciones en calles, avenidas y grandes parques.",
+    "culinario": [
+      "Ninguno."
+    ],
+    "medicinal": [
+      "Sin uso medicinal relevante."
+    ],
+    "industrial": [
+      "Madera utilizada para mobiliario, revestimientos y carpintería en general."
+    ],
+    "simbolismo": "Símbolo de civilización urbana, resistencia, orden y refugio frente al calor."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Primavera (abril-mayo).",
+    "cicloVida": "Perenne, de larga vida (más de 200 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 7,
+    "rareza": 1,
+    "vitalidad": 10,
+    "resistencia": 9,
+    "impactoEcologico": 6,
+    "misticismo": 4,
+    "fraganciaMagica": 2,
+    "espinasDefensivas": 0
+  },
+  "curiosidades": [
+    "El mosaico de su corteza es un mecanismo de defensa: al desprenderse las placas de corteza, el árbol elimina contaminantes y parásitos que se acumulan en ella.",
+    "Es el árbol por excelencia de las ciudades europeas, especialmente en París, donde se han plantado miles para proporcionar sombra.",
+    "Sus frutos en forma de 'bolitas' contienen miles de semillas con pelos que pueden irritar las vías respiratorias si se inhalan.",
+    "Fue hibridado por azar en jardines botánicos (probablemente en Inglaterra o Francia) alrededor del siglo XVII al cruzar especies americanas y orientales."
+  ]
+}

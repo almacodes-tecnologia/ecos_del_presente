@@ -1,0 +1,114 @@
+{
+  "id": "dalia",
+  "nombre": "Dalia",
+  "nombreCientifico": "Dahlia pinnata",
+  "fechaInformacion": "2026",
+  "imagen": "dalia.webp",
+  "introduccionPlanta": [
+    "La dalia es una planta herbácea perenne de la familia Asteraceae, originaria de las regiones montañosas de México.",
+    "Es mundialmente apreciada por su increíble diversidad de formas, tamaños y colores, siendo la flor nacional de México."
+  ],
+  "descripcionLarga": [
+    "La Dahlia pinnata es una planta que crece a partir de raíces tuberosas. Su follaje es verde oscuro, formado por hojas opuestas, compuestas y dentadas. Lo más sorprendente de la dalia es su inflorescencia, que ha sido seleccionada durante siglos para crear formas que van desde pompones perfectos hasta flores parecidas a cactus o flores simples tipo margarita.",
+    "A diferencia de muchas otras plantas, las dalias ofrecen una paleta de colores casi infinita (excepto el azul puro). Pueden variar desde unos pocos centímetros hasta más de 2 metros de altura según el cultivar.",
+    "Es una planta que ama el sol y requiere una temporada de crecimiento cálida. En climas donde el invierno es muy frío, sus tubérculos deben ser desenterrados y almacenados durante el reposo invernal para protegerlos de las heladas."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Asterales",
+    "familia": "Asteraceae",
+    "genero": "Dahlia",
+    "especie": "Dahlia pinnata"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Muy abundante debido a su cultivo ornamental mundial.",
+    "amenazasPrincipales": [
+      "Plagas de caracoles y babosas (en brotes tiernos).",
+      "Virus transmitidos por insectos.",
+      "Pudrición de los tubérculos por exceso de humedad en invierno."
+    ],
+    "esfuerzosConservacion": [
+      "Preservación de variedades patrimoniales por parte de asociaciones de cultivadores."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Herbácea perenne de raíz tuberosa.",
+    "alturaPromedio": "0.3 - 2 m (1 - 6.5 ft).",
+    "colorFollaje": "Verde oscuro, a veces con tonos bronce.",
+    "tipoRaiz": "Raíces tuberosas carnosas.",
+    "tallos": "Tallos erguidos, huecos y ramificados.",
+    "hojas": "Opuestas, compuestas, pinnadas, con folíolos dentados.",
+    "flores": {
+      "forma": "Capítulos muy variables (pompones, cactus, decorativas, simples).",
+      "colores": "Casi todos los colores excepto el azul.",
+      "fragancia": "Generalmente nula o muy leve.",
+      "tamano": "Desde 5 cm hasta más de 30 cm de diámetro."
+    },
+    "frutos": "Aquenios pequeños."
+  },
+  "habitat": {
+    "tipo": "Laderas de montaña y zonas con clima templado.",
+    "distribucionGeografica": [
+      "Nativa de México; cultivada en todo el mundo."
+    ],
+    "preferenciasSuelo": "Suelos fértiles, ricos en humus, sueltos y con excelente drenaje.",
+    "preferenciasLuz": "Pleno sol para una floración abundante."
+  },
+  "cultivo": {
+    "propagacion": [
+      "División de tubérculos.",
+      "Semillas (para nuevas variedades).",
+      "Esquejes."
+    ],
+    "riego": "Regular y abundante durante el verano, evitando siempre el encharcamiento.",
+    "poda": "Poda de despunte para favorecer ramificación; eliminación de flores marchitas para prolongar la floración.",
+    "fertilizacion": "Abono rico en potasio durante la floración para potenciar la calidad de las flores.",
+    "plagasComunes": [
+      "Caracoles",
+      "Babosas",
+      "Pulgones"
+    ],
+    "enfermedadesComunes": [
+      "Oídio (ceniza)",
+      "Virus del mosaico"
+    ]
+  },
+  "usos": {
+    "ornamental": "Flor de corte espectacular, protagonista en parterres y jardines de verano/otoño.",
+    "culinario": [
+      "Los pétalos son comestibles; los tubérculos fueron consumidos históricamente por pueblos indígenas de México."
+    ],
+    "medicinal": [
+      "Uso histórico limitado; se investigan sus compuestos por posibles propiedades beneficiosas."
+    ],
+    "industrial": [
+      "Producción masiva de flores para la industria de la floristería."
+    ],
+    "simbolismo": "Dignidad, elegancia, compromiso y, en lenguaje victoriano, 'siempre tuya'."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (división).",
+    "polinizacion": "Entomófila (abejas, mariposas).",
+    "momentoFloracion": "Verano hasta las primeras heladas del otoño.",
+    "cicloVida": "Perenne (aunque cultivada como anual en climas muy fríos)."
+  },
+  "atributosFantasia": {
+    "belleza": 10,
+    "rareza": 3,
+    "vitalidad": 7,
+    "resistencia": 5,
+    "impactoEcologico": 4,
+    "misticismo": 6,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 0
+  },
+  "curiosidades": [
+    "Antes de la llegada de la patata a Europa, los tubérculos de la dalia se probaron en Francia como posible alimento, pero su sabor no convenció a la población.",
+    "Existe una variedad infinita: se dice que hay más de 50.000 cultivares registrados en el mundo.",
+    "El tamaño de la flor de una dalia 'gigante' puede ser mayor que el de un plato llano (más de 30 cm).",
+    "A pesar de su espectacularidad, las dalias no tienen fragancia; su evolución se centró totalmente en la atracción visual para los polinizadores."
+  ]
+}

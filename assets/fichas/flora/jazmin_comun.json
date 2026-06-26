@@ -1,0 +1,110 @@
+{
+  "id": "jazmin_comun",
+  "nombre": "Jazmín común",
+  "nombreCientifico": "Jasminum officinale",
+  "fechaInformacion": "2026",
+  "imagen": "jazmin_comun.webp",
+  "introduccionPlanta": [
+    "El jazmín común es un arbusto trepador perennifolio o semicaducifolio de la familia Oleaceae.",
+    "Es mundialmente célebre por el aroma dulce e intenso de sus flores blancas, siendo un elemento esencial en la jardinería mediterránea y en la industria de la perfumería."
+  ],
+  "descripcionLarga": [
+    "El Jasminum officinale es una planta trepadora vigorosa que puede alcanzar los 6-10 metros de altura si dispone de soporte. Sus tallos son delgados, verdes y flexibles, capaces de enredarse en casi cualquier estructura. Sus hojas son compuestas, pinnadas, con 5 a 9 folíolos de color verde brillante que mantienen su color durante casi todo el año.",
+    "La floración es su mayor atractivo: produce ramilletes de flores en forma de estrella, de un blanco puro y una fragancia exquisita que se intensifica al atardecer. Es una planta que requiere sol para florecer abundantemente y un clima templado para evitar daños por heladas fuertes.",
+    "Históricamente, el jazmín ha sido cultivado por sus propiedades relajantes y su valor ornamental. Sus flores son un símbolo de pureza y elegancia, y su presencia en un jardín transforma por completo la atmósfera sensorial durante los meses de verano."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Lamiales",
+    "familia": "Oleaceae",
+    "genero": "Jasminum",
+    "especie": "Jasminum officinale"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable en cultivo; ampliamente distribuido por el ser humano.",
+    "amenazasPrincipales": [
+      "Heladas extremas fuera de su zona de confort.",
+      "Plagas de cochinillas y pulgones en condiciones de poca ventilación."
+    ],
+    "esfuerzosConservacion": [
+      "No requiere esfuerzos de conservación al ser una planta masivamente cultivada."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Trepadora leñosa perennifolia o semicaducifolia.",
+    "alturaPromedio": "3 - 9 m (10 - 30 ft).",
+    "colorFollaje": "Verde intenso y brillante.",
+    "tipoRaiz": "Sistema radicular fasciculado y sensible al encharcamiento.",
+    "tallos": "Delgados, angulosos y flexibles, de color verde que se torna marrón con los años.",
+    "hojas": "Compuestas, imparipinnadas, con folíolos opuestos.",
+    "flores": {
+      "forma": "Tubulares que se abren en 5 lóbulos estrellados.",
+      "colores": "Blanco puro (a veces con matices rosados en el botón floral).",
+      "fragancia": "Muy intensa, dulce y persistente.",
+      "tamano": "2 - 3 cm de diámetro."
+    },
+    "frutos": "Baya pequeña, globosa, de color negro al madurar (raras en cultivo)."
+  },
+  "habitat": {
+    "tipo": "Climas templados y subtropicales.",
+    "distribucionGeografica": [
+      "Originario del Cáucaso, el norte de Irán, Afganistán, Pakistán y el oeste de China."
+    ],
+    "preferenciasSuelo": "Suelos fértiles, ricos en materia orgánica y muy bien drenados; pH neutro.",
+    "preferenciasLuz": "Pleno sol o sombra parcial ligera."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Esquejes (método más efectivo).",
+      "Acodo (enterrando una rama)."
+    ],
+    "riego": "Regular en verano; requiere un suelo que se mantenga ligeramente fresco pero nunca encharcado.",
+    "poda": "Poda anual de limpieza después de la floración para controlar el vigor y estimular brotes nuevos.",
+    "fertilizacion": "Abono equilibrado durante la temporada de crecimiento para potenciar la floración.",
+    "plagasComunes": [
+      "Pulgones",
+      "Cochinillas"
+    ],
+    "enfermedadesComunes": [
+      "Hongos foliares por exceso de humedad o mala ventilación."
+    ]
+  },
+  "usos": {
+    "ornamental": "Cubrición de pérgolas, vallas, muros y celosías.",
+    "culinario": [
+      "Aromatización de tés (especialmente té verde de jazmín)."
+    ],
+    "medicinal": [
+      "El aceite esencial se usa en aromaterapia como antidepresivo y relajante; las flores tienen propiedades antiespasmódicas."
+    ],
+    "industrial": [
+      "Perfumería y cosmética de alta gama (aceite esencial de jazmín)."
+    ],
+    "simbolismo": "Belleza, elegancia, sensualidad, pureza y amabilidad."
+  },
+  "reproduccion": {
+    "tipo": "Asexual (esquejes, acodo).",
+    "polinizacion": "Entomófila (polillas nocturnas y mariposas).",
+    "momentoFloracion": "Primavera a finales de verano.",
+    "cicloVida": "Perenne, de larga vida."
+  },
+  "atributosFantasia": {
+    "belleza": 10,
+    "rareza": 1,
+    "vitalidad": 7,
+    "resistencia": 5,
+    "impactoEcologico": 5,
+    "misticismo": 8,
+    "fraganciaMagica": 10,
+    "espinasDefensivas": 0
+  },
+  "curiosidades": [
+    "Su aroma se vuelve más potente durante la noche para atraer a las polinizadoras nocturnas.",
+    "En muchos países de Oriente, el té de jazmín se considera una bebida de bienvenida fundamental.",
+    "El aceite esencial de jazmín es uno de los ingredientes más caros y valorados del mundo, ya que se necesitan miles de flores para obtener una cantidad mínima.",
+    "Aunque se llama jazmín común, hay cientos de variedades, y no todas tienen el mismo aroma; algunas especies incluso pueden oler a cítricos o a especias."
+  ]
+}

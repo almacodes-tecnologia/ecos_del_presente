@@ -1,0 +1,113 @@
+{
+  "id": "abeto_blanco",
+  "nombre": "Abeto blanco",
+  "nombreCientifico": "Abies alba",
+  "fechaInformacion": "2026",
+  "imagen": "abeto_blanco.webp",
+  "introduccionPlanta": [
+    "El abeto blanco es una conífera majestuosa de la familia Pinaceae, considerada el árbol más alto y emblemático de las montañas europeas.",
+    "Es un símbolo de los bosques umbríos y frescos, valorado por su porte esbelto, su madera de alta calidad y su papel crucial en la biodiversidad de alta montaña."
+  ],
+  "descripcionLarga": [
+    "El Abies alba es un árbol de gran porte que puede alcanzar los 40-50 metros de altura, con un tronco recto como una columna y una copa cónica. Sus hojas son acículas planas, de color verde oscuro en el haz y con dos líneas estomáticas blancas en el envés, lo que le otorga su nombre característico.",
+    "A diferencia de los pinos, sus piñas (conos) se disponen de forma erecta sobre las ramas y se desintegran al madurar, dejando únicamente el eje central en la rama. Es una especie de sombra, capaz de crecer bajo el dosel de otros árboles durante décadas antes de ocupar su lugar.",
+    "Su madera, ligera y de grano fino, ha sido fundamental en la construcción, carpintería y, tradicionalmente, en la fabricación de mástiles para barcos debido a su resistencia a la flexión."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Pinophyta",
+    "clase": "Pinopsida",
+    "orden": "Pinales",
+    "familia": "Pinaceae",
+    "genero": "Abies",
+    "especie": "Abies alba"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Estable, aunque vulnerable al cambio climático.",
+    "amenazasPrincipales": [
+      "Cambio climático (aumento de temperaturas y sequías estivales).",
+      "Plagas de insectos defoliadores.",
+      "Fragmentación de hábitats de alta montaña."
+    ],
+    "esfuerzosConservacion": [
+      "Gestión forestal para fomentar la regeneración natural.",
+      "Protección en Parques Nacionales y Reservas de la Biosfera.",
+      "Estudios de adaptación al estrés hídrico."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Conífera perennifolia.",
+    "alturaPromedio": "30 - 50 m (100 - 165 ft).",
+    "colorFollaje": "Verde oscuro con bandas blanquecinas por el envés.",
+    "tipoRaiz": "Sistema radicular profundo y pivotante.",
+    "tallos": "Tronco recto y cilíndrico, corteza gris clara y lisa que se agrieta ligeramente con los años.",
+    "hojas": "Acículas planas, dispuestas en dos filas (peinadas), no punzantes.",
+    "flores": {
+      "forma": "Conos masculinos pequeños; conos femeninos grandes y erguidos.",
+      "colores": "Amarillento (masculinos), verdoso-púrpura (femeninos).",
+      "fragancia": "Balsámica, resinosa.",
+      "tamano": "Conos de 10-20 cm."
+    },
+    "frutos": "Conos (piñas) erectos que se desintegran en la misma rama."
+  },
+  "habitat": {
+    "tipo": "Bosques de montaña, zonas húmedas y frescas.",
+    "distribucionGeografica": [
+      "Montañas de Europa (Pirineos, Alpes, Cárpatos, Balcanes)."
+    ],
+    "preferenciasSuelo": "Suelos profundos, frescos, ricos en nutrientes y ligeramente ácidos.",
+    "preferenciasLuz": "Especie de media sombra; requiere umbría durante sus primeros años."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (piñones)."
+    ],
+    "riego": "Requiere alta humedad ambiental y pluviometría constante.",
+    "poda": "Generalmente innecesaria; solo limpieza de ramas bajas si es necesario.",
+    "fertilizacion": "No necesaria en entornos naturales.",
+    "plagasComunes": [
+      "Pulgón del abeto",
+      "Escarabajos descortezadores"
+    ],
+    "enfermedadesComunes": [
+      "Podredumbre de raíces",
+      "Hongos de las acículas"
+    ]
+  },
+  "usos": {
+    "ornamental": "Especie muy valorada en jardines de clima frío y parques de montaña.",
+    "culinario": [
+      "Uso de yemas y resina para aromatizar bebidas y licores tradicionales."
+    ],
+    "medicinal": [
+      "Resina (trementina de Estrasburgo) con propiedades antisépticas, balsámicas y expectorantes."
+    ],
+    "industrial": [
+      "Construcción, carpintería, fabricación de papel (pasta de celulosa) y tradicionalmente para mástiles de barcos."
+    ],
+    "simbolismo": "Pureza, altura, sabiduría y conexión con el cielo."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Primavera (mayo-junio).",
+    "cicloVida": "Perenne, de muy larga vida (hasta 400-500 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 9,
+    "rareza": 3,
+    "vitalidad": 7,
+    "resistencia": 6,
+    "impactoEcologico": 9,
+    "misticismo": 9,
+    "fraganciaMagica": 8,
+    "espinasDefensivas": 0
+  },
+  "curiosidades": [
+    "Las piñas del abeto blanco nunca caen al suelo intactas; se deshacen en el árbol, liberando sus semillas con el viento.",
+    "El 'Abies alba' es la especie base del árbol de Navidad original en la tradición europea.",
+    "Sus acículas no pinchan, a diferencia de las de los abetos del género Picea (como el abeto rojo), lo que lo hace muy agradable al tacto.",
+    "Es un árbol clave para regular el ciclo del agua en las montañas, gracias a su densa copa que intercepta la humedad de la niebla."
+  ]
+}
