@@ -1,9 +1,9 @@
 {
-  "id": "cipres-comun",
-  "nombre": "Ciprés común",
+  "id": "cipres",
+  "nombre": "Ciprés",
   "nombreCientifico": "Cupressus sempervirens",
   "fechaInformacion": "2026",
-  "imagen": "cipres_comun.webp",
+  "imagen": "cipres.webp",
   "introduccionPlanta": [
     "El ciprés común es una conífera perennifolia de la familia Cupressaceae, famosa por su porte columnar y esbelto.",
     "Es un símbolo icónico de los paisajes mediterráneos, apreciado por su longevidad y su elegancia arquitectónica en jardinería y cementerios."

@@ -1,9 +1,9 @@
 {
-  "id": "girasol_comun",
-  "nombre": "Girasol común",
+  "id": "girasol",
+  "nombre": "Girasol",
   "nombreCientifico": "Helianthus annuus",
   "fechaInformacion": "2026",
-  "imagen": "girasol_comun.webp",
+  "imagen": "girasol.webp",
   "introduccionPlanta": [
     "El girasol común es una planta herbácea anual de la familia Asteraceae, icónica por su gran tamaño y su brillante inflorescencia amarilla.",
     "Es una de las plantas más cultivadas a nivel mundial por sus semillas, ricas en aceites, y por su fascinante comportamiento de heliotropismo."

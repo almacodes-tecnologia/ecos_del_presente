@@ -1,9 +1,9 @@
 {
-  "id": "fresno-comun",
-  "nombre": "Fresno común",
+  "id": "fresno",
+  "nombre": "Fresno",
   "nombreCientifico": "Fraxinus excelsior",
   "fechaInformacion": "2026",
-  "imagen": "fresno_comun.webp",
+  "imagen": "fresno.webp",
   "introduccionPlanta": [
     "El fresno común es un árbol caducifolio de gran porte perteneciente a la familia Oleaceae.",
     "Es una especie emblemática de los bosques húmedos y riberas de Europa, conocida por su madera flexible y resistente, y su silueta elegante."

@@ -1,9 +1,9 @@
 {
-  "id": "manzano-comun",
-  "nombre": "Manzano común",
+  "id": "manzano",
+  "nombre": "Manzano",
   "nombreCientifico": "Malus domestica",
   "fechaInformacion": "2026",
-  "imagen": "manzano_comun.webp",
+  "imagen": "manzano.webp",
   "introduccionPlanta": [
     "El manzano común es un árbol caducifolio de la familia Rosaceae, ampliamente cultivado por sus frutos, las manzanas.",
     "Es uno de los árboles frutales más importantes del mundo, con una historia de domesticación que se remonta a miles de años en Asia Central."

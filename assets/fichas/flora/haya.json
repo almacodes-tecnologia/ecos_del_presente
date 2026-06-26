@@ -1,9 +1,9 @@
 {
-  "id": "haya-comun",
-  "nombre": "Haya común",
+  "id": "haya",
+  "nombre": "Haya",
   "nombreCientifico": "Fagus sylvatica",
   "fechaInformacion": "2026",
-  "imagen": "haya_comun.webp",
+  "imagen": "haya.webp",
   "introduccionPlanta": [
     "El haya común es un majestuoso árbol caducifolio de la familia Fagaceae, fundamental en los bosques templados de Europa.",
     "Es valorado por su porte elegante, su corteza lisa y gris, y su importancia ecológica como especie formadora de bosques densos y umbríos."
