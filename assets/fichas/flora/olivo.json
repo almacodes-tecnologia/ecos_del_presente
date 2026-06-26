@@ -1,0 +1,118 @@
+{
+  "id": "olivo",
+  "nombre": "Olivo",
+  "nombreCientifico": "Olea europaea",
+  "fechaInformacion": "2026",
+  "imagen": "olivo.webp",
+  "introduccionPlanta": [
+    "El olivo es un árbol perennifolio emblemático de la cuenca mediterránea, perteneciente a la familia Oleaceae.",
+    "Es uno de los árboles más antiguos cultivados por la humanidad, venerado tanto por su fruto, la aceituna, como por el aceite obtenido de este, símbolo de paz y prosperidad."
+  ],
+  "descripcionLarga": [
+    "El Olea europaea es un árbol de crecimiento lento y gran longevidad, con un tronco retorcido y nudoso que adquiere un aspecto escultórico con el paso de los siglos. Sus hojas son lanceoladas, de color verde grisáceo por el haz y plateadas por el envés, lo que le da su característico brillo bajo el sol.",
+    "Es una especie adaptada a climas secos y cálidos. Produce flores pequeñas y blancas en primavera y frutos (drupas) que maduran de verde a negro. El olivo posee una notable capacidad de regeneración, siendo capaz de brotar desde el tocón incluso tras incendios o podas drásticas.",
+    "Económicamente, es el pilar de la industria del aceite de oliva, un alimento básico en la dieta mediterránea. Históricamente, sus ramas han sido utilizadas como símbolo universal de paz, y su madera es muy valorada en artesanía por su dureza y vetas decorativas."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Lamiales",
+    "familia": "Oleaceae",
+    "genero": "Olea",
+    "especie": "Olea europaea"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable (debido a su masivo cultivo).",
+    "amenazasPrincipales": [
+      "Xylella fastidiosa (bacteria que causa el decaimiento rápido del olivar).",
+      "Plagas como la mosca del olivo (Bactrocera oleae).",
+      "Abandono de olivares tradicionales en zonas de difícil acceso."
+    ],
+    "esfuerzosConservacion": [
+      "Bancos de germoplasma para preservar variedades ancestrales.",
+      "Programas de control fitosanitario contra la Xylella.",
+      "Valorización del olivar tradicional como paisaje cultural."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol perennifolio.",
+    "alturaPromedio": "3 - 12 m (10 - 40 ft).",
+    "colorFollaje": "Verde grisáceo arriba, plateado abajo.",
+    "tipoRaiz": "Sistema radicular extendido y robusto.",
+    "tallos": "Tronco grueso, irregular y retorcido, con corteza grisácea agrietada en adultos.",
+    "hojas": "Simples, opuestas, lanceoladas, coriáceas y perennes.",
+    "flores": {
+      "forma": "Panículas axilares con flores pequeñas.",
+      "colores": "Blanco cremoso.",
+      "fragancia": "Ligera.",
+      "tamano": "Muy pequeñas (4-5 mm)."
+    },
+    "frutos": "Drupa carnosa (aceituna) de forma ovalada, con un hueso leñoso interior."
+  },
+  "habitat": {
+    "tipo": "Clima mediterráneo (inviernos suaves y veranos secos).",
+    "distribucionGeografica": [
+      "Cuenca del Mediterráneo; introducido en otras regiones de clima similar (California, Chile, Australia, Sudáfrica)."
+    ],
+    "preferenciasSuelo": "Muy adaptable; prefiere suelos calizos, profundos y bien drenados. Tolera bien la salinidad y suelos pobres.",
+    "preferenciasLuz": "Pleno sol (heliófilo)."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Esquejes (estaquillado).",
+      "Injertos.",
+      "Semillas (más lento)."
+    ],
+    "riego": "Muy resistente a la sequía, aunque el riego controlado mejora significativamente la producción.",
+    "poda": "Esencial para la formación, aireación de la copa y mantenimiento de la producción.",
+    "fertilizacion": "Necesita aportes de nitrógeno, fósforo y potasio, además de boro y otros micronutrientes.",
+    "plagasComunes": [
+      "Mosca del olivo",
+      "Cochinilla de la tizne",
+      "Prays oleae (polilla del olivo)"
+    ],
+    "enfermedadesComunes": [
+      "Repilo (hongo Spilocaea oleaginea)",
+      "Xylella fastidiosa",
+      "Verticilosis"
+    ]
+  },
+  "usos": {
+    "ornamental": "Muy apreciado en paisajismo por su carácter escultórico y longevidad.",
+    "culinario": [
+      "Aceitunas de mesa.",
+      "Aceite de oliva (virgen extra, virgen)."
+    ],
+    "medicinal": [
+      "Infusiones de hojas para reducir la hipertensión arterial; propiedades antioxidantes y antiinflamatorias."
+    ],
+    "industrial": [
+      "Madera para artesanía, muebles de lujo y utensilios de cocina."
+    ],
+    "simbolismo": "Paz, victoria, inmortalidad, fertilidad y fuerza."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (esquejes).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Primavera (mayo-junio).",
+    "cicloVida": "Perenne, extremadamente longevo (puede vivir más de 1.000 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 8,
+    "rareza": 2,
+    "vitalidad": 10,
+    "resistencia": 10,
+    "impactoEcologico": 8,
+    "misticismo": 8,
+    "fraganciaMagica": 2,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "Los ejemplares más antiguos conocidos pueden tener más de 2.000 años de antigüedad.",
+    "La famosa 'rama de olivo' como símbolo de paz proviene de la mitología griega, donde Atenea ganó la disputa por el patrocinio de Atenas ofreciendo este árbol.",
+    "A pesar de su imagen rústica, el olivo es un árbol muy sensible a las heladas fuertes prolongadas.",
+    "El aceite de oliva fue considerado 'oro líquido' por civilizaciones antiguas y ha sido la base de la economía de muchas regiones mediterráneas durante milenios."
+  ]
+}

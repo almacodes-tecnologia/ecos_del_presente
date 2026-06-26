@@ -98,14 +98,14 @@
     "cicloVida": "Perenne, de larga vida (10-30+ años) hasta la floración y muerte."
   },
   "atributosFantasia": {
-    "belleza": 4,
-    "rareza": 2,
-    "vitalidad": 5,
-    "resistencia": 5,
-    "impactoEcologico": 4,
-    "misticismo": 4,
+    "belleza": 7,
+    "rareza": 4,
+    "vitalidad": 10,
+    "resistencia": 10,
+    "impactoEcologico": 8,
+    "misticismo": 8,
     "fraganciaMagica": 1,
-    "espinasDefensivas": 5
+    "espinasDefensivas": 9
   },
   "curiosidades": [
     "El agave es una planta monocárpica, lo que significa que florece una sola vez en su vida y luego muere. Esto puede tardar de 10 a 30 años o incluso más.",

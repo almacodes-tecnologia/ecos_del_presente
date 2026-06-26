@@ -100,14 +100,14 @@
     "cicloVida": "Perenne, de larga vida (puede ser de 20 a más de 100 años)."
   },
   "atributosFantasia": {
-    "belleza": 4,
-    "rareza": 2,
-    "vitalidad": 4,
-    "resistencia": 5,
-    "impactoEcologico": 4,
-    "misticismo": 4,
-    "fraganciaMagica": 5,
-    "espinasDefensivas": 4
+    "belleza": 8,
+    "rareza": 3,
+    "vitalidad": 8,
+    "resistencia": 9,
+    "impactoEcologico": 8,
+    "misticismo": 8,
+    "fraganciaMagica": 9,
+    "espinasDefensivas": 7
   },
   "curiosidades": [
     "Las acacias africanas tienen una relación simbiótica con las hormigas. Las hormigas viven en las espinas huecas y protegen al árbol de los herbívoros.",

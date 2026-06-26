@@ -95,13 +95,13 @@
     "cicloVida": "Perenne, de extremada longevidad (más de 2.000 años)."
   },
   "atributosFantasia": {
-    "belleza": 5,
-    "rareza": 5,
-    "vitalidad": 5,
-    "resistencia": 5,
-    "impactoEcologico": 5,
-    "misticismo": 5,
-    "fraganciaMagica": 3,
+    "belleza": 9,
+    "rareza": 9,
+    "vitalidad": 9,
+    "resistencia": 10,
+    "impactoEcologico": 9,
+    "misticismo": 9,
+    "fraganciaMagica": 5,
     "espinasDefensivas": 1
   },
   "curiosidades": [

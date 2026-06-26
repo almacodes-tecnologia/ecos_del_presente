@@ -1,0 +1,115 @@
+{
+  "id": "fresno-comun",
+  "nombre": "Fresno común",
+  "nombreCientifico": "Fraxinus excelsior",
+  "fechaInformacion": "2026",
+  "imagen": "fresno_comun.webp",
+  "introduccionPlanta": [
+    "El fresno común es un árbol caducifolio de gran porte perteneciente a la familia Oleaceae.",
+    "Es una especie emblemática de los bosques húmedos y riberas de Europa, conocida por su madera flexible y resistente, y su silueta elegante."
+  ],
+  "descripcionLarga": [
+    "El Fraxinus excelsior es un árbol de crecimiento rápido que puede superar los 30 metros de altura. Posee una copa amplia y abierta, con ramas robustas que suelen curvarse hacia arriba en los extremos. Sus hojas son imparipinnadas, formadas por folíolos dentados de un color verde brillante que se tornan amarillos en otoño.",
+    "Es una especie dioica o poligama, con flores desprovistas de pétalos que aparecen al final del invierno o inicios de la primavera, antes que las hojas. Sus frutos, llamados sámaras, tienen una ala membranosa que facilita su dispersión mediante el viento (anemocoria).",
+    "Su madera es extremadamente valorada en la industria por su dureza y elasticidad, habiéndose utilizado históricamente para fabricar mangos de herramientas, bastones de esquí y partes de embarcaciones. Ecológicamente, es una especie clave que proporciona hábitat y alimento a diversas especies de insectos y aves."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Lamiales",
+    "familia": "Oleaceae",
+    "genero": "Fraxinus",
+    "especie": "Fraxinus excelsior"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Casi amenazado (NT)",
+    "tendenciaPoblacion": "En declive, principalmente debido a la enfermedad conocida como 'chalarosis'.",
+    "amenazasPrincipales": [
+      "Chalarosis (hongo Hymenoscyphus fraxineus) que causa necrosis y muerte del árbol.",
+      "Fragmentación de hábitats naturales.",
+      "Alteración de los niveles freáticos en zonas de ribera."
+    ],
+    "esfuerzosConservacion": [
+      "Programas de selección de individuos resistentes a la chalarosis.",
+      "Monitoreo de poblaciones forestales.",
+      "Proyectos de restauración de riberas y bosques mixtos."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol caducifolio.",
+    "alturaPromedio": "20 - 35 m (65 - 115 ft).",
+    "colorFollaje": "Verde vivo en verano; amarillo brillante en otoño.",
+    "tipoRaiz": "Sistema radicular potente, profundo y extendido.",
+    "tallos": "Tronco recto con corteza grisácea que se vuelve agrietada en ejemplares maduros; yemas terminales negras muy características.",
+    "hojas": "Compuestas, imparipinnadas, con 7 a 13 folíolos opuestos.",
+    "flores": {
+      "forma": "Panículas pequeñas, sin pétalos ni sépalos.",
+      "colores": "Púrpura-oscuro o verdoso (anteras).",
+      "fragancia": "Desconocido.",
+      "tamano": "Muy pequeñas."
+    },
+    "frutos": "Sámaras oblongas, aplanadas, con un ala que ayuda a su dispersión por el viento."
+  },
+  "habitat": {
+    "tipo": "Bosques caducifolios frescos, orillas de ríos, laderas húmedas.",
+    "distribucionGeografica": [
+      "Gran parte de Europa, Cáucaso y suroeste de Asia."
+    ],
+    "preferenciasSuelo": "Suelos profundos, ricos en nutrientes, frescos y húmedos, con buen drenaje; prefiere pH neutro a ligeramente alcalino.",
+    "preferenciasLuz": "Especie heliófila (requiere luz), especialmente en su etapa adulta."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (sámaras).",
+      "Esquejes (menos frecuente)."
+    ],
+    "riego": "Requiere humedad constante, especialmente en los primeros años de vida.",
+    "poda": "Poda de formación en jóvenes; evitar podas drásticas en adultos.",
+    "fertilizacion": "Generalmente no requiere en entornos forestales; en jardinería, agradece suelos ricos.",
+    "plagasComunes": [
+      "Escarabajos barrenadores",
+      "Pulgones"
+    ],
+    "enfermedadesComunes": [
+      "Chalarosis del fresno (Hymenoscyphus fraxineus)",
+      "Cáncer del fresno"
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de alineación en parques y avenidas, ejemplar de sombra.",
+    "culinario": [
+      "Las sámaras jóvenes se han consumido tradicionalmente encurtidas en vinagre.",
+      "La savia puede procesarse para obtener un jarabe dulce."
+    ],
+    "medicinal": [
+      "Las hojas se utilizan en infusiones por sus propiedades laxantes, diuréticas y antiinflamatorias (tradicionalmente para el reumatismo)."
+    ],
+    "industrial": [
+      "Madera elástica de alta calidad para mangos de herramientas, equipamiento deportivo (palos de hockey) y mobiliario."
+    ],
+    "simbolismo": "Símbolo de resistencia y conexión con el cosmos (en la mitología nórdica, el Yggdrasil es un fresno)."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Finales de invierno a principios de primavera.",
+    "cicloVida": "Perenne, de larga vida (hasta 200-300 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 2,
+    "vitalidad": 7,
+    "resistencia": 8,
+    "impactoEcologico": 10,
+    "misticismo": 8,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "Es conocido como el 'Árbol del Mundo' en la mitología nórdica, representando la conexión entre los diferentes reinos.",
+    "Las yemas de invierno de color negro carbón son una forma fácil de identificar al fresno común incluso sin hojas.",
+    "Debido a la flexibilidad de su madera, se utilizaba tradicionalmente para fabricar los mangos de los martillos y los remos.",
+    "Es uno de los últimos árboles en sacar sus hojas en primavera y uno de los primeros en perderlas en otoño."
+  ]
+}

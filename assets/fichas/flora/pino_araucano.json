@@ -96,14 +96,14 @@
     "cicloVida": "Perenne, de extremada longevidad (más de 1.000 años)."
   },
   "atributosFantasia": {
-    "belleza": 5,
-    "rareza": 5,
-    "vitalidad": 5,
-    "resistencia": 5,
-    "impactoEcologico": 5,
-    "misticismo": 5,
+    "belleza": 8,
+    "rareza": 9,
+    "vitalidad": 10,
+    "resistencia": 10,
+    "impactoEcologico": 10,
+    "misticismo": 8,
     "fraganciaMagica": 1,
-    "espinasDefensivas": 5
+    "espinasDefensivas": 7
   },
   "curiosidades": [
     "Es uno de los árboles más antiguos del mundo, con una historia evolutiva que se remonta al período Jurásico (200 millones de años).",

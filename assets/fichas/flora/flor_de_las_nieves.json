@@ -96,13 +96,13 @@
     "cicloVida": "Perenne, de vida relativamente corta en comparación con los árboles."
   },
   "atributosFantasia": {
-    "belleza": 5,
-    "rareza": 4,
-    "vitalidad": 3,
-    "resistencia": 5,
-    "impactoEcologico": 4,
-    "misticismo": 5,
-    "fraganciaMagica": 2,
+    "belleza": 10,
+    "rareza": 8,
+    "vitalidad": 5,
+    "resistencia": 10,
+    "impactoEcologico": 8,
+    "misticismo": 10,
+    "fraganciaMagica": 3,
     "espinasDefensivas": 1
   },
   "curiosidades": [

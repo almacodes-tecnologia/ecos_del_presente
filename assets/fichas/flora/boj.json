@@ -97,14 +97,14 @@
     "cicloVida": "Perenne, de crecimiento muy lento y de gran longevidad (cientos de años)."
   },
   "atributosFantasia": {
-    "belleza": 4,
+    "belleza": 5,
     "rareza": 2,
-    "vitalidad": 4,
-    "resistencia": 4,
-    "impactoEcologico": 3,
-    "misticismo": 3,
-    "fraganciaMagica": 2,
-    "espinasDefensivas": 1
+    "vitalidad": 9,
+    "resistencia": 9,
+    "impactoEcologico": 6,
+    "misticismo": 5,
+    "fraganciaMagica": 3,
+    "espinasDefensivas": 2
   },
   "curiosidades": [
     "El boj es uno de los arbustos más antiguos utilizados en la jardinería, desde la época romana.",

@@ -1,0 +1,115 @@
+{
+  "id": "haya-comun",
+  "nombre": "Haya común",
+  "nombreCientifico": "Fagus sylvatica",
+  "fechaInformacion": "2026",
+  "imagen": "haya_comun.webp",
+  "introduccionPlanta": [
+    "El haya común es un majestuoso árbol caducifolio de la familia Fagaceae, fundamental en los bosques templados de Europa.",
+    "Es valorado por su porte elegante, su corteza lisa y gris, y su importancia ecológica como especie formadora de bosques densos y umbríos."
+  ],
+  "descripcionLarga": [
+    "El Fagus sylvatica es un árbol de gran longevidad y tamaño, que puede alcanzar hasta 30-40 metros de altura. Su copa es amplia y densa, proyectando una sombra profunda que condiciona el crecimiento de otras plantas bajo su dosel. Su corteza es característica por permanecer lisa y de color gris ceniza incluso en ejemplares muy adultos.",
+    "Las hojas son simples, alternas, con el margen ligeramente ondulado y ciliado cuando son jóvenes. Es una especie monoica que florece en primavera, produciendo frutos conocidos como hayucos. El haya es una especie altamente competitiva que prefiere climas con alta humedad ambiental y suelos frescos y profundos.",
+    "Su madera es de alta calidad, utilizada tradicionalmente en ebanistería, tornería y la fabricación de herramientas, y es también una fuente importante de biomasa. En la historia y mitología europea, el haya ha sido reverenciada como un árbol sagrado, símbolo de conocimiento y sabiduría."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Fagales",
+    "familia": "Fagaceae",
+    "genero": "Fagus",
+    "especie": "Fagus sylvatica"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Estable.",
+    "amenazasPrincipales": [
+      "Cambio climático (estrés hídrico y sequías prolongadas).",
+      "Enfermedades fúngicas relacionadas con cambios en la humedad del suelo.",
+      "Fragmentación de hábitats forestales."
+    ],
+    "esfuerzosConservacion": [
+      "Gestión forestal sostenible.",
+      "Inclusión de bosques de hayas en redes de áreas protegidas y Parques Nacionales.",
+      "Estudios de resiliencia ante el aumento de temperaturas."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol caducifolio de gran porte.",
+    "alturaPromedio": "25 - 40 m (82 - 130 ft).",
+    "colorFollaje": "Verde intenso en primavera/verano; tonos cobrizos y dorados en otoño.",
+    "tipoRaiz": "Sistema radicular superficial, extendido y vigoroso.",
+    "tallos": "Tronco recto y cilíndrico, corteza gris lisa que no se agrieta con la edad.",
+    "hojas": "Simples, ovales, borde entero o ligeramente ondulado, dispuestas de forma alterna.",
+    "flores": {
+      "forma": "Inflorescencias pequeñas y poco llamativas (amentos masculinos globosos, femeninos en grupos de dos).",
+      "colores": "Amarillento-verdoso.",
+      "fragancia": "Desconocido.",
+      "tamano": "Muy pequeñas (menos de 1 cm)."
+    },
+    "frutos": "Hayucos: frutos secos de forma triangular encerrados en una cúpula espinosa (involucro)."
+  },
+  "habitat": {
+    "tipo": "Bosques templados, frescos y húmedos (hayedos).",
+    "distribucionGeografica": [
+      "Gran parte de Europa (desde el sur de Escandinavia hasta el norte de España, Italia y los Balcanes)."
+    ],
+    "preferenciasSuelo": "Suelos profundos, fértiles, frescos y bien drenados; prefiere suelos ligeramente ácidos a neutros, aunque tolera los calizos.",
+    "preferenciasLuz": "Especie de sombra o semisombra; tolera muy poca luz de joven (especie climácica)."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (hayucos).",
+      "Injerto (para variedades ornamentales)."
+    ],
+    "riego": "Requiere alta humedad ambiental y suelos que no sufran sequía estival severa.",
+    "poda": "No requiere poda sistemática; se realiza solo por razones de seguridad o salud del árbol.",
+    "fertilizacion": "No suele necesitar fertilización en entornos forestales; requiere suelo rico en materia orgánica.",
+    "plagasComunes": [
+      "Pulgones",
+      "Cochinillas",
+      "Escarabajos perforadores"
+    ],
+    "enfermedadesComunes": [
+      "Cancro del haya (Nectria ditissima)",
+      "Podredumbre radicular (Phytophthora spp.)"
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de parque, jardín grande, setos formales y ejemplar aislado (especialmente variedades de hoja púrpura).",
+    "culinario": [
+      "Los hayucos son comestibles (tostados o en aceite), aunque contienen pequeñas cantidades de fagina (alcaloide) que puede ser indigesto en grandes cantidades."
+    ],
+    "medicinal": [
+      "Uso histórico de la corteza y hojas en infusiones (tradicionalmente para afecciones respiratorias o como antiséptico, aunque su uso es minoritario hoy)."
+    ],
+    "industrial": [
+      "Madera para muebles, suelos (parquet), herramientas, traviesas de tren y fabricación de papel."
+    ],
+    "simbolismo": "Sabiduría, longevidad, protección y misterio. Muy presente en la mitología celta y germánica."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Primavera (abril-mayo).",
+    "cicloVida": "Perenne, de larga vida (puede vivir más de 300-400 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 8,
+    "rareza": 2,
+    "vitalidad": 9,
+    "resistencia": 8,
+    "impactoEcologico": 10,
+    "misticismo": 7,
+    "fraganciaMagica": 1,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "Las hojas secas del haya a menudo permanecen en las ramas bajas durante todo el invierno (marcescencia).",
+    "Los bosques de hayas son conocidos por ser muy oscuros, lo que impide que crezca mucha vegetación en el sotobosque.",
+    "El haya es una de las especies que mejor representa la madurez de un bosque templado europeo.",
+    "En algunas regiones, el aceite de hayuco se ha utilizado históricamente para la iluminación de lámparas."
+  ]
+}

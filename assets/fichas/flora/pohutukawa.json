@@ -1,0 +1,113 @@
+{
+  "id": "pohutukawa",
+  "nombre": "Pohutukawa",
+  "nombreCientifico": "Metrosideros excelsa",
+  "fechaInformacion": "2026",
+  "imagen": "pohutukawa.webp",
+  "introduccionPlanta": [
+    "El Pohutukawa es un árbol costero perennifolio de la familia Myrtaceae, endémico de Nueva Zelanda.",
+    "Es mundialmente conocido por su espectacular floración roja brillante que ocurre durante el verano austral, lo que le ha valido el apodo de 'árbol de Navidad de Nueva Zelanda'."
+  ],
+  "descripcionLarga": [
+    "El Metrosideros excelsa es un árbol robusto que puede alcanzar gran altura, caracterizado por sus hojas coriáceas de color verde oscuro en el haz y blanquecinas/tomentosas en el envés. Su rasgo más distintivo son sus flores, que carecen de pétalos verdaderos llamativos, siendo sus numerosos estambres rojos los que crean el efecto visual de una inflorescencia vibrante.",
+    "Es una especie extremadamente tolerante a las condiciones costeras, capaz de crecer incluso en acantilados rocosos donde otros árboles perecerían. Sus raíces aéreas son comunes en ejemplares maduros, ayudándole a anclarse en suelos inestables.",
+    "Culturalmente, tiene un significado profundo para el pueblo maorí, apareciendo frecuentemente en leyendas y tradiciones. Aunque es muy apreciado como árbol ornamental, las poblaciones naturales han sufrido el impacto de la introducción de la zarigüeya (possum), que se alimenta de sus hojas y brotes."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Myrtales",
+    "familia": "Myrtaceae",
+    "genero": "Metrosideros",
+    "especie": "Metrosideros excelsa"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Vulnerable debido a la depredación por especies introducidas (zarigüeyas).",
+    "amenazasPrincipales": [
+      "Depredación intensiva de follaje por zarigüeyas australianas (Trichosurus vulpecula).",
+      "Pérdida de hábitat costero.",
+      "Competencia con especies invasoras."
+    ],
+    "esfuerzosConservacion": [
+      "Proyecto 'Project Crimson' para la protección y restauración del Pohutukawa.",
+      "Programas de control de plagas (zarigüeyas) en áreas protegidas.",
+      "Propagación y reintroducción en zonas de su distribución natural."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol perennifolio costero.",
+    "alturaPromedio": "10 - 20 m (33 - 65 ft).",
+    "colorFollaje": "Verde oscuro brillante por encima, grisáceo/plateado por debajo.",
+    "tipoRaiz": "Raíces vigorosas, a menudo desarrolla raíces aéreas.",
+    "tallos": "Troncos robustos, a menudo retorcidos y nudosos.",
+    "hojas": "Elípticas, coriáceas, simples, opuestas.",
+    "flores": {
+      "forma": "Inflorescencias terminales compuestas por numerosos estambres largos.",
+      "colores": "Rojo brillante (raramente amarillo/naranja).",
+      "fragancia": "Ligera, dulce (atractiva para aves e insectos).",
+      "tamano": "Racimos de hasta 10-15 cm de diámetro."
+    },
+    "frutos": "Cápsula leñosa que contiene semillas pequeñas y numerosas."
+  },
+  "habitat": {
+    "tipo": "Zonas costeras y acantilados.",
+    "distribucionGeografica": [
+      "Endémico de las zonas costeras de la Isla Norte de Nueva Zelanda."
+    ],
+    "preferenciasSuelo": "Suelos bien drenados, incluso rocosos o arenosos; alta tolerancia a la salinidad.",
+    "preferenciasLuz": "Pleno sol."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas.",
+      "Esquejes de madera semidura."
+    ],
+    "riego": "Moderado, aunque es resistente a la sequía una vez establecido.",
+    "poda": "Generalmente no necesaria, salvo para control de forma o limpieza.",
+    "fertilizacion": "Necesidades moderadas, preferiblemente en suelo con buen drenaje.",
+    "plagasComunes": [
+      "Zarigüeyas (que consumen el follaje)",
+      "Cochinillas"
+    ],
+    "enfermedadesComunes": [
+      "Desconocido"
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de sombra, cortavientos costero, paisajismo urbano.",
+    "culinario": [
+      "Desconocido"
+    ],
+    "medicinal": [
+      "Uso tradicional maorí: la corteza interna se ha utilizado para tratar la disentería y problemas de piel."
+    ],
+    "industrial": [
+      "Madera extremadamente densa y dura (históricamente usada para construcción naval y herramientas)."
+    ],
+    "simbolismo": "Símbolo de fuerza, resistencia y árbol sagrado en la cultura maorí."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Polinización mixta (aves como los Tui y abejas/insectos).",
+    "momentoFloracion": "Verano austral (diciembre-enero).",
+    "cicloVida": "Perenne, larga vida."
+  },
+  "atributosFantasia": {
+    "belleza": 9,
+    "rareza": 5,
+    "vitalidad": 10,
+    "resistencia": 10,
+    "impactoEcologico": 8,
+    "misticismo": 8,
+    "fraganciaMagica": 2,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "Se le conoce como el 'árbol de Navidad de Nueva Zelanda' debido a que su floración máxima coincide con la temporada festiva en el hemisferio sur.",
+    "Su madera es tan densa que no flota en el agua.",
+    "Las flores producen un néctar muy dulce que es una fuente de alimento crucial para aves nativas como el Tui.",
+    "Algunos ejemplares antiguos son considerados 'Tapu' (sagrados) en la cultura maorí."
+  ]
+}

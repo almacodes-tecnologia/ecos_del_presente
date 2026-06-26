@@ -1,0 +1,115 @@
+{
+  "id": "cerezo-silvestre",
+  "nombre": "Cerezo silvestre",
+  "nombreCientifico": "Prunus avium",
+  "fechaInformacion": "2026",
+  "imagen": "cerezo_silvestre.webp",
+  "introduccionPlanta": [
+    "El cerezo silvestre, también conocido como cerezo dulce o cerezo de monte, es un árbol caducifolio de la familia Rosaceae.",
+    "Es valorado tanto por su espectacular floración blanca en primavera como por sus frutos dulces, siendo el ancestro de la mayoría de las variedades de cerezas cultivadas comercialmente."
+  ],
+  "descripcionLarga": [
+    "El Prunus avium es un árbol de porte elegante que puede alcanzar hasta 20-30 metros de altura. Presenta una corteza característica, lisa y de tono rojizo-grisáceo, que se desprende en bandas horizontales conforme el árbol envejece. Sus hojas son simples, alternas y con bordes aserrados, adquiriendo tonos cálidos (naranjas y rojos) durante el otoño.",
+    "Su floración, que ocurre antes o durante la aparición de las hojas, cubre el árbol de un manto blanco puro. Sus frutos, las cerezas silvestres (o picotas), son pequeñas drupas globosas de color rojo oscuro a casi negro al madurar, muy apreciadas por la fauna silvestre, especialmente las aves, que actúan como sus principales dispersores de semillas.",
+    "A diferencia de los cerezos ornamentales enfocados solo en la estética, el cerezo silvestre es un árbol de gran valor ecológico y maderable. Su madera, de color rojizo y textura fina, es muy valorada en ebanistería y carpintería de alta calidad."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Rosales",
+    "familia": "Rosaceae",
+    "genero": "Prunus",
+    "especie": "Prunus avium"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "No Evaluado (NE)",
+    "tendenciaPoblacion": "Estable.",
+    "amenazasPrincipales": [
+      "Fragmentación de bosques.",
+      "Hibridación con variedades de cultivo.",
+      "Plagas que afectan a la familia Rosaceae."
+    ],
+    "esfuerzosConservacion": [
+      "Protección en parques naturales y reservas forestales.",
+      "Programas de conservación de recursos genéticos silvestres."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol caducifolio.",
+    "alturaPromedio": "15 - 30 m (50 - 100 ft).",
+    "colorFollaje": "Verde brillante en verano; amarillo, naranja y rojo intenso en otoño.",
+    "tipoRaiz": "Sistema radicular profundo y bien desarrollado.",
+    "tallos": "Tronco único, corteza lisa, brillante y con lenticelas horizontales prominentes.",
+    "hojas": "Simples, aovado-oblongas, margen serrado, con glándulas rojizas en el peciolo.",
+    "flores": {
+      "forma": "Cinco pétalos blancos, dispuestas en fascículos (umbelas pequeñas).",
+      "colores": "Blanco puro.",
+      "fragancia": "Suave y delicada.",
+      "tamano": "2 - 3 cm de diámetro."
+    },
+    "frutos": "Drupa carnosa (cereza) de color rojo oscuro a negruzco, con un solo hueso central."
+  },
+  "habitat": {
+    "tipo": "Bosques caducifolios, linderos de bosques y zonas de media montaña.",
+    "distribucionGeografica": [
+      "Europa, Asia occidental y el norte de África."
+    ],
+    "preferenciasSuelo": "Suelos profundos, fértiles, frescos y bien drenados; prefiere terrenos neutros a ligeramente ácidos.",
+    "preferenciasLuz": "Pleno sol o semisombra."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (estratificadas).",
+      "Injerto (en variedades cultivadas)."
+    ],
+    "riego": "Moderado, requiere humedad constante pero sin encharcamientos.",
+    "poda": "Poda de formación en ejemplares jóvenes; poda de mantenimiento ligera para eliminar ramas muertas o cruzadas.",
+    "fertilizacion": "Necesidades moderadas de nutrientes, especialmente potasio durante la fructificación.",
+    "plagasComunes": [
+      "Pulgones",
+      "Mosca de la cereza",
+      "Pájaros (que consumen el fruto)"
+    ],
+    "enfermedadesComunes": [
+      "Cribado (hongo)",
+      "Monilia",
+      "Gomosis (exudación de resina)"
+    ]
+  },
+  "usos": {
+    "ornamental": "Muy valorado en parques y jardines por su floración primaveral y color otoñal.",
+    "culinario": [
+      "Frutos comestibles (frescos, mermeladas, confituras, destilados como el Kirsch)."
+    ],
+    "medicinal": [
+      "Los pedúnculos (rabos de las cerezas) se utilizan en infusión por sus propiedades diuréticas."
+    ],
+    "industrial": [
+      "Madera de gran valor para fabricación de muebles finos, instrumentos musicales y chapa decorativa."
+    ],
+    "simbolismo": "Renacimiento, belleza efímera y pureza."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas) y asexual (renuevos de raíz).",
+    "polinizacion": "Entomófila (principalmente abejas).",
+    "momentoFloracion": "Primavera (abril-mayo).",
+    "cicloVida": "Perenne, longevidad media (hasta 100 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 9,
+    "rareza": 3,
+    "vitalidad": 8,
+    "resistencia": 6,
+    "impactoEcologico": 7,
+    "misticismo": 6,
+    "fraganciaMagica": 3,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "El nombre científico 'avium' significa 'de las aves', debido a que estas son las principales encargadas de dispersar sus semillas.",
+    "Es el pariente silvestre directo de la cereza dulce comercial.",
+    "La madera de cerezo silvestre oscurece con el tiempo, adquiriendo un tono más rico y valioso.",
+    "En la cultura japonesa, aunque el género Prunus es venerado, el *Prunus avium* es una especie europea distinta a sus famosos *Sakura*."
+  ]
+}

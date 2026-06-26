@@ -93,13 +93,13 @@
     "cicloVida": "Perenne, de vida relativamente larga (décadas) si se poda adecuadamente."
   },
   "atributosFantasia": {
-    "belleza": 5,
-    "rareza": 2,
-    "vitalidad": 4,
-    "resistencia": 5,
-    "impactoEcologico": 4,
-    "misticismo": 4,
-    "fraganciaMagica": 5,
+    "belleza": 8,
+    "rareza": 3,
+    "vitalidad": 7,
+    "resistencia": 9,
+    "impactoEcologico": 7,
+    "misticismo": 8,
+    "fraganciaMagica": 10,
     "espinasDefensivas": 1
   },
   "curiosidades": [

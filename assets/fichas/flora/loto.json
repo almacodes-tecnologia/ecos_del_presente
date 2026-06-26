@@ -91,13 +91,13 @@
     "cicloVida": "Perenne, de larga vida."
   },
   "atributosFantasia": {
-    "belleza": 5,
-    "rareza": 3,
-    "vitalidad": 5,
-    "resistencia": 4,
-    "impactoEcologico": 4,
-    "misticismo": 5,
-    "fraganciaMagica": 4,
+    "belleza": 10,
+    "rareza": 5,
+    "vitalidad": 10,
+    "resistencia": 8,
+    "impactoEcologico": 8,
+    "misticismo": 10,
+    "fraganciaMagica": 6,
     "espinasDefensivas": 1
   },
   "curiosidades": [

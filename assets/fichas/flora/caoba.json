@@ -98,12 +98,12 @@
     "cicloVida": "Perenne, de muy larga vida (cientos de años), con una lenta maduración comercial (30-50 años)."
   },
   "atributosFantasia": {
-    "belleza": 5,
-    "rareza": 5,
-    "vitalidad": 4,
-    "resistencia": 4,
-    "impactoEcologico": 2,
-    "misticismo": 3,
+    "belleza": 10,
+    "rareza": 9,
+    "vitalidad": 8,
+    "resistencia": 8,
+    "impactoEcologico": 4,
+    "misticismo": 5,
     "fraganciaMagica": 1,
     "espinasDefensivas": 1
   },

@@ -95,12 +95,12 @@
     "cicloVida": "Perenne, de larga vida (crecimiento lento)."
   },
   "atributosFantasia": {
-    "belleza": 2,
-    "rareza": 5,
-    "vitalidad": 5,
-    "resistencia": 5,
-    "impactoEcologico": 4,
-    "misticismo": 5,
+    "belleza": 3,
+    "rareza": 10,
+    "vitalidad": 9,
+    "resistencia": 10,
+    "impactoEcologico": 8,
+    "misticismo": 9,
     "fraganciaMagica": 1,
     "espinasDefensivas": 1
   },

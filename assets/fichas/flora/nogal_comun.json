@@ -1,0 +1,112 @@
+{
+  "id": "nogal-comun",
+  "nombre": "Nogal común",
+  "nombreCientifico": "Juglans regia",
+  "fechaInformacion": "2026",
+  "imagen": "nogal_comun.webp",
+  "introduccionPlanta": [
+    "El nogal común es un árbol caducifolio de la familia Juglandaceae, ampliamente cultivado por sus frutos, las nueces, y su madera de alta calidad.",
+    "Es un árbol majestuoso, con una copa amplia y densa, que ha sido cultivado por la humanidad durante milenios por sus propiedades alimenticias y medicinales."
+  ],
+  "descripcionLarga": [
+    "El Juglans regia es un árbol robusto que puede alcanzar hasta 25-30 metros de altura. Posee una corteza grisácea que se agrieta longitudinalmente con la edad. Sus hojas son compuestas, imparipinnadas, con folíolos aromáticos al estrujarse. Es una especie monoica que florece en primavera, produciendo amentos masculinos y flores femeninas solitarias o en grupos pequeños.",
+    "El fruto es una drupa compuesta por una cubierta carnosa verde (exocarpio) que al madurar se seca y abre, dejando ver el endocarpio leñoso y rugoso que protege la semilla comestible: la nuez. El nogal posee un efecto alelopático, ya que sus raíces y hojas liberan una sustancia llamada juglona que inhibe el crecimiento de ciertas plantas a su alrededor.",
+    "Históricamente, el nogal ha tenido gran importancia económica. Su madera es una de las más apreciadas en la ebanistería por su veteado, dureza y facilidad para el tallado. Además, sus frutos son un componente esencial en muchas gastronomías debido a su alto valor nutricional y contenido en ácidos grasos saludables."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Fagales",
+    "familia": "Juglandaceae",
+    "genero": "Juglans",
+    "especie": "Juglans regia"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Estable.",
+    "amenazasPrincipales": [
+      "Plagas específicas y enfermedades fúngicas.",
+      "Fragmentación de poblaciones silvestres originales."
+    ],
+    "esfuerzosConservacion": [
+      "Preservación de variedades locales en bancos de germoplasma.",
+      "Estudios de mejora genética para la resistencia a enfermedades."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol caducifolio de gran porte.",
+    "alturaPromedio": "15 - 30 m (50 - 100 ft).",
+    "colorFollaje": "Verde amarillento o verde oscuro brillante.",
+    "tipoRaiz": "Sistema radicular profundo, tipo pivotante (importante en ejemplares jóvenes).",
+    "tallos": "Tronco robusto, corteza gris plateada, lisa de joven y agrietada en ejemplares maduros.",
+    "hojas": "Compuestas, imparipinnadas, con 5 a 9 folíolos grandes y ovales.",
+    "flores": {
+      "forma": "Amentos largos (masculinas) y flores pequeñas (femeninas).",
+      "colores": "Verdoso-amarillento.",
+      "fragancia": "Desconocido.",
+      "tamano": "Pequeñas."
+    },
+    "frutos": "Nuez (drupa con endocarpio leñoso y semilla comestible)."
+  },
+  "habitat": {
+    "tipo": "Zonas templadas de montaña y valles con buena humedad.",
+    "distribucionGeografica": [
+      "Originario del sureste de Europa hasta el Himalaya y el suroeste de China; ampliamente naturalizado en gran parte del mundo."
+    ],
+    "preferenciasSuelo": "Suelos profundos, fértiles, ricos en materia orgánica y con excelente drenaje; pH neutro o ligeramente alcalino.",
+    "preferenciasLuz": "Pleno sol; sensible a las heladas tardías de primavera."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (nueces).",
+      "Injerto (método estándar para variedades comerciales)."
+    ],
+    "riego": "Abundante en épocas de crecimiento y desarrollo del fruto; sensible tanto a la sequía como al encharcamiento.",
+    "poda": "Poda de formación en jóvenes; poda de limpieza y aclareo en adultos durante el invierno.",
+    "fertilizacion": "Necesita aportes de nitrógeno, potasio y micronutrientes para una producción óptima.",
+    "plagasComunes": [
+      "Carpocapsa (gusano de la nuez)",
+      "Pulgón del nogal"
+    ],
+    "enfermedadesComunes": [
+      "Bacteriosis (Xanthomonas arboricola)",
+      "Antracnosis"
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de sombra en grandes espacios y parques.",
+    "culinario": [
+      "Nueces (consumo en fresco, repostería, ensaladas, aceites)."
+    ],
+    "medicinal": [
+      "Hojas utilizadas tradicionalmente por sus propiedades astringentes, antisépticas y como depurativo sanguíneo."
+    ],
+    "industrial": [
+      "Madera noble de alta calidad para mobiliario de lujo, culatas de armas, instrumentos y tornería."
+    ],
+    "simbolismo": "Sabiduría, fertilidad, inteligencia y protección."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Primavera (abril-mayo).",
+    "cicloVida": "Perenne, de larga vida (puede superar los 200 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 5,
+    "rareza": 2,
+    "vitalidad": 8,
+    "resistencia": 7,
+    "impactoEcologico": 7,
+    "misticismo": 6,
+    "fraganciaMagica": 2,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "La sustancia 'juglona' que segregan sus raíces es un mecanismo de defensa para eliminar competidores cerca del árbol.",
+    "El nogal se ha cultivado desde la antigüedad; fue introducido en Europa por los romanos, quienes lo llamaban 'la bellota de Júpiter'.",
+    "La madera de nogal es muy cotizada y, a menudo, se utiliza para la creación de chapas decorativas.",
+    "Es uno de los árboles que más tiempo tarda en alcanzar su producción máxima de frutos después de ser plantado."
+  ]
+}

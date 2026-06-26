@@ -1,0 +1,113 @@
+{
+  "id": "encina",
+  "nombre": "Encina (Quercus ilex)",
+  "nombreCientifico": "Quercus ilex",
+  "fechaInformacion": "2026",
+  "imagen": "encina.webp",
+  "introduccionPlanta": [
+    "La encina es el árbol más emblemático del bosque mediterráneo, un gigante perennifolio de la familia Fagaceae.",
+    "Es fundamental para el ecosistema de la dehesa y es profundamente respetada por su resistencia, su sombra fresca y su fruto: la bellota."
+  ],
+  "descripcionLarga": [
+    "El Quercus ilex es un árbol de crecimiento lento, copa ancha y globosa que puede alcanzar los 20 metros de altura. Su corteza, oscura y agrietada en bloques cuadrados, protege un tronco robusto capaz de soportar condiciones climáticas extremas. Sus hojas son coriáceas, de color verde oscuro en el haz y grisáceas/tomentosas en el envés, persistiendo durante todo el año.",
+    "Es una especie monoica que florece en primavera, produciendo amentos masculinos colgantes. Su fruto, la bellota, es una fuente esencial de alimento para la fauna silvestre y el ganado porcino (cerdo ibérico).",
+    "La encina es una especie extremadamente adaptativa, capaz de crecer en suelos pobres y rocosos. Su madera, de una dureza y densidad extraordinarias, ha sido históricamente la principal fuente de combustible y carbón vegetal de la península ibérica."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Magnoliophyta",
+    "clase": "Magnoliopsida",
+    "orden": "Fagales",
+    "familia": "Fagaceae",
+    "genero": "Quercus",
+    "especie": "Quercus ilex"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Estable en general, aunque con amenazas locales.",
+    "amenazasPrincipales": [
+      "La seca (hongo Phytophthora cinnamomi), que causa el decaimiento de las raíces.",
+      "Fragmentación de la dehesa por cambios en el uso del suelo.",
+      "Falta de regeneración natural debido al sobrepastoreo."
+    ],
+    "esfuerzosConservacion": [
+      "Planes de gestión sostenible de la dehesa.",
+      "Programas de protección de los bosques de encinar.",
+      "Investigación sobre la resistencia del sistema radicular a patógenos."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Árbol perennifolio.",
+    "alturaPromedio": "10 - 20 m (33 - 65 ft).",
+    "colorFollaje": "Verde oscuro intenso, perenne.",
+    "tipoRaiz": "Sistema radicular profundo y muy extendido.",
+    "tallos": "Tronco grueso con corteza gris oscura o casi negra, profundamente agrietada.",
+    "hojas": "Simples, coriáceas, de borde entero o espinoso (en ejemplares jóvenes).",
+    "flores": {
+      "forma": "Amentos (inflorescencias colgantes).",
+      "colores": "Amarillento-verdoso.",
+      "fragancia": "Suave, herbácea.",
+      "tamano": "Muy pequeñas."
+    },
+    "frutos": "Bellota (nuez con cúpula escamosa)."
+  },
+  "habitat": {
+    "tipo": "Bosque mediterráneo, dehesas.",
+    "distribucionGeografica": [
+      "Región mediterránea, con especial abundancia en la península ibérica."
+    ],
+    "preferenciasSuelo": "Muy tolerante; prefiere suelos calizos, pero se adapta a gran variedad de sustratos, incluidos los pobres.",
+    "preferenciasLuz": "Pleno sol, aunque tolera la semisombra cuando es joven."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (bellotas plantadas frescas)."
+    ],
+    "riego": "Resistente a la sequía extrema; solo requiere apoyo en sus primeros años de vida.",
+    "poda": "Poda de formación y mantenimiento de la copa (típica en el manejo de la dehesa).",
+    "fertilizacion": "No requiere fertilización en entornos naturales.",
+    "plagasComunes": [
+      "Culebrilla de la encina (insectos)",
+      "Pulgones"
+    ],
+    "enfermedadesComunes": [
+      "La seca (Phytophthora cinnamomi)",
+      "Oidio"
+    ]
+  },
+  "usos": {
+    "ornamental": "Árbol de sombra ideal para grandes espacios y jardines.",
+    "culinario": [
+      "Bellotas (alimento para ganado ibérico; algunas variedades dulces son aptas para consumo humano)."
+    ],
+    "medicinal": [
+      "Corteza rica en taninos, utilizada tradicionalmente como astringente, antiséptico y para el tratamiento de inflamaciones de garganta."
+    ],
+    "industrial": [
+      "Madera extremadamente dura para herramientas, vigas y una de las mejores fuentes de carbón vegetal."
+    ],
+    "simbolismo": "Fuerza, longevidad, resistencia y símbolo de la tierra ibérica."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Primavera (abril-mayo).",
+    "cicloVida": "Perenne, puede vivir cientos de años."
+  },
+  "atributosFantasia": {
+    "belleza": 7,
+    "rareza": 2,
+    "vitalidad": 10,
+    "resistencia": 10,
+    "impactoEcologico": 10,
+    "misticismo": 8,
+    "fraganciaMagica": 4,
+    "espinasDefensivas": 3
+  },
+  "curiosidades": [
+    "La encina tiene la capacidad de adaptarse al clima mediante el cambio de forma de sus hojas; las jóvenes son espinosas para evitar que los herbívoros las coman.",
+    "Es el árbol principal de la dehesa, un sistema agroforestal sostenible único en el mundo.",
+    "El cerdo ibérico se alimenta casi exclusivamente de bellotas durante la 'montanera', lo que da a su carne una calidad y sabor mundialmente reconocidos.",
+    "Existen encinas milenarias en España que son auténticos monumentos naturales vivos."
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "cipres-comun",
+  "nombre": "Ciprés común",
+  "nombreCientifico": "Cupressus sempervirens",
+  "fechaInformacion": "2026",
+  "imagen": "cipres_comun.webp",
+  "introduccionPlanta": [
+    "El ciprés común es una conífera perennifolia de la familia Cupressaceae, famosa por su porte columnar y esbelto.",
+    "Es un símbolo icónico de los paisajes mediterráneos, apreciado por su longevidad y su elegancia arquitectónica en jardinería y cementerios."
+  ],
+  "descripcionLarga": [
+    "El Cupressus sempervirens es un árbol de crecimiento lento pero muy longevo, capaz de vivir más de 500 años. Presenta una forma piramidal o columnar muy estrecha en su variedad 'stricta', aunque la forma silvestre (var. 'horizontalis') es más abierta y extendida.",
+    "Sus hojas son pequeñas, en forma de escama, de color verde oscuro intenso, que recubren densamente las ramillas. Es una especie monoica que produce conos masculinos y femeninos en el mismo ejemplar. Sus frutos, conocidos como gálbulos, son leñosos, globosos y de color grisáceo al madurar.",
+    "Gracias a su profunda raíz pivotante y su madera resistente a la putrefacción, es un árbol extremadamente estable y duradero. Históricamente, ha sido cultivado por su madera aromática y duradera, y culturalmente está profundamente ligado a los conceptos de inmortalidad y luto en la cultura mediterránea."
+  ],
+  "taxonomia": {
+    "reino": "Plantae",
+    "phylum": "Pinophyta",
+    "clase": "Pinopsida",
+    "orden": "Pinales",
+    "familia": "Cupressaceae",
+    "genero": "Cupressus",
+    "especie": "Cupressus sempervirens"
+  },
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Estable.",
+    "amenazasPrincipales": [
+      "El chancro del ciprés (hongo Seiridium cardinale), que causa la muerte de ramas y del árbol completo.",
+      "Incendios forestales (aunque resiste mejor que otras coníferas, es vulnerable en ejemplares jóvenes)."
+    ],
+    "esfuerzosConservacion": [
+      "Selección y mejora genética de clones resistentes al hongo Seiridium.",
+      "Protección de masas naturales en áreas costeras y montañosas del Mediterráneo."
+    ]
+  },
+  "caracteristicasFisicas": {
+    "tipoPlanta": "Conífera perennifolia.",
+    "alturaPromedio": "20 - 30 m (65 - 100 ft).",
+    "colorFollaje": "Verde oscuro, denso y constante durante todo el año.",
+    "tipoRaiz": "Sistema radicular profundo y pivotante, muy resistente al viento.",
+    "tallos": "Tronco recto con corteza delgada, grisácea y finamente agrietada.",
+    "hojas": "Escamiformes, pequeñas, aplicadas sobre las ramillas y dispuestas en 4 filas.",
+    "flores": {
+      "forma": "Conos masculinos (pequeños cilindros) y femeninos (en escamas).",
+      "colores": "Amarillentos (masculinos), verdosos (femeninos).",
+      "fragancia": "Resinosa y balsámica.",
+      "tamano": "Muy pequeñas."
+    },
+    "frutos": "Gálbulos (conos leñosos) de forma globosa, compuestos por escamas peltadas."
+  },
+  "habitat": {
+    "tipo": "Clima mediterráneo, zonas soleadas y protegidas.",
+    "distribucionGeografica": [
+      "Región mediterránea (desde el sur de Europa hasta el norte de África y Oriente Próximo)."
+    ],
+    "preferenciasSuelo": "Muy adaptable; tolera suelos calizos, pobres, arcillosos y rocosos. Requiere buen drenaje.",
+    "preferenciasLuz": "Pleno sol; es muy heliófilo."
+  },
+  "cultivo": {
+    "propagacion": [
+      "Semillas (escarificadas).",
+      "Esquejes (para clones ornamentales)."
+    ],
+    "riego": "Muy resistente a la sequía una vez establecido; riego moderado en verano para ejemplares jóvenes.",
+    "poda": "Tolerante a la poda, utilizada a menudo para setos o formas topiarias.",
+    "fertilizacion": "No suele requerir; tolera suelos con pocos nutrientes.",
+    "plagasComunes": [
+      "Pulgón del ciprés",
+      "Escarabajos barrenadores"
+    ],
+    "enfermedadesComunes": [
+      "Chancro del ciprés (Seiridium cardinale)",
+      "Phytophthora (en suelos muy encharcados)"
+    ]
+  },
+  "usos": {
+    "ornamental": "Especie fundamental en jardinería clásica, cementerios, alineaciones y cortavientos.",
+    "culinario": [
+      "No tiene usos culinarios directos."
+    ],
+    "medicinal": [
+      "Aceite esencial de sus hojas y conos utilizado por sus propiedades antisépticas, vasoconstrictoras y para el tratamiento de problemas circulatorios."
+    ],
+    "industrial": [
+      "Madera imputrescible utilizada en ebanistería, construcción naval (históricamente) y fabricación de cajas para guardar ropa (repele polillas)."
+    ],
+    "simbolismo": "Inmortalidad, eterno recuerdo, luto, hospitalidad y verticalidad hacia el cielo."
+  },
+  "reproduccion": {
+    "tipo": "Sexual (semillas).",
+    "polinizacion": "Anemófila (por el viento).",
+    "momentoFloracion": "Finales de invierno a principios de primavera.",
+    "cicloVida": "Perenne, de muy larga vida (supera los 500 años)."
+  },
+  "atributosFantasia": {
+    "belleza": 6,
+    "rareza": 1,
+    "vitalidad": 10,
+    "resistencia": 10,
+    "impactoEcologico": 6,
+    "misticismo": 10,
+    "fraganciaMagica": 3,
+    "espinasDefensivas": 1
+  },
+  "curiosidades": [
+    "El famoso pintor Vincent van Gogh inmortalizó los cipreses en varias de sus obras, destacando su silueta flameante.",
+    "Se plantaban tradicionalmente en las puertas de las casas como símbolo de bienvenida y hospitalidad.",
+    "Su madera es tan resistente a la pudrición que se han encontrado puertas de templos antiguos (como las de San Pedro en el Vaticano) fabricadas con ciprés que han durado siglos.",
+    "A pesar de su asociación con el luto, su nombre científico 'sempervirens' significa 'siempre verde'."
+  ]
+}

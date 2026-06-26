@@ -99,14 +99,14 @@
     "cicloVida": "Perenne, de muy larga vida (décadas a un siglo) hasta la floración y muerte."
   },
   "atributosFantasia": {
-    "belleza": 4,
-    "rareza": 2,
-    "vitalidad": 5,
-    "resistencia": 5,
-    "impactoEcologico": 4,
-    "misticismo": 4,
+    "belleza": 7,
+    "rareza": 3,
+    "vitalidad": 10,
+    "resistencia": 10,
+    "impactoEcologico": 8,
+    "misticismo": 9,
     "fraganciaMagica": 1,
-    "espinasDefensivas": 3
+    "espinasDefensivas": 4
   },
   "curiosidades": [
     "El bambú es la planta de crecimiento más rápido del planeta. Algunas especies pueden crecer casi un metro en un solo día.",

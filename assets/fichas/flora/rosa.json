@@ -1,6 +1,6 @@
 {
   "id": "rosa",
-  "nombre": "Rosa (Rosa Gallica)",
+  "nombre": "Rosa",
   "nombreCientifico": "Rosa gallica (o género Rosa)",
   "fechaInformacion": "2025",
   "imagen": "rosa.webp",
@@ -106,14 +106,14 @@
     "cicloVida": "Perenne, de larga vida."
   },
   "atributosFantasia": {
-    "belleza": 5,
+    "belleza": 10,
     "rareza": 2,
-    "vitalidad": 4,
-    "resistencia": 3,
-    "impactoEcologico": 3,
-    "misticismo": 4,
-    "fraganciaMagica": 5,
-    "espinasDefensivas": 3
+    "vitalidad": 8,
+    "resistencia": 7,
+    "impactoEcologico": 5,
+    "misticismo": 9,
+    "fraganciaMagica": 10,
+    "espinasDefensivas": 8
   },
   "curiosidades": [
     "Existen más de 30.000 variedades cultivadas de rosas.",

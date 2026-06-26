@@ -97,13 +97,13 @@
     "cicloVida": "Perenne, de larga vida (vida económica de 25-30 años, vida natural mucho más larga)."
   },
   "atributosFantasia": {
-    "belleza": 3,
-    "rareza": 3,
-    "vitalidad": 4,
-    "resistencia": 3,
-    "impactoEcologico": 3,
-    "misticismo": 2,
-    "fraganciaMagica": 2,
+    "belleza": 6,
+    "rareza": 6,
+    "vitalidad": 8,
+    "resistencia": 5,
+    "impactoEcologico": 5,
+    "misticismo": 4,
+    "fraganciaMagica": 4,
     "espinasDefensivas": 1
   },
   "curiosidades": [
