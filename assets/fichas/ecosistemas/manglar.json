@@ -59,8 +59,7 @@
   "hongosDestacados": [
     "halophytophthora_spp",
     "calathella_mangrovei",
-    "mycosphaerella_spp",
-    null
+    "mycosphaerella_spp"
   ],
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistema gravemente amenazado por la expansión urbana, la acuicultura intensiva (camaroneras) y el cambio climático.",
