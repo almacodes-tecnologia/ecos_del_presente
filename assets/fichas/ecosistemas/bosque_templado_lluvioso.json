@@ -1,0 +1,87 @@
+{
+  "id": "bosque_templado_lluvioso",
+  "nombre": "Bosque Templado Lluvioso",
+  "imagenPrincipal": "bosque_templado_lluvioso.webp",
+  "descripcionDetallada": [
+    "El bosque templado lluvioso es un bioma costero escaso y fascinante, caracterizado por recibir precipitaciones extraordinariamente altas pero manteniendo temperaturas moderadas durante todo el año. A diferencia de las selvas tropicales, se desarrolla en latitudes templadas, lo que da como resultado un ecosistema denso, perennifolio y dominado por árboles gigantescos y una acumulación masiva de biomasa.",
+    "La humedad constante y la baja tasa de evaporación convierten a este bosque en un entorno hiperhúmedo. El suelo, los troncos y las rocas están colonizados por un espeso tapiz de musgos, helechos y plantas epífitas, lo que configura un paisaje cerrado y de aspecto prehistórico donde los procesos de reciclaje de nutrientes son lentos pero continuos."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se localiza en franjas costeras respaldadas por sistemas montañosos que atrapan la humedad marina, destacando la costa pacífica del noroeste de Norteamérica (Alaska a California), el bosque valdiviano (Chile y Argentina), la laurisilva de Macaronesia (Canarias, Madeira) y partes de Nueva Zelanda y Tasmania.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Grandes árboles perennifolios (coníferas gigantes en el hemisferio norte y árboles de hoja ancha lauriforme en el hemisferio sur) acompañados de un sotobosque denso y selvático.",
+    "dominanciaAnimal": "Especies adaptadas a la alta humedad constante, incluyendo una gran variedad de aves endémicas, pequeños mamíferos arbóreos, anfibios e invertebrados del suelo.",
+    "estratosVerticales": [
+      "Estrato Emergente: Árboles colosales (40-90m o más) que rompen el dosel superior, como las secuoyas o los alerces patagónicos.",
+      "Estrato Arbóreo: Dosel cerrado (20-40m) que filtra la mayor parte de la luz, manteniendo el interior del bosque en una penumbra húmeda.",
+      "Estrato Epifítico y Sotobosque: Impresionante proliferación de helechos arborescentes, musgos, líquenes y plantas que crecen directamente sobre las ramas de los árboles."
+    ],
+    "adaptacionesClave": "Hojas lauriflores (limbo coriáceo y ápices en punta de goteo para evacuar el exceso de agua), crecimiento perenne y longevidad extrema en las especies arbóreas dominantes."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima oceánico hiperhúmedo, condicionado por la proximidad al mar y los vientos cargados de humedad que provocan lluvias orográficas constantes.",
+      "Las temperaturas son notablemente moderadas debido a la influencia marítima, presentando inviernos suaves sin heladas extremas y veranos frescos."
+    ],
+    "caracteristicas": [
+      "Precipitaciones muy elevadas y constantes, distribuidas a lo largo de todo el año.",
+      "Presencia habitual de nieblas costeras densas que aportan agua adicional por condensación en el dosel (lluvia horizontal).",
+      "Ausencia casi total de periodos de estrés hídrico o sequía estacional."
+    ],
+    "precipitacionAnualRango": "1500 - 3500 mm",
+    "temperaturaMediaRango": "4 - 14°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos oscuros, profundos y con un horizonte orgánico masivo debido a la gigantesca acumulación de hojarasca, troncos caídos y detritos.",
+      "A pesar de la enorme cantidad de materia orgánica, la descomposición es lenta debido a las temperaturas frescas y al exceso de humedad, lo que suele acidificar el sustrato."
+    ],
+    "caracteristicas": [
+      "Alta lixiviación de bases debido al lavado continuo provocado por las lluvias incesantes.",
+      "Presencia de troncos nodriza: árboles caídos en descomposición que sirven de sustrato vital para la germinación de nuevas plántulas.",
+      "Gran capacidad de retención de agua, actuando como una esponja hidrológica madura."
+    ]
+  },
+
+  "faunaDestacada": [
+    "pudu",
+    "oso_grizzly",
+    "monito_del_monte",
+    "bubo_virginianus",
+    "salamandra_gigante"
+  ],
+  "floraDestacada": [
+    "sequia_sempervirens",
+    "alerce_patagonico",
+    "coihue",
+    "hecho_arborescente",
+    "laurel_salvaje"
+  ],
+  "hongosDestacados": [
+    "cyttaria_espinozae",
+    "mycena_interrupta",
+    "clavulina_cristata",
+    "ganoderma_applanatum"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Muy vulnerable debido a su escasa distribución geográfica mundial; muchas de sus áreas primarias albergan árboles milenarios insustituibles si son talados.",
+    "amenazasPrincipales": [
+      "Industria Maderera: Tala rasa de bosques antiguos para la obtención de maderas nobles de alta calidad comercial.",
+      "Sustitución de Especies: Destrucción del bosque nativo para implantar monocultivos de crecimiento rápido (como pinos o eucaliptos).",
+      "Cambio Climático: Modificación de los patrones de viento y reducción de las nieblas costeras críticas para la supervivencia del bioma.",
+      "Construcción de Infraestructuras: Carreteras y represas hidroeléctricas que alteran la dinámica hídrica y fragmentan el dosel continuo."
+    ],
+    "beneficiosEcosistemicos": [
+      "Máximo Almacenamiento de Biomasa: Es uno de los biomas que acumula más carbono por hectárea del planeta, superando incluso a muchas selvas tropicales.",
+      "Regulación Hídrica Extrema: Captura la niebla del aire y regula los caudales de los ríos costeros, evitando deslaves y erosión del terreno.",
+      "Banco Genético Único: Conservación de linajes evolutivos arcaicos y plantas relictas que sobrevivieron a las glaciaciones.",
+      "Valor Paisajístico y Ecoturismo: Destino prioritario para el turismo de naturaleza de bajo impacto y la investigación científica internacional."
+    ]
+  }
+}

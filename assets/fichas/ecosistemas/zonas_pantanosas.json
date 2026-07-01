@@ -1,0 +1,87 @@
+{
+  "id": "zonas_pantanosas",
+  "nombre": "Zonas Pantanosas",
+  "imagenPrincipal": "zonas_pantanosas.webp",
+  "descripcionDetallada": [
+    "Las zonas pantanosas son humedales caracterizados por una transición constante entre los ecosistemas terrestres y los acuáticos, donde el suelo permanece saturado de agua o inundado de manera permanente o estacional. Son entornos de una productividad biológica asombrosa, capaces de sustentar complejas redes tróficas gracias a la gran cantidad de nutrientes disueltos.",
+    "La dinámica de estos biomas está regida por el agua, que puede ser dulce, salobre o salada. La vegetación hidrófila juega un papel crucial al ralentizar las corrientes, estabilizar los sedimentos y ofrecer zonas de nidificación, refugio y alimentación para una biodiversidad marina, fluvial y terrestre inigualable."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se localizan en llanuras aluviales, depresiones geográficas, deltas fluviales y zonas costeras bajas de todo el mundo, destacando ejemplos como el Pantanal (Sudamérica), los Everglades (Norteamérica) o las Marismas del Guadalquivir (Europa).",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Plantas hidrófitas y helófitas (emergentes), macrofitas flotantes y árboles tolerantes al encharcamiento crónico con adaptaciones neumatóforas.",
+    "dominanciaAnimal": "Invertebrados acuáticos, anfibios, reptiles adaptados, y de forma masiva, aves acuáticas migratorias y estacionales.",
+    "estratosVerticales": [
+      "Estrato Emergente: Plantas arraigadas en el fondo pero que sobresalen con fuerza (carrizos, Eneas) superando los 2 metros.",
+      "Estrato Flotante: Especies que flotan libremente en la superficie (lentejas de agua, nenúfares) bloqueando parcialmente la luz solar.",
+      "Estrato Sumergido: Macrófitas y algas que completan su ciclo vital bajo el agua, oxigenando el medio acuático."
+    ],
+    "adaptacionesClave": "Tejidos con aerénquima (canales de aire internos para llevar oxígeno a las raíces sumergidas), tolerancia a la salinidad y ciclos de reproducción rápidos vinculados a las crecidas."
+  },
+
+  "clima": {
+    "descripcion": [
+      "El clima de las zonas pantanosas está muy influenciado por la latitud en la que se encuentren, pero se caracteriza globalmente por una altísima humedad ambiental.",
+      "La gran masa de agua actúa como un potente amortiguador térmico local, reduciendo las temperaturas máximas y elevando las mínimas respecto a las tierras secas circundantes."
+    ],
+    "caracteristicas": [
+      "Humedad relativa del aire muy elevada durante todo el año, propiciando nieblas y condensación.",
+      "Tasas altas de evaporación estacional que pueden alterar drásticamente la concentración de sales en el agua.",
+      "Vulnerabilidad a los ciclos macroclimáticos de sequía o de lluvias torrenciales que cambian el nivel de inundación."
+    ],
+    "precipitacionAnualRango": "500 - 2000 mm",
+    "temperaturaMediaRango": "10 - 26°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos predominantemente hídricos o de turbera (histosoles), compuestos por gruesas capas de materia orgánica en descomposición muy lenta.",
+      "La inundación continua limita la entrada de oxígeno en el sustrato, lo que ralentiza la actividad de los descomponedores y genera un ambiente fuertemente anaeróbico."
+    ],
+    "caracteristicas": [
+      "Texturas arcillosas y limosas compactas que dificultan el drenaje del agua.",
+      "Coloraciones oscuras o grisáceas (procesos de gleyzación) debido a la reducción química del hierro por falta de oxígeno.",
+      "Gran acumulación de carbono orgánico atrapado, actuando como sumideros críticos a nivel global."
+    ]
+  },
+
+  "faunaDestacada": [
+    "caiman_jacare",
+    "capibara",
+    "flamenco_comun",
+    "garza_real",
+    "aguila_pescadora"
+  ],
+  "floraDestacada": [
+    "enea_typha",
+    "carrizo_comun",
+    "nenufar_blanco",
+    "cipres_de_los_pantanos",
+    "lirio_amarillo"
+  ],
+  "hongosDestacados": [
+    "mitrula_paludosa",
+    "psathyrella_aquatica",
+    "vibrissea_truncorum",
+    "hygrocybe_colemanniana"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistemas críticamente amenazados a nivel mundial; históricamente mal considerados como 'tierras insalubres' y destruidos a un ritmo alarmante.",
+    "amenazasPrincipales": [
+      "Drenaje y Desecación: Canalización de aguas para ganar terrenos destinados a la agricultura intensiva o el desarrollo urbano.",
+      "Contaminación por Escorrentía: Llegada masiva de pesticidas, fertilizantes (nitratos y fosfatos) y metales pesados que provocan eutrofización.",
+      "Especies Exóticas Invasoras: Introducción de fauna y flora (como el jacinto de agua o el cangrejo rojo) que rompen el equilibrio trófico.",
+      "Alteración de Acuíferos: La sobreexplotación de las aguas subterráneas corta el suministro hídrico vital que alimenta el humedal."
+    ],
+    "beneficiosEcosistemicos": [
+      "Depuración Natural del Agua: Actúan como riñones del planeta, filtrando y descomponiendo toxinas y exceso de nutrientes.",
+      "Mitigación del Cambio Climático: Son de los mayores almacenes de carbono terrestre por unidad de superficie.",
+      "Control de Inundaciones: Funcionan como esponjas gigantes que absorben los picos de las crecidas y protegen las costas de marejadas.",
+      "Santuarios de Biodiversidad: Puntos críticos esenciales para el descanso y alimentación de millones de aves en sus rutas migratorias."
+    ]
+  }
+}

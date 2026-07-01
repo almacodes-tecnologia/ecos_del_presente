@@ -1,0 +1,87 @@
+{
+  "id": "rios_montana",
+  "nombre": "Ríos de Montaña",
+  "imagenPrincipal": "rios_montana.webp",
+  "descripcionDetallada": [
+    "Los ríos de montaña constituyen los tramos iniciales o de cabecera de las redes fluviales, caracterizados por discurrir a través de relieves abruptos con fuertes pendientes. Son ecosistemas acuáticos de aguas frías, cristalinas y lóticas (corrientes rápidas), donde el flujo turbulento asegura una saturación de oxígeno prácticamente máxima en toda la columna de agua.",
+    "A diferencia de los tramos bajos, la producción primaria interna es limitada debido a la velocidad del agua y al sombreado de las laderas. El ecosistema depende energéticamente de los aportes de materia orgánica exterior (hojarasca, ramas), y su comunidad biológica está altamente especializada, presentando adaptaciones morfológicas extremas para evitar ser arrastrada por la implacable corriente."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se localizan en las cabeceras de los principales sistemas montañosos del mundo, como los Andes (Sudamérica), los Alpes (Europa), las Rocosas (Norteamérica) y el Himalaya (Asia), descendiendo hasta conectar con los cursos medios de los valles.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Briófitos (musgos acuáticos) y hepáticas anclados fuertemente a las rocas, junto a comunidades microscópicas de algas perifíticas (diatomeas).",
+    "dominanciaAnimal": "Peces salmónidos de nado potente e invertebrados bentónicos (larvas de insectos) de cuerpo aplanado o con mecanismos de sujeción al sustrato rocoso.",
+    "estratosVerticales": [
+      "Estrato de Superficie y Salpicadura: Zona de rocas húmedas expuestas a la turbulencia, colonizada por musgos y aves adaptadas al agua brava.",
+      "Estrato Bentónico (Fondo): Lecho del río compuesto por bloques, cantos rodados y gravas, donde se concentra la mayor parte de la fauna invertebrada.",
+      "Estrato Hiporreico: Zona de transición subterránea bajo el lecho del río, donde el agua percola entre las gravas albergando microcrustáceos y larvas diminutas."
+    ],
+    "adaptacionesClave": "Cuerpos hidrodinámicos y fusiformes en peces, formas aplanadas y ganchos de anclaje en larvas de insectos, y requerimientos de bajas temperaturas con altas concentraciones de oxígeno molecular."
+  },
+
+  "clima": {
+    "descripcion": [
+      "El clima está condicionado por la altitud (clima de montaña o alpino), presentando inviernos rigurosos y veranos frescos.",
+      "El régimen hidrológico está fuertemente supeditado a los ciclos térmicos estacionales, mostrando picos de caudal durante el deshielo primaveral o tras tormentas de alta montaña."
+    ],
+    "caracteristicas": [
+      "Temperaturas del agua constantemente bajas, rara vez superando los 12-15°C incluso en la época estival.",
+      "Precipitaciones elevadas en las cuencas de captación, frecuentemente en forma de nieve durante el invierno.",
+      "Gran variabilidad estacional del caudal con crecidas repentinas y violentas ligadas al relieve escarpado."
+    ],
+    "precipitacionAnualRango": "800 - 2500 mm",
+    "temperaturaMediaRango": "2 - 12°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "El lecho del río no posee un suelo en el sentido clásico, sino un sustrato geológico litoide dominado por la erosión mecánica y el transporte de materiales gruesos.",
+      "La fuerza del agua lava continuamente las partículas finas (arcillas, limos), dejando un fondo limpio de rocas desnudas, bloques compactos y cantos rodados."
+    ],
+    "caracteristicas": [
+      "Sustrato extremadamente inestable durante las crecidas debido al movimiento de los cantos rodados.",
+      "Porosidad intersticial alta: existen grandes huecos entre las piedras que sirven de refugio a la fauna contra la corriente.",
+      "Ausencia de acumulación de lodos orgánicos estables debido al continuo arrastre hidrodinámico."
+    ]
+  },
+
+  "faunaDestacada": [
+    "trucha_comun",
+    "mirlo_acuatico",
+    "desman_pirenaico",
+    "larva_perla_plecoptero",
+    "salmon_atlantico"
+  ],
+  "floraDestacada": [
+    "fontinalis_antipyretica",
+    "diatomeas_navicula",
+    "ranunculo_acuatico",
+    "platyhypnidium_rusciforme",
+    "lemanea_fluviatilis"
+  ],
+  "hongosDestacados": [
+    "tetracladium_marchalianum",
+    "articulospora_tetracladia",
+    "clavatospora_longibrachiata",
+    "vibrissea_filisporia"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistemas originalmente prístinos pero sumamente sensibles a cualquier alteración térmica o química debido al aislamiento de sus poblaciones y a su baja resiliencia.",
+    "amenazasPrincipales": [
+      "Minicentrales e Hidroeléctricas: Fragmentación del cauce por presas que alteran el transporte de sedimentos e impiden la migración de los peces.",
+      "Cambio Climático: El aumento global de las temperaturas calienta el agua y reduce la solubilidad del oxígeno, poniendo en riesgo a las especies estenoitermas.",
+      "Introducción de Especies Exóticas: Expansión de salmónidos alóctonos o algas invasoras (como la 'moco de roca') que rompen las redes tróficas nativas.",
+      "Turismo e Infraestructuras de Esquí: Vertidos residuales estacionales y alteración de las laderas de captación que aumentan de forma artificial la sedimentación."
+    ],
+    "beneficiosEcosistemicos": [
+      "Fábricas de Agua Dulce: Son las fuentes primarias de agua de alta calidad que abastecen a las poblaciones y cultivos de los valles bajos.",
+      "Amortiguación de Sedimentos: Regulan el transporte de materiales sólidos hacia los cursos medios mediante la retención natural en pozas y rápidos.",
+      "Reservorios de Biodiversidad Relicta: Albergan especies endémicas y adaptaciones evolutivas únicas que no pueden sobrevivir en ningún otro tramo fluvial.",
+      "Valor Recreativo y Paisajístico: Espacios de alto valor para la pesca deportiva sostenible, el montañismo y el turismo científico."
+    ]
+  }
+}

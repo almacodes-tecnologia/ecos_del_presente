@@ -1,0 +1,87 @@
+{
+  "id": "rios_llanura",
+  "nombre": "Ríos de Llanura",
+  "imagenPrincipal": "rios_llanura.webp",
+  "descripcionDetallada": [
+    "Los ríos de llanura constituyen los tramos medios y bajos de las redes fluviales, caracterizados por discurrir a través de relieves planos con pendientes muy suaves. Son ecosistemas acuáticos de aguas típicamente lentas, turbias y de flujo laminar, donde la dinámica del río se desplaza horizontalmente, formando amplios meandros, lagunas de oxbow y extensas llanuras de inundación.",
+    "A diferencia de los cursos altos de montaña, la producción primaria interna aquí es muy elevada gracias a la estabilidad del caudal, las temperaturas más cálidas y el abundante aporte de nutrientes solubles. El agua transporta una gran carga de sedimentos finos en suspensión, lo que reduce la penetración de la luz pero genera un lecho blando y rico que sostiene complejas redes tróficas."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se extienden por los grandes valles sedimentarios y cuencas bajas del mundo, destacando sistemas colosales como el Amazonas (Sudamérica), el Misisipi (Norteamérica), el Danubio (Europa) y el Mekong (Asia).",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Macrófitas flotantes y enraizadas, densas formaciones de algas filamentosas y fitoplancton masivo en la columna de agua.",
+    "dominanciaAnimal": "Peces de cuerpo alto o comprimido adaptados a aguas lentas y turbias, una inmensa variedad de moluscos bivalvos, crustáceos y organismos filtradores en el fondo.",
+    "estratosVerticales": [
+      "Estrato Pelágico (Columna de agua): Zona dominada por comunidades flotantes microscópicas (fitoplancton y zooplancton) y peces nadadores de paso.",
+      "Estrato Flotante e Interfacial: Densos tapices de plantas flotantes (lentejas de agua, jacintos) que regulan el intercambio de gases y luz.",
+      "Estrato Profundo y Bentónico: Lecho limoso u orgánico sumido en la penumbra, donde prosperan descomponedores, gusanos y bivalvos excavadores."
+    ],
+    "adaptacionesClave": "Órganos sensoriales táctiles o químicos desarrollados (como barbillones en siluriformes) para orientarse en aguas turbias, tolerancia a concentraciones fluctuantes de oxígeno y estrategias reproductivas ligadas a los ciclos de inundación de la llanura."
+  },
+
+  "clima": {
+    "descripcion": [
+      "El clima de los ríos de llanura está muy ligado a la región macroclimática que atraviesan, pero el agua experimenta una fuerte inercia térmica.",
+      "Los caudales son estables a corto plazo, pero presentan grandes oscilaciones estacionales con crecidas lentas y prolongadas que llegan a inundar los valles durante semanas."
+    ],
+    "caracteristicas": [
+      "Temperaturas del agua moderadas o elevadas, mostrando una marcada variación estacional en zonas templadas.",
+      "Concentración de oxígeno disuelto muy variable, pudiendo descender significativamente durante las noches de verano o en zonas estancadas.",
+      "Evaporación moderada-alta que intensifica la concentración de nutrientes solubles en las épocas de estiaje."
+    ],
+    "precipitacionAnualRango": "500 - 2000 mm",
+    "temperaturaMediaRango": "12 - 25°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "El lecho y los márgenes están compuestos por suelos aluviales finos formados por la sedimentación continua de limos, arcillas y arenas finas depositadas por la pérdida de velocidad del agua.",
+      "Son sustratos blandos, profundos y de una fertilidad química extraordinaria debido a la constante decantación de partículas orgánicas procedentes de toda la cuenca hidrográfica."
+    ],
+    "caracteristicas": [
+      "Lecho inestable y blando, fácilmente moldeable por las corrientes secundarias del río.",
+      "Condiciones anóxicas (falta de oxígeno) a pocos milímetros de profundidad del lodo debido a la intensa actividad bacteriana descomponedora.",
+      "Alto contenido de sales minerales retenidas de forma estable en las fracciones arcillosas del sustrato."
+    ]
+  },
+
+  "faunaDestacada": [
+    "carpa_comun",
+    "lucio_europeo",
+    "mejillon_de_rio",
+    "siluro",
+    "garza_blanca"
+  ],
+  "floraDestacada": [
+    "potamogeton_natans",
+    "vallisneria_spiralis",
+    "lenteja_de_agua",
+    "ceratophyllum_demersum",
+    "cladophora_glomerata"
+  ],
+  "hongosDestacados": [
+    "clavariopsis_aquatica",
+    "heliscus_lugdunensis",
+    "flagellospora_curvula",
+    "candida_aquatica"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistemas severamente modificados e impactados a nivel global, ya que sus riberas concentran los mayores núcleos urbanos, agrícolas e industriales de la historia humana.",
+    "amenazasPrincipales": [
+      "Eutrofización Antropogénica: Vertido masivo de fertilizantes agrícolas y aguas residuales urbanas que provocan blooms algales y anoxia destructiva.",
+      "Infraestructuras de Navegación y Dragados: Modificación artificial de los cauces, eliminación de meandros y dragados del fondo que destruyen el hábitat bentónico.",
+      "Contaminación Química Acumulativa: Concentración de metales pesados, microplásticos y pesticidas que se sedimentan y bioacumulan en la cadena trófica.",
+      "Desconexión de la Llanura Fluvial: Construcción de motas y diques que impiden que el río inunde sus llanuras naturales, rompiendo los ciclos biológicos de muchas especies."
+    ],
+    "beneficiosEcosistemicos": [
+      "Autodepuración de las Aguas: Las comunidades biológicas degradan y procesan grandes cantidades de materia orgánica a lo largo del curso.",
+      "Vías de Transporte e Hidrología vital: Son las principales arterias de agua dulce para el consumo de megaciudades y la irrigación de los mayores valles agrícolas.",
+      "Fertilización de Valles: Las inundaciones periódicas depositan limos fértiles indispensables para mantener la productividad agrícola de forma natural.",
+      "Zonas de Alta Productividad Pesquera: Sustentan pesquerías continentales artesanales y comerciales clave para la alimentación de millones de personas."
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "dunas_costeras",
+  "nombre": "Dunas Costeras",
+  "imagenPrincipal": "dunas_costeras.webp",
+  "descripcionDetallada": [
+    "Las dunas costeras son ecosistemas dinámicos de la interfaz tierra-mar, formados por la acumulación de arena de origen marino transportada y modelada por la acción constante del viento (procesos eólicos). Constituyen una barrera natural crítica contra la erosión marina y las tormentas, organizándose en un gradiente de estabilización que va desde las dunas embrionarias móviles en la primera línea de playa hasta las dunas fijas o boscosas en el interior.",
+    "Las comunidades biológicas que habitan este ecosistema se enfrentan a condiciones ambientales extremas y limitantes: movilidad constante del sustrato arenoso, alta salinidad aportada por el viento marino (spray salino), escasez crónica de agua dulce y una intensa radiación solar. Para sobrevivir, la vegetación pionera actúa como ingeniera del paisaje, anclando el suelo con extensas redes de raíces y permitiendo paulatinamente la sucesión ecológica."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se distribuyen a lo largo de las costas arenosas de todo el mundo, destacando sistemas masivos como las dunas del Parque Nacional de Doñana (Europa), Fraser Island (Oceanía), la costa de Namibia (África) y los sistemas litorales de Oregón y la península de California (América).",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Gramíneas psammófilas (adaptadas a la arena) de raíces profundas, plantas rastreras suculentas en las zonas móviles, y arbustos esclerófilos o pinos en las dunas fijas traseras.",
+    "dominanciaAnimal": "Invertebrados fosoriales (excavadores) como escarabajos peloteros y arañas de la arena, reptiles adaptados al calor, y aves costeras que nidifican directamente en el suelo arenoso.",
+    "estratosVerticales": [
+      "Zona de Duna Embrionaria y Móvil (Primera Línea): Formada por montículos inestables colonizados únicamente por plantas pioneras que soportan el enterramiento continuo por arena.",
+      "Zona de Duna Semifija (Cresta e Interduna): Zona intermedia con menor aporte de arena nueva, donde la cubierta vegetal es más densa y empieza a formarse una delgada capa orgánica.",
+      "Zona de Duna Fija o Estabilizada (Retroduna): Zona interior protegida del viento directo, donde el suelo está completamente consolidado por costras biológicas, matorrales o formaciones boscosas."
+    ],
+    "adaptacionesClave": "Psammofilia (capacidad de crecer activamente tras ser enterrado por la arena), hojas suculentas con cutículas gruesas para almacenar agua y resistir la sal, y hábitos nocturnos o fosoriales en la fauna para evitar el estrés térmico diurno."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima fuertemente influenciado por la proximidad del océano, caracterizado por una alta exposición a vientos persistentes y unidireccionales que transportan aerosol marino salino.",
+      "La superficie de la arena experimenta una oscilación térmica diurna extrema, alcanzando temperaturas superficiales muy elevadas durante el día seguidas por un enfriamiento rápido en la noche."
+    ],
+    "caracteristicas": [
+      "Exposición constante a vientos de intensidad moderada a alta que movilizan el sustrato de forma diaria.",
+      "Humedad ambiental fluctuante, combinando mañanas de densa niebla costera con tardes de sequedad extrema por insolación.",
+      "Efecto desecante severo debido a la baja capacidad de retención de humedad de la arena expuesta al sol."
+    ],
+    "precipitacionAnualRango": "200 - 1000 mm",
+    "temperaturaMediaRango": "14 - 26°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "El suelo (arenosoles) está compuesto casi en su totalidad por granos de cuarzo y fragmentos de conchas calcáreas de granulometría homogénea seleccionada por el viento.",
+      "Es un sustrato con una tasa de infiltración hídrica extremadamente alta, lo que provoca que el agua de lluvia desaparezca instantáneamente de las capas superficiales, dejando los nutrientes solubles fuera del alcance vegetal."
+    ],
+    "caracteristicas": [
+      "Inestabilidad mecánica extrema debido a la falta de cohesión entre los granos de arena sueltos.",
+      "Ausencia casi total de materia orgánica y horizontes edáficos en las dunas móviles superficiales.",
+      "Elevada alcalinidad y presencia de sales de sodio y calcio en las zonas expuestas directamente al oleaje y al viento del mar."
+    ]
+  },
+
+  "faunaDestacada": [
+    "correlimos_tridactilo",
+    "escarabajo_pimelia",
+    "lagartija_colirroja",
+    "sapo_corredor",
+    "viborilla_de_las_dunas"
+  ],
+  "floraDestacada": [
+    "ammophila_arenaria",
+    "eryngium_maritimum",
+    "pancratium_maritimum",
+    "cakile_maritima",
+    "calystegia_soldanella"
+  ],
+  "hongosDestacados": [
+    "psathyrella_ammophila",
+    "tulostoma_brumale",
+    "peziza_ammophila",
+    "agaricus_devoniensis"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistemas críticamente amenazados a nivel mundial debido a que las zonas costeras sufren la mayor presión demográfica, turística e inmobiliaria del planeta.",
+    "amenazasPrincipales": [
+      "Presión Urbanística e Inmobiliaria: Construcción de paseos marítimos, hoteles y urbanizaciones que destruyen físicamente la duna y bloquean el transporte natural de arena.",
+      "Uso Recreativo Descontrolado: El pisoteo continuo de turistas y vehículos destruye la frágil vegetación pionera, reactivando la erosión eólica descontrolada.",
+      "Introducción de Especies Invasoras: Plantas exóticas fijadoras de dunas (como la uña de gato o acacias) que desplazan por completo a la flora nativa y alteran la morfología del paisaje.",
+      "Ascenso del Nivel del Mar: El cambio climático intensifica las tormentas y eleva el nivel del mar, provocando una erosión costera severa que las dunas degradadas no pueden contener."
+    ],
+    "beneficiosEcosistemicos": [
+      "Defensa Costera Natural: Absorben la energía de los temporales marinos, protegiendo las infraestructuras humanas situadas en el interior.",
+      "Reservorios Dinámicos de Arena: Alimentan de forma natural a las playas adyacentes, manteniendo el equilibrio sedimentario del litoral.",
+      "Filtración de Acuíferos Costeros: Actúan como filtros de arena gigantes que ayudan a mantener lentes de agua dulce superficiales, frenando la intrusión salina.",
+      "Hábitat de Especies Especializadas: Albergan una biodiversidad endémica única que ha evolucionado exclusivamente para resistir las condiciones de este límite geográfico."
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "estepa_pradera",
+  "nombre": "Estepa y Pradera",
+  "imagenPrincipal": "estepa_pradera.webp",
+  "descripcionDetallada": [
+    "La estepa y la pradera componen un bioma terrestre dominado por formaciones herbáceas densas, donde los árboles son extremadamente escasos o se limitan a los márgenes de los ríos. Se desarrollan en zonas de interior continental donde las lluvias no son suficientes para albergar un bosque, pero sí superan el umbral de aridez extrema del desierto.",
+    "Este ecosistema está adaptado a perturbaciones ecológicas recurrentes como los incendios estacionales y el pastoreo intensivo de grandes herbívoros. Las gramíneas, que son la flora dominante, han evolucionado para crecer desde la base y no desde las puntas, lo que les permite regenerarse con una rapidez asombrosa tras ser consumidas o quemadas."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se extienden en las latitudes medias de los continentes, destacando las Grandes Llanuras de Norteamérica, la Pampa en Sudamérica, la vasta Estepa Euroasiática (desde Ucrania hasta Mongolia) y el Veld en Sudáfrica.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Gramíneas, pastos perennes, plantas herbáceas de flor (forbias) y arbustos bajos de raíces muy ramificadas.",
+    "dominanciaAnimal": "Grandes manadas de herbívoros corredores o migrantes, roedores excavadores que forman colonias subterráneas y aves rapaces de campo abierto.",
+    "estratosVerticales": [
+      "Estrato Herbáceo Alto: Pastos que en las zonas más húmedas (praderas) pueden alcanzar entre 1 y 2 metros de altura.",
+      "Estrato Herbáceo Bajo: Gramíneas enanas y plantas rastreras más comunes en las zonas secas (estepas) que apenas levantan unos centímetros del suelo.",
+      "Estrato Radicular: Una densa e intrincada red subterránea de raíces y rizomas que duplica o triplica la biomasa visible de la superficie."
+    ],
+    "adaptacionesClave": "Crecimiento basal de las gramíneas (tolerancia al fuego y herbivoría), hábitos fosoriales (excavadores) en animales para protegerse de depredadores y del clima, y anatomías adaptadas a la carrera veloz."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima templado-frío de fuerte carácter continental, caracterizado por una marcada estacionalidad con veranos de cálidos a muy calurosos e inviernos extremadamente fríos.",
+      "Las precipitaciones son moderadas y se concentran de manera irregular, habitualmente a finales de la primavera y principios del verano, seguidas de periodos de fuerte sequía estival."
+    ],
+    "caracteristicas": [
+      "Grandes oscilaciones térmicas tanto diarias como anuales debido a la lejanía de la influencia marítima.",
+      "Vientos constantes y fuertes que aceleran la evaporación del agua superficial ante la falta de barreras arbóreas.",
+      "Frecuencia natural de rayos que provocan incendios forestales/herbáceos cíclicos en la época seca."
+    ],
+    "precipitacionAnualRango": "300 - 800 mm",
+    "temperaturaMediaRango": "0 - 16°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos excepcionalmente profundos, oscuros y fértiles, clasificados en su mayoría como chernozems (tierras negras) o mollisoles.",
+      "La descomposición continua de las raíces finas de las gramíneas y la acumulación de materia orgánica enriquecen el suelo con una capa de humus muy gruesa, convirtiéndolos en los terrenos más productivos del planeta."
+    ],
+    "caracteristicas": [
+      "Estructura granular excelente con alta capacidad de retención de agua y nutrientes.",
+      "Baja lixiviación (lavado) debido a que las precipitaciones no son excesivas, manteniendo los minerales cerca de la superficie.",
+      "Alta presencia de calcio y otros nutrientes esenciales gracias a la constante actividad microbiológica."
+    ]
+  },
+
+  "faunaDestacada": [
+    "bisonte_americano",
+    "perrito_de_la_pradera",
+    "antilope_saiga",
+    "lobo_de_crin",
+    "aguila_esteparia"
+  ],
+  "floraDestacada": [
+    "pasto_varilla",
+    "hierba_del_bufalo",
+    "estatice",
+    "paja_brava",
+    "tulipan_silvestre"
+  ],
+  "hongosDestacados": [
+    "agaricus_campestris",
+    "calvatia_gigantea",
+    "pleurotus_eryngii",
+    "lepiota_procera"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Es considerado el bioma más alterado y en mayor peligro crítico a nivel mundial, ya que casi la totalidad de su extensión original ha sido modificada por el ser humano.",
+    "amenazasPrincipales": [
+      "Conversión Agrícola: Transformación masiva de los pastizales nativos en campos de cultivo de cereales (trigo, maíz, soja) a escala global.",
+      "Sobrepastoreo: Introducción de ganado doméstico intensivo que destruye las gramíneas autóctonas y compacta el suelo provocando erosión.",
+      "Desertificación: En las zonas de estepa más seca, las malas prácticas agrícolas y la pérdida de cubierta vegetal están transformando el suelo en desierto.",
+      "Caza y Erradicación: Persecución histórica de los grandes herbívoros y depredadores nativos por interferir con las actividades ganaderas."
+    ],
+    "beneficiosEcosistemicos": [
+      "Granero del Mundo: Proporciona la inmensa mayoría de los suelos agrícolas de los que depende la seguridad alimentaria de la humanidad.",
+      "Fijación Masiva de Carbono: Aunque no tienen árboles, sus inmensos sistemas de raíces almacenan carbono de forma muy estable y segura en el subsuelo.",
+      "Conservación del Suelo: El entramado radicular actúa como un escudo infranqueable contra la erosión provocada por el viento y las lluvias torrenciales.",
+      "Hábitat de Polinizadores: Alberga una inmensa diversidad de insectos y plantas con flor esenciales para mantener los ciclos reproductivos agrícolas vecinos."
+    ]
+  }
+}

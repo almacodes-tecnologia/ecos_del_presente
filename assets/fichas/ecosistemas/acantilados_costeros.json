@@ -1,0 +1,87 @@
+{
+  "id": "acantilados_costeros",
+  "nombre": "Acantilados Costeros",
+  "imagenPrincipal": "acantilados_costeros.webp",
+  "descripcionDetallada": [
+    "Los acantilados costeros son ecosistemas de frontera caracterizados por abruptas pendientes verticales o escarpes rocosos que entran en contacto directo con el mar. Es uno de los ambientes más dinámicos y físicamente agresivos del planeta, modelado de forma continua por el colapso de bloques rocosos y el socavamiento basal provocado por la fuerza mecánica del oleaje (abrasión marina).",
+    "La vida en los acantilados está condicionada por un gradiente vertical de estrés ambiental extrema. La vegetación se distribuye en bandas horizontales según su tolerancia al impacto directo de las olas, los vientos huracanados y el constante baño de espuma marina salada (salpicadura). Debido a su inaccesibilidad, estos escarpes funcionan como refugios ecológicos aislados, siendo santuarios críticos para la nidificación de aves marinas."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se localizan en costas de relieve montañoso o mesetas elevadas de todo el mundo, destacando los acantilados de Moher (Irlanda), Dover (Reino Unido), la costa de la cordillera de la Costa (Chile), los escarpes de la península de San Francisco (EE. UU.) y los acantilados atlánticos de Galicia y el Cantábrico (España).",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Plantas halófitas (tolerantes a la sal) y fisurícolas (que crecen en grietas), líquenes marinos y pequeños arbustos postrados resistentes al viento.",
+    "dominanciaAnimal": "Grandes colonias de aves marinas pelágicas, invertebrados intermareales especializados en la base rocosa y pequeños reptiles o mamíferos adaptados a la escalada.",
+    "estratosVerticales": [
+      "Zona de Base o Supralitoral: Sector inferior golpeado por las olas y cubierto de algas incrustantes, donde solo habitan moluscos y crustáceos capaces de anclarse firmemente a la roca viva.",
+      "Zona Intermedia o Pared Vertical: Escarpe expuesto al viento y al spray salino, colonizado por aves marinas que aprovechan las repisas repisas calcáreas o graníticas para nidificar fuera del alcance de depredadores terrestres.",
+      "Zona de Cumbre o Borde de Acantilado: Meseta superior donde el viento sigue siendo limitante pero el suelo es más profundo, permitiendo el desarrollo de brezales costeros, pastizales halófilos y matorrales achaparrados."
+    ],
+    "adaptacionesClave": "Chasm Shifting (capacidad de las raíces para penetrar grietas microscópicas en busca de humedad), anatomías adaptadas al planeo aprovechando las corrientes de aire ascendentes en aves, y cuerpos aplanados con ventosas o ganchos en la fauna intermareal."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima litoral extremo caracterizado por una exposición total y desprotegida a los vientos marinos dominantes, lo que genera un efecto de cizalladura mecánica sobre la vegetación.",
+      "La atmósfera está saturada de humedad y sales minerales disueltas debido al romper continuo de las olas contra la base rocosa, creando un microclima de salinidad ambiental crónica."
+    ],
+    "caracteristicas": [
+      "Vientos persistentes de alta intensidad que limitan el crecimiento vertical de cualquier especie vegetal.",
+      "Aerosol marino continuo (spray salino) que provoca quemaduras químicas en las plantas no adaptadas.",
+      "Efecto termorregulador del océano que suaviza las heladas invernales pero acentúa la humedad fría estacional."
+    ],
+    "precipitacionAnualRango": "400 - 1500 mm",
+    "temperaturaMediaRango": "10 - 22°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "El suelo clásico es prácticamente inexistente en las paredes verticales, limitándose a acumulaciones mínimas de polvo, arena eólica y fragmentos de roca en las fisuras (litosoles).",
+      "En las repisas de nidificación, el suelo adquiere una naturaleza puramente orgánica y química debido a la acumulación masiva de guano de las aves, transformándose en un sustrato hiper-nutritivo pero sumamente corrosivo."
+    ],
+    "caracteristicas": [
+      "Ausencia de horizontes edáficos y escasez crítica de retención hídrica en las paredes expuestas.",
+      "pH sumamente variable, desde muy ácido en zonas de acumulación de guano hasta alcalino en acantilados de roca caliza.",
+      "Sustrato geológico muy inestable sujeto a desprendimientos continuos por la gravedad y la meteorización salina."
+    ]
+  },
+
+  "faunaDestacada": [
+    "arao_comun",
+    "alcatraz_atlantico",
+    "halcon_peregrino",
+    "gaviota_tridactila",
+    "percebe_gallego"
+  ],
+  "floraDestacada": [
+    "armeria_maritima",
+    "crithmum_maritimum",
+    "limonium_vulgare",
+    "plantago_maritima",
+    "calystegia_soldanella"
+  ],
+  "hongosDestacados": [
+    "xanthoria_parietina",
+    "lichina_pygmaea",
+    "caloplaca_marina",
+    "verrucaria_maura"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistemas geológicamente estables por su inaccesibilidad física, pero biológicamente muy sensibles a la pérdida de calidad de las aguas marinas y a las perturbaciones en sus cumbres terrestres.",
+    "amenazasPrincipales": [
+      "Presión Urbanística e Inmobiliaria en el Borde: Edificación de miradores, carreteras y hoteles en las cumbres que alteran la escorrentía del agua y aceleran los colapsos rocosos.",
+      "Contaminación Marina y Vertidos de Crudo: Las mareas negras impactan directamente la base del acantilado, destruyendo las cadenas tróficas de las que dependen las aves nidificantes.",
+      "Introducción de Depredadores Terrestres: Especies exóticas (como gatos, ratas o visones) que descienden por las paredes y diezman los huevos y polluelos de aves que carecen de mecanismos de defensa.",
+      "Turismo de Aventura y Escalada Descontrolada: La apertura de vías de escalada deportiva en épocas de reproducción provoca el abandono masivo de nidos por parte de aves rapaces y marinas."
+    ],
+    "beneficiosEcosistemicos": [
+      "Reservas de Avifauna Pelágica: Son los mayores y más seguros puntos de cría para las aves que pasan la mayor parte de su vida en alta mar.",
+      "Barreras de Contención Geológica: Protegen las tierras del interior absorbiendo y disipando la energía destructiva de las tormentas y mareas oceánicas.",
+      "Bancos de Endemismos Botánicos: Al actuar como islas verticales aisladas del pastoreo y la agricultura, conservan especies vegetales únicas adaptadas a las grietas.",
+      "Paisaje y Patrimonio Natural: Destinos paisajísticos de primer orden con un alto valor cultural, geológico, paleontológico y de turismo ornitológico."
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "turberas",
+  "nombre": "Turberas",
+  "imagenPrincipal": "turberas.webp",
+  "descripcionDetallada": [
+    "Las turberas son un tipo de humedal continental caracterizado por la acumulación masiva de materia orgánica muerta en forma de turba, que se origina debido a que la tasa de producción de biomasa vegetal supera con creces a la de su descomposición. Este fenómeno ocurre en condiciones de saturación de agua permanente, temperaturas frías y una acidez extrema, factores que inhiben casi por completo la actividad de los microorganismos descomponedores.",
+    "Son ecosistemas únicos y de evolución geológica lentísima (pueden tardar miles de años en consolidarse). Están dominados por musgos especializados que actúan como esponjas biológicas, aislando el medio de los nutrientes del subsuelo y obligando a las especies residentes a desarrollar adaptaciones extraordinarias, como el carnivorismo vegetal, para subsistir en un medio extremadamente estéril u oligótrofo."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se localizan principalmente en latitudes altas y templadas del hemisferio norte, abarcando vastas extensiones en Siberia, Canadá, Alaska, Escandinavia y el norte de Europa, aunque también existen turberas notables en la Patagonia y zonas tropicales húmedas.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Musgos del género Sphagnum, plantas de la familia de las ericáceas, gramíneas adaptadas y plantas carnívoras especializadas.",
+    "dominanciaAnimal": "Invertebrados acuáticos adaptados a aguas ácidas, anfibios discretos, aves zancudas nidificantes y mamíferos de paso que aprovechan el sustrato blando.",
+    "estratosVerticales": [
+      "Estrato Acrotelma (Capa Viva Superficial): Capa superior porosa formada por musgos vivos, sujeta a oscilaciones de agua y donde se produce la fotosíntesis.",
+      "Estrato Catotelma (Capa Muerta Profunda): Capa inferior permanentemente saturada de agua, compacta, anóxica y compuesta por turba en diferentes estados de carbonización.",
+      "Estrato Microbiano y Rizosférico: Entramado subsuperficial dominado por raíces finas y bacterias anaeróbicas estrictas que sobreviven en ausencia de oxígeno."
+    ],
+    "adaptacionesClave": "Carnivorismo en plantas para capturar insectos y obtener nitrógeno, capacidad de los musgos para intercambiar cationes y acidificar activamente el agua, y tolerancia celular a la toxicidad por metales en disolución."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima predominantemente frío y húmedo (oceánico fresco, boreal o de montaña), donde la evaporación potencial es muy baja debido a la falta de calor.",
+      "El balance hídrico es constantemente positivo; las precipitaciones superan con creces a la pérdida de agua, manteniendo el nivel freático a ras de suelo todo el año."
+    ],
+    "caracteristicas": [
+      "Inviernos prolongados con heladas frecuentes que ralentizan drásticamente los ciclos biológicos.",
+      "Veranos frescos y brumosos que reducen la transpiración y mantienen la humedad ambiental saturada.",
+      "Alta frecuencia de cielos cubiertos y bajas tasas de insolación directa persistente."
+    ],
+    "precipitacionAnualRango": "600 - 2000 mm",
+    "temperaturaMediaRango": "-2 - 10°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "El suelo es la turba en sí misma (histosoles), un sustrato orgánico esponjoso que carece de estructura mineral clásica (arenas o arcillas).",
+      "Es un medio extremadamente ácido (pH con frecuencia entre 3 y 4.5), saturado de agua y completamente libre de oxígeno disuelto a pocos centímetros de la superficie viva."
+    ],
+    "caracteristicas": [
+      "Porosidad e hidrofília extrema: los musgos pueden retener hasta veinte veces su peso seco en agua.",
+      "Carencia casi absoluta de nutrientes disponibles (fósforo, nitrógeno y potasio) debido al bloqueo de la descomposición.",
+      "Presencia de compuestos fenólicos y taninos liberados por los musgos que actúan como conservantes químicos naturales."
+    ]
+  },
+
+  "faunaDestacada": [
+    "rana_turbera",
+    "lagartija_vivipara",
+    "becasina_comun",
+    "mariposa_de_las_turberas",
+    "aguila_pescadora"
+  ],
+  "floraDestacada": [
+    "sphagnum_magellanicum",
+    "drosera_rotundifolia",
+    "eriophorum_vaginatum",
+    "calluna_vulgaris",
+    "pinguicula_vulgaris"
+  ],
+  "hongosDestacados": [
+    "galerina_paludosa",
+    "hygrocybe_coccinea",
+    "mitrula_paludosa"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistemas críticos de alta fragilidad y de nula resiliencia a corto plazo; la destrucción de una turbera libera a la atmósfera carbono acumulado durante milenios.",
+    "amenazasPrincipales": [
+      "Extracción Comercial de Turba: Explotación minera del suelo orgánico para su uso como combustible industrial o como sustrato en la horticultura doméstica.",
+      "Drenaje para Silvicultura y Agricultura: Canalización del agua para secar el terreno e implantar monocultivos forestales o pastizales ganaderos.",
+      "Cambio Climático: El aumento térmico global seca las capas superficiales, activando la descomposición bacteriana y transformando la turbera de sumidero a emisora de CO2.",
+      "Incendios de Turba Subterráneos: Fuegos latentes bajo el suelo que queman la materia orgánica durante meses y son extremadamente difíciles de extinguir."
+    ],
+    "beneficiosEcosistemicos": [
+      "El Mayor Sumidero de Carbono: Almacenan más carbono que todos los bosques tropicales y templados del planeta juntos, cubriendo solo el 3% de la superficie terrestre.",
+      "Archivos Paleoecológicos Perfectos: Debido a la ausencia de descomposición, conservan intactos granos de polen, semillas e incluso restos humanos arqueológicos de hace miles de años.",
+      "Regulación y Purificación del Agua: Funcionan como filtros naturales de alta capacidad que retienen metales pesados y regulan las cuencas hídricas amortiguando riadas.",
+      "Santuarios de Flora Relicta: Albergan comunidades botánicas únicas y especializadas que no disponen de ningún otro hábitat viable para su supervivencia."
+    ]
+  }
+}

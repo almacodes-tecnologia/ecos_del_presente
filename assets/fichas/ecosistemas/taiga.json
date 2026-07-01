@@ -1,0 +1,87 @@
+{
+  "id": "taiga",
+  "nombre": "Taiga",
+  "imagenPrincipal": "taiga.webp",
+  "descripcionDetallada": [
+    "La taiga, o bosque boreal, es el bioma terrestre más grande del planeta, formando una franja casi continua de bosques de coníferas que cruza el hemisferio norte a través de Siberia, Escandinavia y Canadá. Es un ecosistema adaptado a condiciones invernales extremas, donde la vida vegetal está dominada por árboles perennifolios capaces de soportar temperaturas gélidas y largos meses de oscuridad.",
+    "El paisaje está moldeado por un invierno severo y un verano corto pero intensamente activo. La biodiversidad es menor en comparación con los bosques templados, pero las especies que habitan aquí muestran un grado de especialización asombroso para gestionar el frío extremo, la escasez de nutrientes en el suelo y los ciclos estacionales radicalmente marcados."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se sitúa justo al sur de la tundra tundra ártica, abarcando vastas regiones de Rusia (Siberia), Canadá, Alaska, Suecia, Noruega y Finlandia.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Bosques densos de coníferas perennifolias como pinos, abetos y piceas, con escasa presencia de árboles caducifolios como abedules y álamos.",
+    "dominanciaAnimal": "Mamíferos de gran tamaño con denso pelaje, depredadores solitarios y aves migratorias que aprovechan la explosión de insectos en el corto verano.",
+    "estratosVerticales": [
+      "Estrato Arbóreo: Dosel denso y homogéneo (15-30m) formado por árboles con forma cónica para evitar la acumulación excesiva de nieve.",
+      "Estrato Arbustivo: Muy escaso debido a la falta de luz que filtra el dosel, limitado a brezales, arándanos y sauces enanos.",
+      "Estrato Criptogámico: Tapiz denso y continuo de musgos, líquenes y helechos que recubre el suelo del bosque."
+    ],
+    "adaptacionesClave": "Hojas aciculares (en forma de aguja) con resinas anticongelantes y cutículas céreas para evitar la pérdida de agua, y animales con extremidades cortas y gruesas capas de grasa o pelaje aislante."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima subártico y continental extremo, caracterizado por inviernos largos y gélidos que duran hasta seis meses, con temperaturas que caen fácilmente por debajo de los -30°C.",
+      "Los veranos son cortos, frescos y húmedos, pero los días son extremadamente largos debido a la alta latitud, lo que desencadena una rápida actividad biológica."
+    ],
+    "caracteristicas": [
+      "Inviernos extremadamente fríos con cobertura de nieve persistente durante la mayor parte del año.",
+      "Precipitaciones moderadas, cayendo principalmente en forma de nieve durante el invierno y lluvias finas en verano.",
+      "Gran oscilación térmica anual, con diferencias de más de 60°C entre el invierno y el verano."
+    ],
+    "precipitacionAnualRango": "400 - 1000 mm",
+    "temperaturaMediaRango": "-5 - 5°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos típicamente ácidos y pobres en nutrientes conocidos como podsoles o espodosoles, con una capa inferior que en muchas zonas permanece congelada (permafrost).",
+      "La descomposición de la materia orgánica es extremadamente lenta debido a las bajas temperaturas y a la acidez que provocan las agujas caídas de las coníferas."
+    ],
+    "caracteristicas": [
+      "Capa superficial de hojarasca (agujas de pino) ácida y sin descomponer.",
+      "Lixiviación intensa (lavado de nutrientes) hacia las capas profundas por el agua del deshielo.",
+      "Baja actividad de lombrices y otros descomponedores comunes del suelo debido al frío."
+    ]
+  },
+
+  "faunaDestacada": [
+    "alce",
+    "lobo_gris",
+    "oso_pardo",
+    "lince_boreal",
+    "gloton"
+  ],
+  "floraDestacada": [
+    "picea_glauca",
+    "pino_silvestre",
+    "abeto_balsamico",
+    "larice_siberiano",
+    "abedul_enano"
+  ],
+  "hongosDestacados": [
+    "boletus_pinophilus",
+    "suillus_luteus",
+    "lactarius_rufus",
+    "fomitopsis_pinicola"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Históricamente protegido por su inaccesibilidad, pero actualmente amenazado de forma acelerada por el desarrollo industrial y los efectos del calentamiento global.",
+    "amenazasPrincipales": [
+      "Tala Comercial e Industria Papelera: Deforestación a gran escala que fragmenta los hábitats de los grandes mamíferos.",
+      "Cambio Climático: Aumento de las temperaturas que derrite el permafrost y desplaza el límite del bioma hacia el norte.",
+      "Grandes Incendios Forestales: Fuegos cada vez más frecuentes e intensos debido a veranos inusualmente secos y cálidos.",
+      "Exploración de Gas y Petróleo: Contaminación del subsuelo y fragmentación del ecosistema por infraestructuras de transporte."
+    ],
+    "beneficiosEcosistemicos": [
+      "Sumidero de Carbono Terrestre: Almacena gigantescas cantidades de carbono tanto en la biomasa forestal como en los suelos congelados.",
+      "Regulación Climática Global: Influye en los patrones climáticos del hemisferio norte a través del efecto albedo y la evaporación.",
+      "Reserva Hídrica: Conservación y filtrado de grandes volúmenes de agua dulce en forma de nieve, hielo y turberas.",
+      "Sustento de Culturas Indígenas: Hábitat de comunidades humanas nativas que dependen de la caza, la pesca y los recursos forestales sostenibles."
+    ]
+  }
+}

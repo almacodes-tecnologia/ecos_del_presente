@@ -1,0 +1,87 @@
+{
+  "id": "lagos_lagunas",
+  "nombre": "Lagos y Lagunas",
+  "imagenPrincipal": "lagos_lagunas.webp",
+  "descripcionDetallada": [
+    "Los lagos y lagunas son cuerpos de agua dulce o salobre continentales que se acumulan en depresiones del terreno, caracterizados por poseer aguas lénticas (estancadas o de corriente interna muy débil). A diferencia de los ríos, su dinámica está regida por procesos de estratificación térmica y química, donde el tiempo de residencia del agua es prolongado, permitiendo el desarrollo de comunidades planctónicas estables.",
+    "La diferencia principal entre ambos radica en la profundidad: los lagos son lo suficientemente profundos como para generar zonas donde la luz solar nunca llega al fondo, mientras que las lagunas son someras, permitiendo que la radiación solar penetre en toda la columna de agua, lo que fomenta el crecimiento de vegetación enraizada en la totalidad de su lecho."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se distribuyen por todos los continentes, desde regiones de alta montaña hasta llanuras costeras, destacando sistemas colosales como la región de los Grandes Lagos (Norteamérica), el Lago Baikal (Siberia), el Lago Victoria (África) y el Lago Titicaca (Sudamérica).",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Fitoplancton microscópico (cianobacterias y diatomeas) en la zona abierta, y macrófitas sumergidas o flotantes en la zona litoral periférica.",
+    "dominanciaAnimal": "Comunidades complejas de zooplancton (copépodos, cladóceros), peces dulceacuícolas adaptados a la natación en aguas tranquilas y una rica fauna bentónica de invertebrados.",
+    "estratosVerticales": [
+      "Zona Epilimnio (Superficial): Capa de agua cálida, bien iluminada y oxigenada donde se concentra la mayor parte de la producción primaria por fotosíntesis.",
+      "Zona Metalimnio (Termoclina): Capa intermedia caracterizada por un descenso drástico y rápido de la temperatura con la profundidad.",
+      "Zona Hipolimnio (Profunda): Capa de agua fría, densa y en penumbra o total oscuridad, donde predominan los procesos de descomposición y consumo de oxígeno."
+    ],
+    "adaptacionesClave": "Mecanismos de flotabilidad activa en el plancton (gotículas de grasa o vacuolas de gas), vejigas natatorias muy desarrolladas en peces para mantener la posición estática y tolerancia a niveles bajos de oxígeno en los organismos del fondo."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Aunque el ecosistema depende del clima zonal, los grandes cuerpos de agua generan un microclima térmico muy estable a su alrededor.",
+      "En regiones templadas y frías, sufren procesos cíclicos de inversión térmica en primavera y otoño, donde el agua de la superficie y el fondo se mezclan por completo debido a los cambios de densidad provocados por la temperatura."
+    ],
+    "caracteristicas": [
+      "Gran inercia térmica que suaviza las temperaturas extremas de las tierras secas colindantes.",
+      "Exposición a la congelación de la capa superficial durante los inviernos de altas latitudes o altitudes.",
+      "Tasas de evaporación elevadas que regulan la humedad relativa del entorno inmediato."
+    ],
+    "precipitacionAnualRango": "400 - 1800 mm",
+    "temperaturaMediaRango": "4 - 22°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "El fondo lacustre está constituido por un suelo de sedimentos finos (fangos, limos y arcillas) mezclados con una cantidad masiva de restos orgánicos degradados (sapropel).",
+      "Es un entorno de acumulación geológica continua donde los caparazones microscópicos de las algas (como las frústulas de las diatomeas) se depositan formando capas compactas a lo largo de miles de años."
+    ],
+    "caracteristicas": [
+      "Sustrato blando, compacto y liso con ausencia casi total de gravas o cantos rodados.",
+      "Condiciones de anoxia (ausencia de oxígeno) crónicas en los sedimentos profundos de los lagos estratificados.",
+      "Altas concentraciones de nutrientes atrapados (fósforo, nitrógeno) que pueden liberarse al agua durante las mezclas estacionales."
+    ]
+  },
+
+  "faunaDestacada": [
+    "perca_europea",
+    "lucio_perca",
+    "daphnia_pulex",
+    "anade_azulon",
+    "somormujo_lavanco"
+  ],
+  "floraDestacada": [
+    "phragmites_australis",
+    "nymphaea_alba",
+    "myriophyllum_spicatum",
+    "chara_vulgaris",
+    "anabaena_flosaquae"
+  ],
+  "hongosDestacados": [
+    "achlya_americana",
+    "saprolegnia_parasitica",
+    "zoophagus_insidians",
+    "rhizofydium_planktonicum"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistemas cerrados con una tasa de renovación de agua lenta, lo que los hace extremadamente vulnerables a la acumulación de contaminantes y a procesos de degradación ecológica irreversible.",
+    "amenazasPrincipales": [
+      "Eutrofización Acelerada: El aporte excesivo de nutrientes agrícolas o urbanos provoca un crecimiento descontrolado de algas que agota el oxígeno y mata la vida animal.",
+      "Introducción de Especies Exóticas: Peces depredadores introducidos (como el black bass) o moluscos invasores (como el mejillón cebra) que colapsan las redes tróficas nativas.",
+      "Contaminación Química y Acidificación: Acumulación de pesticidas, metales pesados y lluvia ácida que altera el pH del agua al no haber corrientes que limpien el sistema.",
+      "Sobreexplotación Hídrica: Desviación de los ríos tributarios para el riego agrícola, lo que provoca la reducción drástica de la superficie del lago (como el desastre histórico del Mar de Aral)."
+    ],
+    "beneficiosEcosistemicos": [
+      "Reservorios de Agua Dulce: Son las mayores reservas superficiales de agua potable no congelada del planeta.",
+      "Moduladores del Clima Local: Mitigan las olas de calor y frío en las regiones circundantes gracias a su capacidad de almacenamiento térmico.",
+      "Registros Paleoclimáticos: Los sedimentos del fondo actúan como páginas de un libro que permiten a los científicos leer el clima de la Tierra de hace millones de años.",
+      "Centros de Alta Biodiversidad Endémica: Al actuar como 'islas de agua', los lagos antiguos albergan especies únicas en el mundo que evolucionaron de forma totalmente aislada."
+    ]
+  }
+}

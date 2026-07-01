@@ -1,0 +1,87 @@
+{
+  "id": "cuevas",
+  "nombre": "Cuevas y Sistemas Subterráneos",
+  "imagenPrincipal": "cuevas.webp",
+  "descripcionDetallada": [
+    "Las cuevas y sistemas subterráneos constituyen un bioma hipogeo único, caracterizado por la ausencia absoluta de luz solar, una estabilidad térmica rigurosa y una humedad relativa que roza la saturación. Al carecer de radiación solar, es un ecosistema afótico donde no es posible la fotosíntesis, lo que obliga a la cadena trófica a depender de la materia orgánica arrastrada desde el exterior por el agua, el viento o la acción de animales vectores como los murciélagos.",
+    "El medio subterráneo se divide en zonas según la penetración de los factores externos. La vida aquí se divide entre organismos troglófilos (que usan las cuevas temporalmente) y troglobios (especies endémicas estrictas), los cuales han desarrollado adaptaciones evolutivas extremas como la pérdida total de pigmentación y de la vista, compensándolas con un hiperdesarrollo de los sentidos táctiles y químicos."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se encuentran en el subsuelo de todo el planeta, proliferando especialmente en regiones con geología kárstica (rocas calizas), destacando sistemas masivos como Mammoth Cave (EE. UU.), la cueva de Son Doong (Vietnam) o el sistema Sac Actun (México).",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Ausencia total de plantas verdes; la producción primaria está limitada a bacterias quimiolitótrofas que obtienen energía de los minerales de la roca.",
+    "dominanciaAnimal": "Invertebrados ciegos y despigmentados (anélidos, artrópodos), anfibios de metabolismo extremadamente lento y colonias de mamíferos voladores en las zonas de acceso.",
+    "estratosVerticales": [
+      "Zona de Entrada y Transición: Área iluminada y sujeta a fluctuaciones climáticas externas, habitada por plantas de sombra (musgos) y animales oportunistas.",
+      "Zona Oscura con Fluctuación: Oscuridad total pero con ligeras variaciones de temperatura y corrientes de aire estacionales, idónea para la cría de murciélagos.",
+      "Zona Oscura Profunda: Estabilidad ambiental absoluta, humedad constante cercana al 100% y hábitat exclusivo de los troglobios estrictos."
+    ],
+    "adaptacionesClave": "Anoftalmia (pérdida de ojos) y despigmentación (albinismo), alargamiento de apéndices y antenas con quimiorreceptores ultrasensibles, y metabolismos extremadamente lentos para sobrevivir a la escasez crónica de alimento."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima subterráneo caracterizado por una homeotermia rigurosa, donde la temperatura del aire en la zona profunda se mantiene constante durante todo el año, equivaliendo exactamente a la temperatura media anual de la región exterior.",
+      "La atmósfera interior está permanentemente confinada y saturada de vapor de agua, lo que reduce la evaporación biológica a niveles prácticamente nulos."
+    ],
+    "caracteristicas": [
+      "Estabilidad térmica absoluta en las zonas profundas, inmunes a los ciclos diarios o estacionales del exterior.",
+      "Humedad relativa del aire constante y muy elevada, habitualmente oscilando entre el 95% y el 100%.",
+      "Corrientes de aire muy débiles o barométricas, reguladas por la diferencia de presión con las bocas de entrada."
+    ],
+    "precipitacionAnualRango": "0 - 0 mm",
+    "temperaturaMediaRango": "8 - 15°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "El suelo subterráneo está compuesto por el sustrato rocoso desnudo, arcillas de descalcificación acumuladas y depósitos de minerales precipitados conocidos como espeleotemas (estalactitas y estalagmitas).",
+      "La capa orgánica no proviene de la descomposición in situ de plantas, sino que está constituida casi exclusivamente por el guano (excrementos de murciélago), detritos arrastrados por filtraciones de lluvia o inundaciones de ríos subterráneos."
+    ],
+    "caracteristicas": [
+      "Ausencia de horizontes edáficos clásicos o humus vegetal.",
+      "Zonas de altísima concentración de nitrógeno y fósforo localizadas exclusivamente bajo los dormideros de murciélagos.",
+      "Presencia de costras minerales calcáreas u óxidos de manganeso que recubren las superficies rocosas."
+    ]
+  },
+
+  "faunaDestacada": [
+    "proteo",
+    "murcielago_cavernicola",
+    "cangrejo_ciego_de_jameos",
+    "araña_cavernicola_leptoneta",
+    "pez_ciego_mexicano"
+  ],
+  "floraDestacada": [
+    "bacterias_quimiolitotrofas",
+    "cianobacterias_de_zona_fotica",
+    "musgo_de_cueva",
+    "algas_unicelulares_lampenflora",
+    "helecho_de_grotte"
+  ],
+  "hongosDestacados": [
+    "pseudogymnoascus_destructans",
+    "hirsutella_subterranea",
+    "stilbella_cavernosa",
+    "penicillium_cavernicola"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistemas extraordinariamente frágiles debido a su aislamiento evolutivo; cualquier mínima alteración química o física en la superficie se transmite rápidamente al subsuelo con efectos devastadores.",
+    "amenazasPrincipales": [
+      "Turismo Masivo Descontrolado: La iluminación artificial altera el equilibrio afótico (provocando 'lampenflora' o crecimiento de algas artificiales) y los cambios de CO2 destruyen los espeleotemas.",
+      "Contaminación de Acuíferos Kársticos: Filtración de pesticidas, fertilizantes y lixiviados de vertederos que envenenan directamente las redes de agua subterránea.",
+      "Destrucción Física por Canteras: La minería de roca caliza destruye por completo cavidades enteras antes de que puedan ser exploradas o estudiadas.",
+      "Síndrome de la Nariz Blanca: Hongo exótico introducido por el ser humano que diezma de forma masiva las poblaciones de murciélagos durante su hibernación."
+    ],
+    "beneficiosEcosistemicos": [
+      "Reservorios Críticos de Agua Dulce: Los acuíferos kársticos albergan una gran parte de las reservas de agua potable subterránea del planeta.",
+      "Laboratorios Evolutivos Únicos: Ofrecen modelos excepcionales para estudiar la adaptación extrema, la regresión de caracteres y la evolución en aislamiento.",
+      "Archivos Climáticos de Alta Precisión: El crecimiento de las estalactitas registra de forma milimétrica las variaciones de lluvia y temperatura de la Tierra durante cientos de miles de años.",
+      "Control Biológico de Plagas: Los murciélagos que habitan en ellas consumen toneladas de insectos nocturnos, protegiendo de forma natural los cultivos exteriores vecinos."
+    ]
+  }
+}

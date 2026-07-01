@@ -1,0 +1,87 @@
+{
+  "id": "matorral_mediterraneo",
+  "nombre": "Matorral Mediterráneo",
+  "imagenPrincipal": "matorral_mediterraneo.webp",
+  "descripcionDetallada": [
+    "El matorral mediterráneo es un bioma arbustivo de clima templado, caracterizado por veranos secos y calurosos e inviernos suaves y lluviosos. Es una formación vegetal densa, a menudo espinosa y aromática, que surge de manera natural en condiciones de suelos delgados o como etapa de degradación y sustitución del bosque mediterráneo debido a la presión humana o los incendios recurrentes.",
+    "A pesar de su apariencia xerófila y achaparrada, este ecosistema alberga niveles de biodiversidad y endemismo excepcionalmente altos. Las plantas que lo componen han desarrollado adaptaciones extremas para maximizar la retención de agua, resistir la fuerte insolación estival y regenerarse rápidamente tras el paso del fuego, que actúa como un elemento modelador del paisaje."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se localiza en las fachadas occidentales de los continentes en latitudes medias, principalmente en la cuenca del Mar Mediterráneo, California (Chaparral), Chile central (Matorral chileno), el suroeste de Australia (Mallee) y la región del Cabo en Sudáfrica (Fynbos).",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Arbustos esclerófilos perennes, plantas aromáticas ricas en aceites esenciales y lianas que entrelazan la vegetación.",
+    "dominanciaAnimal": "Pequeños mamíferos, una enorme diversidad de reptiles, aves de matorral e insectos polinizadores adaptados a la sequía estival.",
+    "estratosVerticales": [
+      "Estrato Arbustivo Alto: Arbustos altos (1.5 - 4m) y densos como el lentisco, el madroño, el brezo y el acebuche, que a menudo forman una maraña impenetrable (Maquia).",
+      "Estrato Arbustivo Bajo: Matas bajas (0.5 - 1.5m) de especies heliófilas y aromáticas como la jara, el romero, el tomillo y la lavanda (Garriga o Tomillar).",
+      "Estrato Herbáceo y Geofítico: Plantas anuales de ciclo rápido y especies bulbosas que florecen espectacularmente durante la primavera húmeda."
+    ],
+    "adaptacionesClave": "Esclerofilia (hojas duras y coriáceas), alta concentración de aceites esenciales inflamables y aromáticos, raíces extensas tanto superficiales como profundas, y semillas pirófitas cuya germinación es estimulada por el calor del fuego."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima mediterráneo típico, caracterizado por una marcada aridez estival donde la falta de lluvias coincide con los meses de temperaturas más altas.",
+      "Las transiciones primaverales y otoñales concentran la mayor parte de las precipitaciones, frecuentemente en forma de episodios tormentosos de gran intensidad."
+    ],
+    "caracteristicas": [
+      "Veranos secos y calurosos con un estrés hídrico severo que dura entre 3 y 5 meses.",
+      "Inviernos templados con heladas muy escasas e irregulares debido a la fuerte influencia marítima.",
+      "Alta insolación anual que favorece la evaporación rápida del agua del suelo."
+    ],
+    "precipitacionAnualRango": "300 - 600 mm",
+    "temperaturaMediaRango": "14 - 19°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos generalmente jóvenes, delgados y pedregosos (leptosoles o regosoles), asentados frecuentemente sobre relieves accidentados.",
+      "La escasez de una cobertura arbórea continua los hace muy propensos a la erosión si la capa de matorral es destruida por el pastoreo excesivo o incendios recurrentes."
+    ],
+    "caracteristicas": [
+      "Bajo contenido de materia orgánica en profundidad, concentrándose los nutrientes casi exclusivamente en los primeros centímetros.",
+      "Presencia habitual de afloramientos rocosos y costras calizas o silíceas según la geología local.",
+      "Drenaje muy rápido que acentúa la sequedad del sustrato durante el verano."
+    ]
+  },
+
+  "faunaDestacada": [
+    "conejo_bravo",
+    "lagarto_ocelado",
+    "curruca_cabecinegra",
+    "comadreja",
+    "tortuga_mediterranea"
+  ],
+  "floraDestacada": [
+    "pistacia_lentiscus",
+    "rosmarinus_officinalis",
+    "cistus_ladanifer",
+    "quercus_coccifera",
+    "myrtus_communis"
+  ],
+  "hongosDestacados": [
+    "leccinum_lepidum",
+    "suillus_bellinii",
+    "clathrus_ruber",
+    "infundibulicybe_geotropa"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistema muy fragmentado y bajo una presión antrópica constante debido al desarrollo turístico, el urbanismo y los cambios en los usos del suelo.",
+    "amenazasPrincipales": [
+      "Incendios Reiterados: Fuegos recurrentes con intervalos demasiado cortos que impiden la maduración y regeneración natural de las plantas.",
+      "Presión Urbanística e Infraestructuras: Destrucción directa del hábitat para la expansión de segundas residencias y complejos turísticos costeros.",
+      "Sobrepastoreo: El ganado caprino y ovino excesivo elimina los brotes tiernos y compacta los suelos delgados acelerando la desertificación.",
+      "Abandono Rural: La pérdida de la gestión tradicional del territorio genera acumulaciones masivas de biomasa seca, propiciando incendios incontrolables."
+    ],
+    "beneficiosEcosistemicos": [
+      "Retención del Suelo: El intrincado sistema de raíces de los arbustos es la última barrera contra la desertificación en laderas escarpadas.",
+      "Reserva de Polinizadores: Ofrece refugio y alimento a miles de especies de abejas e insectos esenciales para la agricultura de las zonas bajas.",
+      "Recursos Aromáticos y Medicinales: Fuente histórica y actual de aceites esenciales, plantas medicinales, apicultura (miel de romero) y recolección de esparto.",
+      "Hotspot de Biodiversidad: Alberga una de las mayores concentraciones de plantas endémicas del planeta por unidad de superficie."
+    ]
+  }
+}

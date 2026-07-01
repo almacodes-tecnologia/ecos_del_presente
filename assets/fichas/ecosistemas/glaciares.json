@@ -1,0 +1,87 @@
+{
+  "id": "glaciares",
+  "nombre": "Glaciares",
+  "imagenPrincipal": "glaciares.webp",
+  "descripcionDetallada": [
+    "Los glaciares son masas colosales de hielo perenne que se originan en la superficie terrestre mediante la acumulación, compactación y recristalización de la nieve a lo largo de miles de años. Estos cuerpos criosféricos no son estáticos; fluyen lentamente cuesta abajo como ríos de viscosidad extrema bajo el efecto de su propio peso y de la gravedad, actuando como uno de los agentes erosivos y modeladores del relieve más potentes del planeta.",
+    "Aunque tradicionalmente se han considerado desiertos biológicos estériles, los glaciares son ecosistemas dinámicos que albergan comunidades biológicas activas (criobioma). Desde bacterias quimiolitótrofas y algas de la nieve en la superficie, hasta invertebrados especializados en las grietas, la vida aquí está adaptada a condiciones de congelación cruda, escasez crítica de nutrientes orgánicos y niveles letales de radiación ultravioleta."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se localizan en las regiones polares y en las altas cordilleras de todo el mundo, abarcando los gigantescos mantos de hielo (indlandsis) de la Antártida y Groenlandia, así como glaciares de valle y de montaña en los Andes, los Alpes, el Himalaya y los Alpes Neozelandeses.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Ausencia de plantas superiores; la producción primaria recae de forma exclusiva en algas de la nieve criofílicas (como Chlamydomonas nivalis) y cianobacterias.",
+    "dominanciaAnimal": "Invertebrados extremófilos diminutos (colémbolos, nematodos, rotíferos y tardígrados) y aves o mamíferos polares oportunistas que utilizan la superficie como zona de tránsito.",
+    "estratosVerticales": [
+      "Estrato Supraglacial (Superficie): Capa expuesta a la atmósfera y al sol, donde se forman depósitos de polvo oscuro (crioconita) que albergan densas colonias de microorganismos y algas.",
+      "Estrato Englacial (Interior): Cuerpo interno del glaciar, caracterizado por una oscuridad total y redes microscópicas de canales de agua líquida intergranulares donde habitan bacterias metabólicamente activas.",
+      "Estrato Subglacial (Base): Interfaz entre el hielo y el lecho rocoso, sometida a presiones masivas y humedad constante por agua de fusión basal, rica en bacterias que degradan los minerales de la roca."
+    ],
+    "adaptacionesClave": "Producción de proteínas anticongelantes celulares, pigmentos carotenoides (que tiñen el hielo de rosa o rojo) para protegerse de la radiación UV, y metabolismos capaces de operar a temperaturas bajo cero."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima polar o de alta montaña extrema (nival), caracterizado por temperaturas que se mantienen por debajo o muy cerca de los 0°C durante la mayor parte del año.",
+      "El bioma está dominado por vientos catabáticos (fuertes corrientes de aire frío que descienden desde el centro del glaciar hacia los bordes) y una radiación solar intensificada por el efecto albedo."
+    ],
+    "caracteristicas": [
+      "Temperaturas del aire gélidas de forma crónica, con congelación persistente del agua superficial.",
+      "Efecto albedo extremadamente alto: el hielo y la nieve reflejan hasta el 90% de la radiación solar incidente.",
+      "Precipitaciones casi exclusivamente en forma de nieve sólida, indispensables para alimentar la zona de acumulación."
+    ],
+    "precipitacionAnualRango": "100 - 2500 mm",
+    "temperaturaMediaRango": "-50 - 0°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "El ecosistema carece de un suelo edáfico orgánico, estando constituido por el propio hielo cristalino y los depósitos de sedimentos minerales triturados por la fricción glacial.",
+      "En los márgenes y la base se generan sustratos geológicos inestables compuestos por una mezcla caótica de bloques, gravas y harinas de roca (tillitas y morrenas) completamente libres de humus."
+    ],
+    "caracteristicas": [
+      "Sustrato dinámico en continuo movimiento mecánico debido al flujo interno del hielo.",
+      "Presencia de agujeros de crioconita: pequeñas pozas cilíndricas derretidas en la superficie donde se concentran los nutrientes minerales.",
+      "Ausencia de horizontes biológicos clásicos o de actividad microbiológica fijadora de carbono convencional."
+    ]
+  },
+
+  "faunaDestacada": [
+    "gusano_del_hielo_mesenchytraeus",
+    "osito_de_agua_tardigrado",
+    "colembolo_del_glaciar",
+    "oso_polar",
+    "gaviota_marfil"
+  ],
+  "floraDestacada": [
+    "chlamydomonas_nivalis",
+    "ancylonema_nordenskioeldii",
+    "mesotaenium_berggrenii",
+    "calothrix_parietina",
+    "phormidium_autumnale"
+  ],
+  "hongosDestacados": [
+    "thelebolus_microsporus",
+    "mrakia_frigida",
+    "articosphaera_glacialis",
+    "cryptococcus_lupi"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Es uno de los biomas más críticamente amenazados y en retroceso acelerado a escala planetaria, actuando como el indicador más visual y dramático de la crisis climática global.",
+    "amenazasPrincipales": [
+      "Calentamiento Global Antropogénico: El aumento de las temperaturas globales provoca un balance de masa negativo, derritiendo los glaciares a un ritmo superior al de su acumulación.",
+      "Deposición de Carbono Negro: El hollín industrial y de incendios forestales se deposita sobre el hielo blanco, oscureciéndolo y aumentando la absorción de calor solar (reducción del albedo).",
+      "Turismo Masivo e Infraestructuras: La apertura de túneles de hielo comerciales y estaciones de esquí de verano altera la estructura mecánica local y vierte contaminantes químicos.",
+      "Minería en Áreas Periglaciares: Operaciones industriales en alta montaña que remueven mecánicamente cuerpos de hielo o contaminan las cuencas con polvo y metales pesados."
+    ],
+    "beneficiosEcosistemicos": [
+      "Las Mayores Reservas de Agua Dulce: Almacenan aproximadamente el 69% del agua dulce de la Tierra, liberándola de forma gradual para abastecer los ríos durante las estaciones secas.",
+      "Termorreguladores del Planeta: Al reflejar la mayor parte de la radiación solar hacia el espacio, los mantos de hielo polares juegan un papel crítico en la estabilización del clima global.",
+      "Archivos de la Historia de la Tierra: Las burbujas de aire atrapadas en el hielo profundo conservan muestras de la atmósfera terrestre de hace cientos de miles de años, esenciales para la paleoclimatología.",
+      "Alimentación de Nutrientes Oceánicos: El agua de deshielo transporta toneladas de hierro y harinas de roca ricos en minerales que fertilizan los océanos, desencadenando blooms de fitoplancton."
+    ]
+  }
+}

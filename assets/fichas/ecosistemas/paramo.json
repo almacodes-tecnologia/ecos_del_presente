@@ -1,0 +1,87 @@
+{
+  "id": "paramo",
+  "nombre": "Páramo",
+  "imagenPrincipal": "paramo.webp",
+  "descripcionDetallada": [
+    "El páramo es un ecosistema de alta montaña alpina e intertropical, ubicado principalmente en la cordillera de los Andes entre el límite de la vegetación boscosa y las nieves perpetuas. Es un bioma de suma importancia hidrológica, caracterizado por una vegetación arbustiva y pajonales densos adaptados a condiciones extremas de bajas temperaturas, alta radiación solar y baja presión atmosférica.",
+    "Lejos de ser un paisaje inerte, el páramo funciona como una gigantesca esponja hídrica natural. Sus suelos orgánicos y los musgos retienen el agua de la neblina y las lluvias, regulando los caudales de los ríos que abastecen a millones de personas en las tierras bajas. Su flora insignia, los frailejones, ha desarrollado adaptaciones anatómicas únicas para sobrevivir a la drástica oscilación térmica diaria."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se localiza de forma discontinua en las altas cumbres de los Andes tropicales, principalmente en Colombia, Ecuador, Venezuela y el norte de Perú, con representaciones similares en Costa Rica y algunas zonas de África Oriental.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Plantas en roseta gigante (frailejones del género Espeletia), pajonales densos de gramíneas, arbustos esclerófilos de hojas pequeñas y extensos tapices de musgos.",
+    "dominanciaAnimal": "Aves rapaces y de alta montaña, mamíferos adaptados al frío con pelajes densos, y una fauna anfibia y de invertebrados de metabolismo lento.",
+    "estratosVerticales": [
+      "Estrato de Rosetas Gigantes: Dominado por los frailejones (1 - 3m), cuyas hojas muertas permanecen pegadas al tronco para aislarlo térmicamente del frío del aire.",
+      "Estrato de Pajonal y Matorral: Capa densa (0.5 - 1.5m) de gramíneas macollantes (pajas) y arbustos achaparrados que protegen el suelo de la radiación directa.",
+      "Estrato Criptogámico y Rasante: Alfombras densas de musgos (como Sphagnum), líquenes y almohadillas vegetales que retienen el agua superficial a ras de suelo."
+    ],
+    "adaptacionesClave": "Pubescencia densa (pelos blancos en las hojas) para reflejar la radiación UV y retener calor, almacenamiento de agua en troncos esponjosos, y pigmentaciones oscuras o pelajes gruesos en animales."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Clima de alta montaña ecuatorial, caracterizado por una fluctuación térmica diaria extrema descrita popularmente como 'invierno cada noche y verano cada día'.",
+      "La radiación solar y ultravioleta es sumamente alta durante las horas de luz, pero al caer la noche la ausencia de cobertura nubosa provoca que la temperatura descienda drásticamente por debajo de los 0°C."
+    ],
+    "caracteristicas": [
+      "Gran amplitud térmica diaria, pudiendo variar desde los 20°C a mediodía hasta temperaturas bajo cero en la madrugada.",
+      "Presencia constante de neblinas densas y vientos fríos que aportan humedad por condensación horizontal.",
+      "Presión atmosférica baja y menor disponibilidad de oxígeno molecular debido a la altitud."
+    ],
+    "precipitacionAnualRango": "700 - 2000 mm",
+    "temperaturaMediaRango": "2 - 10°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Suelos predominantemente de origen volcánico (andisoles o histosoles), extremadamente ricos en materia orgánica y de coloración oscura.",
+      "Las bajas temperaturas ralentizan la actividad bacteriana, lo que provoca una descomposición muy lenta de los restos vegetales y genera un sustrato esponjoso con una capacidad inigualable para retener agua."
+    ],
+    "caracteristicas": [
+      "Estructura porosa y de muy baja densidad aparente, funcionando como un gran acuífero superficial.",
+      "Alta acidez y presencia de complejos de aluminio y alofana que estabilizan la materia orgánica.",
+      "Saturación de agua casi constante en las capas subsuperficiales, lo que limita la aireación profunda."
+    ]
+  },
+
+  "faunaDestacada": [
+    "condor_andino",
+    "oso_de_anteojos",
+    "tapir_andino",
+    "pato_de_torrente",
+    "lagartija_del_paramo"
+  ],
+  "floraDestacada": [
+    "espeletia_grandiflora",
+    "calamagrostis_effusa",
+    "puya_raimondii",
+    "polylepis_quadrijuga",
+    "pernettya_prostrata"
+  ],
+  "hongosDestacados": [
+    "hygrocybe_paramensis",
+    "galerina_hypnorum",
+    "lycoperdon_perlatum",
+    "scutellinia_scutellata"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistemas estratégicos y sumamente vulnerables; debido a su lento crecimiento biológico, cualquier daño físico en la vegetación o el suelo puede tardar siglos en restaurarse.",
+    "amenazasPrincipales": [
+      "Expansión de la Frontera Agrícola: Quema y destrucción del páramo para introducir cultivos de alta montaña (como la papa) que degradan la fertilidad del suelo.",
+      "Ganadería Extensiva: El ganado vacuno destruye los frailejones por pisoteo y compacta los suelos esponjosos, reduciendo drásticamente su capacidad de retención hídrica.",
+      "Minería de Alta Montaña: Proyectos de extracción de oro y carbón que destruyen físicamente las cuencas de captación y contaminan las fuentes de agua con metales pesados.",
+      "Cambio Climático Global: El aumento de las temperaturas desplaza la franja del páramo hacia arriba, reduciendo su espacio geográfico y amenazando con extinguir sus especies endémicas."
+    ],
+    "beneficiosEcosistemicos": [
+      "Fábricas Estatales de Agua: Son los principales reguladores y proveedores de agua dulce potable para las grandes ciudades y distritos de riego de los países andinos.",
+      "Mitigación del Cambio Climático: Sus suelos profundos y turbosos actúan como masivos sumideros de carbono estables debido a la baja tasa de descomposición.",
+      "Hotspot de Endemismo: Albergan uno de los mayores índices de evolución y especiación vegetal reciente del planeta, con miles de plantas exclusivas de estas cumbres.",
+      "Conectividad Paisajística: Actúan como corredores biológicos criticales entre los bosques andinos de niebla y las altas cumbres glaciares."
+    ]
+  }
+}
