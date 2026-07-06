@@ -48,7 +48,7 @@
     ]
   },
 
-  "faunaDestacada": [
+"faunaDestacada": [
     "flamenco_comun",
     "aguila_pescadora",
     "nutria_europea",
@@ -56,9 +56,9 @@
     "anguila_europea"
   ],
   "floraDestacada": [
-    "carrizo",
-    "salicornia",
-    "eneas",
+    "carrizo_comun",
+    "salicornia_europea",
+    "anea_de_hoja_ancha",
     "junco_maritimo",
     "pino_pinonero"
   ],

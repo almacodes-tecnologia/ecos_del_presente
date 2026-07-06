@@ -42,7 +42,7 @@
       "Tendencia a la erosión física intensa."
     ]
   },
-  "faunaDestacada": [
+"faunaDestacada": [
     "rebeco_alpino",
     "quebrantahuesos",
     "perdiz_nival",
@@ -52,14 +52,14 @@
   "floraDestacada": [
     "edelweiss",
     "gentiana_nivalis",
-    "sauce_enano",
+    "sauce_enano_herbaceo",
     "silene_acaulis",
     "saxifraga_oppositifolia"
   ],
   "hongosDestacados": [
     "calvatia_utriformis",
     "hygrocybe_conica",
-    "agaricus_alpino",
+    "agaricus_alpinus",
     "rhizocarpon_geographicum"
   ],
   "conservacionYRiesgos": {

@@ -48,25 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "leon",
-    "elefante_africano",
-    "cebra",
-    "jirafa",
-    "ñu"
-  ],
-  "floraDestacada": [
-    "acacia_tortilis",
-    "baobab",
-    "hierba_de_elefante",
-    "candelabro_euphorbia",
-    "cesped_limon"
-  ],
-  "hongosDestacados": [
-    "termitomyces_titanicus",
-    "podaxis_pistillaris",
-    "agaricus_campestris"
-  ],
+"faunaDestacada": [
+  "leon_africano",
+  "elefante_africano",
+  "cebra_de_las_llanuras",
+  "jirafa_reticulada",
+  "suricata"
+],
+"floraDestacada": [
+  "acacia_tortilis",
+  "baobab",
+  "hierba_de_elefante",
+  "arbol_candelabro",
+  "hierba_limon"
+],
+"hongosDestacados": [
+  "termitomyces_titanicus",
+  "podaxis_pistillaris",
+  "ganoderma_lucidum"
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistema sujeto a alta presión por la expansión de actividades agropecuarias y la fragmentación.",

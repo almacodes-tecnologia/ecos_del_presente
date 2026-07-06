@@ -56,7 +56,6 @@
     "krill"
   ],
   "floraDestacada": [
-    "posidonia_oceanica",
     "kelp_gigante",
     "fitoplancton",
     "sargazo",
@@ -64,8 +63,7 @@
   ],
   "hongosDestacados": [
     "paradendryphiella_arenaria",
-    "corollospora_maritima",
-    "ascomycota_marinos"
+    "corollospora_maritima"
   ],
 
   "conservacionYRiesgos": {

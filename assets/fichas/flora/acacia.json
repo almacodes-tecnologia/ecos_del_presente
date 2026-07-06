@@ -1,8 +1,8 @@
 {
   "id": "acacia",
   "nombre": "Acacia",
-  "nombreCientifico": "Acacia spp.",
-  "fechaInformacion": "2025",
+  "nombreCientifico": "Acacia s.l. (Vachellia / Senegalia / Acacia)",
+  "fechaInformacion": "2026",
   "imagen": "acacia.webp",
   "introduccionPlanta": [
     "El género Acacia engloba una vasta familia de árboles y arbustos conocidos por su resistencia a la sequía y sus llamativas flores globosas, típicamente amarillas.",
@@ -19,8 +19,8 @@
     "clase": "Magnoliopsida",
     "orden": "Fabales",
     "familia": "Fabaceae",
-    "genero": "Acacia",
-    "especie": "Más de 1.000 especies."
+    "genero": "Acacia / Vachellia",
+    "especie": "Complejo de más de 1.000 especies recientemente rediseñado."
   },
   "estadoConservacion": {
     "categoriaIUCN": "Varía ampliamente (la mayoría en Preocupación Menor, algunas En Peligro).",

@@ -49,23 +49,23 @@
     ]
   },
 
-  "faunaDestacada": [
+"faunaDestacada": [
     "jaguar",
-    "tucan",
-    "mono_aullador",
-    "anaconda",
-    "guacamayo"
+    "tucan_toco",
+    "mono_aullador_rojo",
+    "anaconda_verde",
+    "capibara"
   ],
   "floraDestacada": [
-    "caoba",
-    "ceiba",
-    "caucho",
-    "orquideas",
-    "bromelias"
+    "caoba_de_hoja_ancha",
+    "ceiba_comun",
+    "arbol_del_caucho_amazonico",
+    "orquidea_vainilla",
+    "bromelia_tanque"
   ],
   "hongosDestacados": [
     "mycena_chlorophos",
-    "dictyophora_indusiata",
+    "phallus_indusiatus",
     "trametes_versicolor",
     "ganoderma_lucidum"
   ],

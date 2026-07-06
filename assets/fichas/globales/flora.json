@@ -176,23 +176,23 @@
     "distribucion": ["Antártida", "Sudamérica"]
   },
   {
-    "id": "caoba",
-    "nombre": "Caoba",
+    "id": "caoba_de_hoja_ancha",
+    "nombre": "Caoba de Hoja Ancha",
     "nombreCientifico": "Swietenia",
     "familia": "Meliaceae",
     "agrupacion": "Árbol",
-    "imagen": "caoba.webp",
+    "imagen": "caoba_de_hoja_ancha.webp",
     "conservacion": "Vulnerable",
     "origenHabitat": ["Selva tropical"],
     "distribucion": ["América Central", "América del Sur"]
   },
   {
-    "id": "arbol_del_caucho",
-    "nombre": "Árbol del caucho",
+    "id": "arbol_del_caucho_amazonico",
+    "nombre": "Árbol del caucho_amazonico",
     "nombreCientifico": "Hevea brasiliensis",
     "familia": "Euphorbiaceae",
     "agrupacion": "Árbol",
-    "imagen": "arbol_del_caucho.webp",
+    "imagen": "arbol_del_caucho_amazonico.webp",
     "conservacion": "Preocupación Menor",
     "origenHabitat": ["Selva tropical"],
     "distribucion": ["Sudamérica"]

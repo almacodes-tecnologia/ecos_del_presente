@@ -48,25 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "paloma_rabiche",
-    "paloma_turque",
-    "pinzon_azul",
-    "lagarto_gigante",
-    "canario_silvestre"
+"faunaDestacada": [
+    "rebeco_alpino",
+    "quebrantahuesos",
+    "perdiz_nival",
+    "marmota_alpina",
+    "acentor_alpino"
   ],
   "floraDestacada": [
-    "laurel_canario",
-    "til",
-    "vinatigo",
-    "barbusano",
-    "helecho_vaquero"
+    "edelweiss",
+    "gentiana_nivalis",
+    "sauce_enano_herbaceo",
+    "silene_acaulis",
+    "saxifraga_oppositifolia"
   ],
   "hongosDestacados": [
-    "cantharellus_cibarius",
-    "hydnum_repandum",
-    "hemitrichia_serpula",
-    "clathrus_archeri"
+    "calvatia_utriformis",
+    "hygrocybe_conica",
+    "agaricus_alpinus",
+    "rhizocarpon_geographicum"
   ],
 
   "conservacionYRiesgos": {

@@ -48,26 +48,23 @@
     ]
   },
 
-  "faunaDestacada": [
-    "paloma_domestica",
-    "rata_gris",
-    "gorrion_comun",
-    "cucaracha",
-    "halcon_peregrino"
-  ],
-  "floraDestacada": [
-    "platanero_de_sombra",
-    "diente_de_leon",
-    "hierba_de_las_aceras",
-    "hiedra",
-    "pino_piñonero"
-  ],
-  "hongosDestacados": [
-    "schizophyllum_commune",
-    "coprinus_comatus",
-    "pleurotus_ostreatus",
-    "aspergillus_spp"
-  ],
+"faunaDestacada": [
+  "rata_gris",
+  "gorrion_comun",
+  "cucaracha_americana", 
+  "halcon_peregrino"
+],
+"floraDestacada": [
+  "platano_de_sombra",
+  "diente_de_leon",
+  "llanten_mayor", 
+  "hiedra"
+],
+"hongosDestacados": [
+  "schizophyllum_commune",
+  "coprinus_comatus",
+  "pleurotus_ostreatus" 
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistema en expansión constante que requiere planificación sostenible para evitar el colapso ambiental y mejorar la calidad de vida.",

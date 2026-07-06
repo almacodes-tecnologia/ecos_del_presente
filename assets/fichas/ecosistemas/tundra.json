@@ -48,25 +48,23 @@
     ]
   },
 
-  "faunaDestacada": [
-    "reno",
-    "zorro_artico",
-    "lemming",
-    "oso_polar",
-    "buey_almizclero"
-  ],
-  "floraDestacada": [
-    "musgo_de_reno",
-    "sauce_enano",
-    "algodon_artico",
-    "saxifraga",
-    "liquen_de_la_tundra"
-  ],
-  "hongosDestacados": [
-    "boletus_tundrae",
-    "amanita_nivalis",
-    "geoglossum_sp"
-  ],
+"faunaDestacada": [
+  "reno",
+  "zorro_artico",
+  "lobo_artico",
+  "buey_almizclero"
+],
+"floraDestacada": [
+  "musgo_del_permafrost", 
+  "algodon_artico",
+  "saxifraga",
+  "liquen_de_los_renos" 
+],
+"hongosDestacados": [
+  "leccinum_rotundifoliae",
+  "amanita_nivalis",
+  "helvella_arctica" 
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistema extremadamente frágil, actualmente en el epicentro de los cambios globales por el calentamiento del Ártico.",

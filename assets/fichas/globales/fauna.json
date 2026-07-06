@@ -572,15 +572,15 @@
     "conservacion": "Casi Amenazada"
   },
   {
-    "id": "rebeco_comun",
-    "nombre": "Rebeco Común",
+    "id": "rebeco_alpino",
+    "nombre": "Rebeco Alpino",
     "nombre_cientifico": "Rupicapra rupicapra",
     "nivel_taxonomico": "especie",
-    "imagen": "rebeco_comun.webp",
+    "imagen": "rebeco_alpino.webp",
     "familia": "Bovidae",
     "agrupacion": "Bóvidos",
     "dieta": "Herbívoro",
-    "ecosistema": ["Montañas", "Praderas alpinas"],
+    "ecosistema": ["Montañas", "Praderas alpinas", "alta_montana"],
     "continente": ["Europa"],
     "conservacion": "Preocupación Menor"
   },

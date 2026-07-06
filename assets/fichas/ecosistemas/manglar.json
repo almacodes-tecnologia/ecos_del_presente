@@ -42,25 +42,25 @@
       "Condiciones reductoras (química sin oxígeno) que producen sulfuro de hidrógeno (olor a huevo podrido)."
     ]
   },
-  "faunaDestacada": [
-    "cangrejo_violinista",
-    "pez_arquero",
-    "garza_azul",
-    "cocodrilo_americano",
-    "manati"
-  ],
-  "floraDestacada": [
-    "mangle_rojo",
-    "mangle_negro",
-    "mangle_blanco",
-    "mangle_botoncillo",
-    "avicennia_germinans"
-  ],
-  "hongosDestacados": [
-    "halophytophthora_spp",
-    "calathella_mangrovei",
-    "mycosphaerella_spp"
-  ],
+"faunaDestacada": [
+  "cangrejo_violinista",
+  "pez_arquero",
+  "garza_azul_grande",
+  "cocodrilo_americano",
+  "manati"
+],
+"floraDestacada": [
+  "mangle_rojo",
+  "mangle_negro",
+  "mangle_blanco",
+  "mangle_botoncillo",
+  "helecho_de_manglar"
+],
+"hongosDestacados": [
+  "halophytophthora_vesicula",
+  "calathella_mangrovei",
+  "mycosphaerella_pneumatophorae"
+],
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistema gravemente amenazado por la expansión urbana, la acuicultura intensiva (camaroneras) y el cambio climático.",
     "amenazasPrincipales": [

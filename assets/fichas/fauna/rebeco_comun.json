@@ -1,10 +1,10 @@
 {
-  "id": "rebeco_comun",
-  "nombre": "Rebeco Común",
+  "id": "rebeco_alpino",
+  "nombre": "Rebeco Alpino",
   "nombreCientifico": "Rupicapra rupicapra",
   "fechaInformacion": "2025",
 
-  "imagen": "rebeco_comun.webp",
+  "imagen": "rebeco_alpino.webp",
   "galeria": [],
 
   "introduccionAnimal": [

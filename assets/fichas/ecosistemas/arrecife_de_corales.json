@@ -48,26 +48,24 @@
     ]
   },
 
-  "faunaDestacada": [
-    "pez_payaso",
-    "tortuga_carey",
-    "tiburon_de_punta_blanca",
-    "morena",
-    "estrella_de_mar"
-  ],
-  "floraDestacada": [
-    "zooxantelas",
-    "alga_halimeda",
-    "macroalgas_verdes",
-    null,
-    null
-  ],
-  "hongosDestacados": [
-    "hongos_endoliticos",
-    null,
-    null,
-    null
-  ],
+"faunaDestacada": [
+  "pez_payaso_comun",
+  "tortuga_carey",
+  "tiburon_de_punta_blanca",
+  "morena_gigante", 
+  "estrella_de_mar"
+],
+"floraDestacada": [
+  "alga_halimeda",
+  "macroalgas_verdes",
+  "pasto_marino_de_arrecife", 
+  "alga_coralina_roja" 
+],
+"hongosDestacados": [
+  "scolecobasidium_arenarium",
+  "aspergillus_sydowii",  
+  "corollospora_maritima"     
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "En peligro crítico debido al cambio climático y la actividad humana. Es uno de los ecosistemas más vulnerables del planeta.",

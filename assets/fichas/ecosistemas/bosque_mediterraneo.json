@@ -48,7 +48,7 @@
     ]
   },
 
-  "faunaDestacada": [
+"faunaDestacada": [
     "ciervo_iberico",
     "jabali_europeo",
     "aguila_real",
@@ -59,8 +59,8 @@
     "encina",
     "alcornoque",
     "lentisco",
-    "romero",
-    "madrono"
+    "romero_comun",
+    "madrono_europeo"
   ],
   "hongosDestacados": [
     "amanita_caesarea",
