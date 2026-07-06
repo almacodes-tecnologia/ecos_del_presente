@@ -28,8 +28,8 @@
       "Alta insolación y gran oscilación térmica diaria.",
       "Precipitaciones a menudo en forma de nieve con fuertes vientos dominantes."
     ],
-    "precipitacionAnualRango": "Desconocido",
-    "temperaturaMediaRango": "Desconocido"
+    "precipitacionAnualRango": "800 - 2500 mm (principalmente en forma de nieve según la cordillera)",
+    "temperaturaMediaRango": "-2 - 8°C"
   },
   "suelo": {
     "descripcion": [
@@ -42,9 +42,26 @@
       "Tendencia a la erosión física intensa."
     ]
   },
-  "faunaDestacada": [],
-  "floraDestacada": [],
-  "hongosDestacados": [],
+  "faunaDestacada": [
+    "rebeco_alpino",
+    "quebrantahuesos",
+    "perdiz_nival",
+    "marmota_alpina",
+    "acentor_alpino"
+  ],
+  "floraDestacada": [
+    "edelweiss",
+    "gentiana_nivalis",
+    "sauce_enano",
+    "silene_acaulis",
+    "saxifraga_oppositifolia"
+  ],
+  "hongosDestacados": [
+    "calvatia_utriformis",
+    "hygrocybe_conica",
+    "agaricus_alpino",
+    "rhizocarpon_geographicum"
+  ],
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistema altamente sensible a las variaciones climáticas globales, considerado un excelente indicador biológico del cambio climático.",
     "amenazasPrincipales": [
