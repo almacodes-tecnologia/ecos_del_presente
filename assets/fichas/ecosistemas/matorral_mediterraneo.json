@@ -48,26 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "conejo_bravo",
-    "lagarto_ocelado",
-    "curruca_cabecinegra",
-    "comadreja",
-    "tortuga_mediterranea"
-  ],
-  "floraDestacada": [
-    "pistacia_lentiscus",
-    "rosmarinus_officinalis",
-    "cistus_ladanifer",
-    "quercus_coccifera",
-    "myrtus_communis"
-  ],
-  "hongosDestacados": [
-    "leccinum_lepidum",
-    "suillus_bellinii",
-    "clathrus_ruber",
-    "infundibulicybe_geotropa"
-  ],
+"faunaDestacada": [
+  "conejo_bravo",
+  "lagarto_ocelado",
+  "curruca_cabecinegra",
+  "comadreja",
+  "tortuga_mediterranea"
+],
+"floraDestacada": [
+  "lentisco", 
+  "romero_comun",   
+  "jara_pringosa",
+  "coscoja",   
+  "mirto"   
+],
+"hongosDestacados": [
+  "boletus_de_los_encinares",
+  "esponja_de_pino", 
+  "farolillo_rojo" 
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistema muy fragmentado y bajo una presión antrópica constante debido al desarrollo turístico, el urbanismo y los cambios en los usos del suelo.",

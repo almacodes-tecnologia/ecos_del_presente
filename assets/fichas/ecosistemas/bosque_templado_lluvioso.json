@@ -48,26 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "pudu",
-    "oso_grizzly",
-    "monito_del_monte",
-    "bubo_virginianus",
-    "salamandra_gigante"
-  ],
-  "floraDestacada": [
-    "sequia_sempervirens",
-    "alerce_patagonico",
-    "coihue",
-    "hecho_arborescente",
-    "laurel_salvaje"
-  ],
-  "hongosDestacados": [
-    "cyttaria_espinozae",
-    "mycena_interrupta",
-    "clavulina_cristata",
-    "ganoderma_applanatum"
-  ],
+"faunaDestacada": [
+  "pudu",
+  "oso_grizzly",
+  "monito_del_monte",
+  "buho_cornudo",    
+  "salamandra_gigante_japonesa"
+],
+"floraDestacada": [
+  "secuoya_roja",  
+  "alerce_patagonico",
+  "coihue",
+  "helecho_arborescente",
+  "laurel_valdiviano"  
+],
+"hongosDestacados": [
+  "cyttaria_espinosae", 
+  "mycena_interrupta", 
+  "ganoderma_applanatum"  
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Muy vulnerable debido a su escasa distribución geográfica mundial; muchas de sus áreas primarias albergan árboles milenarios insustituibles si son talados.",

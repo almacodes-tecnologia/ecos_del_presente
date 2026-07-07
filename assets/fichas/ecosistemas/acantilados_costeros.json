@@ -48,26 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "arao_comun",
-    "alcatraz_atlantico",
-    "halcon_peregrino",
-    "gaviota_tridactila",
-    "percebe_gallego"
-  ],
-  "floraDestacada": [
-    "armeria_maritima",
-    "crithmum_maritimum",
-    "limonium_vulgare",
-    "plantago_maritima",
-    "calystegia_soldanella"
-  ],
-  "hongosDestacados": [
-    "xanthoria_parietina",
-    "lichina_pygmaea",
-    "caloplaca_marina",
-    "verrucaria_maura"
-  ],
+"faunaDestacada": [
+  "arao_comun",
+  "alcatraz_atlantico",
+  "halcon_peregrino",
+  "gaviota_tridactila",
+  "percebe_gallego"
+],
+"floraDestacada": [
+  "clavellina_de_mar",
+  "hinojo_marino",
+  "lavanda_de_mar", 
+  "llanten_maritimo",
+  "campanilla_de_mar"
+],
+"hongosDestacados": [
+  "seta_de_los_acantilados",
+  "hongo_marino_de_acantilado",
+  "hongo_de_costa" 
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistemas geológicamente estables por su inaccesibilidad física, pero biológicamente muy sensibles a la pérdida de calidad de las aguas marinas y a las perturbaciones en sus cumbres terrestres.",

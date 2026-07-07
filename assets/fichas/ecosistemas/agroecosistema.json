@@ -48,26 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "abeja_melifera",
-    "lombriz_de_tierra",
-    "mariquita",
-    "golondrina",
-    "topillo"
-  ],
-  "floraDestacada": [
-    "trigo",
-    "olivo",
-    "vid",
-    "maiz",
-    "tomatera"
-  ],
-  "hongosDestacados": [
-    "mycorrhiza_spp",
-    "trichoderma_harzianum",
-    "botrytis_cinerea",
-    "fusarium_spp"
-  ],
+"faunaDestacada": [
+  "abeja_melifera",
+  "lombriz_de_tierra",
+  "mariquita",
+  "golondrina",
+  "topillo_campesino"
+],
+"floraDestacada": [
+  "trigo",
+  "olivo",
+  "vid",
+  "maiz",
+  "tomatera"
+],
+"hongosDestacados": [
+  "glomus_intraradices",
+  "trichoderma_harzianum",
+  "botrytis_cinerea"
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistema de gran importancia socioeconómica, cuya sostenibilidad depende de la transición hacia modelos de agroecología y agricultura regenerativa.",

@@ -48,26 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "condor_andino",
-    "oso_de_anteojos",
-    "tapir_andino",
-    "pato_de_torrente",
-    "lagartija_del_paramo"
-  ],
-  "floraDestacada": [
-    "espeletia_grandiflora",
-    "calamagrostis_effusa",
-    "puya_raimondii",
-    "polylepis_quadrijuga",
-    "pernettya_prostrata"
-  ],
-  "hongosDestacados": [
-    "hygrocybe_paramensis",
-    "galerina_hypnorum",
-    "lycoperdon_perlatum",
-    "scutellinia_scutellata"
-  ],
+"faunaDestacada": [
+  "condor_andino",
+  "oso_de_anteojos",
+  "tapir_andino",
+  "pato_de_torrente",
+  "lagartija_del_paramo"
+],
+"floraDestacada": [
+  "frailejon",
+  "paja_de_paramo",
+  "puya_titanca",
+  "arbol_de_papel",
+  "reventadera"
+],
+"hongosDestacados": [
+  "higroforo_del_paramo",
+  "galerina_de_los_musgos",
+  "pedo_de_lobo" 
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistemas estratégicos y sumamente vulnerables; debido a su lento crecimiento biológico, cualquier daño físico en la vegetación o el suelo puede tardar siglos en restaurarse.",

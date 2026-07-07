@@ -48,26 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "caiman_jacare",
-    "capibara",
-    "flamenco_comun",
-    "garza_real",
-    "aguila_pescadora"
-  ],
-  "floraDestacada": [
-    "enea_typha",
-    "carrizo_comun",
-    "nenufar_blanco",
-    "cipres_de_los_pantanos",
-    "lirio_amarillo"
-  ],
-  "hongosDestacados": [
-    "mitrula_paludosa",
-    "psathyrella_aquatica",
-    "vibrissea_truncorum",
-    "hygrocybe_colemanniana"
-  ],
+"faunaDestacada": [
+  "cocodrilo_de_agua_dulce", 
+  "rata_almizclera",      
+  "flamenco_comun",
+  "garza_real",
+  "aguila_pescadora"
+],
+"floraDestacada": [
+  "enea_de_hoja_ancha",       
+  "carrizo_comun",
+  "nenufar_blanco",
+  "cipres_de_los_pantanos",
+  "lirio_amarillo"
+],
+"hongosDestacados": [
+  "mitrula_paludosa",
+  "psathyrella_aquatica",  
+  "vibrissea_truncorum"  
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistemas críticamente amenazados a nivel mundial; históricamente mal considerados como 'tierras insalubres' y destruidos a un ritmo alarmante.",

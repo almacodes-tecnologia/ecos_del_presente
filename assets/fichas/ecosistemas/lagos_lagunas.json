@@ -47,27 +47,25 @@
       "Altas concentraciones de nutrientes atrapados (fósforo, nitrógeno) que pueden liberarse al agua durante las mezclas estacionales."
     ]
   },
-
-  "faunaDestacada": [
-    "perca_europea",
-    "lucio_perca",
-    "daphnia_pulex",
-    "anade_azulon",
-    "somormujo_lavanco"
-  ],
-  "floraDestacada": [
-    "phragmites_australis",
-    "nymphaea_alba",
-    "myriophyllum_spicatum",
-    "chara_vulgaris",
-    "anabaena_flosaquae"
-  ],
-  "hongosDestacados": [
-    "achlya_americana",
-    "saprolegnia_parasitica",
-    "zoophagus_insidians",
-    "rhizofydium_planktonicum"
-  ],
+"faunaDestacada": [
+  "perca_europea",
+  "lucio_perca",
+  "pulga_de_agua", 
+  "anade_azulon",
+  "somormujo_lavanco"
+],
+"floraDestacada": [
+  "carrizo",
+  "nenufar_blanco",  
+  "milenrama_acuatica",
+  "alga_chara", 
+  "cianobacteria_de_lago"
+],
+"hongosDestacados": [
+  "mitra_amarilla_de_agua",
+  "hongo_subacuatico",
+  "vibrisea_de_lago" 
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistemas cerrados con una tasa de renovación de agua lenta, lo que los hace extremadamente vulnerables a la acumulación de contaminantes y a procesos de degradación ecológica irreversible.",

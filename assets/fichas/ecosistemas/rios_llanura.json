@@ -48,26 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "carpa_comun",
-    "lucio_europeo",
-    "mejillon_de_rio",
-    "siluro",
-    "garza_blanca"
-  ],
-  "floraDestacada": [
-    "potamogeton_natans",
-    "vallisneria_spiralis",
-    "lenteja_de_agua",
-    "ceratophyllum_demersum",
-    "cladophora_glomerata"
-  ],
-  "hongosDestacados": [
-    "clavariopsis_aquatica",
-    "heliscus_lugdunensis",
-    "flagellospora_curvula",
-    "candida_aquatica"
-  ],
+ "faunaDestacada": [
+  "carpa_comun",
+  "lucio_europeo",
+  "mejillon_de_rio",
+  "siluro",
+  "garza_blanca"
+],
+"floraDestacada": [
+  "espiga_de_agua",
+  "cinta_de_agua",
+  "lenteja_de_agua",
+  "cola_de_zorro_acuatica", 
+  "alga_filamentosa_de_rio" 
+],
+"hongosDestacados": [
+  "hongo_de_sombrero_acuatico",
+  "mitra_de_pantano",
+  "vibrisea_de_agua"  
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistemas severamente modificados e impactados a nivel global, ya que sus riberas concentran los mayores núcleos urbanos, agrícolas e industriales de la historia humana.",

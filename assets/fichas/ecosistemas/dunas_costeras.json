@@ -48,26 +48,24 @@
     ]
   },
 
-  "faunaDestacada": [
-    "correlimos_tridactilo",
-    "escarabajo_pimelia",
-    "lagartija_colirroja",
-    "sapo_corredor",
-    "viborilla_de_las_dunas"
-  ],
-  "floraDestacada": [
-    "ammophila_arenaria",
-    "eryngium_maritimum",
-    "pancratium_maritimum",
-    "cakile_maritima",
-    "calystegia_soldanella"
-  ],
-  "hongosDestacados": [
-    "psathyrella_ammophila",
-    "tulostoma_brumale",
-    "peziza_ammophila",
-    "agaricus_devoniensis"
-  ],
+"faunaDestacada": [
+  "correlimos_tridactilo",
+  "escarabajo_pimelia",
+  "lagartija_colirroja",
+  "sapo_corredor",
+  "viborilla_de_las_dunas"
+],
+"floraDestacada": [
+  "barron",
+  "cardo_maritimo", 
+  "azucena_de_mar",
+  "campanilla_de_las_dunas" 
+],
+"hongosDestacados": [
+  "psatirela_de_duna",
+  "tulostoma",
+  "peziza_de_la_arena" 
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistemas críticamente amenazados a nivel mundial debido a que las zonas costeras sufren la mayor presión demográfica, turística e inmobiliaria del planeta.",

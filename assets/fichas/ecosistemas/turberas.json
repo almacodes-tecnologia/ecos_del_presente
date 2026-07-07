@@ -48,25 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "rana_turbera",
-    "lagartija_vivipara",
-    "becasina_comun",
-    "mariposa_de_las_turberas",
-    "aguila_pescadora"
-  ],
-  "floraDestacada": [
-    "sphagnum_magellanicum",
-    "drosera_rotundifolia",
-    "eriophorum_vaginatum",
-    "calluna_vulgaris",
-    "pinguicula_vulgaris"
-  ],
-  "hongosDestacados": [
-    "galerina_paludosa",
-    "hygrocybe_coccinea",
-    "mitrula_paludosa"
-  ],
+"faunaDestacada": [
+  "rana_turbera",
+  "lagartija_vivipara",
+  "agachadiza_comun", 
+  "mariposa_de_las_turberas",
+  "aguila_pescadora"
+],
+"floraDestacada": [
+  "musgo_esfagno",
+  "drosera_de_hojas_redondas",
+  "pasto_de_algodon", 
+  "brezo_comun",
+  "grasilla_comun"
+],
+"hongosDestacados": [
+  "galerina_paludosa",
+  "hygrocybe_coccinea",
+  "mitrula_paludosa"
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistemas críticos de alta fragilidad y de nula resiliencia a corto plazo; la destrucción de una turbera libera a la atmósfera carbono acumulado durante milenios.",

@@ -48,26 +48,19 @@
     ]
   },
 
-  "faunaDestacada": [
-    "gusano_del_hielo_mesenchytraeus",
-    "osito_de_agua_tardigrado",
-    "colembolo_del_glaciar",
-    "oso_polar",
-    "gaviota_marfil"
-  ],
-  "floraDestacada": [
-    "chlamydomonas_nivalis",
-    "ancylonema_nordenskioeldii",
-    "mesotaenium_berggrenii",
-    "calothrix_parietina",
-    "phormidium_autumnale"
-  ],
-  "hongosDestacados": [
-    "thelebolus_microsporus",
-    "mrakia_frigida",
-    "articosphaera_glacialis",
-    "cryptococcus_lupi"
-  ],
+"faunaDestacada": [
+  "gusano_del_hielo",
+  "tardigrado",
+  "pulga_del_glaciar",
+  "oso_polar",
+  "gaviota_marfil"
+],
+"floraDestacada": [
+  "alga_de_la_nieve" 
+],
+"hongosDestacados": [
+  "hongo_liquenico_del_hielo" 
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Es uno de los biomas más críticamente amenazados y en retroceso acelerado a escala planetaria, actuando como el indicador más visual y dramático de la crisis climática global.",

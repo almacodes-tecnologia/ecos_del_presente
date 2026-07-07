@@ -48,26 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "bisonte_americano",
-    "perrito_de_la_pradera",
-    "antilope_saiga",
-    "lobo_de_crin",
-    "aguila_esteparia"
-  ],
-  "floraDestacada": [
-    "pasto_varilla",
-    "hierba_del_bufalo",
-    "estatice",
-    "paja_brava",
-    "tulipan_silvestre"
-  ],
-  "hongosDestacados": [
-    "agaricus_campestris",
-    "calvatia_gigantea",
-    "pleurotus_eryngii",
-    "lepiota_procera"
-  ],
+"faunaDestacada": [
+  "bisonte_americano",
+  "perrito_de_la_pradera",
+  "antilope_saiga",
+  "lobo_de_crin",
+  "aguila_esteparia"
+],
+"floraDestacada": [
+  "pasto_varilla",
+  "hierba_del_bufalo",
+  "limonium_vulgare",
+  "paja_brava",
+  "tulipan_silvestre"
+],
+"hongosDestacados": [
+  "agaricus_campestris",
+  "calvatia_gigantea",
+  "pleurotus_eryngii"
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Es considerado el bioma más alterado y en mayor peligro crítico a nivel mundial, ya que casi la totalidad de su extensión original ha sido modificada por el ser humano.",

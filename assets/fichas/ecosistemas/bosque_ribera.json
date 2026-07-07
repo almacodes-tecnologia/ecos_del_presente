@@ -48,25 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "nutria",
-    "martin_pescador",
-    "rana_comun",
-    "culebra_de_collar",
-    "garza_real"
-  ],
-  "floraDestacada": [
-    "aliso",
-    "sauce_lloron",
-    "chopo",
-    "fresno",
-    "carrizo"
-  ],
-  "hongosDestacados": [
-    "alnicola_spp",
-    "naucoria_spp",
-    "helvella_crispa"
-  ],
+"faunaDestacada": [
+  "nutria_europea",
+  "martin_pescador",
+  "rana_comun",
+  "culebra_de_collar",
+  "garza_real"
+],
+"floraDestacada": [
+  "aliso",
+  "sauce_blanco",
+  "chopo",
+  "fresno",
+  "carrizo"
+],
+"hongosDestacados": [
+  "alnicola_escharoides", 
+  "lactarius_controversus",
+  "helvella_crispa"
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistema muy frágil, históricamente degradado por la canalización de ríos, la agricultura hasta la misma orilla y la extracción de áridos.",

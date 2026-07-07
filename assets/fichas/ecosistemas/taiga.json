@@ -48,26 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "alce",
-    "lobo_gris",
-    "oso_pardo",
-    "lince_boreal",
-    "gloton"
-  ],
-  "floraDestacada": [
-    "picea_glauca",
-    "pino_silvestre",
-    "abeto_balsamico",
-    "larice_siberiano",
-    "abedul_enano"
-  ],
-  "hongosDestacados": [
-    "boletus_pinophilus",
-    "suillus_luteus",
-    "lactarius_rufus",
-    "fomitopsis_pinicola"
-  ],
+"faunaDestacada": [
+  "alce",
+  "lobo_gris",
+  "oso_pardo",
+  "lince_boreal",
+  "gloton"
+],
+"floraDestacada": [
+  "picea_glauca",
+  "pino_silvestre",
+  "abeto_balsamico",
+  "lerce_siberiano", 
+  "abedul_enano"
+],
+"hongosDestacados": [
+  "boletus_pinophilus",
+  "lactarius_rufus",
+  "fomitopsis_pinicola" 
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Históricamente protegido por su inaccesibilidad, pero actualmente amenazado de forma acelerada por el desarrollo industrial y los efectos del calentamiento global.",

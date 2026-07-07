@@ -48,26 +48,25 @@
     ]
   },
 
-  "faunaDestacada": [
-    "trucha_comun",
-    "mirlo_acuatico",
-    "desman_pirenaico",
-    "larva_perla_plecoptero",
-    "salmon_atlantico"
-  ],
-  "floraDestacada": [
-    "fontinalis_antipyretica",
-    "diatomeas_navicula",
-    "ranunculo_acuatico",
-    "platyhypnidium_rusciforme",
-    "lemanea_fluviatilis"
-  ],
-  "hongosDestacados": [
-    "tetracladium_marchalianum",
-    "articulospora_tetracladia",
-    "clavatospora_longibrachiata",
-    "vibrissea_filisporia"
-  ],
+"faunaDestacada": [
+  "trucha_comun",
+  "mirlo_acuatico",
+  "desman_pirenaico",
+  "perla_de_rio",    
+  "salmon_atlantico"
+],
+"floraDestacada": [
+  "musgo_fontanal",
+  "diatomeas",
+  "ranunculo_acuatico",
+  "musgo_de_cascada",     
+  "alga_de_cerda_fluvial"
+],
+"hongosDestacados": [
+  "vibrisea_de_arroyo",  
+  "mitra_de_agua",
+  "champinon_de_corriente"
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistemas originalmente prístinos pero sumamente sensibles a cualquier alteración térmica o química debido al aislamiento de sus poblaciones y a su baja resiliencia.",

@@ -48,26 +48,22 @@
     ]
   },
 
-  "faunaDestacada": [
-    "proteo",
-    "murcielago_cavernicola",
-    "cangrejo_ciego_de_jameos",
-    "araña_cavernicola_leptoneta",
-    "pez_ciego_mexicano"
-  ],
-  "floraDestacada": [
-    "bacterias_quimiolitotrofas",
-    "cianobacterias_de_zona_fotica",
-    "musgo_de_cueva",
-    "algas_unicelulares_lampenflora",
-    "helecho_de_grotte"
-  ],
-  "hongosDestacados": [
-    "pseudogymnoascus_destructans",
-    "hirsutella_subterranea",
-    "stilbella_cavernosa",
-    "penicillium_cavernicola"
-  ],
+"faunaDestacada": [
+  "proteo",
+  "murcielago_cavernicola",
+  "cangrejo_ciego_de_jameos",
+  "arana_cavernicola", 
+  "pez_ciego_mexicano"
+],
+"floraDestacada": [
+  "musgo_de_cueva", 
+  "hepatica_de_cueva"
+],
+"hongosDestacados": [
+  "hongo_del_guano", 
+  "seta_de_mina", 
+  "hongo_zombi_de_insectos" 
+],
 
   "conservacionYRiesgos": {
     "estadoGeneral": "Ecosistemas extraordinariamente frágiles debido a su aislamiento evolutivo; cualquier mínima alteración química o física en la superficie se transmite rápidamente al subsuelo con efectos devastadores.",
