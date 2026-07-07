@@ -1,0 +1,81 @@
+{
+  "id": "zona_volcanica",
+  "nombre": "Zona Volcánica y Geotermal",
+  "imagenPrincipal": "zona_volcanica.webp",
+  "descripcionDetallada": [
+    "La zona volcánica y geotermal comprende los entornos terrestres modelados directamente por la actividad tectónica y el magma, abarcando desde coladas de lava recientes y campos de ceniza hasta sistemas hidrotermales activos como géiseres, fumarolas y pozas de lodo hirviente.",
+    "Este ecosistema representa el 'punto cero' de la vida, un escenario de cambio constante donde las altísimas temperaturas, los gases sulfurosos y la ausencia inicial de suelo orgánico desafían a la biosfera, convirtiéndose en el laboratorio natural más drástico para la colonización biológica y la evolución de organismos extremófilos."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Distribuida globalmente a lo largo de los límites de las placas tectónicas y puntos calientes del planeta. Destacan el Cinturón de Fuego del Pacífico (Islandia, Hawái, Japón, Indonesia, la cordillera de los Andes) y parques hidrotermales icónicos como Yellowstone en Estados Unidos.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Dominado inicialmente por comunidades pioneras no vasculares (musgos y líquenes) capaces de meteorizar la roca basáltica, seguidas por helechos y arbustos adaptados a suelos jóvenes y ácidos.",
+    "dominanciaAnimal": "Población escasa y altamente especializada, compuesta por artrópodos pioneros tolerantes al calor y vertebrados oportunistas que aprovechan el relieve rocoso para la protección o el anidamiento.",
+    "estratosVerticales": [
+      "Superficie de Colada Activa/Reciente: Roca estéril o piroclastos expuestos a la radiación solar, donde solo prosperan bacterias quimiótrofas y los primeros insectos colonizadores.",
+      "Grietas y Fisuras de Lava: Microhábitats protegidos del viento que retienen humedad y acumulan los primeros sedimentos, permitiendo el enraizamiento de helechos y plantas pioneras.",
+      "Márgenes Geotermales: Zonas de contacto con agua hirviente y vapores donde la vegetación vascular es sustituida por densos tapices microbianos de arqueas y algas termófilas de colores vibrantes."
+    ],
+    "adaptacionesClave": "Resistencia térmica y quimiosíntesis: desarrollo de proteínas termoestables que no se desnaturalizan a temperaturas extremas, junto con la capacidad de ciertos organismos de obtener energía directamente del azufre y compuestos minerales en lugar del Sol."
+  },
+
+  "clima": {
+    "descripcion": [
+      "El macroclima está supeditado a la región geográfica donde se ubique el volcán, pero el microclima local está severamente alterado por la energía geotérmica del subsuelo.",
+      "La presencia de emanaciones gaseosas constantes genera un ambiente químicamente agresivo, con concentraciones variables de dióxido de carbono, ácido sulfhídrico y vapor de agua."
+    ],
+    "caracteristicas": [
+      "Temperaturas del suelo extremadamente altas en zonas activas, que pueden superar los 80°C a pocos centímetros de la superficie.",
+      "Presencia de microclimas húmedos y cálidos permanentes alrededor de las fumarolas, independientemente del clima exterior.",
+      "Atmósfera local con alta carga de compuestos de azufre, provocando lluvias ácidas localizadas."
+    ],
+    "precipitacionAnualRango": "Dependiente de la latitud geográfica (desde 200 mm en zonas áridas hasta más de 3000 mm en volcanes tropicales)",
+    "temperaturaMediaRango": "Variable (puede registrar temperaturas bajo cero en la superficie y calor extremo en los focos geotermales)"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "Los suelos son de origen estrictamente volcánico (andosoles y canjilones de lava), caracterizados por ser extremadamente jóvenes, pedregosos y carentes de un horizonte orgánico desarrollado.",
+      "En las zonas geotermales, el sustrato está completamente alterado por la circulación de fluidos ácidos calientes que disuelven los minerales originales y precipitan costras de azufre y sílice."
+    ],
+    "caracteristicas": [
+      "Textura dominada por escorias, cenizas, pumita o basalto macizo, con una porosidad y drenaje extremadamente altos.",
+      "Ph con fuerte tendencia a la acidez extrema (valores de 2 a 4) en las inmediaciones de fuentes sulfurosas.",
+      "Ricos en minerales esenciales de origen magmático (hierro, magnesio, potasio) pero completamente deficientes en nitrógeno orgánico."
+    ]
+  },
+
+  "faunaDestacada": [
+    "gallito_de_las_rocas",
+    "gaviota_de_lava",
+    "grillo_de_lava"
+  ],
+  "floraDestacada": [
+    "helecho_de_lava",
+    "orquidea_de_fumarola",
+    "musgo_pionero_de_lava"
+  ],
+  "hongosDestacados": [
+    "seta_pirofila",
+    "hongo_de_los_geiseres"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Ecosistemas dinámicos e inestables por definición. Su principal perturbación es natural debido a las erupciones cíclicas, pero sufren una degradación severa en sus zonas accesibles por causas antrópicas.",
+    "amenazasPrincipales": [
+      "Turismo de Masas No Regulado: El pisoteo destruye los frágiles tapices bacterianos de las fuentes térmicas y las costras de azufre.",
+      "Explotación Geotérmica Incontrolada: La perforación industrial para obtener energía puede alterar la presión de los acuíferos y extinguir géiseres nativos.",
+      "Vandalismo y Expolio: Destrucción de formaciones minerales delicadas (geas, columnatas de basalto) para su venta o coleccionismo.",
+      "Introducción de Especies Exóticas: Plantas invasoras que aprovechan el suelo mineralizado y la falta de competencia para desplazar a las pioneras."
+    ],
+    "beneficiosEcosistemicos": [
+      "Generación de Suelo Fértil: A largo plazo, la meteorización de las rocas volcánicas da lugar a los suelos agrícolas más ricos del planeta.",
+      "Energía Renovable Limpia: Suministro de energía geotérmica constante para la calefacción y electricidad humana.",
+      "Comprensión del Origen de la Vida: Modelos de estudio científicos sobre cómo surgió la vida en la Tierra primitiva y astrobiología.",
+      "Regulación Mineral del Planeta: Liberación controlada de gases y minerales esenciales hacia la atmósfera y los ciclos biogeoquímicos."
+    ]
+  }
+}

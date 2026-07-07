@@ -1,0 +1,80 @@
+{
+  "id": "mar_profundo",
+  "nombre": "Mar Profundo (Zona Abisal)",
+  "imagenPrincipal": "mar_profundo.webp",
+  "descripcionDetallada": [
+    "El mar profundo o zona abisal comprende las regiones oceánicas situadas por debajo de los 2.000 metros de profundidad, un territorio completamente ajeno a la luz solar que representa el bioma más extenso y menos explorado del planeta Tierra.",
+    "Es un entorno de condiciones extremas caracterizado por una oscuridad absoluta, temperaturas gélidas al borde de la congelación y presiones hidrostáticas colosales. A pesar de su aparente hostilidad, alberga una vida fascinante adaptada a la escasez de nutrientes y dependiente de la 'nieve marina' que cae desde la superficie."
+  ],
+
+  "galeriaImagenes": [],
+
+  "ubicacionGeografica": "Se extiende por el fondo de todos los océanos del mundo, ocupando las llanuras abisales y las fosas oceánicas profundas, como la Fosa de las Marianas en el Pacífico o la Fosa de Puerto Rico en el Atlántico.",
+
+  "estructuraBiologica": {
+    "dominanciaVegetal": "Inexistente. La ausencia absoluta de radiación solar impide la fotosíntesis, por lo que no existen productores primarios vegetales en este ecosistema.",
+    "dominanciaAnimal": "Dominado por fauna invertebrada bentónica (isópodos, pepinos de mar, estrellas) y peces depredadores o carroñeros altamente especializados con cuerpos blandos y baja densidad ósea.",
+    "estratosVerticales": [
+      "Zona Batial (1000 - 4000 m): Región de transición en el talud continental, donde habitan la mayoría de los tiburones de profundidad y calamares.",
+      "Zona Abisal (4000 - 6000 m): Llanuras oceánicas monótonas de fango y sedimentos, el reino de la oscuridad total y la fauna bioluminiscente.",
+      "Zona Hadal (Más de 6000 m): Las profundidades de las fosas oceánicas trinchera, donde la vida desafía presiones equivalentes al peso de un elefante por centímetro cuadrado."
+    ],
+    "adaptacionesClave": "Bioluminiscencia y gigantismo abisal: producción de luz propia mediante órganos llamados fotóforos para atraer presas o parejas, junto con una tendencia metabólica a desarrollar tamaños desproporcionados en invertebrados."
+  },
+
+  "clima": {
+    "descripcion": [
+      "Ambiente hidrológico completamente aislado de la atmósfera terrestre, caracterizado por una estabilidad ambiental absoluta e inmutable a lo largo de los siglos.",
+      "No existen las estaciones climáticas, las tormentas ni las variaciones térmicas día-noche que afectan a la superficie del planeta."
+    ],
+    "caracteristicas": [
+      "Presión hidrostática extrema que aumenta una atmósfera por cada 10 metros de profundidad.",
+      "Oscuridad total (zona afótica) a partir de los 1.000 metros; la luz solar es inexistente.",
+      "Concentración de oxígeno disuelto estable pero baja, mantenida por las corrientes termohalinas profundas."
+    ],
+    "precipitacionAnualRango": "0 mm (ambiente completamente subacuático)",
+    "temperaturaMediaRango": "1 - 4°C"
+  },
+
+  "suelo": {
+    "descripcion": [
+      "El lecho marino abisal está cubierto por una capa extremadamente gruesa de sedimentos finos y blandos acumulados durante millones de años.",
+      "Este suelo funciona como el sumidero final de detritos orgánicos y restos esqueléticos de los organismos que mueren en las capas superiores del océano."
+    ],
+    "caracteristicas": [
+      "Composición de fangos arcillosos muy finos y lodos calcáreos o silíceos de origen orgánico.",
+      "Altísima concentración de materia orgánica descompuesta de forma extremadamente lenta por bacterias barófilas.",
+      "Sustrato blando e inestable que requiere apéndices alargados en los animales para evitar que se hundan."
+    ]
+  },
+
+  "faunaDestacada": [
+    "pez_linterna",
+    "calamar_gigante",
+    "tiburon_fantasma",
+    "isopodo_gigante",
+    "pulpo_dumbo"
+  ],
+  "floraDestacada": [],
+  "hongosDestacados": [
+    "hongo_micelial_abisal",
+    "ascomiceto_de_sedimento",
+    "levadura_negra_hadal"
+  ],
+
+  "conservacionYRiesgos": {
+    "estadoGeneral": "Históricamente protegido por su inaccesibilidad, pero actualmente amenazado por el avance de las tecnologías industriales humanas y la contaminación global.",
+    "amenazasPrincipales": [
+      "Minería Submarina: La extracción de nódulos polimetálicos destruye irreversiblemente el hábitat bentónico abisal.",
+      "Contaminación por Microplásticos: Los plásticos vertidos en la superficie terminan depositándose en las fosas más profundas del planeta.",
+      "Pesca de Arrastre Profunda: Destrucción de comunidades de corales de agua fría y desestabilización del talud continental.",
+      "Cambio Climático: La alteración de las corrientes oceánicas globales podría reducir el aporte de oxígeno y nutrientes hacia el fondo."
+    ],
+    "beneficiosEcosistemicos": [
+      "Sumidero de Carbono Global: Secuestro definitivo de carbono orgánico en los sedimentos a escala geológica.",
+      "Ciclo de Nutrientes: Reciclaje final de la materia orgánica oceánica mediante procesos de descomposición lenta.",
+      "Potencial Biotecnológico: Organismos con enzimas extremófilas únicas con aplicaciones médicas e industriales revolucionarias.",
+      "Estabilidad Térmica del Planeta: Absorción masiva del exceso de calor global a través de las masas de agua profundas."
+    ]
+  }
+}

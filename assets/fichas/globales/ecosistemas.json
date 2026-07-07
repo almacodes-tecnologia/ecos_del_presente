@@ -172,5 +172,23 @@
     "nombre": "Glaciares",
     "imagen": "glaciares.webp",
     "descripcionCorta": "Entornos extremos de hielo permanente donde la vida vegetal y animal es mínima y muy específica."
+  },
+  {
+    "id": "mar_profundo",
+    "nombre": "Mar Profundo (Zona Abisal)",
+    "imagen": "mar_profundo.webp",
+    "descripcionCorta": "Entorno oceánico a miles de metros de profundidad, sin luz solar y bajo presiones extremas, habitado por criaturas bioluminiscentes."
+  },
+  {
+    "id": "zona_volcanica",
+    "nombre": "Zona Volcánica y Geotermal",
+    "imagen": "zona_volcanica.webp",
+    "descripcionCorta": "Entornos extremos dominados por campos de lava, fumarolas y aguas termales, colonizados por organismos pioneros y extremófilos."
+  },
+  {
+    "id": "bosque_bambu",
+    "nombre": "Bosque de Bambú",
+    "imagen": "bosque_bambu.webp",
+    "descripcionCorta": "Bosques densos dominados por gramíneas gigantes de rápido crecimiento, con una fauna altamente especializada."
   }
 ]
