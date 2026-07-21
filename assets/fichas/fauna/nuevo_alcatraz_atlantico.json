@@ -1,0 +1,171 @@
+{
+  "id": "alcatraz_atlantico",
+  "nombre": "Alcatraz atlántico",
+  "nombreCientifico": "Morus bassanus",
+  "fechaInformacion": "2025",
+
+  "imagen": "alcatraz_atlantico.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El alcatraz atlántico es una gran ave marina conocida por sus espectaculares picados en picada para capturar peces.",
+      "Anida en enormes colonias densamente pobladas en acantilados e islas rocosas del Atlántico Norte."
+  ],
+
+  "descripcionLarga": [
+      "El alcatraz atlántico es la especie de mayor tamaño de la familia Sulidae. Su plumaje es de un blanco nítido, con las puntas de las alas de un negro intenso y un característico tono amarillo pálido en la cabeza y el cuello durante la época de reproducción.",
+      "Posee extraordinarias adaptaciones anatómicas para el buceo de impacto: sacos aéreos subcutáneos que actúan como un cojinete protector contra el golpe con el agua, ausencia de fosas nasales externas y una visión binocular excepcional que le permite calcular distancias con precisión bajo el agua.",
+      "Se alimentan principalmente de peces pelágicos como arenques, sardinas y caballas, los cuales localizan volando en patrulla sobre el mar antes de lanzarse en picado como una flecha a velocidades que pueden superar los 100 km/h.",
+      "Forman colonias de reproducción masivas en acantilados marinos costeros, donde las parejas son estrictamente monógamas y comparten las labores de incubación y cuidado del único huevo que ponen por temporada.",
+      "Desempeña un papel importante en los ecosistemas marinos como indicador de la salud de las poblaciones de peces pelágicos y como componente clave de las cadenas tróficas costeras."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir entre 15 y 20 años en libertad.",
+      "Sus ojos de un azul intenso están orientados hacia adelante, lo que le otorga una gran capacidad de visión estereoscópica."
+  ],
+
+  "longevidad": {
+      "enLibertad": "15-20 años",
+      "enCautividad": "25-30 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Suliformes",
+      "familia": "Sulidae",
+      "genero": "Morus",
+      "especie": "M. bassanus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación Menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Brotes de enfermedades como la gripe aviar altamente patógena",
+          "Sobrepesca industrial que reduce la disponibilidad de sus presas principales",
+          "Captura incidental en redes de pesca y enredo con plásticos marinos",
+          "Cambio climático y alteración de las corrientes marinas"
+      ],
+      "esfuerzosConservacion": [
+          "Protección estricta de las principales colonias de cría e islas reservas",
+          "Monitoreo sanitario y epidemiológico de las poblaciones frente a virus",
+          "Gestión sostenible de pesquerías en áreas marinas protegidas"
+      ],
+      "descripcionConservacion": [
+          "A pesar de contar con poblaciones globales numerosas y estables, recientes brotes de enfermedades infecciosas y la presión sobre los recursos pesqueros representan desafíos emergentes para la conservación de la especie."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "2.3-3.6 kg",
+          "hembraAdulta": "2.3-3.6 kg",
+          "maximoRegistrado": "4.0 kg"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "85-97 cm",
+          "hembra": "85-97 cm"
+      },
+      "colorPelaje": "Blanco brillante con puntas de las alas negras y cabeza teñida de amarillo dorado",
+      "caracteristicasEspeciales": "Envergadura alar de hasta 1.8 metros, sacos aéreos protectores bajo la piel",
+      "morfologia": [
+          "Cuerpo fusiforme y aerodinámico",
+          "Pico largo, robusto y cónico de color azul grisáceo",
+          "Alas largas y estrechas adaptadas para el vuelo deslizante sobre el mar"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Océanos abiertos, costas marinas, acantilados e islas rocosas",
+      "distribucionGeografica": [
+          "Reino Unido",
+          "Islandia",
+          "Noruega",
+          "Canadá",
+          "España",
+          "Francia"
+      ],
+      "adaptacionesHabitat": "Resistencia a ambientes marinos extremos, impermeabilización de plumas y visión adaptada al medio acuático",
+      "descripcionHabitat": [
+          "Pasa la mayor mar parte de su vida en alta mar pelágica, acercándose a tierra firme únicamente para reproducirse en acantilados abruptos e islas deshabitadas."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro / Piscívoro",
+      "presasComunes": [
+          "Arenques",
+          "Caballas",
+          "Sardinas",
+          "Lanzones",
+          "Bacalaos pequeños",
+          "Calamares"
+      ],
+      "estrategiaCaza": "Vuelo de patrulla a media altura seguido de un picado vertical fulminante en el agua",
+      "descripcionDieta": [
+          "Se alimenta exclusivamente de peces que nadan en la superficie o en los estratos superiores de la columna de agua, capturados mediante impresionantes lanzamientos en picado."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Altamente gregario, forma grandes colonias de nidificación con miles de individuos",
+      "rolMacho": "Aporta material para el nido, defiende el territorio y alimenta a la pareja y cría",
+      "rolHembra": "Incubación del huevo y cuidado principal de la cría en el nido",
+      "actividadDiaria": "Diurna",
+      "comunicacion": [
+          "Graznidos ásperos y estridentes de llamada",
+          "Choque ceremonioso de picos entre parejas"
+      ],
+      "descripcionComportamiento": [
+          "Son aves marinas muy fieles a su pareja y a su lugar de nidificación, manteniendo complejas interacciones sociales de reconocimiento y defensa de sus reducidos espacios vitales en los acantilados."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "4-5 años",
+          "hembra": "4-5 años"
+      },
+      "periodoGestacion": "42-44 días de incubación",
+      "tamanoCamada": "1 huevo",
+      "cuidadoCrias": "Cuidado parental compartido intenso durante varios meses hasta el salto al mar",
+      "descripcionReproduccion": [
+          "Construyen nidos en el suelo a base de algas, hierbas y restos marinos mezclados con excrementos, apretados unos contra otros en las repisas de los acantilados."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como bioindicador de la abundancia y distribución de los peces pelágicos en el Atlántico Norte.",
+      "Sus colonias aportan nutrientes esenciales a los ecosistemas terrestres costeros a través de sus deyecciones."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 5,
+      "inteligencia": 6,
+      "adaptabilidad": 7,
+      "fuerza": 6,
+      "velocidad": 9,
+      "tamano": 7,
+      "majestuosidad": 8,
+      "rareza": 4,
+      "supervivencia": 8,
+      "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+      "Pueden alcanzar velocidades de impacto contra el agua de hasta 100 km/h al lanzarse en picado",
+      "Tienen sacos de aire bajo la piel que se inflan antes de chocar contra el agua para amortiguar el impacto",
+      "Carecen de fosas nasales abiertas para evitar que el agua entre a presión durante sus inmersiones profundas",
+      "Los polluelos alcanzan un peso superior al de sus propios padres antes de volar gracias a la alta dieta grasa"
+  ]
+}
