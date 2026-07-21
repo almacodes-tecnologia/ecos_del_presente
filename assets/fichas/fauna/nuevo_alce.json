@@ -1,0 +1,172 @@
+{
+  "id": "alce",
+  "nombre": "Alce",
+  "nombreCientifico": "Alces alces",
+  "fechaInformacion": "2025",
+
+  "imagen": "alce.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El alce es el miembro más grande de la familia de los cérvidos, conocido por sus imponentes astas palmatadas en los machos.",
+      "Habita en los bosques boreales y regiones subárticas de Norteamérica, Europa y Asia."
+  ],
+
+  "descripcionLarga": [
+      "El alce es un mamífero rumiante herbívoro de gran tamaño, caracterizado por su hocico alargado y abultado, una papada carnosa colgante bajo el cuello conocida como campanario, y unas patas largas que le permiten vadear zonas pantanosas y caminar con soltura por la nieve profunda.",
+      "Los machos presentan grandes astas anchas y planas en forma de palma, las cuales mudan y vuelven a crecer cada año. A diferencia de otros cérvidos gregarios, los alces son animales predominantemente solitarios, excepto durante la época de celo o cuando las madres crían a sus becerros.",
+      "Son excelentes nadadores y pueden sumergirse a varios metros de profundidad en busca de plantas acuáticas, que constituyen una parte importante de su dieta durante los meses cálidos.",
+      "Su distribución se extiende por las taigas y bosques mixtos del norte, adaptándose a climas fríos rigurosos gracias a su denso pelaje hueco que proporciona un gran aislamiento térmico.",
+      "Desempeña un papel ecológico vital en los bosques boreales al dispersar semillas, ramonear arbustos y servir de alimento principal para grandes depredadores como los lobos y los osos."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir entre 15 y 25 años en libertad.",
+      "A pesar de su apariencia pesada, es capaz de correr a velocidades de hasta 55 km/h en tierra firme."
+  ],
+
+  "longevidad": {
+      "enLibertad": "15-25 años",
+      "enCautividad": "20 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Artiodactyla",
+      "familia": "Cervidae",
+      "genero": "Alces",
+      "especie": "A. alces"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación Menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Cambio climático y aumento de parásitos como las garrapatas de invierno",
+          "Fragmentación del hábitat por la tala y desarrollo de infraestructuras",
+          "Atropellos en carreteras y colisiones con vehículos",
+          "Caza deportiva y de subsistencia"
+      ],
+      "esfuerzosConservacion": [
+          "Gestión sostenible de poblaciones cinegéticas",
+          "Creación de pasos de fauna y señalización en carreteras forestales",
+          "Protección de corredores biológicos y áreas boscosas boreales"
+      ],
+      "descripcionConservacion": [
+          "A nivel global el alce goza de poblaciones estables y amplias, aunque las poblaciones situadas más al sur experimentan descensos locales debido al cambio climático y la presión humana."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "380-700 kg",
+          "hembraAdulta": "200-490 kg",
+          "maximoRegistrado": "820 kg"
+      },
+      "alturaHombro": {
+          "macho": "1.8-2.1 m",
+          "hembra": "1.5-1.8 m"
+      },
+      "longitudCuerpoCola": {
+          "macho": "2.4-3.1 m",
+          "hembra": "2.4-3.1 m"
+      },
+      "colorPelaje": "Marrón oscuro a negro, con extremidades y vientre más claros",
+      "caracteristicasEspeciales": "Astas palmatadas masivas en machos y papada colgante en la garganta",
+      "morfologia": [
+          "Cuerpo robusto con hombros altos en forma de joroba",
+          "Patas muy largas adaptadas para la nieve y el agua",
+          "Hocico ancho con labio superior sobredimensionado"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Bosques boreales, taiga, pantanos y riberas fluviales",
+      "distribucionGeografica": [
+          "Canadá",
+          "Estados Unidos",
+          "Suecia",
+          "Noruega",
+          "Finlandia",
+          "Rusia"
+      ],
+      "adaptacionesHabitat": "Pelo hueco aislante para el frío extremo, pezuñas anchas que actúan como raquetas en la nieve",
+      "descripcionHabitat": [
+          "Prefiere áreas forestales boreales cercanas a lagos, ríos, humedales y zonas pantanosas donde abunda la vegetación acuática y arbustiva."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Herbívoro (ramoneador)",
+      "presasComunes": [
+          "Brotes de sauce",
+          "Abedul",
+          "Álamo",
+          "Plantas acuáticas sumergidas",
+          "Hojas",
+          "Cortezas y ramitas"
+      ],
+      "estrategiaCaza": "Ramoneo activo de vegetación arbórea y extracción de plantas acuáticas",
+      "descripcionDieta": [
+          "Consume grandes cantidades de materia vegetal al día, alternando el consumo de hojas y brotes leñosos en invierno con plantas acuáticas ricas en sodio en verano."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitario gran parte del año, formando pequeños grupos familiares estacionales",
+      "rolMacho": "Competir por las hembras durante la época de celo mediante vocalizaciones y luchas",
+      "rolHembra": "Crianza exclusiva y defensa aguerrida de los becerros frente a depredadores",
+      "actividadDiaria": "Crepuscular y diurna",
+      "comunicacion": [
+          "Bramidos profundos durante el celo",
+          "Gruñidos y siseos de advertencia",
+          "Señales visuales con las astas y la postura corporal"
+      ],
+      "descripcionComportamiento": [
+          "Son animales generalmente tranquilos y solitarios, pero pueden volverse muy agresivos y peligrosos si se sienten acorralados o si una madre defiende a su cría."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+      "madurezSexual": {
+          "macho": "1.5-2 años",
+          "hembra": "1.5-2 años"
+      },
+      "periodoGestacion": "231-246 días (aproximadamente 8 meses)",
+      "tamanoCamada": "1-2 crías (becerros)",
+      "cuidadoCrias": "Cuidado maternal intensivo hasta el nacimiento de la siguiente camada",
+      "descripcionReproduccion": [
+          "La época de celo ocurre en otoño. Las hembras dan a luz en primavera en lugares apartados y seguros entre la vegetación densa."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Modifica y da forma al paisaje forestal mediante el ramoneo selectivo de árboles y arbustos.",
+      "Sirve como fuente fundamental de alimento para grandes depredadores como lobos y osos pardos."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 6,
+      "inteligencia": 6,
+      "adaptabilidad": 7,
+      "fuerza": 10,
+      "velocidad": 7,
+      "tamano": 10,
+      "majestuosidad": 8,
+      "rareza": 4,
+      "supervivencia": 8,
+      "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+      "Es el miembro más grande de toda la familia de los ciervos en el mundo",
+      "Puede cerrar sus fosas nasales voluntariamente al sumergirse por completo para buscar comida en el fondo de los lagos",
+      "Los machos mudan sus enormes astas todos los años tras el periodo de celo",
+      "Sus largas patas le permiten caminar con facilidad sobre capas de nieve de más de un metro de profundidad"
+  ]
+}
