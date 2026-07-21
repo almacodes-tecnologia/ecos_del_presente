@@ -1,0 +1,171 @@
+{
+  "id": "aguila_real",
+  "nombre": "Águila real",
+  "nombreCientifico": "Aquila chrysaetos",
+  "fechaInformacion": "2025",
+
+  "imagen": "aguila_real.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El águila real es una de las aves de presa más conocidas y potentes del hemisferio norte.",
+      "Es considerada un símbolo de poder, velocidad y elegancia, apodada a menudo como la reina de los cielos."
+  ],
+
+  "descripcionLarga": [
+      "El águila real es un ave rapaz diurna de gran tamaño perteneciente a la familia Accipitridae. Su plumaje es predominantemente de color marrón oscuro, con tonos dorados característicos en la nuca y la parte posterior de la cabeza, de los cuales deriva su nombre científico y común.",
+      "Posee una vista excepcional, capaz de detectar una liebre u otra presa pequeña a varios cientos de metros de altura. Sus patas están emplumadas hasta los dedos y terminan en garras formidablemente grandes y afiladas, diseñadas para someter a presas de considerable tamaño.",
+      "Es un depredador territorial y versátil que caza en parejas o en solitario, utilizando tácticas de vuelo magistrales que aprovechan las corrientes térmicas y la sorpresa del relieve montañoso.",
+      "Construye enormes nidos llamados nidos de risco o nidos en árboles altos, los cuales reutiliza y amplia año tras año, llegando a alcanzar dimensiones colosales.",
+      "Desempeña un papel fundamental como superdepredador en los ecosistemas de montaña y áreas abiertas, regulando las poblaciones de mamíferos medianos y aves."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir más de 30 años en libertad y superar los 40 años en cautividad.",
+      "Es utilizada tradicionalmente en la cetrería en regiones de Asia Central para la caza de zorros y lobos."
+  ],
+
+  "longevidad": {
+      "enLibertad": "20-30 años",
+      "enCautividad": "40 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Accipitriformes",
+      "familia": "Accipitridae",
+      "genero": "Aquila",
+      "especie": "A. chrysaetos"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación Menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Colisión y electrocución en tendidos eléctricos",
+          "Persecución y caza ilegal o uso de cebos envenenados",
+          "Molestias humanas en zonas de nidificación por deportes de aventura",
+          "Pérdida de hábitat y fragmentación territorial"
+      ],
+      "esfuerzosConservacion": [
+          "Protección estricta de áreas de cría y nidos",
+          "Corrección y aislamiento de tendidos eléctricos peligrosos",
+          "Programas de educación ambiental y vigilancia contra el veneno"
+      ],
+      "descripcionConservacion": [
+          "Aunque sus poblaciones globales son estables y gozan de un estado de conservación favorable, las poblaciones locales en algunas regiones específicas siguen sufriendo amenazas directas por la actividad humana."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "3.0-4.5 kg",
+          "hembraAdulta": "3.8-6.5 kg",
+          "maximoRegistrado": "7.0 kg"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "70-84 cm",
+          "hembra": "75-90 cm"
+      },
+      "colorPelaje": "Marrón oscuro con reflejos dorados en la nuca y cabeza",
+      "caracteristicasEspeciales": "Envergadura alar de más de 2 metros y garras traseras de hasta 6 cm de longitud",
+      "morfologia": [
+          "Cuerpo robusto y musculoso",
+          "Alas anchas y largas adaptadas para el planeo prolongado",
+          "Pico fuerte, fuertemente ganchudo y cortante"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Zonas montañosas, acantilados, páramos y áreas abiertas",
+      "distribucionGeografica": [
+          "España",
+          "Estados Unidos",
+          "Canadá",
+          "Rusia",
+          "China",
+          "México"
+      ],
+      "adaptacionesHabitat": "Gran agilidad en vuelos con viento fuerte, resistencia a climas alpinos rigurosos",
+      "descripcionHabitat": [
+          "Prefiere regiones montañosas escarpadas, cañones y acantilados donde encuentra refugio seguro para anidar y amplias extensiones abiertas para cazar."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro (depredador ápice)",
+      "presasComunes": [
+          "Liebres",
+          "Conejos",
+          "Marmotas",
+          "Corderos y cabritos jóvenes",
+          "Perdices",
+          "Carroña"
+      ],
+      "estrategiaCaza": "Vuelo bajo aprovechando el relieve, picados fulminantes o caza en pareja",
+      "descripcionDieta": [
+          "Caza una amplia variedad de pequeños y medianos mamíferos y aves, utilizando su fuerza superior para someter presas que a menudo superan su propio peso."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitaria o en parejas monógamas territoriales de por vida",
+      "rolMacho": "Defiende el territorio, construye parte del nido y aporta alimento",
+      "rolHembra": "Incubación de los huevos y defensa principal del nido frente a intrusos",
+      "actividadDiaria": "Diurna",
+      "comunicacion": [
+          "Llamadas agudas y silbidos de cortejo",
+          "Chillidos de advertencia territorial"
+      ],
+      "descripcionComportamiento": [
+          "Son aves altamente territoriales que defienden dominios vitales extensos frente a otras águilas mediante vuelos de exhibición acrobáticos y agresivos."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "4-5 años",
+          "hembra": "4-5 años"
+      },
+      "periodoGestacion": "40-45 días de incubación",
+      "tamanoCamada": "1-3 huevos",
+      "cuidadoCrias": "Cuidado parental prolongado hasta varios meses después de volar",
+      "descripcionReproduccion": [
+          "Construyen grandes plataformas de ramas en repisas de rocas inaccesibles o en árboles altos, reutilizándolas durante décadas."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como depredador tope controlando las poblaciones de mamíferos herbívoros y lagomorfos.",
+      "Contribuye a la limpieza del ecosistema al consumir carroña de manera ocasional."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 7,
+      "inteligencia": 8,
+      "adaptabilidad": 7,
+      "fuerza": 9,
+      "velocidad": 9,
+      "tamano": 8,
+      "majestuosidad": 10,
+      "rareza": 5,
+      "supervivencia": 8,
+      "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+      "Puede alcanzar velocidades superiores a los 240 km/h al lanzarse en picado sobre sus presas",
+      "Forma parejas monógamas que permanecen juntas durante toda su vida",
+      "Sus garras ejercen una presión de aplastamiento equivalente a varias veces la fuerza de la mano humana",
+      "Es una de las aves rapaces más veneradas en las mitologías y heráldicas de numerosas culturas del mundo"
+  ]
+}
