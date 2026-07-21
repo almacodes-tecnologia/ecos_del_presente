@@ -1,0 +1,167 @@
+{
+  "id": "bisonte_americano",
+  "nombre": "Bisonte Americano",
+  "nombreCientifico": "Bison bison",
+  "fechaInformacion": "2026",
+
+  "imagen": "bisonte_americano.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El bisonte americano es el mamífero terrestre más grande de Norteamérica y un icono histórico de las grandes llanuras.",
+      "Se caracteriza por su gran joroba en los hombros, su cabeza masiva y su denso pelaje lanoso que lo protege de los inviernos extremos."
+  ],
+
+  "descripcionLarga": [
+      "El bisonte americano es un herbívoro robusto y masivo. Los machos adultos pueden llegar a pesar hasta una tonelada y medir más de dos metros de altura hasta la cruz. Su cuerpo está cubierto por un pelaje largo y oscuro de color marrón en la parte delantera y más corto y ligero en los cuartos traseros.",
+      "Poseen una joroba distintiva compuesta por músculos altos unidos a sus vértebras dorsales, lo que les permite usar su cabeza como un arado pesado para retirar la nieve acumulada durante el invierno y alimentarse de la hierba oculta bajo ella.",
+      "Viven en manadas que solían contar con millones de ejemplares, migrando de forma estacional a través de las praderas y pastizales de Norteamérica en busca de pastos frescos y fuentes de agua.",
+      "A finales del siglo XIX, la caza masiva e indiscriminada los llevó al borde de la extinción total, reduciendo su población poblacional a solo unos cientos de individuos antes de que se implementaran medidas estrictas de protección y conservación.",
+      "Actualmente cumplen un papel ecológico fundamental como 'ingenieros de ecosistemas', ya que su pastoreo, sus baños de polvo (wallows) y la dispersión de nutrientes a través de sus excrementos promueven la biodiversidad vegetal en las praderas."
+  ],
+
+  "observaciones": [
+      "A pesar de su apariencia robusta y pesada, son capaces de correr a velocidades de hasta 60 km/h y saltar obstáculos considerables con gran agilidad.",
+      "Sus cuernos, presentes en ambos sexos, nunca se desprenden y crecen a lo largo de toda su vida."
+  ],
+
+  "longevidad": {
+      "enLibertad": "12-20 años",
+      "enCautividad": "25 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Artiodactyla",
+      "familia": "Bovidae",
+      "genero": "Bison",
+      "especie": "B. bison"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Casi amenazado (NT)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Pérdida y fragmentación de su hábitat natural por la agricultura y ganadería",
+          "Transmisión de enfermedades como la brucelosis desde el ganado doméstico",
+          "Pérdida de diversidad genética debido a poblaciones aisladas y cruzamientos con bovinos",
+          "Conflictos con ganaderos y gestores de tierras"
+      ],
+      "esfuerzosConservacion": [
+          "Establecimiento de rebaños protegidos en parques nacionales y reservas naturales",
+          "Programas de restauración ecológica en las grandes llanuras",
+          "Monitoreo genético y sanitario de las poblaciones silvestres"
+      ],
+      "descripcionConservacion": [
+          "Gracias a los intensos esfuerzos de conservación del siglo XX y XXI, la especie se ha recuperado significativamente de la casi extinción, aunque la mayoría de los ejemplares actuales viven en condiciones de manejo semicautivo o en reservas limitadas."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "700-1000 kg",
+          "hembraAdulta": "400-500 kg",
+          "maximoRegistrado": "1270 kg"
+      },
+      "alturaHombro": {
+          "macho": "1.6-1.8 m",
+          "hembra": "1.4-1.5 m"
+      },
+      "longitudCuerpoCola": {
+          "macho": "2.1-3.5 m",
+          "hembra": "2.1-3.0 m"
+      },
+      "colorPelaje": "Marrón oscuro a pardo, con melena y hombros más densos y oscuros",
+      "caracteristicasEspeciales": "Joroba prominente en los hombros, cabeza masiva y cuernos cortos curvados hacia arriba",
+      "morfologia": [
+          "Cuerpo delantero muy musculoso y pesado",
+          "Cuartos traseros más ligeros",
+          "Piel gruesa y pelaje denso de doble capa para soportar climas árticos"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Praderas abiertas, planicies, pastizales y bosques mixtos ligeros",
+      "distribucionGeografica": [
+          "Estados Unidos",
+          "Canadá",
+          "México (introducido en pequeñas reservas)"
+      ],
+      "adaptacionesHabitat": "Pelaje extremadamente aislante y capacidad para apartar la nieve con la cabeza para buscar alimento",
+      "descripcionHabitat": [
+          "Habitan principalmente extensas planicies y llanuras herbáceas donde abunda el pasto.",
+          "También se adaptan a zonas boscosas abiertas en las regiones del norte."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Herbívoro rumiante",
+      "presasComunes": null,
+      "estrategiaCaza": null,
+      "descripcionDieta": [
+          "Se alimentan principalmente de una gran variedad de gramíneas, hierbas y juncos de las praderas.",
+          "Durante el invierno complementan su dieta rascando la nieve para consumir hierba seca y brotes subterráneos."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Manadas mixtas dirigidas principalmente por hembras adultas fuera de la época de celo",
+      "rolMacho": "Competencia por el estatus y acceso a las hembras durante la época de reproducción (rut)",
+      "rolHembra": "Liderazgo de la manada, crianza y protección de los becerros",
+      "actividadDiaria": "Diurna y crepuscular (pastorean principalmente por la mañana y alatardecer)",
+      "comunicacion": [
+          "Berridos profundos y roncos audibles a larga distancia",
+          "Señales visuales mediante movimientos de cabeza y posturas corporales",
+          "Marcaje olfativo mediante wallows (baños de polvo y orina)"
+      ],
+      "descripcionComportamiento": [
+          "Los machos se unen a las manadas principalmente durante el verano para el apareamiento, viviendo el resto del año en solitario o en pequeños grupos de machos.",
+          "Realizan baños de polvo recurrentes para protegerse de los parásitos y regular la temperatura."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+      "madurezSexual": {
+          "macho": "2-3 años",
+          "hembra": "2-3 años"
+      },
+      "periodoGestacion": "9 meses",
+      "tamanoCamada": "1 cría",
+      "cuidadoCrias": "Cuidado maternal protector durante su primer año de vida",
+      "descripcionReproduccion": [
+          "La época de celo ocurre en los meses de verano (julio y agosto), momento en el cual los machos compiten intensamente embistiéndose.",
+          "Los becerros nacen en primavera con un pelaje rojizo característico que cambia a marrón oscuro a los pocos meses."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúan como ingenieros de ecosistemas al crear hábitats abiertos mediante el pastoreo selectivo.",
+      "Sus huecos de excavación y baños de polvo generan microhábitats para plantas e insectos, y sus excrementos enriquecen los suelos de las praderas."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 7,
+      "inteligencia": 5,
+      "adaptabilidad": 8,
+      "fuerza": 10,
+      "velocidad": 7,
+      "tamano": 9,
+      "majestuosidad": 9,
+      "rareza": 5,
+      "supervivencia": 8,
+      "impactoEcologico": 9
+  },
+
+  "curiosidades": [
+      "Pueden correr a velocidades de hasta 60 km/h a pesar de su enorme peso",
+      "Sus jorobas están formadas por músculos gigantes que sostienen su pesada cabeza",
+      "Son capaces de atravesar ventisqueros profundos empujando la nieve con la cabeza como un arado",
+      "Fueron cazados hasta rozar la extinción en el siglo XIX, pasando de millones a unos pocos cientos",
+      "A diferencia de los toros domésticos, los bisontes mueven la cola hacia arriba cuando están enfadados o excitados"
+  ]
+}
