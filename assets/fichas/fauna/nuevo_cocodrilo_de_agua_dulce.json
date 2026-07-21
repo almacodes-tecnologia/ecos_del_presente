@@ -1,0 +1,169 @@
+{
+  "id": "cocodrilo_de_agua_dulce",
+  "nombre": "Cocodrilo de Agua Dulce",
+  "nombreCientifico": "Crocodylus johnstoni",
+  "fechaInformacion": "2026",
+
+  "imagen": "cocodrilo_de_agua_dulce.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El cocodrilo de agua dulce, también conocido como el cocodrilo australiano de agua dulce o 'freshie', es un reptil endémico del norte de Australia.",
+      "Se distingue de su pariente el cocodrilo marino por su hocico notablemente más estrecho y alargado, y por ser de un tamaño considerablemente menor."
+  ],
+
+  "descripcionLarga": [
+      "El cocodrilo de agua dulce es un crocodiliano de tamaño mediano. Los machos adultos pueden alcanzar longitudes de hasta 2.5 o 3 metros, mientras que las hembras suelen ser más pequeñas, rondando los 2 metros. Su cuerpo está protegido por una armadura de escamas óseas y dérmicas duras, con una coloración marrón clara o grisácea y bandas oscuras distintivas a lo largo del cuerpo y la cola.",
+      "Posee un hocico largo y delgado adaptado principalmente para capturar peces rápidos, anfibios, crustáceos y pequeños reptiles, a diferencia de los depredadores de presas grandes que requieren mandíbulas más anchas y robustas.",
+      "Habita en ríos de agua dulce, pantanos, arroyos y billabonges (lagunas temporales) en las regiones tropicales del norte de Australia. Es una especie adaptada a los cambios estacionales extremos, tolerando la escasez de agua durante la temporada seca refugiándose en madrigueras o aestivando en el fango.",
+      "A pesar de tener una dentadura afilada, es típicamente tímido y evita activamente el contacto con los seres humanos, rara vez representando un peligro mortal en comparación con el agresivo cocodrilo marino de estuario.",
+      "Cumple un papel ecológico fundamental como depredador tope en los ecosistemas dulceacuícolas australianos, regulando las poblaciones de peces y otros animales acuáticos."
+  ],
+
+  "observaciones": [
+      "Son capaces de realizar un galope corto y rápido en tierra firme cuando se sienten amenazados o necesitan huir rápidamente hacia el agua.",
+      "Sus nidos son excavados en la arena de las riberas de los ríos durante la estación seca, donde la madre entierra los huevos para proteger ellos de los depredadores."
+  ],
+
+  "longevidad": {
+      "enLibertad": "30-50 años",
+      "enCautividad": "Más de 60 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Reptilia",
+      "orden": "Crocodilia",
+      "familia": "Crocodylidae",
+      "genero": "Crocodylus",
+      "especie": "C. johnstoni"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": "Creciendo",
+      "amenazasPrincipales": [
+          "Expansión del sapo de cañas (especie invasora tóxica que envenena a los cocodrilos al ingerirlos)",
+          "Modificación y alteración de los cauces de los ríos y humedales",
+          "Atropellos y persecuciones humanas históricas",
+          "Cambio climático y alteraciones en los regímenes de monzones"
+      ],
+      "esfuerzosConservacion": [
+          "Protección legal estricta en los estados del norte de Australia",
+          "Programas de control e investigación del impacto del sapo de caña tóxico",
+          "Gestión de parques nacionales y áreas naturales protegidas en el Territorio del Norte y Queensland"
+      ],
+      "descripcionConservacion": [
+          "Sus poblaciones se encuentran estables y protegidas en gran parte de su área de distribución natural, aunque enfrentan amenazas locales recientes debido a la ingesta letal de los sapos de caña invasores."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "70-100 kg",
+          "hembraAdulta": "40-60 kg",
+          "maximoRegistrado": "120 kg"
+      },
+      "alturaHombro": {
+          "macho": "No aplicable",
+          "hembra": "No aplicable"
+      },
+      "longitudCuerpoCola": {
+          "macho": "2.3-3.0 m",
+          "hembra": "1.5-2.0 m",
+          "maximoRegistrado": "3.1 m"
+      },
+      "colorPelaje": "Marrón claro u oliva con bandas transversales oscuras en el cuerpo y la cola",
+      "caracteristicasEspeciales": "Hocico muy estrecho y alargado con dientes visibles incluso con la boca cerrada",
+      "morfologia": [
+          "Cuerpo hidrodinámico con extremidades cortas",
+          "Cola comprimida lateralmente para la propulsión acuática",
+          "Placas óseas dorsales duras (osteodermos)"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Ríos de agua dulce, pantanos, arroyos tropicales y lagunas estacionales",
+      "distribucionGeografica": [
+          "Australia (norte de Australia Occidental, Territorio del Norte y Queensland)"
+      ],
+      "adaptacionesHabitat": "Tolerancia a la desecación estacional mediante madrigueras subterráneas o estivación en el fango seco",
+      "descripcionHabitat": [
+          "Habita exclusivamente en los sistemas de agua dulce del norte australiano, evitando generalmente los estuarios salados donde domina el cocodrilo marino."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro generalista",
+      "presasComunes": [
+          "Peces de agua dulce",
+          "Anfibios (incluyendo ranas)",
+          "Crustáceos y pequeños mamíferos",
+          "Aves acuáticas",
+          "Reptiles e insectos"
+      ],
+      "estrategiaCaza": "Emboscada acuática silenciosa o captura rápida mediante un giro de hocico",
+      "descripcionDieta": [
+          "Utiliza su hocico delgado y afilado para golpear lateralmente el agua y atrapar peces resbaladizos con gran precisión.",
+          "Es un cazador oportunista que consume cualquier animal pequeño que se acerque a beber a la orilla."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitarios pero tolerantes y gregarios en zonas de abundante alimento o durante la sequía",
+      "rolMacho": "Defensa de territorios de aparecimiento durante la temporada reproductiva",
+      "rolHembra": "Excavación del nido en la arena y protección temporal de los huevos y crías",
+      "actividadDiaria": "Nocturna para la caza y diurna para tomar el sol en las orillas",
+      "comunicacion": [
+          "Golpes de hocico contra el agua, siseos y vocalizaciones de baja frecuencia"
+      ],
+      "descripcionComportamiento": [
+          "Son animales mayoritariamente tímidos que prefieren huir ante la presencia humana antes que mostrarse agresivos.",
+          "Durante la estación seca, pueden agruparse en las pocas pozas de agua restantes o enterrarse en el lodo húmedo."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "10-15 años",
+          "hembra": "10-15 años"
+      },
+      "periodoGestacion": "60-75 días (incubación de los huevos)",
+      "tamanoCamada": "15-20 huevos",
+      "cuidadoCrias": "Protección inicial del nido y transporte de las crías recién nacidas al agua en la boca",
+      "descripcionReproduccion": [
+          "La reproducción se lleva a cabo al inicio de la estación seca (generalmente en los meses de julio y agosto).",
+          "La madre deposita los huevos en nidos excavados en la arena de las orillas fluviales y vigila la eclosión."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como depredador tope en los ecosistemas de agua dulce del norte de Australia.",
+      "Controla las poblaciones de peces y otros animales acuáticos, manteniendo el equilibrio de los humedales."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 3,
+      "inteligencia": 5,
+      "adaptabilidad": 8,
+      "fuerza": 6,
+      "velocidad": 7,
+      "tamano": 6,
+      "majestuosidad": 7,
+      "rareza": 6,
+      "supervivencia": 8,
+      "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+      "A diferencia del temible cocodrilo marino de estuario, el de agua dulce es tímido y raramente ataca a los humanos",
+      "Su hocico es mucho más largo y estrecho que el de otros cocodrilos, diseñado específicamente para atrapar peces resbaladizos",
+      "Puede sobrevivir a la sequía extrema enterrándose en el lodo seco y entrando en un estado de letargo llamado estivación",
+      "Es una especie endémica exclusiva del continente australiano",
+      "Sus poblaciones se han visto amenazadas recientemente por la invasión de sapos de caña tóxicos que los envenenan al morderlos"
+  ]
+}
