@@ -1,0 +1,172 @@
+{
+  "id": "anaconda_verde",
+  "nombre": "Anaconda verde",
+  "nombreCientifico": "Eunectes murinus",
+  "fechaInformacion": "2026",
+
+  "imagen": "anaconda_verde.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "La anaconda verde es la serpiente más pesada del mundo y una de las más grandes en longitud.",
+      "Habita en los ríos, pantanos y selvas tropicales de Sudamérica, especialmente en las cuencas del Amazonas y el Orinoco."
+  ],
+
+  "descripcionLarga": [
+      "La anaconda verde es un reptil constrictor no venenoso de la familia Boidae. Su cuerpo es masivo y musculoso, con un patrón de coloración verde oliva oscuro salpicado de manchas negras circulares y ovaladas que le proporcionan un camuflaje perfecto entre la vegetación flotante y las aguas turbias.",
+      "Pasa la mayor parte de su vida en el agua o muy cerca de ella, ya que su gran peso corporal dificulta sus desplazamientos ágiles en tierra firme, mientras que en el medio acuático se mueve con total soltura y sigilo.",
+      "Es un depredador de emboscada que se alimenta de una amplia variedad de presas, desde aves y peces hasta grandes mamíferos y reptiles, a los cuales somete mediante estrangulamiento antes de tragarlos enteros.",
+      "Las hembras son significativamente más grandes y pesadas que los machos, un rasgo evolutivo común en muchas especies de serpientes constrictoras para maximizar su capacidad reproductiva.",
+      "Desempeña un papel ecológico fundamental como superdepredador en los ecosistemas acuáticos tropicales, regulando las poblaciones de diversas especies animales."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir hasta 10 años en libertad y más de 20 años en cautividad.",
+      "Es capaz de pasar largas horas completamente sumergida, manteniendo los ojos y las fosas nasales elevados justo en la superficie."
+  ],
+
+  "longevidad": {
+      "enLibertad": "10 años",
+      "enCautividad": "20-30 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Reptilia",
+      "orden": "Squamata",
+      "familia": "Boidae",
+      "genero": "Eunectes",
+      "especie": "E. murinus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación Menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Deforestación y destrucción de hábitats húmedos tropicales",
+          "Persecución directa y muerte por parte de humanos debido al miedo",
+          "Contaminación de los ríos por mercurio y actividades mineras",
+          "Tráfico ilegal de animales exóticos"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de áreas naturales y cuencas fluviales en Sudamérica",
+          "Educación ambiental para mitigar la caza indiscriminada",
+          "Regulación del comercio internacional de especies silvestres"
+      ],
+      "descripcionConservacion": [
+          "La anaconda verde cuenta con una amplia distribución y poblaciones estables en zonas remotas, aunque sufre amenazas locales debido a la degradación de su entorno natural."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "30-50 kg",
+          "hembraAdulta": "70-150 kg",
+          "maximoRegistrado": "250 kg"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "3-4 m",
+          "hembra": "4.5-6 m",
+          "maximoRegistrado": "8 m"
+      },
+      "colorPelaje": "Verde oliva oscuro con manchas dorsales negras y vientre amarillento",
+      "caracteristicasEspeciales": "Ojos y fosas nasales situados en la parte superior de la cabeza para respirar y vigilar sumergida",
+      "morfologia": [
+          "Cuerpo robusto, pesado y cilíndrico",
+          "Mandíbulas con ligamentos elásticos para tragar presas colosales",
+          "Escamas lisas e impermeables"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Selvas tropicales, ríos de corriente lenta, pantanos y ciénagas",
+      "distribucionGeografica": [
+          "Brasil",
+          "Colombia",
+          "Venezuela",
+          "Perú",
+          "Ecuador",
+          "Bolivia"
+      ],
+      "adaptacionesHabitat": "Anatomía adaptada a la vida acuática, camuflaje críptico en zonas cenagosas",
+      "descripcionHabitat": [
+          "Habita principalmente en las cuencas fluviales tropicales de Sudamérica, prefiriendo pantanos, arroyos de aguas tranquilas y selvas inundadas."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro (depredador ápice)",
+      "presasComunes": [
+          "Capibaras",
+          "Cerdos salvajes",
+          "Ciervos",
+          "Caimanes",
+          "Aves acuáticas",
+          "Peces grandes"
+      ],
+      "estrategiaCaza": "Emboscada acuática, captura con los dientes y constricción letal",
+      "descripcionDieta": [
+          "Caza acechando desde el agua, sujetando a la presa con sus mandíbulas y enrollando su cuerpo alrededor de ella para asfixiarla mediante constricción antes de ingerirla entera."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitaria, excepto durante la temporada de reproducción",
+      "rolMacho": "Busca activamente a las hembras formando 'bolas de reproducción'",
+      "rolHembra": "Aporta calor y protección a los embriones, siendo vivípara",
+      "actividadDiaria": "Crepuscular y nocturna",
+      "comunicacion": [
+          "Señales químicas mediante el órgano de Jacobson y la lengua bífida",
+          "Vocalizaciones mínimas en forma de siseos"
+      ],
+      "descripcionComportamiento": [
+          "Son animales de hábitos solitarios y lentos en tierra, pero extraordinariamente sigilosos y rápidos cuando atacan dentro del agua."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario (ovovivíparo)",
+      "madurezSexual": {
+          "macho": "3-4 años",
+          "hembra": "3-4 años"
+      },
+      "periodoGestacion": "6-7 meses",
+      "tamanoCamada": "20-40 crías (puede superar las 80)",
+      "cuidadoCrias": "Independencia total desde el nacimiento",
+      "descripcionReproduccion": [
+          "Se reproducen durante la estación seca en un ritual donde múltiples machos se enroscan alrededor de una única hembra formando una compleja bola de apareamiento."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Controla las poblaciones de grandes mamíferos y reptiles en los humedales tropicales.",
+      "Mantiene el equilibrio dinámico de las cadenas tróficas en los ecosistemas acuáticos amazónicos."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 6,
+      "inteligencia": 4,
+      "adaptabilidad": 8,
+      "fuerza": 10,
+      "velocidad": 5,
+      "tamano": 9,
+      "majestuosidad": 7,
+      "rareza": 6,
+      "supervivencia": 9,
+      "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+      "Es considerada la serpiente más pesada del mundo, pudiendo superar los 200 kilogramos",
+      "Al no ser venenosa, utiliza la constricción para cortar el flujo sanguíneo de su presa en lugar de asfixiarla mecánicamente",
+      "Las hembras son considerablemente más grandes y fuertes que los machos",
+      "Puede pasar semanas o incluso meses sin comer tras ingerir una presa de gran tamaño"
+  ]
+}
