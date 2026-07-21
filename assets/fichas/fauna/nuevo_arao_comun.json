@@ -1,0 +1,177 @@
+{
+  "id": "arao_comun",
+  "nombre": "Arao Común",
+  "nombreCientifico": "Uria aalge",
+  "fechaInformacion": "2026",
+
+  "imagen": "arao_comun.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El arao común es una ave marina de gran tamaño perteneciente a la familia de los álcidos, con un aspecto que recuerda lejanamente a los pingüinos debido a su plumaje bicolor.",
+      "Pasa la mayor parte de su vida en alta mar, congregándose en masivas colonias en acantilados rocosos únicamente durante la época de reproducción."
+  ],
+
+  "descripcionLarga": [
+      "El arao común es un ave marina robusta que mide entre 38 y 46 cm de longitud, con una envergadura alar de 61 a 73 cm. Su plumaje dorsal es de color marrón oscuro o negruzco, mientras que las partes inferiores son de un blanco puro contrastado.",
+      "Sus alas son cortas y estrechas, perfectamente adaptadas tanto para la propulsión bajo el agua durante la inmersión en busca de peces como para un vuelo rápido, directo y zumbador.",
+      "Anidan en densas colonias sobre repisas de acantilados costeros muy escarpados. No construyen nidos propiamente dichos; la hembra deposita su único huevo directamente sobre la roca desnuda.",
+      "Son excelentes buceadores, capaces de alcanzar profundidades superiores a los 100 metros impulsándose con las alas para capturar peces pelágicos y crustáceos.",
+      "A pesar de su apariencia torpe en tierra firme, son aves altamente migratorias y oceánicas fuera de la temporada de cría, dispersándose por aguas templadas y frías del hemisferio norte."
+  ],
+
+  "observaciones": [
+      "El huevo del arao común tiene una forma piriforme muy pronunciada, lo que evita que ruede y caiga al vacío desde las estrechas repisas de los acantilados.",
+      "Los polluelos abandonan el acantilado antes de saber volar, arrojándose al mar desde grandes alturas para reunirse con el padre en el agua."
+  ],
+
+  "longevidad": {
+      "enLibertad": "15-20 años",
+      "enCautividad": null
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Charadriiformes",
+      "familia": "Alcidae",
+      "genero": "Uria",
+      "especie": "U. aalge"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": "Decreciendo",
+      "amenazasPrincipales": [
+          "Derrames de petróleo y contaminación marina",
+          "Cambio climático y calentamiento de las aguas que reduce la disponibilidad de presas",
+          "Sobrepesca industrial",
+          "Depredación por especies introducidas en islas de cría",
+          "Atrapamiento accidental en redes de pesca"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de colonias de cría y áreas marinas importantes",
+          "Regulación y control de la contaminación por hidrocarburos",
+          "Monitoreo poblacional en acantilados de reproducción"
+      ],
+      "descripcionConservacion": [
+          "Aunque cuenta con una población global muy amplia, muchas colonias locales sufren descensos acusados debido al impacto de la actividad humana y las alteraciones térmicas de los océanos."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "750-1200 g",
+          "hembraAdulta": "750-1200 g",
+          "maximoRegistrado": null
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "38-46 cm",
+          "hembra": "38-46 cm"
+      },
+      "colorPelaje": "Marrón oscuro o negruzco en el dorso y cabeza, con vientre blanco",
+      "caracteristicasEspeciales": "Forma cónica única del huevo y morfología adaptada para el buceo con alas",
+      "morfologia": [
+          "Cuerpo fusiforme hidrodinámico",
+          "Pico largo, puntiagudo y oscuro",
+          "Patas retrasadas en el cuerpo con membranas interdigitales"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Océanos abiertos, mares boreales y templados, acantilados costeros rocosos",
+      "distribucionGeografica": [
+          "Atlántico norte",
+          "Pacífico norte",
+          "Reino Unido",
+          "Noruega",
+          "Canadá",
+          "España (norte peninsular como invernante)"
+      ],
+      "adaptacionesHabitat": "Glándulas de sal muy desarrolladas para procesar agua marina y plumas densas impermeables",
+      "descripcionHabitat": [
+          "Pasan la mayor parte del año en alta mar pelágica.",
+          "Durante la época reproductora se concentran masivamente en repisas de acantilados escarpados."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro piscívoro",
+      "presasComunes": [
+          "Arenques",
+          "Lanzones",
+          "Capelanes",
+          "Sardinas",
+          "Crustáceos marinos",
+          "Cefalópodos pequeños"
+      ],
+      "estrategiaCaza": "Buceo activo bajo el agua propulsándose con las alas",
+      "descripcionDieta": [
+          "Capturan los peces mediante persecuciones subacuáticas a gran velocidad.",
+          "Los polluelos son alimentados por los padres con peces enteros transportados en el pico."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Colonial (forman grandes grupos muy apretados en época de cría)",
+      "rolMacho": "Incubación compartida y alimentación del pollo en el mar tras el salto",
+      "rolHembra": "Puesta del huevo, incubación y defensa del sitio de nidificación",
+      "actividadDiaria": "Diurna (activos en la pesca y cuidado del nido)",
+      "comunicacion": [
+          "Rebuznos y llamadas roncas ásperas en la colonia",
+          "Señales visuales con movimientos de cabeza y posturas corporales"
+      ],
+      "descripcionComportamiento": [
+          "Anidan tan cerca unos de otros que rozan sus cuerpos, lo que genera interacciones sociales constantes y ruidosas.",
+          "Fuera de la época de cría son más solitarios o se desplazan en pequeñas bandadas marinas."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "3-5 años",
+          "hembra": "3-5 años"
+      },
+      "periodoGestacion": "30-35 días (incubación)",
+      "tamanoCamada": "1 huevo",
+      "cuidadoCrias": "Cuidado biparental intensivo hasta que el pollo se arroja al mar con el padre",
+      "descripcionReproduccion": [
+          "No construyen nido; el único huevo se deposita en la roca desnuda.",
+          "Tras unas semanas en el acantilado, el padre acompaña al pollo al mar donde continuará su desarrollo."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúan como indicadores biológicos de la salud de los ecosistemas marinos y la disponibilidad de peces pelágicos.",
+      "Sus colonias aportan nutrientes ricos en guano a los ecosistemas de los acantilados costeros."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 4,
+      "inteligencia": 5,
+      "adaptabilidad": 7,
+      "fuerza": 6,
+      "velocidad": 8,
+      "tamano": 6,
+      "majestuosidad": 5,
+      "rareza": 3,
+      "supervivencia": 7,
+      "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+      "Pueden volar a velocidades de hasta 80 km/h",
+      "Sus huevos tienen forma de pera para no caer al vacío",
+      "El pollo salta al mar con solo tres semanas de vida guiado por el padre",
+      "Son capaces de sumergirse a más de 100 metros de profundidad",
+      "Su plumaje denso les protege tanto de las gélidas aguas como de los impactos al bucear"
+  ]
+}
