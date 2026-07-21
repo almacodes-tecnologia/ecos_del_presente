@@ -1,0 +1,174 @@
+{
+  "id": "ballena_azul",
+  "nombre": "Ballena Azul",
+  "nombreCientifico": "Balaenoptera musculus",
+  "fechaInformacion": "2026",
+
+  "imagen": "ballena_azul.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "La ballena azul es el animal más grande que jamás ha existido en la Tierra, superando en tamaño a los mayores dinosaurios conocidos.",
+      "Es un mamífero marino cosmopolita que habita en todos los océanos del mundo, alimentándose casi exclusivamente de diminutos crustáceos llamados krill."
+  ],
+
+  "descripcionLarga": [
+      "La ballena azul es un cetáceo misticeto cuya longitud puede alcanzar hasta los 30 metros o más, y su peso puede superar las 150-200 toneladas. Su cuerpo es alargado y estilizado, de un tono gris azulado uniforme o jaspeado en el dorso y ligeramente más claro en el vientre.",
+      "A pesar de su colosal tamaño, es un animal pacífico que se alimenta mediante filtración. Posee barbas de ballena en lugar de dientes, las cuales utiliza para separar el agua del krill, su principal fuente de alimentación.",
+      "Realiza migraciones estacionales de gran envergadura, desplazándose hacia las frías aguas polares ricas en nutrientes durante el verano para alimentarse vorazmente, y hacia las cálidas aguas tropicales o subtropicales durante el invierno para reproducirse.",
+      "Emiten las vocalizaciones más potentes y de menor frecuencia del reino animal. Sus cantos de baja frecuencia, que pueden alcanzar los 188 decibelios, viajan cientos de kilómetros a través del océano para comunicarse con otros congéneres.",
+      "Su papel en el ecosistema oceánico es fundamental, ya que sus inmensos aportes de nutrientes mediante sus excreciones estimulan el crecimiento del fitoplancton, ayudando a capturar grandes cantidades de dióxido de carbono de la atmósfera."
+  ],
+
+  "observaciones": [
+      "El corazón de una ballena azul puede pesar tanto como un automóvil pequeño (aproximadamente 600 kg) y su lengua pesa tanto como un elefante adulto.",
+      "Un ejemplar adulto puede consumir hasta 4 toneladas de krill al día."
+  ],
+
+  "longevidad": {
+      "enLibertad": "80-90 años",
+      "enCautividad": null
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Artiodactyla",
+      "familia": "Balaenopteridae",
+      "genero": "Balaenoptera",
+      "especie": "B. musculus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "En peligro (EN)",
+      "tendenciaPoblacion": "Creciendo",
+      "amenazasPrincipales": [
+          "Colisiones con grandes buques comerciales",
+          "Atrapamiento y enredos en redes de pesca",
+          "Contaminación acústica oceánica que interfiere con su comunicación",
+          "Cambio climático y su impacto en la distribución del krill",
+          "Contaminación por plásticos y químicos en el mar"
+      ],
+      "esfuerzosConservacion": [
+          "Moratoria global de la caza comercial de ballenas impuesta por la CBI",
+          "Establecimiento de áreas marinas protegidas y corredores de navegación seguros",
+          "Monitoreo acústico y satelital de las poblaciones migratorias"
+      ],
+      "descripcionConservacion": [
+          "Tras haber sido diezmada casi hasta la extinción por la caza comercial intensiva durante el siglo XX, las poblaciones globales se están recuperando lentamente gracias a la protección internacional, aunque sigue estando clasificada como en peligro."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "100-150 toneladas",
+          "hembraAdulta": "120-180 toneladas (suelen ser ligeramente mayores)",
+          "maximoRegistrado": "Más de 190 toneladas"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "24-28 metros",
+          "hembra": "26-30 metros",
+          "maximoRegistrado": "33.5 metros"
+      },
+      "colorPelaje": "Gris azulado moteado, con un tono más claro en el vientre",
+      "caracteristicasEspeciales": "El animal más grande de la historia de la Tierra, con placas de barbas en la boca y pliegues ventrales extensibles",
+      "morfologia": [
+          "Cuerpo hidrodinámico alargado",
+          "Aleta dorsal pequeña y situada muy atrás",
+          "Grandes surcos ventrales que se expanden al tragar agua"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Océanos abiertos y aguas pelágicas de todo el mundo",
+      "distribucionGeografica": [
+          "Océano Pacífico",
+          "Océano Atlántico",
+          "Océano Índico",
+          "Océano Antártico"
+      ],
+      "adaptacionesHabitat": "Capa gruesa de grasa subcutánea para aislamiento térmico y sistema respiratorio adaptado a inmersiones profundas",
+      "descripcionHabitat": [
+          "Prefieren las aguas profundas de alta mar alejadas de las plataformas costeras.",
+          "Migran regularmente entre las zonas de alimentación polar y las zonas de reproducción tropical."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro filtrador",
+      "presasComunes": [
+          "Krill antártico",
+          "Krill del Pacífico",
+          "Pequeños crustáceos planctónicos",
+          "Pequeños peces ocasionales"
+      ],
+      "estrategiaCaza": "Embestida a alta velocidad contra densos enjambres de krill abriendo la boca y expandiendo los pliegues ventrales",
+      "descripcionDieta": [
+          "Ingiere enormes volúmenes de agua y krill de una sola vez, expulsando el agua a través de las barbas filtrantes.",
+          "Consume grandes cantidades diarias exclusivamente mediante este método de alimentación por filtración."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitarios o en parejas pequeñas (ocasionalmente forman grupos laxos de alimentación)",
+      "rolMacho": "Búsqueda de parejas y emisión de cantos de llamada",
+      "rolHembra": "Gestación, lactancia y cuidado prolongado de la cría",
+      "actividadDiaria": "Alterna inmersiones profundas para alimentarse con periodos de descanso en la superficie",
+      "comunicacion": [
+          "Infrasonidos de baja frecuencia (cantos audibles a cientos de kilómetros)",
+          "Golpes de aleta y saltos ocasionales en superficie"
+      ],
+      "descripcionComportamiento": [
+          "Son animales mayoritariamente solitarios, aunque pueden viajar acompañados de otra ballena durante la temporada migratoria.",
+          "Sus inmersiones de caza suelen durar entre 10 y 20 minutos antes de emerger para respirar."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+      "madurezSexual": {
+          "macho": "5-10 años",
+          "hembra": "5-10 años"
+      },
+      "periodoGestacion": "10-12 meses",
+      "tamanoCamada": "1 cría",
+      "cuidadoCrias": "Lactancia materna prolongada durante aproximadamente 6-7 meses",
+      "descripcionReproduccion": [
+          "La reproducción y el nacimiento ocurren generalmente en aguas cálidas de bajas latitudes durante el invierno.",
+          "Las crías nacen con un tamaño descomunal (alrededor de 7-8 metros y 3 toneladas) y ganan peso rápidamente gracias a la leche materna rica en grasas."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Su presencia y ciclos vitales estimulan el crecimiento del fitoplancton marino mediante el ciclo de nutrientes ('bomba de ballenas').",
+      "Contribuyen de forma directa a la captura de carbono oceánico a gran escala."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 1,
+      "inteligencia": 8,
+      "adaptabilidad": 7,
+      "fuerza": 10,
+      "velocidad": 6,
+      "tamano": 10,
+      "majestuosidad": 10,
+      "rareza": 8,
+      "supervivencia": 6,
+      "impactoEcologico": 10
+  },
+
+  "curiosidades": [
+      "Es el animal más grande que ha existido en la historia del planeta Tierra",
+      "Su lengua pesa tanto como un elefante adulto y su corazón como un coche pequeño",
+      "Sus vocalizaciones son los sonidos más potentes emitidos por cualquier animal",
+      "Una cría recién nacida gana cerca de 90 kg de peso cada día durante su periodo de lactancia",
+      "A pesar de su tamaño colosal, se alimenta casi exclusivamente de diminutos crustáceos"
+  ]
+}
