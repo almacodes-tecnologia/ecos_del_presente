@@ -1,0 +1,168 @@
+{
+  "id": "buey_almizclero",
+  "nombre": "Buey Almizclero",
+  "nombreCientifico": "Ovibos moschatus",
+  "fechaInformacion": "2026",
+
+  "imagen": "buey_almizclero.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El buey almizclero es un mamífero artiodáctilo adaptado de forma extrema para sobrevivir en las gélidas y desoladas regiones de la tundra ártica.",
+      "Se reconoce instantáneamente por su larguísima y densa melena marrón oscuro que casi roza el suelo, y por sus pesados cuernos curvados que forman un escudo protector sobre su frente."
+  ],
+
+  "descripcionLarga": [
+      "El buey almizclero es un animal robusto y de aspecto prehistórico que habita en las zonas más frías del norte de Canadá, Groenlandia y Alaska. Su rasgo más característico es su doble capa de pelo: una capa exterior de cerdas larguísimas y ásperas, y una capa interna de vellón extremadamente denso y fino conocido como qiviut, que es hasta ocho veces más abrigado que la lana de oveja.",
+      "A pesar de su nombre común y de su apariencia bovina, está genéticamente más emparentado con las cabras y las ovejas dentro de la subfamilia Caprinae. Su cuerpo masivo está perfectamente diseñado para conservar el calor corporal y soportar temperaturas que pueden descender muy por debajo de los cero grados.",
+      "Viven en manadas estables para defenderse de los depredadores árticos como los lobos grises y los osos pardos. Cuando se sienten amenazados, adoptan una famosa formación defensiva en círculo cerrado con las crías en el centro y los adultos mirando hacia afuera con los cuernos listos.",
+      "Durante los duros inviernos árticos, utilizan sus anchos cascos y potentes hocicos para romper la nieve y alimentarse de líquenes, musgos y hierbas congeladas que logran hallar en la superficie.",
+      "Su nombre proviene del fuerte olor almizclado que los machos segregan y utilizan durante la época de celo para marcar territorio y atraer a las hembras."
+  ],
+
+  "observaciones": [
+      "A pesar de su volumen y aparente lentitud, pueden alcanzar velocidades de hasta 60 km/h en carreras cortas si necesitan huir o cargar contra un intruso.",
+      "El qiviut (su capa de lana interior) se desprende de forma natural en primavera y es recolectado por algunos artesanos para elaborar prendas de lujo extremadamente valoradas."
+  ],
+
+  "longevidad": {
+      "enLibertad": "12-20 años",
+      "enCautividad": "24 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Artiodactyla",
+      "familia": "Bovidae",
+      "genero": "Ovibos",
+      "especie": "O. moschatus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Cambio climático y deshielo ártico que provoca eventos de lluvia sobre nieve, dificultando el acceso al alimento",
+          "Enfermedades y parásitos favorecidos por el aumento de temperaturas en el norte",
+          "Caza de subsistencia regulada por comunidades indígenas",
+          "Depredación ocasional por osos y lobos ante la alteración de sus hábitats"
+      ],
+      "esfuerzosConservacion": [
+          "Gestión rigurosa de las cuotas de caza de subsistencia",
+          "Monitoreo constante de las poblaciones en parques nacionales de Canadá y Groenlandia",
+          "Proyectos de reintroducción en áreas históricas como Siberia y Noruega"
+      ],
+      "descripcionConservacion": [
+          "Las poblaciones globales son estables gracias a las medidas de protección y reintroducción aplicadas en el norte de Europa y Asia, aunque siguen enfrentando serios riesgos derivados del rápido calentamiento del Ártico."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "200-410 kg",
+          "hembraAdulta": "200-300 kg",
+          "maximoRegistrado": "450 kg"
+      },
+      "alturaHombro": {
+          "macho": "1.2-1.5 m",
+          "hembra": "1.1-1.3 m"
+      },
+      "longitudCuerpoCola": {
+          "macho": "2.0-2.5 m",
+          "hembra": "1.8-2.2 m"
+      },
+      "colorPelaje": "Marrón oscuro a negro con reflejos grisáceos y una franja clara en el lomo",
+      "caracteristicasEspeciales": "Pelaje extremadamente largo que casi llega al suelo y cuernos unidos en una base ósea ancha sobre la frente",
+      "morfologia": [
+          "Cuerpo robusto con hombros altos y espalda ligeramente curvada",
+          "Patas cortas y fuertes con pezuñas anchas para caminar sobre la nieve",
+          "Ausencia de cola visible bajo el denso pelaje protector"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Tundra ártica, llanuras polares abiertas y laderas montañosas rocosas",
+      "distribucionGeografica": [
+          "Canadá (Territorios del Noroeste y Nunavut)",
+          "Groenlandia",
+          "Estados Unidos (Alaska)",
+          "Noruega (introducido)",
+          "Rusia (introducido en Siberia)"
+      ],
+      "adaptacionesHabitat": "Aislamiento térmico supremo gracias al qiviut y patas diseñadas para excavar en la nieve compacta",
+      "descripcionHabitat": [
+          "Habitan las regiones más septentrionales del planeta donde la mayor parte del año el suelo permanece congelado.",
+          "Buscan zonas expuestas al viento donde la acumulación de nieve es menor para facilitar la búsqueda de alimento."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Herbívoro rumiante",
+      "presasComunes": null,
+      "estrategiaCaza": null,
+      "descripcionDieta": [
+          "Se alimentan de brotes de sauce ártico, líquenes, musgos, raíces y gramíneas.",
+          "Durante el invierno escarban la nieve con sus pezuñas y hocico para desenterrar plantas secas y brotes soterrados."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Viven en manadas familiares de entre 10 y 20 individuos lideradas por una hembra dominante",
+      "rolMacho": "Protección de la periferia del grupo y combates rituales por el dominio durante el celo",
+      "rolHembra": "Liderazgo de la ruta de alimentación y cuidado principal de las crías",
+      "actividadDiaria": "Diurna y constante durante las cortas horas de luz de la tundra",
+      "comunicacion": [
+          "Rugidos y resoplidos roncos durante las confrontaciones",
+          "Señales olfativas mediante la secreción de glándulas almizcleras"
+      ],
+      "descripcionComportamiento": [
+          "Ante el ataque de depredadores como los lobos, adoptan instintivamente la formación en círculo defensivo.",
+          "Los machos compiten en la época de reproducción chocando sus pesadas cornamentas a gran velocidad."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+      "madurezSexual": {
+          "macho": "3-4 años",
+          "hembra": "2-3 años"
+      },
+      "periodoGestacion": "8-9 meses",
+      "tamanoCamada": "1 cría",
+      "cuidadoCrias": "Lactancia y protección severa por parte de la madre y la manada durante el primer año",
+      "descripcionReproduccion": [
+          "El celo se produce en los meses de otoño, periodo en el que los machos dominantes arrean y defienden sus harenes.",
+          "Los nacimientos ocurren en plena primavera (abril o mayo), cuando las condiciones del Ártico empiezan a volverse ligeramente más favorables."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Representan un eslabón fundamental en la red trófica de la tundra ártica como consumidores primarios de vegetación resistente.",
+      "Sus hábitos de pastoreo y movilidad contribuyen a la dispersión de nutrientes en suelos pobres de la región polar."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 6,
+      "inteligencia": 5,
+      "adaptabilidad": 9,
+      "fuerza": 9,
+      "velocidad": 5,
+      "tamano": 8,
+      "majestuosidad": 8,
+      "rareza": 7,
+      "supervivencia": 10,
+      "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+      "Su pelaje interno, llamado qiviut, es ocho veces más cálido que la lana de oveja",
+      "Adoptan una formación circular defensiva idéntica contra los lobos desde la época de la última Edad de Hielo",
+      "Están más emparentados con las cabras y ovejas que con los verdaderos bueyes y toros",
+      "Los machos chocan sus cabezas con tanta fuerza durante el celo que el impacto puede escucharse a un kilómetro de distancia",
+      "Sobrevivieron a la extinción de la megafauna del Pleistoceno gracias a su extrema especialización en el clima polar"
+  ]
+}
