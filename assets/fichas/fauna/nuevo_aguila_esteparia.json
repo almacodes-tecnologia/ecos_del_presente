@@ -1,0 +1,172 @@
+{
+  "id": "aguila_esteparia",
+  "nombre": "Águila esteparia",
+  "nombreCientifico": "Aquila nipalensis",
+  "fechaInformacion": "2025",
+
+  "imagen": "aguila_esteparia.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El águila esteparia es una gran ave rapaz diurna que habita en las vastas llanuras y estepas de Eurasia.",
+      "Es una especie migratoria que realiza largos desplazamientos estacionales para pasar el invierno en África y el sur de Asia."
+  ],
+
+  "descripcionLarga": [
+      "El águila esteparia es un ave robusta de gran envergadura perteneciente a la familia Accipitridae. Su plumaje general es de color marrón oscuro, destacando a menudo una mancha de color pálido o rojizo en la nuca. Los ejemplares jóvenes presentan bandas claras distintivas en las alas.",
+      "Es un depredador oportunista y versátil que se alimenta principalmente de pequeños mamíferos, especialmente roedores como las ardillas de tierra y los hámsteres, aunque también puede consumir carroña y aves.",
+      "Durante la época de reproducción, construye grandes nidos en el suelo, en salientes rocosos o en árboles bajos dentro de su hábitat abierto. Sus poblaciones han sufrido un notable declive debido a la transformación de las estepas en tierras de cultivo y al uso de rodenticidas.",
+      "Su vuelo es potente y majestuoso, aprovechando las corrientes térmicas para planear durante horas sobre los espacios abiertos en busca de alimento.",
+      "Desempeña un papel ecológico fundamental como depredador tope en los ecosistemas esteparios, ayudando a regular las poblaciones de roedores."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir más de 20 años en libertad.",
+      "Es el ave nacional de Kazajistán y aparece representada en su bandera."
+  ],
+
+  "longevidad": {
+      "enLibertad": "15-20 años",
+      "enCautividad": "30 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Accipitriformes",
+      "familia": "Accipitridae",
+      "genero": "Aquila",
+      "especie": "A. nipalensis"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "En Peligro (EN)",
+      "tendenciaPoblacion": "Decreciendo",
+      "amenazasPrincipales": [
+          "Conversión de estepas y pastizales en agricultura intensiva",
+          "Electrocución en tendidos eléctricos de alta tensión",
+          "Uso de venenos y rodenticidas que reducen sus presas",
+          "Molestias humanas en áreas de nidificación",
+          "Caza ilegal"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de zonas de nidificación e invernada",
+          "Modificación y aislamiento de postes eléctricos peligrosos",
+          "Programas internacionales de seguimiento por satélite"
+      ],
+      "descripcionConservacion": [
+          "El águila esteparia ha experimentado un rápido declive en gran parte de su área de distribución principal, lo que ha llevado a catalogarla como especie en peligro de extinción a nivel global."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "2.0-3.5 kg",
+          "hembraAdulta": "2.5-4.9 kg",
+          "maximoRegistrado": "5.5 kg"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "62-72 cm",
+          "hembra": "65-81 cm"
+      },
+      "colorPelaje": "Marrón oscuro uniforme con una mancha clara ocasional en la nuca",
+      "caracteristicasEspeciales": "Gran envergadura alar de hasta 2 metros y pico robusto",
+      "morfologia": [
+          "Cuerpo pesado y robusto",
+          "Algas anchas con extremos dactilados para planear",
+          "Garras fuertes y afiladas adaptadas para sujetar presas vivas"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Estepas abiertas, sabanas, semidesiertos y praderas",
+      "distribucionGeografica": [
+          "Rusia",
+          "Kazajistán",
+          "Mongolia",
+          "China",
+          "Kenia",
+          "Sudáfrica"
+      ],
+      "adaptacionesHabitat": "Visión aguda a larga distancia, tolerancia a climas continentales extremos",
+      "descripcionHabitat": [
+          "Prefiere vastas extensiones abiertas de terreno llano o ligeramente ondulado donde la vegetación baja facilita la detección de presas."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro (depredador y carroñero)",
+      "presasComunes": [
+          "Ardillas de tierra",
+          "Hámsteres",
+          "Topillos",
+          "Liebres",
+          "Aves medianas",
+          "Carroña"
+      ],
+      "estrategiaCaza": "Acecho desde el suelo, vuelo bajo o planeo sobre la estepa",
+      "descripcionDieta": [
+          "Caza principalmente en el suelo lanzándose sobre los roedores, aunque también puede capturar aves en vuelo o aprovechar restos de animales muertos."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitaria o en parejas durante la reproducción; bandos en migración",
+      "rolMacho": "Construcción del nido, defensa territorial y aporte de comida",
+      "rolHembra": "Incubación principal de los huevos y cuidado de los polluelos",
+      "actividadDiaria": "Diurna",
+      "comunicacion": [
+          "Llamadas ásperas y ladridos cortos cerca del nido",
+          "Silbidos de cortejo"
+      ],
+      "descripcionComportamiento": [
+          "Son aves territoriales en su área de cría, formando parejas monógamas que suelen reutilizar el mismo nido año tras año."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "4-5 años",
+          "hembra": "4-5 años"
+      },
+      "periodoGestacion": "45 días de incubación",
+      "tamanoCamada": "1-3 huevos",
+      "cuidadoCrias": "Cuidado parental compartido hasta que los jóvenes aprenden a volar",
+      "descripcionReproduccion": [
+          "Construyen nidos voluminosos hechos de ramas secas y arbustos, situados habitualmente en el suelo, rocas o estructuras bajas."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Controla las poblaciones de roedores e insectos grandes en las llanuras esteparias.",
+      "Actúa como indicador clave de la salud ambiental de los ecosistemas abiertos de Asia central."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 6,
+      "inteligencia": 7,
+      "adaptabilidad": 5,
+      "fuerza": 8,
+      "velocidad": 7,
+      "tamano": 8,
+      "majestuosidad": 9,
+      "rareza": 7,
+      "supervivencia": 6,
+      "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+      "Es el ave nacional de Kazajistán y figura de honor en su estandarte",
+      "Puede recorrer miles de kilómetros cruzando continentes durante sus migraciones invernales",
+      "A diferencia de otras águilas, con frecuencia anida directamente en el suelo de la estepa",
+      "Tiene una vista capaz de detectar pequeños roedores a cientos de metros de altura"
+  ]
+}
