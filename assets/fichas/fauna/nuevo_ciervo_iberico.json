@@ -1,0 +1,164 @@
+{
+  "id": "ciervo_iberico",
+  "nombre": "Ciervo Ibérico",
+  "nombreCientifico": "Cervus elaphus hispanicus",
+  "fechaInformacion": "2026",
+
+  "imagen": "ciervo_iberico.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El ciervo ibérico es una subespecie endémica del ciervo común que habita de forma característica en la península ibérica.",
+      "Es uno de los herbívoros silvestres de mayor tamaño en los ecosistemas mediterráneos, famoso por la espectacular cornamenta que desarrollan los machos."
+  ],
+
+  "descripcionLarga": [
+      "El ciervo ibérico es un mamífero rumiante de cuerpo robusto y esbelto, adaptado a la carrera y a moverse con agilidad por terrenos forestales y matorrales. Presenta un dimorfismo sexual evidente: los machos son notablemente más grandes y robustos que las hembras y desarrollan una impresionante cornamenta ramificada de hueso que se renueva anualmente.",
+      "Su pelaje cambia según la estación del año; durante el verano es corto, de un tono rojizo brillante o pardo claro, mientras que en invierno se vuelve más denso, largo y de colores grises o pardos oscuros para protegerse de las bajas temperaturas.",
+      "Viven en grupos sociales segregados fuera de la época de reproducción: las hembras, las crías y los ejemplares jóvenes forman manadas matrilineales estables, mientras que los machos adultos suelen ser solitarios o se agrupan en pequeños bandos de machos.",
+      "Desempeñan un papel ecológico fundamental en el equilibrio de los bosques mediterráneos y dehesas, actuando como dispersores de semillas y controlando la vegetación arbustiva mediante su pastoreo y ramoneo.",
+      "Su época más emblemática es la berrea, que ocurre al final del verano y principios del otoño, momento en el cual los machos compiten por las hembras emitiendo potentes bramidos y chocando sus astas."
+  ],
+
+  "observaciones": [
+      "La caída de la cuerna o desmogue ocurre todos los años al final del invierno, comenzando a crecer una nueva inmediatamente después protegida por una capa pilosa llamada terciopelo.",
+      "Es una especie cinegética de gran importancia socioeconómica y cultural en la península ibérica."
+  ],
+
+  "longevidad": {
+      "enLibertad": "10-14 años",
+      "enCautividad": "20 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Artiodactyla",
+      "familia": "Cervidae",
+      "genero": "Cervus",
+      "especie": "C. elaphus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": "Creciendo",
+      "amenazasPrincipales": [
+          "Fragmentación de hábitats por infraestructuras y carreteras",
+          "Enfermedades infecciosas compartidas con el ganado doméstico",
+          "Sobrepoblación en algunas áreas debido a la escasez de grandes depredadores naturales",
+          "Caza furtiva en zonas no controladas"
+      ],
+      "esfuerzosConservacion": [
+          "Planes técnicos de caza sostenible y control de poblaciones",
+          "Protección y conservación de montes mediterráneos y parques naturales",
+          "Corredores ecológicos para evitar el aislamiento genético"
+      ],
+      "descripcionConservacion": [
+          "Las poblaciones del ciervo ibérico se encuentran en expansión y gozan de buena salud general en toda la península, gestionándose activamente tanto en cotos de caza como en espacios naturales protegidos."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "100-150 kg",
+          "hembraAdulta": "70-100 kg",
+          "maximoRegistrado": "Más de 170 kg"
+      },
+      "alturaHombro": {
+          "macho": "1.2-1.3 m",
+          "hembra": "1.0-1.1 m"
+      },
+      "longitudCuerpoCola": {
+          "macho": "1.7-2.0 m",
+          "hembra": "1.6-1.8 m"
+      },
+      "colorPelaje": "Rojizo o pardo claro en verano, grisáceo oscuro en invierno",
+      "caracteristicasEspeciales": "Cornamenta ramificada de hueso en los machos adultos y mancha clara en la zona anal (espejo)",
+      "morfologia": [
+          "Cuerpo esbelto con extremidades largas y ágiles",
+          "Cuello musculoso y alargado",
+          "Hocico ancho con grandes orejas móviles y ojos laterales"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Bosques mediterráneos, dehesas, matorrales y zonas montañosas",
+      "distribucionGeografica": [
+          "España",
+          "Portugal"
+      ],
+      "adaptacionesHabitat": "Gran movilidad estacional y dieta flexible basada en recursos forestales y herbáceos",
+      "descripcionHabitat": [
+          "Habita principalmente en los montes, sierras y dehesas del centro, sur y oeste de la península ibérica.",
+          "Busca zonas con cobertura forestal que le ofrezcan refugio durante el día y pastizales abiertos para alimentarse."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Herbívoro mixto (ramoneador y pastor)",
+      "presasComunes": null,
+      "estrategiaCaza": null,
+      "descripcionDieta": [
+          "Su dieta varía según la estación: consume pastos tiernos en primavera y otoño, y ramonea brotes, hojas de arbustos, cortezas y frutos silvestres (como bellotas) durante el verano y el invierno."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Manadas separadas por sexos fuera de la época de reproducción",
+      "rolMacho": "Competencia territorial y reproducción mediante la defensa de harenes en la berrea",
+      "rolHembra": "Liderazgo de la manada familiar y crianza de los cervatillos",
+      "actividadDiaria": "Crepuscular y nocturna (pastorean al amanecer y al atardecer, descansando a cubierto el resto del día)",
+      "comunicacion": [
+          "Bramidos profundos y prolongados de los machos durante la berrea",
+          "Llamadas cortas de alerta y chasquidos nasales"
+      ],
+      "descripcionComportamiento": [
+          "Son animales muy cautelosos dotados de un agudo sentido del olfato y del oído.",
+          "Durante la época de la berrea, los machos cambian por completo su comportamiento pacífico habitual para volverse territoriales y competitivos."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+      "madurezSexual": {
+          "macho": "2-3 años",
+          "hembra": "16-18 meses"
+      },
+      "periodoGestacion": "8 meses (aproximadamente 230-240 días)",
+      "tamanoCamada": "1 cervatillo (raramente 2)",
+      "cuidadoCrias": "Cuidado maternal exclusivo, ocultando al cervatillo entre la vegetación los primeros días de vida",
+      "descripcionReproduccion": [
+          "La época de celo o berrea tiene lugar entre septiembre y octubre.",
+          "Los nacimientos de los cervatillos se producen en plena primavera (mayo y junio), cuando el alimento es abundante."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como dispersor clave de semillas de árboles y arbustos del bosque mediterráneo.",
+      "Es una pieza fundamental de la red trófica al servir de alimento principal para grandes depredadores protegidos como el lince ibérico y el lobo."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 5,
+      "inteligencia": 6,
+      "adaptabilidad": 8,
+      "fuerza": 7,
+      "velocidad": 8,
+      "tamano": 7,
+      "majestuosidad": 9,
+      "rareza": 4,
+      "supervivencia": 8,
+      "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+      "Los machos pierden su pesada cornamenta todos los años al final del invierno, volviendo a crecer desde cero en pocos meses",
+      "El bramido de los machos durante la berrea puede escucharse a kilómetros de distancia en las frías noches de otoño",
+      "Los cervatillos nacen con un pelaje cubierto de motas blancas que actúan como camuflaje perfecto frente a los depredadores",
+      "Es una subespecie endémica de la península ibérica, ligeramente más pequeña que el ciervo común centroeuropeo",
+      "Su presencia es vital para la supervivencia del amenazado lince ibérico, que depende en parte de ellos como presa"
+  ]
+}
