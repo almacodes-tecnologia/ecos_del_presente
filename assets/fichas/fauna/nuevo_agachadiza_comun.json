@@ -1,0 +1,171 @@
+{
+  "id": "agachadiza_comun",
+  "nombre": "Agachadiza común",
+  "nombreCientifico": "Gallinago gallinago",
+  "fechaInformacion": "2025",
+
+  "imagen": "agachadiza_comun.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "La agachadiza común es un ave limícola conocida por su largo pico recto y su plumaje críptico.",
+      "Habita en humedales y praderas húmedas, donde pasa desapercibida gracias a su excelente camuflaje."
+  ],
+
+  "descripcionLarga": [
+      "La agachadiza común es un ave migratoria de la familia Scolopacidae. Su característica más distintiva es su pico extremadamente largo y flexible, dotado de corpúsculos táctiles en la punta que le permiten detectar lombrices e invertebrados bajo el fango.",
+      "Su plumaje presenta un patrón de listas marrones, negras y doradas que le proporciona un camuflaje perfecto entre la vegetación palustre y los juncos. Cuando se siente amenazada, suele permanecer inmóvil hasta el último segundo antes de emprender un vuelo zigzagueante y rápido.",
+      "Durante la época de reproducción, los machos realizan vuelos acrobáticos de cortejo característicos, produciendo un sonido zumbante o balido al hacer vibrar las plumas exteriores de su cola con el viento al descender en picado.",
+      "Prefiere hábitats fangosos, marismas, orillas de ríos y praderas inundables donde pueda sondear el suelo húmedo en busca de alimento de manera constante.",
+      "Desempeña un papel importante en los ecosistemas acuáticos al regular las poblaciones de invertebrados del suelo y servir de presa para diversas aves rapaces y mamíferos."
+  ],
+
+  "observaciones": [
+      "Es un ave muy difícil de ver en reposo debido a su extraordinario mimetismo.",
+      "Las poblaciones del norte de Europa migran hacia el sur y suroeste de Europa y África durante el invierno."
+  ],
+
+  "longevidad": {
+      "enLibertad": "5-8 años",
+      "enCautividad": null
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Charadriiformes",
+      "familia": "Scolopacidae",
+      "genero": "Gallinago",
+      "especie": "G. gallinago"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación Menor (LC)",
+      "tendenciaPoblacion": "Decreciendo",
+      "amenazasPrincipales": [
+          "Drenaje y destrucción de humedales y marismas",
+          "Intensificación agrícola y uso de pesticidas",
+          "Pérdida de praderas húmedas tradicionales",
+          "Caza deportiva en determinadas regiones"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de zonas húmedas clave y espacios Natura 2000",
+          "Gestión de niveles de agua en reservas naturales",
+          "Regulación de los periodos de caza"
+      ],
+      "descripcionConservacion": [
+          "Aunque sigue estando ampliamente distribuida y cuenta con una población global considerable, su tendencia poblacional es decreciente debido a la alteración y pérdida de hábitats húmedos en gran parte de su área de distribución."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "80-140 g",
+          "hembraAdulta": "80-140 g",
+          "maximoRegistrado": "160 g"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "25-27 cm",
+          "hembra": "25-27 cm"
+      },
+      "colorPelaje": "Rayado en tonos marrones, negros y ocres con listas claras en la cabeza y dorso",
+      "caracteristicasEspeciales": "Pico recto extremadamente largo y sensible, ojos situados muy atrás en la cabeza",
+      "morfologia": [
+          "Cuerpo rechoncho y compacto",
+          "Pico largo, recto y flexible adaptado para sondear",
+          "Patas de longitud media adaptadas para caminar sobre lodo blando"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Humedales, marismas, turberas, praderas inundables",
+      "distribucionGeografica": [
+          "España",
+          "Reino Unido",
+          "Francia",
+          "Alemania",
+          "Escandinavia",
+          "Rusia"
+      ],
+      "adaptacionesHabitat": "Pico táctil para caza bajo el lodo, plumaje críptico para evitar depredadores",
+      "descripcionHabitat": [
+          "Habita en terrenos abiertos con suelos blandos y fangosos, bordes de lagunas, marismas y prados inundados con vegetación baja."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro / Invertebrívoro",
+      "presasComunes": [
+          "Lombrices de tierra",
+          "Larvas de insectos acuáticos",
+          "Escarabajos",
+          "Caracoles pequeños",
+          "Pequeños crustáceos",
+          "Semillas y materia vegetal ocasional"
+      ],
+      "estrategiaCaza": "Sondeo continuo del lodo o suelo blando introduciendo el pico verticalmente",
+      "descripcionDieta": [
+          "Utiliza su largo pico como una pinza táctil para localizar y capturar presas enterradas en el fango sin necesidad de verlas."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitaria o en pequeños grupos dispersos durante la migración",
+      "rolMacho": "Realiza vuelos de exhibición y territorialidad",
+      "rolHembra": "Incubación de los huevos y crianza de los polluelos",
+      "actividadDiaria": "Crepuscular y nocturna principalmente, aunque activa todo el día",
+      "comunicacion": [
+          "Llamadas ásperas de alarma al despegar",
+          "Zumbido o balido aéreo con la cola durante el cortejo"
+      ],
+      "descripcionComportamiento": [
+          "Es un ave discreta y esquiva que confía plenamente en su mimetismo, levantando el vuelo de forma repentina y con trayectoria irregular si se le molesta."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "1 año",
+          "hembra": "1 año"
+      },
+      "periodoGestacion": "18-20 días de incubación",
+      "tamanoCamada": "4 huevos",
+      "cuidadoCrias": "Cuidado parental compartido o asumido principalmente por la hembra",
+      "descripcionReproduccion": [
+          "Construye el nido en el suelo, bien oculto entre la hierba alta o los juncos, utilizando hierbas secas y hojas."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Contribuye a la regulación de las poblaciones de invertebrados en los suelos de los humedales.",
+      "Actúa como bioindicador de la salud y conservación de los ecosistemas palustres."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 2,
+      "inteligencia": 5,
+      "adaptabilidad": 6,
+      "fuerza": 2,
+      "velocidad": 6,
+      "tamano": 2,
+      "majestuosidad": 3,
+      "rareza": 4,
+      "supervivencia": 7,
+      "impactoEcologico": 5
+  },
+
+  "curiosidades": [
+      "Su vuelo de huida es famoso por ser completamente zigzagueante para confundir a los depredadores",
+      "Produce un sonido similar al balido de una oveja utilizando las plumas de su cola en picado",
+      "Tiene los ojos colocados tan atrás en la cabeza que puede ver hacia atrás mientras sondea el lodo",
+      "Es capaz de tragar a sus presas bajo el agua o el fango sin necesidad de sacar el pico"
+  ]
+}
