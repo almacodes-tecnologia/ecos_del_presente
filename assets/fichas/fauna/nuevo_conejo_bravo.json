@@ -1,0 +1,165 @@
+{
+  "id": "conejo_bravo",
+  "nombre": "Conejo Bravo",
+  "nombreCientifico": "Oryctolagus cuniculus",
+  "fechaInformacion": "2026",
+
+  "imagen": "conejo_bravo.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El conejo bravo, también conocido como conejo silvestre o común, es un pequeño mamífero lagomorfo originario de la península ibérica y el suroeste de Francia.",
+      "Es una pieza clave en los ecosistemas mediterráneos y el antecesor directo de todas las razas de conejos domésticos del mundo."
+  ],
+
+  "descripcionLarga": [
+      "El conejo bravo es un animal de tamaño pequeño, con un cuerpo compacto, orejas largas y prominentes con puntas oscuras, y extremidades posteriores adaptadas para la carrera rápida y los saltos cortos. Su pelaje es de un característico tono pardo grisáceo o agutí, lo que le proporciona un camuflaje excelente entre la vegetación baja.",
+      "Viven en complejos sistemas de galerías subterráneas llamados madrigueras o conejeras, formando colonias gregarias de estructura social jerárquica muy organizada. Son animales eminentemente crepusculares y nocturnos, pasando las horas centrales del día protegidos bajo tierra.",
+      "Su dieta es estrictamente herbívora, compuesta por una gran variedad de gramíneas, brotes tiernos, cortezas, raíces y hojas silvestres. Al igual que otros lagomorfos, practican la cecatrofia (ingesta de ciertos excrementos ricos en nutrientes) para optimizar su digestión.",
+      "Desempeña un papel ecológico absolutamente crucial en el monte mediterráneo, siendo considerado una especie clave e ingeniero de ecosistemas, ya que su actividad modifica el paisaje y sostiene a decenas de depredadores amenazados.",
+      "Históricamente ha sufrido graves declives poblacionales debido a epizootias como la mixomatosis y la enfermedad hemorrágica vírica (EHV), que diezmaron drásticamente sus poblaciones silvestres."
+  ],
+
+  "observaciones": [
+      "Es el pilar fundamental de la red trófica ibérica, siendo el alimento básico de especies en peligro crítico de extinción como el lince ibérico y el águila imperial ibérica.",
+      "Se reproduce con una velocidad asombrosa, lo que le ha valido el reconocimiento popular por su alta capacidad de fertilidad."
+  ],
+
+  "longevidad": {
+      "enLibertad": "1-2 años (raramente superan los 3-4 años debido a la alta presión de depredación)",
+      "enCautividad": "8-10 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Lagomorpha",
+      "familia": "Leporidae",
+      "genero": "Oryctolagus",
+      "especie": "O. cuniculus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "En peligro (EN) a nivel global en su área de origen / Preocupación menor en zonas introducidas",
+      "tendenciaPoblacion": "Fluctuante",
+      "amenazasPrincipales": [
+          "Enfermedades víricas mortales como la mixomatosis y la enfermedad hemorrágica vírica (EHV)",
+          "Pérdida y fragmentación del hábitat natural por la intensificación agrícola y forestal",
+          "Sobreexplotación cinegética en determinadas zonas",
+          "Abandono del medio rural que provoca el cierre y densificación de los matorrales"
+      ],
+      "esfuerzosConservacion": [
+          "Programas de recuperación de hábitats y creación de tocónes y madrigueras artificiales",
+          "Vacunación experimental y seguimiento sanitario de poblaciones silvestres",
+          "Gestión sostenible de cotos de caza y repoblaciones controladas"
+      ],
+      "descripcionConservacion": [
+          "Curiosamente, a pesar de estar catalogado como especie en peligro en su hogar ancestral ibérico debido a las epidemias, es considerado una de las peores especies invasoras del planeta en lugares donde fue introducido por el ser humano (como Australia o Nueva Zelanda)."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "1.2-2.0 kg",
+          "hembraAdulta": "1.2-2.0 kg",
+          "maximoRegistrado": "2.5 kg"
+      },
+      "alturaHombro": {
+          "macho": "20-25 cm",
+          "hembra": "20-25 cm"
+      },
+      "longitudCuerpoCola": {
+          "macho": "34-45 cm",
+          "hembra": "34-45 cm"
+      },
+      "colorPelaje": "Pardo grisáceo o agutí en el dorso, con vientre y parte inferior de la cola blancos",
+      "caracteristicasEspeciales": "Orejas largas con el extremo superior negro y patas traseras alargadas para la huida explosiva",
+      "morfologia": [
+          "Cuerpo robusto y ovalado",
+          "Cabeza redondeada con grandes ojos laterales para un amplio campo visual",
+          "Incisivos de crecimiento continuo adaptados para roer"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Matorrales mediterráneos, dehesas, pastizales, linderos de bosques y zonas agrícolas",
+      "distribucionGeografica": [
+          "Península ibérica (España y Portugal)",
+          "Suroeste de Francia",
+          "Introducido en numerosas regiones de todo el mundo"
+      ],
+      "adaptacionesHabitat": "Capacidad de excavación subterránea para crear madrigueras protectoras y termorreguladas",
+      "descripcionHabitat": [
+          "Prefiere terrenos secos, con suelos blandos y fáciles de excavar, provistos de matorral bajo que le ofrezca refugio cercano frente a los depredadores."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Herbívoro estricto",
+      "presasComunes": null,
+      "estrategiaCaza": null,
+      "descripcionDieta": [
+          "Se alimenta de hierbas silvestres, gramíneas, brotes tiernos, hojas, raíces y cortezas de arbustos jóvenes.",
+          "Consume selectivamente plantas ricas en proteínas y energía, adaptándose a la disponibilidad estacional del monte."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Altamente gregario, vive en colonias organizadas en complejos familiares con jerarquías estrictas",
+      "rolMacho": "Marcaje del territorio con letrinas y defensa frente a machos intrusos",
+      "rolHembra": "Excavación y preparación del nido de cría individual (garbillo) tapizado con su propio pelo",
+      "actividadDiaria": "Crepuscular y nocturna (salen a ramonear al amanecer y al atardecer)",
+      "comunicacion": [
+          "Golpes secos en el suelo con las patas traseras para advertir del peligro a la colonia",
+          "Chillidos agudos cuando son atrapados por un depredador"
+      ],
+      "descripcionComportamiento": [
+          "Son animales muy cautelosos que rara vez se alejan a más de unas pocas decenas de su madriguera principal.",
+          "La vida social en la colonia proporciona ventajas defensivas frente a la multitud de depredadores que los acechan."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+      "madurezSexual": {
+          "macho": "3-4 meses",
+          "hembra": "3-4 meses"
+      },
+      "periodoGestacion": "28-31 días",
+      "tamanoCamada": "3-7 gazapos por parto",
+      "cuidadoCrias": "Cuidado maternal muy breve y exclusivo (la madre visita el nido apenas unos minutos al día para amamantar)",
+      "descripcionReproduccion": [
+          "La época reproductora es muy amplia, coincidiendo principalmente con la primavera y las primeras lluvias otoñales.",
+          "Las hembras pueden tener múltiples camadas al año, compensando con su alta tasa de natalidad la enorme mortalidad natural."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Es la piedra angular de la biodiversidad mediterránea, siendo presa básica de más de 40 especies de depredadores ibéricos.",
+      "Modifica la estructura de la vegetación y airea los suelos con sus madrigueras, favoreciendo la germinación de ciertas plantas."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 2,
+      "inteligencia": 4,
+      "adaptabilidad": 9,
+      "fuerza": 2,
+      "velocidad": 9,
+      "tamano": 2,
+      "majestuosidad": 3,
+      "rareza": 2,
+      "supervivencia": 6,
+      "impactoEcologico": 10
+  },
+
+  "curiosidades": [
+      "Es el antecesor silvestre de todas las razas de conejos domésticos que existen hoy en día en el mundo",
+      "Su papel ecológico en la península ibérica es tan vital que sin él colapsarían especies en peligro crítico como el lince ibérico",
+      "Practican la cecatrofia, ingiriendo excrementos especiales ricos en vitaminas para aprovechar al máximo los nutrientes de su dieta",
+      "Avisa al resto de la conejera del peligro dando fuertes golpes contra el suelo con sus patas traseras",
+      "Irónicamente, en su hogar de origen está amenazado de extinción por enfermedades, mientras que en países donde fue introducido es una plaga devastadora"
+  ]
+}
