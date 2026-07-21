@@ -1,0 +1,168 @@
+{
+  "id": "antilope_saiga",
+  "nombre": "Antílope saiga",
+  "nombreCientifico": "Saiga tatarica",
+  "fechaInformacion": "2026",
+
+  "imagen": "antilope_saiga.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El antílope saiga es un mamífero artiodáctilo inconfundible debido a su hocico en forma de trompa corta y abultada.",
+      "Habita en las vastas estepas y semiáridos de Asia Central."
+  ],
+
+  "descripcionLarga": [
+      "El antílope saiga es un bóvido de tamaño medio adaptado de forma excepcional a los climas extremos de las estepas euroasiáticas. Su característica más distintiva es su hocico carnoso, flexible y en forma de probóscide corta, el cual actúa como un filtro natural para calentar el aire frío en invierno y retener el polvo durante el verano.",
+      "Los machos poseen cuernos anillados de un característico color ámbar o céreo, de forma ligeramente liras, mientras que las hembras carecen de ellos. Son animales altamente gregarios que forman grandes manadas estacionales para realizar migraciones masivas en busca de pastos.",
+      "Su pelaje cambia drásticamente entre estaciones: es denso, largo y de color blanquecino en invierno para soportar temperaturas bajo cero, y corto, de tonos canela o marrón claro, en verano.",
+      "Se alimentan de una gran variedad de plantas de la estepa, incluyendo especies que resultan tóxicas o poco apetecibles para otros herbívoros.",
+      "Desempeña un papel fundamental en los ecosistemas de estepa y pastizales abiertos como ramoneador y componente clave de la cadena trófica para los depredadores de la región."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir entre 6 y 10 años en libertad.",
+      "Sufrió una epidemia devastadora en 2015 que acabó con más de la mitad de su población mundial en cuestión de semanas debido a una bacteria oportunista."
+  ],
+
+  "longevidad": {
+      "enLibertad": "6-10 años",
+      "enCautividad": "12-15 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Artiodactyla",
+      "familia": "Bovidae",
+      "genero": "Saiga",
+      "especie": "S. tatarica"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "En Peligro Crítico (CR)",
+      "tendenciaPoblacion": "Creciendo",
+      "amenazasPrincipales": [
+          "Caza furtiva intensiva para la obtención de cuernos (usados en medicina tradicional asiática)",
+          "Enfermedades infecciosas masivas favorecidas por el cambio climático",
+          "Fragmentación del hábitat por infraestructuras y vallas fronterizas",
+          "Rigurosos inviernos extremos (zhet</td>)"
+      ],
+      "esfuerzosConservacion": [
+          "Protección legal estricta y patrullas anti-furtivos en Kazajistán y Rusia",
+          "Proyectos internacionales de reintroducción y monitoreo satelital",
+          "Creación de reservas naturales y corredores ecológicos"
+      ],
+      "descripcionConservacion": [
+          "Aunque sigue clasificada como En Peligro Crítico debido a su vulnerabilidad ante epizootias y la caza furtiva, los estrictos programas de conservación han permitido una notable recuperación de sus poblaciones en los últimos años."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "36-50 kg",
+          "hembraAdulta": "20-40 kg",
+          "maximoRegistrado": "60 kg"
+      },
+      "alturaHombro": {
+          "macho": "0.6-0.8 m",
+          "hembra": "0.6-0.75 m"
+      },
+      "longitudCuerpoCola": {
+          "macho": "1.0-1.4 m",
+          "hembra": "1.0-1.4 m"
+      },
+      "colorPelaje": "Canela o marrón claro en verano, blanco denso en invierno",
+      "caracteristicasEspeciales": "Hocico abultado en forma de trompa y cuernos anillados de color ámbar en los machos",
+      "morfologia": [
+          "Cuerpo robusto con extremidades delgadas",
+          "Hocico alargado con fosas nasales internas filtrantes",
+          "Orejas y cola cortas para minimizar la pérdida de calor"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Estepas abiertas, semiáridos y llanuras desérticas",
+      "distribucionGeografica": [
+          "Kazajistán",
+          "Rusia",
+          "Mongolia",
+          "Uzbekistán"
+      ],
+      "adaptacionesHabitat": "Probóscide para filtrar aire frío y polvo, capacidad para realizar largas migraciones estacionales",
+      "descripcionHabitat": [
+          "Habita planicies abiertas de estepa y semi desiertos donde la vegetación baja permite una visibilidad amplia y facilita las carreras de huida."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Herbívoro (ramoneador y pastador)",
+      "presasComunes": [
+          "Pastos de estepa",
+          "Plantas suculentas",
+          "Artemisas",
+          "Liquenes",
+          "Hierbas halófitas"
+      ],
+      "estrategiaCaza": "Pastoreo activo en grandes grupos recorriendo grandes extensiones de terreno",
+      "descripcionDieta": [
+          "Se alimenta de una amplia variedad de plantas herbáceas y arbustos de la estepa, incluyendo especies con alto contenido de sal y toxinas que desechan otros animales."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Altamente gregario, forma manadas de miles de individuos durante las migraciones",
+      "rolMacho": "Competir por harenes de hembras durante la época de celo (rut)",
+      "rolHembra": "Crianza colectiva temporal y cuidado de los saiginos en la primavera",
+      "actividadDiaria": "Diurna",
+      "comunicacion": [
+          "Bramidos y resoplidos roncos emitidos por los machos en celo",
+          "Llamadas de contacto agudas entre madres y crías"
+      ],
+      "descripcionComportamiento": [
+          "Son animales nómadas por naturaleza, famosos por realizar migraciones estacionales de cientos de kilómetros huyendo de las nieves profundas o buscando pastos frescos."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+      "madurezSexual": {
+          "macho": "1-2 años",
+          "hembra": "8 meses - 1 año"
+      },
+      "periodoGestacion": "140-150 días (unos 5 meses)",
+      "tamanoCamada": "1-2 crías (mellizos comunes)",
+      "cuidadoCrias": "Las crías permanecen camufladas en el suelo los primeros días de vida",
+      "descripcionReproduccion": [
+          "Las hembras paren de forma sincronizada en grandes guarderías estacionales durante la primavera, lo que satura la capacidad de los depredadores locales."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Regula la vegetación herbácea y de arbustos en los frágiles ecosistemas de estepa asiática.",
+      "Constituye una fuente de alimento esencial para grandes carnívoros esteparios como el lobo."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 3,
+      "inteligencia": 5,
+      "adaptabilidad": 7,
+      "fuerza": 5,
+      "velocidad": 9,
+      "tamano": 5,
+      "majestuosidad": 6,
+      "rareza": 9,
+      "supervivencia": 6,
+      "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+      "Su extraña trompa actúa como un sistema de aire acondicionado natural que filtra el polvo y calienta el aire gélido antes de llegar a los pulmones",
+      "Las hembras dan a luz de forma casi simultánea en un periodo de pocos días para confundir y abrumar a los depredadores",
+      "Es uno de los mamíferos supervivientes de la denominada megafauna del Pleistoceno que aún camina por la Tierra",
+      "Los machos pueden llegar a morir de agotamiento absoluto tras el intenso periodo de celo debido a la defensa constante de sus harenes"
+  ]
+}
