@@ -1,0 +1,169 @@
+{
+  "id": "acentor_alpino",
+  "nombre": "Acentor alpino",
+  "nombreCientifico": "Prunella collaris",
+  "fechaInformacion": "2025",
+
+  "imagen": "acentor_alpino.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El acentor alpino es un ave pequeña adaptada a vivir en las altas cumbres montañosas.",
+      "Es conocido por su comportamiento confiado ante la presencia humana en zonas turísticas de alta montaña."
+  ],
+
+  "descripcionLarga": [
+      "El acentor alpino es un ave paseriforme de la familia Prunellidae que habita en zonas montañosas elevadas por encima del límite de los árboles. Su plumaje combina tonos grises, pardos y un babero blanquecino moteado de negro que le proporciona un camuflaje excelente entre las rocas.",
+      "A pesar de su hábitat extremo, es un ave sedentaria o parcialmente migratoria, realizando cortos desplazamientos altitudinales hacia los valles durante los inviernos más rigurosos.",
+      "Posee un pico fino y puntiagudo adaptado para capturar insectos y picotear semillas en el suelo rocoso o entre la nieve. Su sistema social es complejo, presentando a menudo sistemas de reproducción polinandros o monógamos.",
+      "Busca constantemente alimento caminando de forma saltarina por las rocas y pastizales alpinos, mostrando una gran agilidad en terrenos escarpados.",
+      "Desempeña un papel importante en la cadena trófica de alta montaña como consumidor primario de semillas e insectos y presa para pequeños rapaces."
+  ],
+
+  "observaciones": [
+      "Suele acercarse a refugios de montaña y estaciones de esquí para aprovechar restos de comida dejados por los humanos.",
+      "Es capaz de sobrevivir a temperaturas bajo cero gracias a su denso plumaje y rápido metabolismo."
+  ],
+
+  "longevidad": {
+      "enLibertad": "3-5 años",
+      "enCautividad": null
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Passeriformes",
+      "familia": "Prunellidae",
+      "genero": "Prunella",
+      "especie": "P. collaris"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación Menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Cambio climático y calentamiento global",
+          "Modificación de hábitats de alta montaña",
+          "Aumento de la actividad turística descontrolada"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de parques nacionales y naturales",
+          "Monitoreo de poblaciones en áreas alpinas"
+      ],
+      "descripcionConservacion": [
+          "El acentor alpino cuenta con poblaciones estables y amplias, aunque el cambio climático representa una amenaza a largo plazo debido al retroceso de las zonas frías de alta montaña."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "35-45 g",
+          "hembraAdulta": "35-45 g",
+          "maximoRegistrado": "50 g"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "15-18 cm",
+          "hembra": "15-18 cm"
+      },
+      "colorPelaje": "Gris, pardo, blanco moteado de negro en la garganta y flancos rojizos",
+      "caracteristicasEspeciales": "Babero blanco punteado de negro y flancos estriados de castaño",
+      "morfologia": [
+          "Cuerpo compacto y redondeado",
+          "Pico fino y cónico adaptado a insectos",
+          "Patas robustas para caminar sobre rocas"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Praderas alpinas, roquedos, cumbres montañosas",
+      "distribucionGeografica": [
+          "España",
+          "Francia",
+          "Italia",
+          "Suiza",
+          "Austria",
+          "Grecia"
+      ],
+      "adaptacionesHabitat": "Resistencia al frío extremo, capacidad de movimiento en pendientes rocosas y nieve",
+      "descripcionHabitat": [
+          "Habita por encima de la línea arbolada, prefiriendo laderas rocosas, pedregales y praderas alpinas expuestas."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Omnívoro (principalmente insectívoro y granívoro)",
+      "presasComunes": [
+          "Insectos alpinos",
+          "Larvas",
+          "Arañas",
+          "Semillas",
+          "Pequeños frutos silvestres",
+          "Restos de comida humana"
+      ],
+      "estrategiaCaza": "Búsqueda activa en el suelo, picoteo entre rocas y grietas",
+      "descripcionDieta": [
+          "Durante la primavera y verano se alimenta principalmente de insectos y artrópodos, complementando su dieta con semillas y restos vegetales el resto del año."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Pequeños grupos familiares o bandos invernales",
+      "rolMacho": "Participa en la alimentación y defensa del territorio",
+      "rolHembra": "Incubación y cuidado de los polluelos",
+      "actividadDiaria": "Diurna",
+      "comunicacion": [
+          "Canto melodioso y agudo",
+          "Llamadas de contacto cortas"
+      ],
+      "descripcionComportamiento": [
+          "Son aves activas y sociables fuera de la época de reproducción, moviéndose en pequeños bandos que buscan alimento de forma coordinada."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "1 año",
+          "hembra": "1 año"
+      },
+      "periodoGestacion": "13-15 días de incubación",
+      "tamanoCamada": "3-5 huevos",
+      "cuidadoCrias": "Alimentación compartida por los parentales y a veces ayudantes",
+      "descripcionReproduccion": [
+          "Construyen nidos en forma de cuenco ocultos entre rocas o grietas, hechos de musgo y hierba seca."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Contribuye al control de poblaciones de insectos en ecosistemas de alta montaña.",
+      "Sirve como eslabón en la cadena alimentaria para aves rapaces y pequeños mamíferos alpinos."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 2,
+      "inteligencia": 6,
+      "adaptabilidad": 9,
+      "fuerza": 2,
+      "velocidad": 5,
+      "tamano": 2,
+      "majestuosidad": 4,
+      "rareza": 5,
+      "supervivencia": 8,
+      "impactoEcologico": 4
+  },
+
+  "curiosidades": [
+      "Muy confiado con los senderistas en cumbres nevadas",
+      "Puede reproducirse en sistemas de crianza cooperativa complejos",
+      "Reside en los hábitats más fríos y elevados de Europa",
+      "Busca comida activamente incluso en medio de ventiscas"
+  ]
+}
