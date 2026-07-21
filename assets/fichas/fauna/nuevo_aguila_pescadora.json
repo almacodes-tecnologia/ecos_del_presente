@@ -1,0 +1,171 @@
+{
+  "id": "aguila_pescadora",
+  "nombre": "Águila pescadora",
+  "nombreCientifico": "Pandion haliaetus",
+  "fechaInformacion": "2025",
+
+  "imagen": "aguila_pescadora.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El águila pescadora es una rapaz diurna cosmopolita especializada exclusivamente en la captura de peces.",
+      "Es una de las aves rapaces con mayor distribución geográfica del mundo, presente en todos los continentes excepto en la Antártida."
+  ],
+
+  "descripcionLarga": [
+      "El águila pescadora es la única especie de la familia Pandionidae. Su plumaje combina partes inferiores blancas con un antifaz oscuro en los ojos y partes superiores de color marrón oscuro.",
+      "Está perfectamente adaptada para la pesca: posee dedos externos reversibles, plantas de los dedos cubiertas de espículas córneas antideslizantes para sujetar peces resbaladizos, y una glándula uropigial muy desarrollada que impermeabiliza su plumaje.",
+      "Cuando caza, vuela en círculos sobre el agua o se cernie en el aire y, al avistar una presa, se precipita en picado sumergiéndose por completo para atraparla con sus garras.",
+      "Construye grandes nidos de ramas en la copa de árboles altos, acantilados o estructuras artificiales cercanas a masas de agua dulce o salada.",
+      "Juega un papel ecológico crucial como depredador tope en los ecosistemas acuáticos y costeros, ayudando a mantener la salud de las poblaciones de peces."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir entre 15 y 20 años en libertad.",
+      "Al despegar del agua tras una inmersión, sacude intensamente su plumaje al igual que un perro para eliminar el exceso de humedad."
+  ],
+
+  "longevidad": {
+      "enLibertad": "15-20 años",
+      "enCautividad": "25-30 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Accipitriformes",
+      "familia": "Pandionidae",
+      "genero": "Pandion",
+      "especie": "P. haliaetus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación Menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Contaminación del agua por pesticidas y metales pesados",
+          "Destrucción y alteración de hábitats costeros y ribereños",
+          "Colisión con tendidos eléctricos",
+          "Molestias humanas en las áreas de nidificación"
+      ],
+      "esfuerzosConservacion": [
+          "Programas de reintroducción en zonas donde se había extinguido",
+          "Instalación de plataformas artificiales para la nidificación",
+          "Protección legal estricta de sus lugares de cría"
+      ],
+      "descripcionConservacion": [
+          "Tras sufrir fuertes declives a mediados del siglo XX debido al uso de DDT, las poblaciones mundiales se han recuperado significativamente gracias a las estrictas medidas de protección ambiental."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "1.2-1.6 kg",
+          "hembraAdulta": "1.6-2.0 kg",
+          "maximoRegistrado": "2.4 kg"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "50-58 cm",
+          "hembra": "52-60 cm"
+      },
+      "colorPelaje": "Blanco en el vientre y cabeza con una máscara marrón oscura, dorso pardo oscuro",
+      "caracteristicasEspeciales": "Dedos reversibles y garras curvadas con escamas espinosas para sujetar peces",
+      "morfologia": [
+          "Cuerpo esbelto con alas largas y angulares",
+          "Plumaje denso e impermeable",
+          "Pico fuerte, ganchudo y afilado"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Costas marinas, estuarios, lagos, embalses y ríos caudalosos",
+      "distribucionGeografica": [
+          "España",
+          "Estados Unidos",
+          "Canadá",
+          "Australia",
+          "Suecia",
+          "Senegal"
+      ],
+      "adaptacionesHabitat": "Visión polarizada capaz de penetrar el reflejo del agua, plumas impermeables",
+      "descripcionHabitat": [
+          "Habita en áreas cercanas a cuerpos de agua abiertos, tanto dulceacuícolas como marinos, donde la abundancia de peces garantiza su sustento."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro / Piscívoro",
+      "presasComunes": [
+          "Truchas",
+          "Lucios",
+          "Mújoles",
+          "Carpas",
+          "Lenguados",
+          "Ocasionalmente pequeños mamíferos o aves"
+      ],
+      "estrategiaCaza": "Vuelo de exploración, picado vertical y sumersión completa en el agua",
+      "descripcionDieta": [
+          "Su dieta se compone casi en un 99% de peces vivos que captura lanzándose en picado desde el aire a gran velocidad."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitaria, aunque forma parejas monógamas estacionales",
+      "rolMacho": "Captura la mayor parte del alimento para la hembra y los polluelos",
+      "rolHembra": "Incubación de los huevos y cuidado directo de las crías en el nido",
+      "actividadDiaria": "Diurna",
+      "comunicacion": [
+          "Silbidos agudos y estridentes de alarma o llamada",
+          "Chillidos de cortejo"
+      ],
+      "descripcionComportamiento": [
+          "Son aves migratorias en gran parte de su área de distribución, capaces de volar miles de kilómetros entre sus cuarteles de reproducción e invernada."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "3-4 años",
+          "hembra": "3-4 años"
+      },
+      "periodoGestacion": "35-40 días de incubación",
+      "tamanoCamada": "2-4 huevos",
+      "cuidadoCrias": "Cuidado parental compartido, con roles bien definidos entre el macho y la hembra",
+      "descripcionReproduccion": [
+          "Construyen nidos voluminosos hechos de ramas y materiales flotantes en árboles altos, postes o rocas, reutilizándolos año tras año."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Funciona como indicador de la salud y calidad de los ecosistemas acuáticos.",
+      "Regula las poblaciones de peces en los hábitats donde habita."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 5,
+      "inteligencia": 7,
+      "adaptabilidad": 9,
+      "fuerza": 7,
+      "velocidad": 8,
+      "tamano": 7,
+      "majestuosidad": 9,
+      "rareza": 4,
+      "supervivencia": 8,
+      "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+      "Es una de las pocas aves rapaces del mundo con un dedo exterior reversible",
+      "Puede sumergirse por completo bajo el agua para atrapar presas a más de un metro de profundidad",
+      "Tiene una membrana nictitante transparente que actúa como gafas de buceo al entrar en el agua",
+      "Realiza espectaculares vuelos acrobáticos de cortejo portando un pez en las garras"
+  ]
+}
