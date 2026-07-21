@@ -1,0 +1,170 @@
+{
+  "id": "comadreja",
+  "nombre": "Comadreja",
+  "nombreCientifico": "Mustela nivalis",
+  "fechaInformacion": "2026",
+
+  "imagen": "comadreja.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "La comadreja común es el carnívoro de menor tamaño de todo el mundo.",
+      "Es un pequeño mamífero esbelto y extraordinariamente ágil, famoso por su valentía, velocidad y voracidad a la hora de cazar presas mucho mayores que ella."
+  ],
+
+  "descripcionLarga": [
+      "La comadreja común posee un cuerpo extremadamente alargado, flexible y cilíndrico, con patas muy cortas y una cola corta. Los machos adultos miden entre 15 y 23 centímetros de longitud corporal y pesan apenas entre 50 y 250 gramos, siendo las hembras notablemente más pequeñas.",
+      "Su pelaje es de un tono marrón rojizo o pardo en el dorso y la cabeza, mientras que el vientre y la garganta son de color blanco puro. En las regiones frías del norte de su área de distribución, su pelaje se vuelve completamente blanco durante el invierno para camuflarse en la nieve.",
+      "Tiene un metabolismo sumamente acelerado, lo que le obliga a cazar y consumir grandes cantidades de alimento diariamente para mantener su temperatura corporal y sobrevivir.",
+      "Es una cazadora solitaria, audaz y sumamente agresiva con sus presas, utilizando una mordedura letal en la nuca para inmovilizar a roedores que a veces la superan en peso.",
+      "Ocupa una gran variedad de hábitats, desde bosques y praderas hasta zonas agrícolas y rocosas, demostrando una altísima capacidad de adaptación."
+  ],
+
+  "observaciones": [
+      "A pesar de su diminuto tamaño, no duda en enfrentarse a animales mucho más grandes si se siente acorralada o defiende su territorio.",
+      "Desempeña un papel agrícola muy beneficioso al controlar de forma natural las plagas de ratones y topillos en los campos cultivados."
+  ],
+
+  "longevidad": {
+      "enLibertad": "1-3 años",
+      "enCautividad": "8-10 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Carnivora",
+      "familia": "Mustelidae",
+      "genero": "Mustela",
+      "especie": "M. nivalis"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Uso indiscriminado de rodenticidas y plaguicidas en zonas agrícolas",
+          "Pérdida y fragmentación de hábitats de matorral y linderos",
+          "Atropellos en carreteras rurales",
+          "Depredación ocasional por aves rapaces y mamíferos mayores"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de los linderos, setos y hábitats tradicionales agrarios",
+          "Regulación del uso de productos químicos tóxicos en el campo"
+      ],
+      "descripcionConservacion": [
+          "Goza de una distribución muy amplia en el hemisferio norte y poblaciones estables, por lo que no enfrenta un riesgo de extinción global."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "70-250 g",
+          "hembraAdulta": "50-120 g",
+          "maximoRegistrado": "300 g"
+      },
+      "alturaHombro": {
+          "macho": "5-6 cm",
+          "hembra": "4-5 cm"
+      },
+      "longitudCuerpoCola": {
+          "macho": "20-27 cm",
+          "hembra": "16-22 cm"
+      },
+      "colorPelaje": "Marrón rojizo en el dorso y blanco puro en el vientre",
+      "caracteristicasEspeciales": "Cuerpo serpenteante ultracompacto y cambio estacional de color a blanco en zonas de alta montaña o frío extremo",
+      "morfologia": [
+          "Cuerpo extremadamente alargado y flexible",
+          "Extremidades muy cortas con garras afiladas",
+          "Cabeza pequeña con orejas redondeadas y hocico puntiagudo"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Bosques abiertos, praderas, campos agrícolas, matorrales y zonas rocosas",
+      "distribucionGeografica": [
+          "Europa",
+          "Asia",
+          "Norteamérica",
+          "Norte de África"
+      ],
+      "adaptacionesHabitat": "Capacidad de deslizarse por madrigueras subterráneas estrechas gracias a su fisonomía tubular",
+      "descripcionHabitat": [
+          "Prefiere áreas con abundante cobertura vegetal baja, muros de piedra y montones de ramas donde abunden los roedores.",
+          "Se adapta con facilidad tanto a llanuras agrícolas como a zonas montañosas elevadas."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro estricto",
+      "presasComunes": [
+          "Topillos y ratones de campo",
+          "Ratas jóvenes",
+          "Conejos y liebres pequeñas",
+          "Anfibios e insectos",
+          "Aves y huevos"
+      ],
+      "estrategiaCaza": "Acecho sigiloso seguido de un salto rápido y mordedura letal en la nuca de la presa",
+      "descripcionDieta": [
+          "Basada casi en su totalidad en pequeños mamíferos roedores, a los que persigue incluso dentro de sus propias galerías subterráneas."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitarios y muy territoriales fuera de la época de celo",
+      "rolMacho": "Marcaje y patrullaje de amplios territorios que solapan con los de varias hembras",
+      "rolHembra": "Crianza y cuidado exclusivo de la camada en nidos subterráneos",
+      "actividadDiaria": "Catemeral (activos tanto de día como de noche de forma intermitente)",
+      "comunicacion": [
+          "Chillidos agudos, siseos de amenaza y marcaje con glándulas anales"
+      ],
+      "descripcionComportamiento": [
+          "Son animales hiperactivos, audaces y curiosos que pasan el día investigando cada rincón de su territorio en busca de presas.",
+          "Su metabolismo requiere que cacen constantemente, alternando breves periodos de sueño con intensa actividad."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+      "madurezSexual": {
+          "macho": "3-4 meses",
+          "hembra": "3-4 meses"
+      },
+      "periodoGestacion": "34-37 días",
+      "tamanoCamada": "4-8 crías",
+      "cuidadoCrias": "Cuidado maternal exclusivo en madrigueras tapizadas con pelo y hierba",
+      "descripcionReproduccion": [
+          "La reproducción puede ocurrir en cualquier época del año si hay abundancia de alimento, aunque suele concentrarse en primavera y verano.",
+          "Las crías nacen ciegas y desnudas, desarrollándose con gran rapidez para comenzar a cazar junto a la madre a las pocas semanas."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como un controlador biológico natural extraordinariamente eficaz de las poblaciones de roedores y plagas agrícolas.",
+      "Forma parte de la base alimentaria de medianos y grandes depredadores como aves rapaces y zorros."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 9,
+      "inteligencia": 6,
+      "adaptabilidad": 9,
+      "fuerza": 2,
+      "velocidad": 9,
+      "tamano": 1,
+      "majestuosidad": 3,
+      "rareza": 5,
+      "supervivencia": 9,
+      "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+      "Es el mamífero carnívoro más pequeño del mundo entero",
+      "Su cuerpo es tan flexible y delgado que puede atravesar cualquier agujero o madriguera donde quepa su cabeza",
+      "En climas muy fríos experimenta un cambio radical de color, mudando su pelaje marrón por uno completamente blanco de camuflaje",
+      "Tiene un apetito voraz y necesita comer diariamente el equivalente a una gran parte de su propio peso corporal",
+      "A pesar de su minúsculo tamaño, posee un temperamento sumamente feroz y audaz ante presas mucho más grandes"
+  ]
+}
