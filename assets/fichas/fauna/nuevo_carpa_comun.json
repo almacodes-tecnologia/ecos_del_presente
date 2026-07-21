@@ -1,0 +1,174 @@
+{
+  "id": "carpa_comun",
+  "nombre": "Carpa Común",
+  "nombreCientifico": "Cyprinus carpio",
+  "fechaInformacion": "2026",
+
+  "imagen": "carpa_comun.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "La carpa común es un pez de agua dulce de gran adaptabilidad, originario de Asia y Europa, que ha sido introducido en casi todo el mundo.",
+      "Es conocida por su resistencia extrema a condiciones ambientales adversas y por ser la antecesora de las carpas ornamentales o koi."
+  ],
+
+  "descripcionLarga": [
+      "La carpa común es un pez de cuerpo robusto, ligeramente comprimido por los flancos, con una cabeza moderada y una boca protráctil provista de cuatro barbillas táctiles en las comisuras. Su coloración varía desde el verde oliva oscuro o dorado en el dorso hasta tonalidades más claras y amarillentas en el vientre.",
+      "Posee una aleta dorsal larga con un radio aserrado y fuerte. Dependiendo de la variedad, su cuerpo puede estar completamente recubierto de escamas regulares, tener escamas grandes e irregulares (carpa de espejo) o carecer casi por completo de ellas (carpa cueros o desnuda).",
+      "Es una especie bentónica y omnívora que se alimenta removiendo el fondo fangoso en busca de insectos, larvas, crustáceos, moluscos y materia vegetal, lo que a menudo altera la turbidez del agua.",
+      "Destaca por su extraordinaria longevidad y su capacidad para sobrevivir en aguas con bajos niveles de oxígeno disuelto, altas temperaturas y altos índices de contaminación orgánica.",
+      "En muchas regiones fuera de su área de distribución original, está considerada como una especie invasora altamente destructiva para los ecosistemas acuáticos locales debido a su hábito de remover el sedimento y desenterrar la vegetación."
+  ],
+
+  "observaciones": [
+      "Puede alcanzar un tamaño y peso considerables dependiendo del hábitat y la disponibilidad de alimento, registrándose ejemplares excepcionales de más de 30 kg.",
+      "En Japón, la selección de mutaciones de color de esta especie dio origen a los famosos peces ornamentales conocidos como koi."
+  ],
+
+  "longevidad": {
+      "enLibertad": "20 años (pudiendo superar los 30 en condiciones óptimas)",
+      "enCautividad": "Más de 40 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Actinopterygii",
+      "orden": "Cypriniformes",
+      "familia": "Cyprinidae",
+      "genero": "Cyprinus",
+      "especie": "C. carpio"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Vulnerable (VU)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Degradación y alteración de los cursos fluviales y humedales",
+          "Contaminación industrial y agrícola de las cuencas hidrográficas",
+          "Construcción de presas que interrumpen sus rutas de migración para desovar",
+          "Competencia e hibridación con otras especies de peces introducidas"
+      ],
+      "esfuerzosConservacion": [
+          "Regulación de la pesca deportiva y comercial en determinadas cuencas",
+          "Planes de control y erradicación en ecosistemas donde actúa como especie invasora dañina",
+          "Restauración de cauces fluviales y humedales naturales"
+      ],
+      "descripcionConservacion": [
+          "Irónicamente, aunque en su hábitat nativo de Asia central y el Danubio se encuentra amenazada y catalogada como vulnerable, en el resto del mundo es una de las especies invasoras más extendidas y abundantes."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "2-10 kg",
+          "hembraAdulta": "3-15 kg",
+          "maximoRegistrado": "Más de 40 kg"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "40-80 cm",
+          "hembra": "50-90 cm",
+          "maximoRegistrado": "1.2 metros"
+      },
+      "colorPelaje": "Dorado verdoso en el dorso, flancos dorados y vientre amarillento o blanquecino",
+      "caracteristicasEspeciales": "Cuatro barbillas táctiles alrededor de la boca y un radio aserrado fuerte en la aleta dorsal",
+      "morfologia": [
+          "Cuerpo robusto y fusiforme ligeramente comprimido",
+          "Boca protráctil dirigida hacia abajo para succionar alimento del fondo",
+          "Aletas pectorales y pélvicas amplias"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Lagos, embalses, estanques de poca corriente, ríos de llanura y pantanos",
+      "distribucionGeografica": [
+          "Europa",
+          "Asia",
+          "Norteamérica",
+          "Sudamérica",
+          "África",
+          "Australia"
+      ],
+      "adaptacionesHabitat": "Tolerancia fisiológica excepcional a la hipoxia (bajos niveles de oxígeno) y a un amplio rango de temperaturas",
+      "descripcionHabitat": [
+          "Prefiere aguas cálidas, lentas o estancadas con fondos fangosos y abundante vegetación acuática.",
+          "Se adapta con gran facilidad tanto a embalses artificiales como a canales de riego y zonas de marismas."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Omnívoro oportunista",
+      "presasComunes": [
+          "Larvas de insectos acuáticos",
+          "Crustáceos bentónicos",
+          "Moluscos y pequeños caracoles de agua dulce",
+          "Gusanos y anélidos",
+          "Algas y restos de materia vegetal"
+      ],
+      "estrategiaCaza": "Succión del sedimento del fondo y filtración de partículas alimenticias mediante las barbillas",
+      "descripcionDieta": [
+          "Utiliza su boca extensible para remover el fango del fondo, aspirando arena y sedimentos que luego filtra para retener los organismos comestibles y expulsar el resto."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Gregarios, forman bancos o cardúmenes de tamaño variable",
+      "rolMacho": "Persecución activa de la hembra y liberación de esperma durante el desove en vegetación",
+      "rolHembra": "Selección de zonas someras con plantas para depositar los huevos adhesivos",
+      "actividadDiaria": "Activos principalmente durante el día y el crepúsculo",
+      "comunicacion": [
+          "Vibraciones corporales y señales químicas en el agua"
+      ],
+      "descripcionComportamiento": [
+          "Son peces muy cautelosos pero activos, que suelen grupar en zonas de escasa profundidad durante la primavera para reproducirse.",
+          "Durante el invierno reducen su actividad metabólica y se aletargan cerca del fondo fangoso."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "2-3 años",
+          "hembra": "3-4 años"
+      },
+      "periodoGestacion": "3-8 días (incubación de los huevos según la temperatura del agua)",
+      "tamanoCamada": "Cientos de miles de huevos por hembra (hasta un millón)",
+      "cuidadoCrias": "Sin cuidado parental tras la puesta",
+      "descripcionReproduccion": [
+          "El desove se produce en primavera o principios de verano cuando la temperatura del agua supera los 18°C.",
+          "Los huevos son liberados entre la vegetación sumergida, donde se adhieren firmemente a las plantas hasta la eclosión de las larvas."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Funciona como un modificador drástico del hábitat al alterar la turbidez del agua y eliminar la vegetación sumergida mediante la remoción del fondo.",
+      "Es base de la pesca deportiva y de la acuicultura en numerosas regiones del mundo."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 2,
+      "inteligencia": 4,
+      "adaptabilidad": 10,
+      "fuerza": 8,
+      "velocidad": 5,
+      "tamano": 7,
+      "majestuosidad": 4,
+      "rareza": 2,
+      "supervivencia": 10,
+      "impactoEcologico": 9
+  },
+
+  "curiosidades": [
+      "Es el antecesor directo de los peces koi ornamentales criados en estanques de todo el mundo",
+      "Tiene una resistencia legendaria capaz de sobrevivir fuera del agua húmedo durante bastante tiempo si se mantiene fresco",
+      "Es una de las especies de peces de agua dulce más introducidas y cultivadas en la historia de la humanidad",
+      "Al remover el fango del fondo para alimentarse, puede aumentar significativamente la turbidez del agua y destruir los hábitats de otras especies nativas",
+      "En algunas culturas asiáticas simboliza la perseverancia, la fortuna y la longevidad"
+  ]
+}
