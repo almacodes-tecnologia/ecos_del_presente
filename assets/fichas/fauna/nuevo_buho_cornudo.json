@@ -1,0 +1,174 @@
+{
+  "id": "buho_cornudo",
+  "nombre": "Búho Cornudo",
+  "nombreCientifico": "Bubo virginianus",
+  "fechaInformacion": "2026",
+
+  "imagen": "buho_cornudo.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El búho cornudo, también conocido como gran búho cornudo o búho virginiano, es una poderosa ave rapaz nocturna nativa del continente americano.",
+      "Se distingue fácilmente por sus penachos de plumas en la cabeza que simulan cuernos y su extraordinaria adaptabilidad a casi cualquier tipo de hábitat."
+  ],
+
+  "descripcionLarga": [
+      "El búho cornudo es un ave robusta y de gran tamaño, con una longitud que varía entre los 43 y 63 cm y una envergadura alar de hasta un metro y medio. Su plumaje está intrincadamente moteado en tonos marrones, grises, negros y blancos, proporcionándole un camuflaje perfecto contra la corteza de los árboles.",
+      "Sus penachos auriculares, que no son orejas reales sino plumas ornamentales, le dan su nombre característico y se cree que los utiliza para expresar estado de ánimo o camuflarse entre las ramas. Posee unos grandes ojos amarillos fijos en sus órbitas y una excelente visión nocturna, complementada por un sentido del oído extremadamente agudo.",
+      "Es un superdepredador nocturno de gran versatilidad. Caza desde una percha o mediante un vuelo silencioso gracias a los bordes especiales de sus plumas primarias, abalanzándose sobre una enorme variedad de presas.",
+      "Es una de las primeras aves en reproducirse en Norteamérica, comenzando el cortejo y la puesta de huevos en pleno invierno (enero o febrero), lo que le permite que sus crías crezcan durante la primavera.",
+      "Desempeña un papel ecológico crucial al regular de forma natural las poblaciones de roedores, conejos y otros pequeños animales en los ecosistemas donde habita."
+  ],
+
+  "observaciones": [
+      "La fuerza de presión de sus garras puede alcanzar hasta los 500 psi, comparable a la mordida de un perro grande, lo que le permite aplastar y matar instantáneamente a sus presas.",
+      "Al no construir sus propios nidos, suele aprovechar nidos abandonados de otras aves grandes como águilas, halcones o cuervos."
+  ],
+
+  "longevidad": {
+      "enLibertad": "10-15 años",
+      "enCautividad": "30-35 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Strigiformes",
+      "familia": "Strigidae",
+      "genero": "Bubo",
+      "especie": "B. virginianus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Colisiones con vehículos en carreteras",
+          "Electrocución en tendidos eléctricos",
+          "Envenenamiento secundario por raticidas e insecticidas",
+          "Pérdida y fragmentación de hábitats boscosos"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de zonas forestales y lugares de nidificación",
+          "Adaptación de tendidos eléctricos para evitar electrocuciones",
+          "Centros de rescate y rehabilitación de aves rapaces heridas"
+      ],
+      "descripcionConservacion": [
+          "Cuenta con una distribución geográfica amplísima y poblaciones muy numerosas y estables en todo el continente americano, por lo que no se considera amenazada a escala global."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "1000-1400 g",
+          "hembraAdulta": "1400-2300 g (las hembras son notablemente más grandes)",
+          "maximoRegistrado": "2500 g"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "43-55 cm",
+          "hembra": "46-63 cm"
+      },
+      "colorPelaje": "Marrón moteado, gris y blanco con barras oscuras en el pecho",
+      "caracteristicasEspeciales": "Penachos auriculares prominentes, ojos amarillos penetrantes y vuelo totalmente silencioso",
+      "morfologia": [
+          "Cabeza redonda con disco facial bien definido",
+          "Garras afiladas, curvas y de enorme potencia",
+          "Plumas de vuelo adaptadas para anular el sonido del aire"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Bosques densos, tundras, desiertos, sabanas, zonas agrícolas y áreas urbanas arboladas",
+      "distribucionGeografica": [
+          "Canadá",
+          "Estados Unidos",
+          "México",
+          "Centroamérica",
+          "Sudamérica (hasta el norte de Argentina)"
+      ],
+      "adaptacionesHabitat": "Extraordinaria plasticidad ecológica que le permite vivir en casi cualquier ecosistema terrestre americano",
+      "descripcionHabitat": [
+          "Ocupa desde bosques boreales profundos hasta desiertos abiertos y parques urbanos.",
+          "Requiere principalmente árboles altos o salientes rocosos para descansar y anidar."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro superdepredador",
+      "presasComunes": [
+          "Conejos y liebres",
+          "Roedores (ratones, ratas, ardillas)",
+          "Otras aves (incluyendo cuervos, patos y halcones)",
+          "Reptiles y anfibios",
+          "Grandes insectos"
+      ],
+      "estrategiaCaza": "Acecho desde una percha elevada con posterior picado silencioso o vuelo de captura sorpresa",
+      "descripcionDieta": [
+          "Es un cazador generalista capaz de capturar presas que superan su propio peso.",
+          "Traga las presas pequeñas enteras y desmenuza las grandes, regurgitando posteriormente las partes no digeribles en forma de egagrópilas."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitario o en parejas monógamas territoriales",
+      "rolMacho": "Defensa activa del territorio mediante vocalizaciones y caza de alimento para la hembra durante la incubación",
+      "rolHembra": "Incubación de los huevos y cuidado directo de los polluelos en el nido",
+      "actividadDiaria": "Principalmente nocturna y crepuscular",
+      "comunicacion": [
+          "Húo profundo y rítmico ('hoo-hú-hoo-hoo')",
+          "Silbidos, chasquidos de pico y gritos agudos de alarma"
+      ],
+      "descripcionComportamiento": [
+          "Son sumamente territoriales y defienden su área frente a intrusos con gran agresividad.",
+          "Durante el cortejo, las parejas realizan duelos vocales y se inclinan mutuamente con las plumas erizadas."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "2 años",
+          "hembra": "2 años"
+      },
+      "periodoGestacion": "28-35 días (incubación)",
+      "tamanoCamada": "1-4 huevos",
+      "cuidadoCrias": "Cuidado biparental prolongado hasta varios meses después de que los polluelos aprenden a volar",
+      "descripcionReproduccion": [
+          "La puesta de huevos se realiza muy temprano en el año, a menudo en invierno, para aprovechar la abundancia de presas en primavera.",
+          "Los polluelos abandonan el nido a las pocas semanas trepando por las ramas antes de dominar el vuelo."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como controlador clave de las poblaciones de roedores y otros animales medianos en los bosques y praderas.",
+      "Ayuda a mantener la salud y el equilibrio de las comunidades de presas silvestres."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 8,
+      "inteligencia": 7,
+      "adaptabilidad": 10,
+      "fuerza": 9,
+      "velocidad": 7,
+      "tamano": 7,
+      "majestuosidad": 9,
+      "rareza": 3,
+      "supervivencia": 9,
+      "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+      "Su vuelo es completamente silencioso debido a la textura especial de las plumas de sus alas",
+      "Sus ojos son tan grandes que no pueden moverse en sus órbitas, por lo que el búho debe girar toda la cabeza hasta 270 grados",
+      "Es el búho más pesado y de mayor distribución en el continente americano",
+      "Comienza a reproducirse en pleno invierno, soportando temperaturas bajo cero sobre los huevos",
+      "Es el principal depredador natural de los zorrillos, ya que carece de un sentido del olfato desarrollado que le impida verse afectado por su olor"
+  ]
+}
