@@ -1,0 +1,173 @@
+{
+  "id": "anguila_europea",
+  "nombre": "Anguila europea",
+  "nombreCientifico": "Anguilla anguilla",
+  "fechaInformacion": "2026",
+
+  "imagen": "anguila_europea.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "La anguila europea es un pez migratorio catádromo famoso por su increíble ciclo vital que transcurre entre los ríos de Europa y el mar de los Sargazos.",
+      "Su cuerpo serpentino y su capacidad para sobrevivir fuera del agua durante cortos periodos la hacen única entre los peces continentales."
+  ],
+
+  "descripcionLarga": [
+      "La anguila europea es un pez osteíctio de la familia Anguillidae. Su cuerpo es alargado, cilíndrico y serpentino, cubierto por una capa de moco protector y escamas muy pequeñas que le otorgan un aspecto resbaladizo.",
+      "Su ciclo de vida es fascinante: nacen en forma de larvas transparentes (leptocefalos) en las profundidades del mar de los Sargazos, cruzan el océano Atlántico impulsadas por las corrientes hasta llegar a las costas europeas, donde se transforman en angulas y remontan los ríos. Tras pasar años creciendo en aguas dulces, maduran sexualmente y emprenden el viaje de vuelta al océano para desovar y morir.",
+      "Son animales principalmente nocturnos y bentónicos, que pasan gran parte del día enterrados en el fango o escondidos entre rocas y vegetación acuática.",
+      "Su dieta es carnívora y oportunista, alimentándose de pequeños peces, crustáceos, gusanos e insectos acuáticos que detecta mediante un agudo sentido del olfato.",
+      "Desempeña un papel importante en los ecosistemas acuáticos como depredador de invertebrados y eslabón trófico para diversas aves y mamíferos piscívoros."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir entre 10 y 15 años en los ríos, aunque algunos ejemplares en cautividad han superado las cinco décadas.",
+      "Es capaz de deslizarse por la hierba húmeda o trepar por pequeñas cascadas para superar obstáculos en los ríos."
+  ],
+
+  "longevidad": {
+      "enLibertad": "10-15 años",
+      "enCautividad": "Hasta 50 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Actinopterygii",
+      "orden": "Anguilliformes",
+      "familia": "Anguillidae",
+      "genero": "Anguilla",
+      "especie": "A. anguilla"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "En Peligro Crítico (CR)",
+      "tendenciaPoblacion": "Decreciendo",
+      "amenazasPrincipales": [
+          "Construcción de presas y diques que bloquean las rutas migratorias fluviales",
+          "Pesca excesiva e ilegal de angulas (alevines)",
+          "Contaminación del agua por metales pesados y productos químicos",
+          "Parásitos invasores como el nematodo Anguillicoloides crassus",
+          "Cambio climático y alteración de las corrientes oceánicas"
+      ],
+      "esfuerzosConservacion": [
+          "Planes de gestión europeos para la recuperación de la especie",
+          "Instalación de pasos para peces y escalas en presas",
+          "Restricciones severas y vedas en la pesca comercial de angula",
+          "Programas de repoblación en cuencas fluviales controladas"
+      ],
+      "descripcionConservacion": [
+          "La población de la anguila europea ha sufrido un colapso drástico desde la década de 1980, reduciéndose en más de un 90%, lo que la sitúa al borde de la extinción y en la máxima categoría de amenaza de la UICN."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "200-400 g",
+          "hembraAdulta": "1-2 kg",
+          "maximoRegistrado": "6 kg"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "35-50 cm",
+          "hembra": "60-150 cm"
+      },
+      "colorPelaje": "Varía desde pardo verdoso con vientre amarillento en etapa fluvial hasta plateado con lomo oscuro en la fase de migración reproductora",
+      "caracteristicasEspeciales": "Cuerpo serpentino sin aletas pélvicas y aleta dorsal continua unida a la anal y caudal",
+      "morfologia": [
+          "Cuerpo alargado y flexible en forma de serpiente",
+          "Piel cubierta de una gruesa capa mucosa",
+          "Mandíbulas provistas de pequeños dientes cónicos"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Ríos, estuarios, lagos de agua dulce y mar abierto en etapas migratorias",
+      "distribucionGeografica": [
+          "España",
+          "Francia",
+          "Reino Unido",
+          "Italia",
+          "Alemania",
+          "Portugal",
+          "Marruecos"
+      ],
+      "adaptacionesHabitat": "Capacidad de respiración cutánea parcial para cortos trayectos terrestres húmedos, tolerancia a salinidades variables",
+      "descripcionHabitat": [
+          "Habita una enorme variedad de medios acuáticos, desde aguas dulces continentales (ríos y lagos) hasta estuarios salobres y el mar abierto durante sus migraciones."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro",
+      "presasComunes": [
+          "Insectos acuáticos y larvas",
+          "Gusanos y lombrices",
+          "Crustáceos de agua dulce",
+          "Moluscos",
+          "Peces pequeños",
+          "Carroña"
+      ],
+      "estrategiaCaza": "Acecho nocturno y búsqueda guiada por un agudo sentido del olfato en el fondo fangoso",
+      "descripcionDieta": [
+          "Es un cazador nocturno que hurga en el fango y entre la vegetación sumergida utilizando sus potentes receptores olfativos para localizar presas vivas o muertas."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitaria y bentónica",
+      "rolMacho": "Migrar hacia el mar de los Sargazos para fertilizar los huevos",
+      "rolHembra": "Migrar hacia el mar de los Sargazos para realizar la puesta masiva de huevos",
+      "actividadDiaria": "Nocturna, pasan el día enterradas en el fango",
+      "comunicacion": [
+          "Señales químicas y olfativas en el medio acuático"
+      ],
+      "descripcionComportamiento": [
+          "Son animales de hábitos muy discretos y solitarios, marcados por instintos migratorios colosales que las guían a lo largo de miles de kilómetros sin necesidad de alimentarse durante su viaje final."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "6-12 años",
+          "hembra": "9-20 años"
+      },
+      "periodoGestacion": "Desove en primavera en el mar de los Sargazos",
+      "tamanoCamada": "Entre 500.000 y 3 millones de huevos por hembra",
+      "cuidadoCrias": "Sin cuidado parental; las larvas derivan con las corrientes oceánicas",
+      "descripcionReproduccion": [
+          "Nunca se ha observado directamente su reproducción en libertad; ocurre a gran profundidad en el mar de los Sargazos, tras lo cual los adultos mueren agotados."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Funciona como un enlace ecológico vital entre los ecosistemas marinos y fluviales de Europa y el Atlántico.",
+      "Sirve de alimento base para numerosas especies de aves acuáticas protegidas y mamíferos piscívoros."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 4,
+      "inteligencia": 5,
+      "adaptabilidad": 9,
+      "fuerza": 6,
+      "velocidad": 6,
+      "tamano": 5,
+      "majestuosidad": 4,
+      "rareza": 9,
+      "supervivencia": 5,
+      "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+      "Realiza una migración transatlántica de más de 5.000 kilómetros para reproducirse en un lugar exacto del océano Atlántico",
+      "Es capaz de absorber oxígeno a través de su piel húmeda, permitiéndole cruzar pequeños tramos de tierra firme",
+      "Durante su etapa de crecimiento en el río cambia de color y nombre, pasando de angula a anguila amarilla",
+      "Los científicos tardaron siglos en descubrir dónde se reproducían, ya que nunca se han encontrado anguilas adultas vivas de vuelta del mar de los Sargazos"
+  ]
+}
