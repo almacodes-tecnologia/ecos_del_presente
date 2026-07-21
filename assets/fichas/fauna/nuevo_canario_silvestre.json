@@ -1,0 +1,166 @@
+{
+  "id": "canario_silvestre",
+  "nombre": "Canario Silvestre",
+  "nombreCientifico": "Serinus canaria",
+  "fechaInformacion": "2026",
+
+  "imagen": "canario_silvestre.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El canario silvestre es un pequeño pájaro cantor autóctono de la Macaronesia, siendo el antecesor directo de todas las razas de canarios domésticos.",
+      "Se caracteriza por su plumaje de tonos verdosos y amarillos parduscos, y por su melodioso y complejo canto."
+  ],
+
+  "descripcionLarga": [
+      "El canario silvestre es un ave de pequeño tamaño, que mide aproximadamente entre 12.5 y 13.5 centímetros de longitud y posee una envergadura alar de unos 20 a 22 centímetros. Su morfología está adaptada ágilmente para saltar y volar entre la vegetación arbustiva y los bosques abiertos.",
+      "A diferencia de las formas domésticas seleccionadas por el ser humano para tener colores vivos o plumajes rizados, el canario silvestre salvaje exhibe un color críptico: un dorso de tonos marrones y verdosos estriados con negro, y un pecho y vientre de un tono amarillo verdoso más apagado, lo que le permite camuflarse eficazmente entre el follaje.",
+      "Es una especie altamente gregaria fuera de la época de reproducción, reuniéndose en bandadas para buscar alimento en el suelo o en los arbustos. Su dieta consiste principalmente en semillas silvestres, pequeños brotes y frutos carnosos.",
+      "Es célebre por su potente y melodioso canto, compuesto por una sucesión de trinos y notas musicales variadas que los machos utilizan para defender sus territorios y atraer a las parejas durante la época de celo.",
+      "Es el emblema animal de la isla de Gran Canaria y representa un componente fundamental en la biodiversidad de los archipiélagos donde habita, contribuyendo a la dispersión de semillas de plantas nativas."
+  ],
+
+  "observaciones": [
+      "Fue introducido y domesticado masivamente en Europa tras la conquista de las Islas Canarias en el siglo XV, dando lugar a la avicultura de canto y color moderna.",
+      "Los machos jóvenes aprenden las variaciones de su canto escuchando a los adultos mayores de su entorno."
+  ],
+
+  "longevidad": {
+      "enLibertad": "5-10 años",
+      "enCautividad": "10-15 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Passeriformes",
+      "familia": "Fringillidae",
+      "genero": "Serinus",
+      "especie": "S. canaria"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Pérdida y fragmentación de hábitats naturales por desarrollo agrícola y urbano",
+          "Hibridación genética con canarios domésticos escapados",
+          "Depredación por especies introducidas como gatos y ratas",
+          "Uso de pesticidas en zonas de cultivo circundantes"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de los espacios naturales y montes de laurisilva en su área de distribución",
+          "Regulación y control de especies exóticas invasoras en las islas",
+          "Campañas de educación ambiental sobre la fauna endémica"
+      ],
+      "descripcionConservacion": [
+          "Las poblaciones silvestres se mantienen estables y protegidas en sus hábitats insulares de origen, sin encontrarse bajo amenaza global inmediata."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "15-20 g",
+          "hembraAdulta": "15-20 g",
+          "maximoRegistrado": null
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "12.5-13.5 cm",
+          "hembra": "12.5-13.5 cm"
+      },
+      "colorPelaje": "Verdoso y marrón estriado en el dorso, con pecho y cabeza de tonos amarillo-verdosos",
+      "caracteristicasEspeciales": "Plumaje críptico natural y pico corto, cónico y robusto adaptado para descascarillar semillas",
+      "morfologia": [
+          "Cuerpo compacto y redondeado",
+          "Alas cortas y redondeadas adaptadas a vuelos cortos y ágiles",
+          "Cola ligeramente ahorquillada"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Bosques de laurisilva, pinares abiertos, matorrales y zonas agrícolas tradicionales",
+      "distribucionGeografica": [
+          "Islas Canarias (España)",
+          "Madeira (Portugal)",
+          "Islas Azores (Portugal)"
+      ],
+      "adaptacionesHabitat": "Gran versatilidad para alimentarse tanto en el suelo como en los estratos arbóreos de los barrancos insulares",
+      "descripcionHabitat": [
+          "Habita preferentemente en zonas de media montaña con vegetación arbustiva y arbolada.",
+          "Frecuenta también bancales agrícolas y huertas tradicionales ricas en semillas silvestres."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Granívoro frugívoro",
+      "presasComunes": null,
+      "estrategiaCaza": null,
+      "descripcionDieta": [
+          "Se alimenta principalmente de semillas de plantas herbáceas, gramíneas y hierbas silvestres.",
+          "Complementa su dieta de manera estacional con pequeños brotes tiernos, néctar de flores y frutos carnosos."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Gregario fuera de la época de cría, formando pequeñas o medianas bandadas",
+      "rolMacho": "Defensa del territorio mediante canto activo y alimentación de la hembra durante la puesta",
+      "rolHembra": "Construcción del nido en forma de copa e incubación de los huevos",
+      "actividadDiaria": "Diurna (activos en la búsqueda de alimento desde las primeras horas de la mañana)",
+      "comunicacion": [
+          "Canto melódico y complejo compuesto por múltiples trinos",
+          "Llamadas cortas de contacto ('chiik') para mantener la cohesión en la bandada"
+      ],
+      "descripcionComportamiento": [
+          "Son aves muy activas y dinámicas que pasan gran parte del día picoteando semillas en el suelo o entre los arbustos.",
+          "Los machos establecen territorios de cría bien definidos en primavera y compiten vocalmente entre sí."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "1 año",
+          "hembra": "1 año"
+      },
+      "periodoGestacion": "13-14 días (incubación)",
+      "tamanoCamada": "3-5 huevos",
+      "cuidadoCrias": "Cuidado biparental de los polluelos con aportes regulares de semillas y pequeños insectos",
+      "descripcionReproduccion": [
+          "La reproducción suele comenzar temprano, entre los meses de enero y julio, pudiendo realizar varias puestas al año.",
+          "La hembra construye un nido primoroso en las ramas altas de los árboles o arbustos densos."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como dispersor de semillas de diversas especies de plantas nativas de la Macaronesia.",
+      "Forma parte esencial de la red trófica insular como presa para aves rapaces y pequeños mamíferos."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 2,
+      "inteligencia": 5,
+      "adaptabilidad": 8,
+      "fuerza": 2,
+      "velocidad": 7,
+      "tamano": 2,
+      "majestuosidad": 4,
+      "rareza": 6,
+      "supervivencia": 7,
+      "impactoEcologico": 5
+  },
+
+  "curiosidades": [
+      "Es el antecesor silvestre de todas las razas de canarios domésticos que existen hoy en día en el mundo",
+      "Fue bautizado científicamente y popularizado en Europa tras la colonización de las Islas Canarias en el siglo XV",
+      "Su plumaje silvestre es de color verdoso y marrón para camuflarse, muy diferente al amarillo brillante artificial de los canarios de jaula",
+      "Es el símbolo animal oficial de la isla de Gran Canaria",
+      "Los marineros españoles fueron los primeros en comercializar estos pájaros cantores hacia el continente europeo debido a la belleza de sus trinos"
+  ]
+}
