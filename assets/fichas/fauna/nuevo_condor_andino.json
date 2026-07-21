@@ -1,0 +1,167 @@
+{
+  "id": "condor_andino",
+  "nombre": "Cóndor Andino",
+  "nombreCientifico": "Vultur gryphus",
+  "fechaInformacion": "2026",
+
+  "imagen": "condor_andino.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El cóndor andino es una de las aves voladoras más grandes del planeta y un símbolo indiscutible de la cordillera de los Andes.",
+      "Es un ave carroñera emblemática que desempeña un rol sanitario fundamental en su ecosistema al limpiar los restos de animales muertos."
+  ],
+
+  "descripcionLarga": [
+      "El cóndor andino es un ave de imponente envergadura, que puede superar los 3 metros de un extremo al otro de sus alas, y un peso que alcanza hasta los 15 kilogramos en los machos. Su plumaje es predominantemente negro, contrastando con un característico collar de plumas blancas alrededor de su cuello y, en los machos adultos, una cresta carnosa o carúncula sobre la cabeza.",
+      "Su cabeza y cuello están desprovistos de plumas y presentan una piel de color rojo o rosado, una adaptación evolutiva clave que les permite mantener la higiene mientras se alimentan introduciendo la cabeza dentro de los cadáveres.",
+      "A diferencia de las águilas u otras aves de presa, el cóndor carece de garras fuertes para cazar, ya que sus patas están adaptadas para caminar por el suelo y sujetar carroña, no para la captura activa de presas vivas.",
+      "Utilizan las corrientes térmicas ascendentes de aire cálido en las altas cumbres para planear durante horas sin apenas batir las alas, recorriendo enormes distancias diarios en busca de alimento.",
+      "Es una especie de hábitos muy longevos y de reproducción sumamente lenta, formando parejas monógamas de por vida que ponen un único huevo cada dos años."
+  ],
+
+  "observaciones": [
+      "Tiene un profundo significado mitológico y cultural para los pueblos originarios de los Andes, siendo considerado un mensajero de los dioses y de la libertad.",
+      "Debido a su enorme tamaño, necesita un gran impulso de carrera o el uso de desniveles rocosos y vientos fuertes para poder despejar el vuelo."
+  ],
+
+  "longevidad": {
+      "enLibertad": "50-70 años",
+      "enCautividad": "Hasta 75-80 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Accipitriformes",
+      "familia": "Cathartidae",
+      "genero": "Vultur",
+      "especie": "V. gryphus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Vulnerable (VU)",
+      "tendenciaPoblacion": "Decreciendo",
+      "amenazasPrincipales": [
+          "Envenenamiento secundario por cebos tóxicos colocados por ganaderos para eliminar a pumas o zorros",
+          "Caza furtiva y disparos por parte de cazadores o por supersticiones",
+          "Colisión con tendidos eléctricos de alta tensión",
+          "Pérdida y fragmentación de su hábitat natural por actividades humanas"
+      ],
+      "esfuerzosConservacion": [
+          "Programas de reproducción en cautividad y reintroducción a la vida silvestre en varios países sudamericanos",
+          "Planes de educación ambiental orientados a ganaderos para evitar el uso de venenos",
+          "Creación de áreas naturales protegidas a lo largo de la cordillera andina"
+      ],
+      "descripcionConservacion": [
+          "Se encuentra catalogado como vulnerable a nivel global debido al declive continuado de sus poblaciones provocado principalmente por el envenenamiento y la persecución humana directa."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "11-15 kg",
+          "hembraAdulta": "8-11 kg",
+          "maximoRegistrado": "15 kg"
+      },
+      "alturaHombro": {
+          "macho": "1.0-1.3 m",
+          "hembra": "0.9-1.1 m"
+      },
+      "longitudCuerpoCola": {
+          "macho": "1.0-1.3 m",
+          "hembra": "0.9-1.1 m"
+      },
+      "colorPelaje": "Negro brillante con un distintivo collar de plumón blanco y plumas secundarias grises en las alas",
+      "caracteristicasEspeciales": "Cabeza y cuello desnudos para evitar infecciones y cresta carnosa prominente en los machos",
+      "morfologia": [
+          "Alas extraordinariamente anchas y largas adaptadas al vuelo de planeo",
+          "Pico fuerte, ancho y ganchudo para desgarrar pieles gruesas",
+          "Patas con uñas romas no aptas para la caza activa"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Cordilleras, altas cumbres, acantilados rocosos y estepas abiertas",
+      "distribucionGeografica": [
+          "Argentina",
+          "Chile",
+          "Perú",
+          "Bolivia",
+          "Ecuador",
+          "Colombia"
+      ],
+      "adaptacionesHabitat": "Capacidad fisiológica para volar a altitudes extremas aprovechando las corrientes térmicas de montaña",
+      "descripcionHabitat": [
+          "Habita preferentemente en zonas montañosas elevadas con paredes de roca escarpadas donde construyen sus nidos protegidos.",
+          "Desciende ocasionalmente a las costas del Pacífico y a zonas de estepa para buscar alimento."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carroñero estricto",
+      "presasComunes": null,
+      "estrategiaCaza": "Búsqueda visual de cadáveres desde el aire aprovechando corrientes térmicas",
+      "descripcionDieta": [
+          "Se alimenta exclusivamente de carroña, prefiriendo restos de grandes mamíferos muertos como guanacos, vicuñas, ciervos, ganado vacuno, ovejasy caballos."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Gregarios, se reúnen en grupos jerárquicos en los apostaderos nocturnos y en torno a grandes carroñas",
+      "rolMacho": "Competencia por el rango en los comederos y defensa del territorio de nidificación",
+      "rolHembra": "Elección de pareja y participación conjunta en la incubación y crianza",
+      "actividadDiaria": "Diurna (aprovechan las horas de sol y viento para planear en busca de comida)",
+      "comunicacion": [
+          "Escasos sonidos vocales (chasquidos y siseos leves), comunicándose principalmente mediante posturas corporales y movimientos de alas"
+      ],
+      "descripcionComportamiento": [
+          "Son aves planeadoras excepcionales que pueden recorrer cientos de kilómetros al día sin apenas aletear.",
+          "En los comederos existe una jerarquía estricta donde los machos adultos dominan el acceso al alimento."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "6-8 años",
+          "hembra": "6-8 años"
+      },
+      "periodoGestacion": "54-58 días (incubación)",
+      "tamanoCamada": "1 único huevo",
+      "cuidadoCrias": "Cuidado parental prolongado durante más de un año hasta que el pollo aprende a volar y sobrevivir solo",
+      "descripcionReproduccion": [
+          "No construyen nidos elaborados; depositan el único huevo directamente sobre las repisas rocosas de acantilados inaccesibles.",
+          "Tienen una tasa reproductiva muy baja, reproduciéndose únicamente cada dos años."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como un agente sanitario natural esencial al eliminar cadáveres en descomposición, previniendo la propagación de enfermedades.",
+      "Es el regulador ecológico de los ecosistemas abiertos de la alta montaña andina."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 2,
+      "inteligencia": 6,
+      "adaptabilidad": 5,
+      "fuerza": 6,
+      "velocidad": 8,
+      "tamano": 10,
+      "majestuosidad": 10,
+      "rareza": 7,
+      "supervivencia": 6,
+      "impactoEcologico": 9
+  },
+
+  "curiosidades": [
+      "Es una de las aves voladoras más grandes del mundo, pudiendo superar los 3 metros de envergadura alar",
+      "Puede planear durante horas en las corrientes de aire de los Andes sin dar un solo aleteo",
+      "No caza animales vivos; su dieta se compone exclusivamente de carroña y restos de animales muertos",
+      "Es un animal sagrado para las culturas andinas, considerado un símbolo de poder, salud y libertad",
+      "Tiene una tasa de reproducción extremadamente lenta: ponen un solo huevo cada dos años"
+  ]
+}
