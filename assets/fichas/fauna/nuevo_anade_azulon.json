@@ -1,0 +1,172 @@
+{
+  "id": "anade_azulon",
+  "nombre": "Ánade azulón",
+  "nombreCientifico": "Anas platyrhynchos",
+  "fechaInformacion": "2026",
+
+  "imagen": "anade_azulon.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El ánade azulón o pato real es una de las aves acuáticas más conocidas, extendidas y abundantes del hemisferio norte.",
+      "Es el antecesor silvestre de la gran mayoría de las razas de patos domésticos que existen en la actualidad."
+  ],
+
+  "descripcionLarga": [
+      "El ánade azulón es un ave anseriforme de la familia Anatidae que presenta un marcado dimorfismo sexual. El macho adulto destaca por su llamativa cabeza de color verde brillante iridiscente, collar blanco y pecho castaño, mientras que la hembra posee un plumaje moteado en tonos pardos y ocres diseñado para camuflarse perfectamente durante la nidificación.",
+      "Posee una gran adaptabilidad a todo tipo de hábitats de agua dulce, desde lagos naturales y ríos de corriente lenta hasta estanques urbanos en parques públicos, donde suele estar habituada a la presencia humana.",
+      "Es una especie omnívora que se alimenta filtrando el agua o picoteando en el lodo superficial en busca de semillas, plantas acuáticas, insectos y pequeños crustáceos.",
+      "Aunque muchas poblaciones son migratorias y vuelan hacia el sur durante el invierno, las poblaciones que viven en entornos urbanos o regiones templadas suelen ser residentes permanentes.",
+      "Desempeña un papel ecológico importante como dispersor de semillas de plantas acuáticas y como fuente de alimento clave para diversos depredadores en los humedales."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir entre 5 y 10 años en libertad, superando los 15 años en entornos protegidos o cautividad.",
+      "Es capaz de hibridar con facilidad con otras especies de patos, lo que a veces genera poblaciones mixtas en lagos urbanos."
+  ],
+
+  "longevidad": {
+      "enLibertad": "5-10 años",
+      "enCautividad": "15-20 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Anseriformes",
+      "familia": "Anatidae",
+      "genero": "Anas",
+      "especie": "A. platyrhynchos"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación Menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Pérdida y desecación de humedales naturales",
+          "Contaminación del agua por vertidos y plásticos",
+          "Caza deportiva en determinadas regiones",
+          "Hibridación genética con patos domésticos ferales"
+      ],
+      "esfuerzosConservacion": [
+          "Protección y restauración de zonas húmedas y marismas",
+          "Regulación de los periodos de caza cinegética",
+          "Control de poblaciones en parques urbanos"
+      ],
+      "descripcionConservacion": [
+          "El ánade azulón cuenta con una población mundial sumamente numerosa, estable y en expansión en muchas áreas, por lo que no enfrenta riesgos de extinción a escala global."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "0.7-1.6 kg",
+          "hembraAdulta": "0.7-1.3 kg",
+          "maximoRegistrado": "1.8 kg"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "50-65 cm",
+          "hembra": "50-60 cm"
+      },
+      "colorPelaje": "Cabeza verde brillante en machos; plumaje críptico marrón moteado en hembras",
+      "caracteristicasEspeciales": "Espejo alar de color azul violáceo bordeado de blanco muy visible en vuelo",
+      "morfologia": [
+          "Cuerpo robusto y aerodinámico adaptado para nadar y volar",
+          "Pico ancho y plano provisto de lamelas filtradoras",
+          "Patas palmeadas situadas en posición retrasada"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Humedales, lagos, marismas, ríos de curso lento y estanques",
+      "distribucionGeografica": [
+          "España",
+          "Canadá",
+          "Estados Unidos",
+          "Reino Unido",
+          "Francia",
+          "Alemania",
+          "Japón"
+      ],
+      "adaptacionesHabitat": "Glándula uropigial para impermeabilizar las plumas, patas palmeadas para la natación",
+      "descripcionHabitat": [
+          "Ocupa prácticamente cualquier masa de agua dulce superficial que cuente con vegetación marginal para refugiarse y alimentarse."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Omnívoro",
+      "presasComunes": [
+          "Semillas acuáticas",
+          "Plantas y brotes tiernos",
+          "Insectos acuáticos y larvas",
+          "Moluscos y pequeños crustáceos",
+          "Anfibios pequeños",
+          "Pan y restos de comida humana en parques"
+      ],
+      "estrategiaCaza": "Filtración del agua con el pico, picoteo en superficie o vadeo con la cabeza sumergida",
+      "descripcionDieta": [
+          "Se alimenta principalmente de materia vegetal complementada con pequeños invertebrados acuáticos, buscando el alimento mediante el característico movimiento de sumergir la parte anterior del cuerpo dejando la cola al aire."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Gregario, forma bandos fuera de la época de cría",
+      "rolMacho": "Defiende a la pareja durante el cortejo y la fase inicial de puesta",
+      "rolHembra": "Construcción del nido, incubación y cuidado exclusivo de los ánades",
+      "actividadDiaria": "Diurna y crepuscular",
+      "comunicacion": [
+          "Graznidos sonoros y ruidosos emitidos por las hembras",
+          "Silbidos y ronquidos suaves emitidos por los machos"
+      ],
+      "descripcionComportamiento": [
+          "Son aves muy sociables que suelen congregarse en bandos estacionales, mostrando complejos rituales de cortejo acuático durante el invierno y principios de primavera."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "1 año",
+          "hembra": "1 año"
+      },
+      "periodoGestacion": "27-28 días de incubación",
+      "tamanoCamada": "8-13 huevos",
+      "cuidadoCrias": "Cuidado maternal exclusivo por parte de la hembra",
+      "descripcionReproduccion": [
+          "Construyen el nido en el suelo oculto entre la vegetación densa, cerca del agua, tapizándolo con hierba y plumón que la madre se arranca del pecho."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como dispersor de semillas de plantas acuáticas adheridas a sus plumas o ingeridas.",
+      "Sirve como presa fundamental para una amplia variedad de mamíferos y aves rapaces en los ecosistemas de humedal."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 3,
+      "inteligencia": 6,
+      "adaptabilidad": 10,
+      "fuerza": 3,
+      "velocidad": 6,
+      "tamano": 4,
+      "majestuosidad": 5,
+      "rareza": 1,
+      "supervivencia": 9,
+      "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+      "Es el pato silvestre más abundante y de mayor distribución geográfica del mundo",
+      "Los polluelos son capaces de nadar y buscar su propio alimento a pocas horas de haber nacido",
+      "Los machos pierden todas sus plumas de vuelo de golpe tras la reproducción, quedando temporalmente incapacitados",
+      "Su característico graznido fuerte y estridente es producido casi exclusivamente por las hembras"
+  ]
+}
