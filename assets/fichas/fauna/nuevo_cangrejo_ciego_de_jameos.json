@@ -1,0 +1,163 @@
+{
+  "id": "cangrejo_ciego_de_jameos",
+  "nombre": "Cangrejo Ciego de Jameos",
+  "nombreCientifico": "Munidopsis polymorpha",
+  "fechaInformacion": "2026",
+
+  "imagen": "cangrejo_ciego_de_jameos.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El cangrejo ciego de Jameos es una diminuta especie de crustáceo endémica y exclusiva de los Jameos del Agua en Lanzarote, Islas Canarias.",
+      "Es un organismo troglobionte completamente adaptado a la vida en la oscuridad perpetua de los tubos volcánicos subterráneos."
+  ],
+
+  "descripcionLarga": [
+      "El cangrejo ciego de Jameos es un pequeño crustáceo decápodo que mide apenas un centímetro de longitud. Su cuerpo es de un característico color blanco translúcido o albino, debido a la total ausencia de pigmentación corporal al no recibir luz solar en su hábitat.",
+      "Carece por completo de ojos funcionales, los cuales se han atrofiado evolutivamente tras miles de años viviendo en la oscuridad subterránea. Para orientarse y detectar presas o estímulos en el agua, confía plenamente en sus antenas hiperdesarrolladas y en sensores táctiles y químicos repartidos por su cuerpo.",
+      "Habita exclusivamente en el fondo de los lagos subterráneos de origen volcánico formados por la filtración de agua marina a través de las grietas de la lava del volcán de la Corona.",
+      "Su alimentación se basa principalmente en las finas capas de diatomeas y microorganismos que crecen tapizando las rocas basálticas gracias a la tenue luz filtrada en algunas zonas de los jameos, complementada con materia orgánica en suspensión.",
+      "Debido a su extrema especialización ecológica, su población es extremadamente frágil y vulnerable ante cualquier alteración química o física del medio acuático subterráneo."
+  ],
+
+  "observaciones": [
+      "Es considerado uno de los símbolos naturales más emblemáticos de la isla de Lanzarote y de todo el archipiélago canario.",
+      "Su presencia es tan delicada que arrojar monedas al agua de los Jameos del Agua resulta letal para ellos debido a la toxicidad de los metales."
+  ],
+
+  "longevidad": {
+      "enLibertad": "Desconocida",
+      "enCautividad": "No sobrevive fuera de su hábitat natural"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Arthropoda",
+      "clase": "Malacostraca",
+      "orden": "Decapoda",
+      "familia": "Galatheidae",
+      "genero": "Munidopsis",
+      "especie": "M. polymorpha"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "En peligro (EN)",
+      "tendenciaPoblacion": "Vulnerable",
+      "amenazasPrincipales": [
+          "Alteraciones en el nivel y calidad del agua del tubo volcánico subterráneo",
+          "Contaminación del agua por lanzamiento de monedas u objetos metálicos por parte de visitantes",
+          "Uso masivo de productos químicos de limpieza en las instalaciones turísticas cercanas",
+          "Cambio climático y variaciones en la intrusión marina subterránea"
+      ],
+      "esfuerzosConservacion": [
+          "Protección legal estricta del tubo volcánico y prohibición absoluta de contacto con el agua",
+          "Campañas de concienciación turística para evitar arrojar objetos a los lagos",
+          "Monitoreo científico continuo de la calidad del agua y densidad de la población"
+      ],
+      "descripcionConservacion": [
+          "Se encuentra bajo estricta protección legal debido a su distribución extremadamente restringida a un único sistema subterráneo del mundo, lo que lo hace hipervulnerable a cualquier cambio en su entorno."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "Menos de 1 g",
+          "hembraAdulta": "Menos de 1 g",
+          "maximoRegistrado": null
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "1 cm",
+          "hembra": "1 cm"
+      },
+      "colorPelaje": "Blanco translúcido (ausencia total de pigmentación)",
+      "caracteristicasEspeciales": "Ceguera total por atrofia ocular y coloración blanca albina",
+      "morfologia": [
+          "Cuerpo aplanado adaptado a cavidades rocosas",
+          "Antenas largas y sensibles para la navegación táctil",
+          "Pinzas pequeñas adaptadas para ramonear microalgas"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Lagos subterráneos de agua salobre en tubos volcánicos",
+      "distribucionGeografica": [
+          "Islas Canarias (Lanzarote - Jameos del Agua)"
+      ],
+      "adaptacionesHabitat": "Pérdida de pigmentación cutánea, desarrollo extremo de los sentidos táctiles y adaptación a la oscuridad total",
+      "descripcionHabitat": [
+          "Habita exclusivamente en las aguas subterráneas conectadas con el mar en la Cueva de los Verdes y los Jameos del Agua.",
+          "El agua es salobre, limpia y se mantiene a una temperatura constante regulada por la actividad volcánica."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Omnívoro detritívoro",
+      "presasComunes": null,
+      "estrategiaCaza": "Ramoneo pasivo de microalgas y filtración de materia orgánica del fondo",
+      "descripcionDieta": [
+          "Se alimenta raspando las biopelículas de diatomeas y bacterias que crecen sobre las rocas basálticas del fondo.",
+          "Aprovecha también la materia orgánica microscópica que arrastra la marea subterránea."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitario o agrupado de forma dispersa en zonas con alimento",
+      "rolMacho": "Búsqueda de pareja durante los periodos reproductivos",
+      "rolHembra": "Cuesta y transporte temporal de los huevos bajo el abdomen",
+      "actividadDiaria": "Constante en la penumbra y oscuridad del medio subterráneo",
+      "comunicacion": [
+          "Señales táctiles mediante antenas y vibraciones en el agua"
+      ],
+      "descripcionComportamiento": [
+          "Son animales de movimientos pausados que evitan activamente las zonas con mayor iluminación directa.",
+          "Se desplazan caminando lentamente sobre las rocas sumergidas del fondo volcánico."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "No especificado",
+          "hembra": "No especificado"
+      },
+      "periodoGestacion": "Desconocido",
+      "tamanoCamada": "Pocos huevos por puesta debido a su diminuto tamaño",
+      "cuidadoCrias": "Protección de los huevos por parte de la madre en el medio acuático",
+      "descripcionReproduccion": [
+          "La reproducción se produce en el interior de las cuevas inundadas bajo condiciones muy estables de temperatura y salinidad.",
+          "Las larvas completan su desarrollo adaptándose de inmediato al medio hipogeo."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Es el organismo más representativo de la fauna troglobionte marina de las Islas Canarias.",
+      "Actúa como consumidor primario clave dentro de la cadena trófica única del tubo volcánico."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 1,
+      "inteligencia": 2,
+      "adaptabilidad": 3,
+      "fuerza": 1,
+      "velocidad": 2,
+      "tamano": 1,
+      "majestuosidad": 6,
+      "rareza": 10,
+      "supervivencia": 4,
+      "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+      "Es completamente ciego y de color blanco albino debido a su adaptación a la oscuridad de los tubos volcánicos",
+      "Solo vive en un único lugar del planeta: los Jameos del Agua en Lanzarote",
+      "Arrojar monedas al agua para pedir deseos es letal para ellos debido a la toxicidad de los metales",
+      "Está emparentado evolutivamente con especies de mar abierto, pero quedó atrapado bajo la isla tras erupciones volcánicas ancestrales",
+      "Aparece representado en numerosos emblemas y símbolos culturales de la isla de Lanzarote"
+  ]
+}
