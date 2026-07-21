@@ -1,0 +1,169 @@
+{
+  "id": "capibara",
+  "nombre": "Capibara",
+  "nombreCientifico": "Hydrochoerus hydrochaeris",
+  "fechaInformacion": "2026",
+
+  "imagen": "capibara.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El capibara, también conocido como carpincho, es el roedor vivo más grande y pesado del mundo.",
+      "Es un mamífero semiacuático nativo de las regiones tropicales y templadas de Sudamérica, famoso por su carácter sumamente sociable y pacífico."
+  ],
+
+  "descripcionLarga": [
+      "El capibara es un roedor robusto de cuerpo en forma de barril, que puede alcanzar una longitud de hasta 1.3 metros y un peso de entre 35 y 65 kilogramos, llegando a registrarse ejemplares excepcionales aún más pesados.",
+      "Su morfología está perfectamente adaptada a la vida acuática: sus ojos, orejas y fosas nasales se sitúan en la parte superior de la cabeza para permitirle respirar y vigilar su entorno mientras nada casi por completo sumergido. Además, sus patas poseen una ligera membrana interdigital.",
+      "Viven en grupos familiares muy unidos que suelen rondar entre los 10 y 20 individuos, liderados por un macho dominante. Son animales territoriales pero extraordinariamente pacíficos, capaces de convivir de manera armónica con una gran variedad de otras especies silvestres.",
+      "Pasan una parte importante del día dentro del agua para protegerse del calor abrasador y de los depredadores, alimentándose de plantas acuáticas y hierbas frescas durante las primeras horas de la mañana y al atardecer.",
+      "Desempeñan un papel ecológico fundamental en los ecosistemas de humedal sudamericanos, sirviendo de presa para grandes carnívoros como jaguares, pumas y caimanes, y ayudando a fertilizar el suelo con sus excrementos."
+  ],
+
+  "observaciones": [
+      "Tienen la costumbre de practicar la coprofagia (ingerir sus propias heces) para aprovechar al máximo los nutrientes y la flora bacteriana necesaria para digerir la celulosa de las plantas.",
+      "Son excelentes nadadores y pueden permanecer sumergidos bajo el agua durante varios minutos para escapar del peligro."
+  ],
+
+  "longevidad": {
+      "enLibertad": "8-10 años",
+      "enCautividad": "12 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Rodentia",
+      "familia": "Caviidae",
+      "genero": "Hydrochoerus",
+      "especie": "H. hydrochaeris"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Caza furtiva por su carne y su piel en algunas regiones rurales",
+          "Pérdida y desecación de humedales debido a la expansión agrícola y ganadera",
+          "Atropellos en carreteras cercanas a zonas fluviales",
+          "Conflictos ocasionales con agricultores por el consumo de cultivos"
+      ],
+      "esfuerzosConservacion": [
+          "Establecimiento de planes de manejo sustentable de poblaciones en ciertos países",
+          "Protección legal de humedales y reservas naturales en Sudamérica"
+      ],
+      "descripcionConservacion": [
+          "Goza de una distribución muy amplia y poblaciones numerosas en gran parte de Sudamérica, por lo que no enfrenta un riesgo de extinción a escala global."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "35-60 kg",
+          "hembraAdulta": "35-65 kg (las hembras suelen ser ligeramente más pesadas)",
+          "maximoRegistrado": "91 kg"
+      },
+      "alturaHombro": {
+          "macho": "0.5-0.6 m",
+          "hembra": "0.5-0.6 m"
+      },
+      "longitudCuerpoCola": {
+          "macho": "1.0-1.3 m",
+          "hembra": "1.0-1.3 m"
+      },
+      "colorPelaje": "Marrón rojizo a pardo grisáceo, más claro en el vientre",
+      "caracteristicasEspeciales": "Ausencia de cola visible, incisivos prominentes de crecimiento continuo y membranas interdigitales reducidas",
+      "morfologia": [
+          "Cuerpo robusto y pesado en forma de barril",
+          "Cabeza ancha con hocico truncado",
+          "Ojos, orejas y nariz elevados en la parte superior del cráneo"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Humedales, sabanas inundables, riberas de ríos, lagos y pantanos tropicales",
+      "distribucionGeografica": [
+          "Brasil",
+          "Argentina",
+          "Venezuela",
+          "Colombia",
+          "Paraguay",
+          "Uruguay",
+          "Perú"
+      ],
+      "adaptacionesHabitat": "Pelaje áspero adaptado a la humedad, hábitos semiacuáticos y capacidad de termorregulación en el agua",
+      "descripcionHabitat": [
+          "Habitan siempre en las inmediaciones de cuerpos de agua dulce permanentes o temporales.",
+          "Requieren de una combinación de pastizales abiertos para alimentarse y densa vegetación ribereña para refugiarse."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Herbívoro estricto",
+      "presasComunes": null,
+      "estrategiaCaza": null,
+      "descripcionDieta": [
+          "Se alimentan principalmente de hierbas terrestres y plantas acuáticas de los humedales.",
+          "Durante la época seca pueden consumir cortezas de árboles, cañas y frutos caídos."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Viven en grupos familiares estables de entre 10 y 20 individuos liderados por un macho alfa",
+      "rolMacho": "Defensa del territorio familiar y vigilancia frente a depredadores terrestres",
+      "rolHembra": "Cuidado comunal de las crías dentro de la guardería del grupo",
+      "actividadDiaria": "Crepuscular y diurna (activos por la mañana, tarde y a veces durante la noche)",
+      "comunicacion": [
+          "Chillidos agudos, ronroneos, ladridos de alarma y chasquidos",
+          "Marcaje de territorio mediante glándulas odoríferas anales"
+      ],
+      "descripcionComportamiento": [
+          "Son animales extremadamente sociales que pasan gran parte del día descansando juntos en las orillas del agua.",
+          "Su naturaleza pacífica hace que compartan el espacio con numerosas aves, monos y otros animales sin mostrar agresividad."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+      "madurezSexual": {
+          "macho": "15-18 meses",
+          "hembra": "12-18 meses"
+      },
+      "periodoGestacion": "130-150 días (aproximadamente 5 meses)",
+      "tamanoCamada": "4-8 crías",
+      "cuidadoCrias": "Lactancia cooperativa donde todas las hembras amamantan indistintamente a los recién nacidos",
+      "descripcionReproduccion": [
+          "La reproducción ocurre generalmente durante la temporada de lluvias.",
+          "Las crías nacen completamente desarrolladas con pelo y dientes abiertos, pudiendo caminar y nadar a las pocas horas de nacer."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Sirven como eslabón trófico esencial al ser presa principal de grandes depredadores en los humedales.",
+      "Ayudan al control de la vegetación acuática y herbácea mediante su pastoreo constante."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 1,
+      "inteligencia": 6,
+      "adaptabilidad": 9,
+      "fuerza": 5,
+      "velocidad": 6,
+      "tamano": 7,
+      "majestuosidad": 5,
+      "rareza": 3,
+      "supervivencia": 8,
+      "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+      "Es el roedor más grande del mundo, pudiendo superar los 60 kg de peso",
+      "Tienen una naturaleza tan pacífica que frecuentemente se les ve tolerando la compañía de aves, tortugas y monos sobre sus lomos",
+      "Son animales semiacuáticos y pueden nadar con gran soltura, utilizando el agua como su refugio principal frente al peligro",
+      "Practican la coprofagia para digerir mejor los nutrientes fibrosos de su dieta herbívora",
+      "Sus crías nacen ya con pelo y dientes, y son capaces de nadar casi de inmediato"
+  ]
+}
