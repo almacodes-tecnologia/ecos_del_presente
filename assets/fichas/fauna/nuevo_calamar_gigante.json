@@ -1,0 +1,172 @@
+{
+  "id": "calamar_gigante",
+  "nombre": "Calamar Gigante",
+  "nombreCientifico": "Architeuthis dux",
+  "fechaInformacion": "2026",
+
+  "imagen": "calamar_gigante.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El calamar gigante es uno de los invertebrados más enigmáticos y esquivos que habitan en las profundidades abisales del océano.",
+      "Famoso históricamente por inspirar leyendas sobre monstruos marinos como el Kraken, posee los ojos más grandes del reino animal."
+  ],
+
+  "descripcionLarga": [
+      "El calamar gigante es un molusco cefalópodo de proporciones colosales. Las hembras pueden alcanzar longitudes totales de hasta 13 metros, mientras que los machos suelen ser ligeramente más pequeños, rondando los 10 metros, y su peso puede superar los 270 kilogramos.",
+      "Su cuerpo aerodinámico y musculoso está dotado de ocho brazos provistos de cientos de ventosas dentadas y dos tentáculos largos especializados en la caza, los cuales utiliza para azotar y atrapar a sus presas a distancia antes de acercarlas a su pico córneo central.",
+      "Habita en las oscuras y frías aguas de las zonas batiales y abisales, a profundidades que oscilan generalmente entre los 300 y los 1000 metros bajo la superficie marina, donde soporta una presión hidrostática extrema.",
+      "Durante mucho tiempo fue considerado una criatura casi mitológica, ya que los únicos registros científicos provenían de ejemplares muertos varados en playas o hallados en los estómagos de su principal depredador: el cachalote.",
+      "Su papel en el ecosistema marino profundo es clave como depredador de peces de profundidad y cefalópodos menores, sirviendo a su vez de alimento esencial para los grandes cetáceos buceadores."
+  ],
+
+  "observaciones": [
+      "Posee los ojos más grandes de todo el reino animal, con un diámetro que puede alcanzar los 25 o 30 centímetros, adaptados para capturar la mínima luz bioluminiscente en la oscuridad absoluta.",
+      "La primera grabación en su hábitat natural no se logró hasta el año 2004 en aguas de Japón."
+  ],
+
+  "longevidad": {
+      "enLibertad": "Estimada en 3-5 años",
+      "enCautividad": "No sobrevive en cautiverio"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Mollusca",
+      "clase": "Cephalopoda",
+      "orden": "Oegopsida",
+      "familia": "Architeuthidae",
+      "genero": "Architeuthis",
+      "especie": "A. dux"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Datos insuficientes (DD)",
+      "tendenciaPoblacion": "Desconocida",
+      "amenazasPrincipales": [
+          "Captura accidental en redes de pesca profunda y arrastre industrial",
+          "Contaminación por plásticos y metales pesados en los océanos",
+          "Cambio climático y alteraciones en la temperatura y corrientes de las capas oceánicas profundas",
+          "Depredación natural por parte de cachalotes"
+      ],
+      "esfuerzosConservacion": [
+          "Estudios científicos basados en el análisis de ejemplares varados",
+          "Prohibiciones y regulaciones de la pesca de arrastre profundo en ciertas áreas marinas",
+          "Campañas de investigación mediante sumergibles no tripulados"
+      ],
+      "descripcionConservacion": [
+          "Debido a su hábitat inaccesible en las profundidades abisales, la UICN lo categoriza con datos insuficientes, por lo que se desconoce el estado real de sus poblaciones globales."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "Hasta 150 kg",
+          "hembraAdulta": "Hasta 275 kg",
+          "maximoRegistrado": "Más de 300 kg"
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": "Hasta 10 metros",
+          "hembra": "Hasta 13 metros",
+          "maximoRegistrado": "14 metros"
+      },
+      "colorPelaje": "Marrón rojizo a púrpura mediante el uso de cromatóforos",
+      "caracteristicasEspeciales": "Ojos gigantescos del tamaño de un balón de baloncesto y dos tentáculos de caza extralargos",
+      "morfologia": [
+          "Manto cilíndrico alargado con aletas laterales en forma de flecha",
+          "Ocho brazos cortos provistos de ventosas con anillos dentados",
+          "Pico quitinoso afilado y potente para triturar presas"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Océanos profundos, zonas batiales y abisales de todo el mundo",
+      "distribucionGeografica": [
+          "Océano Atlántico norte y sur",
+          "Océano Pacífico norte",
+          "Océano Índico",
+          "Aguas cercanas a Nueva Zelanda y Japón"
+      ],
+      "adaptacionesHabitat": "Sangre rica en hemocianina para transportar oxígeno de manera eficiente en aguas frías y pobres en oxígeno",
+      "descripcionHabitat": [
+          "Habita exclusivamente en los abismos oceánicos donde la luz solar no penetra.",
+          "Prefiere taludes continentales y zonas de cañones submarinos profundos."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro depredador",
+      "presasComunes": [
+          "Peces de aguas profundas (como peces linterna)",
+          "Otros calamares y cefalópodos menores",
+          "Pequeños crustáceos abisales"
+      ],
+      "estrategiaCaza": "Emboscada oculta en la oscuridad utilizando sus tentáculos largos para atrapar presas a distancia",
+      "descripcionDieta": [
+          "Utiliza sus tentáculos provistos de ventosas con ganchos para asegurar a la presa y atraerla hacia su boca provista de un pico cortante.",
+          "Se alimenta de organismos que flotan o nadan activamente en la penumbra oceánica."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitario",
+      "rolMacho": "Búsqueda de la hembra para la fertilización mediante la transferencia de espermatóforos",
+      "rolHembra": "Puesta de grandes masas de huevos flotantes en aguas profundas",
+      "actividadDiaria": "Desconocida con precisión debido a su naturaleza esquiva en el abismo",
+      "comunicacion": [
+          "Cambios rápidos de color mediante cromatóforos en situaciones de estrés",
+          "Señales visuales y táctiles limitadas"
+      ],
+      "descripcionComportamiento": [
+          "Son criaturas mayoritariamente solitarias que pasan sus vidas en constante movimiento a lo largo de las corrientes abisales.",
+          "Su principal mecanismo de defensa es la propulsión a chorro y la expulsión de nubes de tinta oscura para confundir a los atacantes."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "1-2 años",
+          "hembra": "2-3 años"
+      },
+      "periodoGestacion": "Desconocido",
+      "tamanoCamada": "Miles de huevos agrupados en masas gelatinosas flotantes",
+      "cuidadoCrias": "Sin cuidado parental tras el desove",
+      "descripcionReproduccion": [
+          "La reproducción ocurre en las profundidades oceánicas, donde el macho transfiere paquetes de esperma a la hembra.",
+          "Tras la puesta de los huevos, se cree que los adultos mueren o completan su corto ciclo vital."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Es una pieza clave en las cadenas tróficas de las grandes profundidades marinas.",
+      "Sirve como alimento principal para el cachalote, conectando la energía de la fauna abisal con los mamíferos marinos."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 5,
+      "inteligencia": 6,
+      "adaptabilidad": 7,
+      "fuerza": 8,
+      "velocidad": 7,
+      "tamano": 9,
+      "majestuosidad": 8,
+      "rareza": 10,
+      "supervivencia": 6,
+      "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+      "Inspiró la mítica leyenda del Kraken en el folclore de los marineros nórdicos",
+      "Tiene los ojos más grandes del reino animal, pudiendo medir hasta 30 cm de ancho",
+      "Posee tres corazones para bombear su sangre de color azul",
+      "La primera vez que se pudo filmar a un ejemplar vivo en su hábitat natural fue en el año 2004",
+      "Su sangre es azul debido a que utiliza hemocianina en lugar de hemoglobina para transportar el oxígeno"
+  ]
+}
