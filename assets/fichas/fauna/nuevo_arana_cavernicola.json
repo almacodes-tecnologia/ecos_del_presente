@@ -1,0 +1,166 @@
+{
+  "id": "arana_cavernaria",
+  "nombre": "Araña Cavernaria",
+  "nombreCientifico": "Meta menardi",
+  "fechaInformacion": "2026",
+
+  "imagen": "arana_cavernaria.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "La araña cavernaria es una de las especies troglófilas más grandes y conocidas de Europa.",
+      "Pasa la gran parte de su ciclo vital en la oscuridad absoluta de cuevas, minas y sótanos húmedos."
+  ],
+
+  "descripcionLarga": [
+      "La araña cavernaria es un arácnido de gran tamaño perteneciente a la familia Tetragnathidae. Presenta un cuerpo robusto con tonalidades que varían desde el marrón rojizo hasta el amarillo parduzco, a menudo con marcas oscuras en forma de flecha o manchas en el abdomen.",
+      "A diferencia de las especies estrictamente cavernícolas (troglobiontes), este animal conserva sus ojos bien desarrollados, aunque prefiere la penumbra y la oscuridad total para evitar a los depredadores y mantener la humedad óptima.",
+      "Teje telas orbiculares horizontales o ligeramente inclinadas, normalmente cerca del suelo o suspendidas de las paredes y techos de las cavidades subterráneas, donde espera pacientemente la llegada de presas.",
+      "Su ciclo de vida es notablemente longevo para un arácnido, pudiendo tardar varios años en alcanzar la madurez sexual y completar su desarrollo en las condiciones estables pero frías de su hábitat.",
+      "Cumple un rol regulador importante en los ecosistemas subterráneos al depredar pequeños invertebrados que habitan o caen en las cavidades."
+  ],
+
+  "observaciones": [
+      "Las hembras construyen grandes sacos ovígeros en forma de pera que cuelgan del techo de la cueva mediante un hilo resistente.",
+      "Es una especie inofensiva para los seres humanos a pesar de su aspecto imponente y tamaño."
+  ],
+
+  "longevidad": {
+      "enLibertad": "3-5 años",
+      "enCautividad": "No disponible"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Arthropoda",
+      "clase": "Arachnida",
+      "orden": "Araneae",
+      "familia": "Tetragnathidae",
+      "genero": "Meta",
+      "especie": "M. menardi"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "No evaluada (NE)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Destrucción o alteración turística de cuevas",
+          "Contaminación de aguas subterráneas",
+          "Vandalismo y alteración de microclimas subterráneos"
+      ],
+      "esfuerzosConservacion": [
+          "Protección legal de cuevas y cavidades naturales",
+          "Regulación del acceso de visitantes a hábitats subterráneos frágiles"
+      ],
+      "descripcionConservacion": [
+          "No se encuentra bajo amenaza global directa, pero sus poblaciones locales dependen estrictamente de la conservación de las cuevas y minas donde residen, las cuales son sensibles a la actividad humana."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "No especificado (pocos gramos)",
+          "hembraAdulta": "No especificado (pocos gramos)",
+          "maximoRegistrado": "Variable según la expansión del abdomen"
+      },
+      "alturaHombro": {
+          "macho": "No aplicable",
+          "hembra": "No aplicable"
+      },
+      "longitudCuerpoCola": {
+          "macho": "10-13 mm",
+          "hembra": "11-17 mm (con patas alcanza varios centímetros)"
+      },
+      "colorPelaje": "Marrón rojizo a ocre con patrones oscuros",
+      "caracteristicasEspeciales": "Grandes proporciones corporales y patas largas adaptadas a superficies rugosas",
+      "morfologia": [
+          "Prosoma brillante y robusto",
+          "Opistosoma globoso y alargado",
+          "Quelíceros desarrollados para sujetar presas"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Cavidades subterráneas, cuevas, minas abandonadas, alcantarillas y sótanos húmedos",
+      "distribucionGeografica": [
+          "Europa",
+          "Norte de África",
+          "Oeste de Asia"
+      ],
+      "adaptacionesHabitat": "Alta tolerancia a la humedad ambiental cercana al 100% y resistencia a bajas temperaturas constantes",
+      "descripcionHabitat": [
+          "Prefiere las zonas de penumbra e 히pogeas donde la temperatura se mantiene estable durante todo el año.",
+          "Busca techos y grietas húmedas para fijar sus telas y refugios."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro insectívoro",
+      "presasComunes": [
+          "Dípteros cavernarios (moscas de las cuevas)",
+          "Pequeños coleópteros",
+          "Arterópodos detritívoros",
+          "Otros pequeños insectos subterráneos"
+      ],
+      "estrategiaCaza": "Espera en su tela orbicular o captura activa por contacto directo en las paredes",
+      "descripcionDieta": [
+          "Utiliza su tela para detectar vibraciones de insectos voladores o caminantes que se adentran en la cueva.",
+          "Inyecta veneno para paralizar a sus presas antes de digerirlas."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitaria",
+      "rolMacho": "Búsqueda de la hembra para la cópula durante la época reproductora",
+      "rolHembra": "Construcción de ootecas y cuidado temporal de los huevos",
+      "actividadDiaria": "Nocturna o de hábitos sedentarios permanentes en oscuridad",
+      "comunicacion": [
+          "Vibraciones a través de los hilos de la tela",
+          "Señales táctiles durante el cortejo"
+      ],
+      "descripcionComportamiento": [
+          "Son animales de movimientos generalmente lentos para conservar energía en un entorno con recursos limitados.",
+          "Los machos se acercan con cautela a las telas de las hembras para evitar ser confundidos con presas."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "2 años",
+          "hembra": "2-3 años"
+      },
+      "periodoGestacion": "Variable (puesta en primavera/verano)",
+      "tamanoCamada": "Cientos de huevos por ooteca",
+      "cuidadoCrias": "Protección inicial mediante la ooteca colgante",
+      5: "Las crías emergen tras varias semanas y se dispersan por la cueva o mediante el vuelo gonfalonero si salen al exterior."
+  },
+
+  "importanciaEcologica": [
+      "Controla las poblaciones de insectos dentro del ecosistema subterráneo.",
+      "Forma parte de la red trófica de las cuevas como depredador intermedio."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 2,
+      "inteligencia": 3,
+      "adaptabilidad": 8,
+      "fuerza": 3,
+      "velocidad": 4,
+      "tamano": 5,
+      "majestuosidad": 4,
+      "rareza": 7,
+      "supervivencia": 8,
+      "impactoEcologico": 5
+  },
+
+  "curiosidades": [
+      "Una de las arañas de cueva más grandes de Europa",
+      "Sus sacos de huevos parecen pequeñas linternas colgantes de seda blanca o rosada",
+      "Capaz de sobrevivir en oscuridad total durante toda su vida adulta",
+      "No representa ningún peligro médico para los humanos",
+      "Comparte hábitat a menudo con murciélagos y otros troglófilos"
+  ]
+}
