@@ -1,0 +1,165 @@
+{
+  "id": "curruca_cabecinegra",
+  "nombre": "Curruca cabecinegra",
+  "nombreCientifico": "Curruca melanocephala",
+  "fechaInformacion": "2026",
+
+  "imagen": "curruca_cabecinegra.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "La curruca cabecinegra es un pequeño pájaro paseriforme de hábitos principalmente sedentarios, muy característico de los matorrales y paisajes de tipo mediterráneo.",
+      "Los machos adultos se reconocen de inmediato por su llamativa cabeza de color negro intenso contrastando con un anillo ocular rojo muy vivo."
+  ],
+
+  "descripcionLarga": [
+      "La curruca cabecinegra es un ave de pequeño tamaño, con una longitud que oscila entre los 13 y 14 centímetros. Presenta un marcado dimorfismo sexual: el macho adulto destaca por su caperuza negra en la cabeza que contrasta fuertemente con la garganta blanca y las partes superiores de tonos grises oscuros; por su parte, la hembra tiene la cabeza de un tono gris pardo o marrón sin el contraste negro tan definido del macho.",
+      "Ambos sexos comparten un característico anillo orbital (alrededor del ojo) de un color rojo o anaranjado muy vivo y brillante, rodeado por una zona desnuda de la misma tonalidad.",
+      "Es un ave extraordinariamente inquieta y vivaz, que se desplaza constantemente saltando y revoloteando entre el espeso ramaje de los matorrales bajos, jaras, coscojas y encinares degradados, donde encuentra refugio y alimento.",
+      "Su dieta es principalmente insectívora durante la primavera y el verano, consumiendo una gran variedad de insectos, orugas y arañas. Durante el otoño y el invierno complementa su alimentación de forma muy significativa con frutos silvestres, bayas y pequeñas semillas.",
+      "A diferencia de muchas otras currucas europeas que realizan migraciones de larga distancia hacia el África subsahariana, gran parte de las poblaciones de curruca cabecinegra son sedentarias o realizan movimientos de corto alcance, permaneciendo en el área mediterránea durante todo el año."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir entre 4 y 6 años en libertad.",
+      "Su canto es un gorjeo rápido, áspero y ruidoso, emitido a menudo desde lo alto de un arbusto mientras realiza pequeños vuelos de exhibición."
+  ],
+
+  "longevidad": {
+      "enLibertad": "4-6 años",
+      "enCautividad": null
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Passeriformes",
+      "familia": "Sylviidae",
+      "genero": "Curruca",
+      "especie": "C. melanocephala"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Pérdida y fragmentación de hábitats de matorral mediterráneo por incendios forestales",
+          "Transformación de terrenos agrícolas tradicionales e intensificación de cultivos",
+          "Uso indiscriminado de pesticidas que reducen la disponibilidad de insectos"
+      ],
+      "esfuerzosConservacion": [
+          "Conservación y gestión sostenible de los montes y matorrales mediterráneos",
+          "Protección de espacios naturales protegidos con presencia de matorral denso"
+      ],
+      "descripcionConservacion": [
+          "La especie goza de una situación poblacional favorable y estable a nivel global, beneficiándose de su alta capacidad de adaptación a los matorrales secundarios y zonas en regeneración tras perturbaciones."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "10-14 g",
+          "hembraAdulta": "10-14 g",
+          "maximoRegistrado": null
+      },
+      "alturaHombro": null,
+      "longitudCuerpoCola": {
+          "macho": "13-14 cm",
+          "hembra": "13-14 cm"
+      },
+      "colorPelaje": "Macho con cabeza negra y dorso gris oscuro; hembra con cabeza gris pardusca y dorso grisáceo. Garganta blanca en ambos.",
+      "caracteristicasEspeciales": "Anillo ocular rojo o anaranjado muy vivo y brillante en ambos sexos",
+      "morfologia": [
+          "Cuerpo compacto y estilizado",
+          "Pico fino, corto y ligeramente curvado adaptado para insectos",
+          "Cola larga que suele mantener levantada o meneando con nerviosismo"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Matorrales mediterráneos densos, maquias, jarales, olivares y zonas de arbustos bajos",
+      "distribucionGeografica": [
+          "Península ibérica y Baleares",
+          "Cuenca mediterránea (sur de Europa, norte de África y Oriente Medio)",
+          "Islas del Mediterráneo"
+      ],
+      "adaptacionesHabitat": "Resistencia a la sequía estival mediterránea y capacidad para moverse con soltura en matorrales espinosos y densos",
+      "descripcionHabitat": [
+          "Habita preferentemente áreas abiertas con arbustos altos y matorral mediterráneo denso que le sirvan de cobertura frente a los depredadores y zonas de nidificación."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Omnívoro (con fuerte tendencia insectívora)",
+      "presasComunes": [
+          "Insectos pequeños (escarabajos, hormigas, hemípteros)",
+          "Orugas y larvas",
+          "Arañas",
+          "Bayas y frutos silvestres (en otoño e invierno)",
+          "Pequeñas semillas"
+      ],
+      "estrategiaCaza": "Búsqueda activa de presas saltando entre las ramas del matorral o capturando insectos al vuelo",
+      "descripcionDieta": [
+          "Rebusca minuciosamente entre el follaje de los arbustos para capturar insectos y arañas. En la época fría complementa su dieta consumiendo una gran variedad de frutos carnosos de arbustos silvestres."
+    ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitarias o en parejas territoriales durante la época de reproducción; más dispersas en invierno",
+      "rolMacho": "Defensa rigurosa del territorio de cría mediante cantos constantes y exhibiciones aéreas",
+      "rolHembra": "Construcción principal del nido y mayor parte de la incubación de los huevos",
+      "actividadDiaria": "Diurna",
+      "comunicacion": [
+          "Canto territorial áspero, rápido y musical",
+          "Llamadas de alarma cortas de tipo 'churr' o chasquidos secos"
+      ],
+      "descripcionComportamiento": [
+          "Son aves territoriales y muy activas que no dudan en encararse a intrusos de mayor tamaño para defender su espacio de nidificación.",
+          "Muestran un comportamiento muy nervioso, agitando frecuentemente la cola y erizando las plumas de la cabeza."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "1 año",
+          "hembra": "1 año"
+      },
+      "periodoGestacion": "11-13 días (incubación)",
+      "tamanoCamada": "3-5 huevos",
+      "cuidadoCrias": "Cuidado biparental (ambos adultos alimentan a los polluelos)",
+      "descripcionReproduccion": [
+          "Construyen un nido en forma de taza profunda hecho con hierbas secas, telarañas y raicillas, situado oculto a baja altura entre la vegetación densa de un matorral o arbusto espinoso.",
+          "Pueden realizar dos puestas por temporada, una principal en primavera y otra avanzada el verano."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Regula de manera natural las poblaciones de insectos y orugas en los matorrales mediterráneos.",
+      "Actúa como dispersor de semillas de diversas especies de arbustos y plantas silvestres al consumir sus frutos."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 3,
+      "inteligencia": 5,
+      "adaptabilidad": 8,
+      "fuerza": 1,
+      "velocidad": 6,
+      "tamano": 1,
+      "majestuosidad": 4,
+      "rareza": 2,
+      "supervivencia": 7,
+      "impactoEcologico": 5
+  },
+
+  "curiosidades": [
+      "El macho tiene una caperuza negra azabache que contrasta drásticamente con un anillo ocular de color rojo vivo",
+      "A diferencia de muchas otras currucas, la mayoría de los ejemplares de esta especie no cruzan el Sáhara y se quedan todo el año en el Mediterráneo",
+      "Es un ave sumamente inquieta que no para de moverse y sacudir la cola entre los matorrales",
+      "Su canto es una mezcla peculiar de notas musicales dulces y sonidos ásperos o chirriantes",
+      "Prefiere correr y saltar entre la espesura antes que volar largas distancias para escapar"
+  ]
+}
