@@ -1,0 +1,165 @@
+{
+  "id": "correcaminos_norteno",
+  "nombre": "Correcaminos norteño",
+  "nombreCientifico": "Geococcyx californianus",
+  "fechaInformacion": "2026",
+
+  "imagen": "correcaminos_norteno.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El correcaminos norteño es un ave corredora de gran tamaño perteneciente a la familia de los cucos.",
+      "Es famoso por su gran velocidad en tierra y su capacidad para cazar serpientes y otros animales pequeños en zonas áridas."
+  ],
+
+  "descripcionLarga": [
+      "El correcaminos norteño es un ave esbelta y de larga cola que habita en las regiones áridas y semiáridas de América del Norte, principalmente en el suroeste de Estados Unidos y México. Su plumaje está moteado en tonos marrones, negros y blancos, lo que le proporciona un camuflaje excelente entre la vegetación desértica.",
+      "Aunque es capaz de volar, pasa la mayor parte de su tiempo en el suelo, donde puede alcanzar velocidades de hasta 30-35 km/h para escapar de depredadores o atrapar presas. Presenta una cresta distintiva en la cabeza que puede levantar o bajar según su estado de ánimo.",
+      "Es un ave diurna y solitaria o monógama (forman parejas territoriales de por vida). Para sobrevivir a las frías noches del desierto o a las mañanas frescas, utiliza la insolación matutina: despliega las plumas de la espalda para exponer su piel negra al sol y calentar su cuerpo de manera eficiente.",
+      "Su dieta es estrictamente carnívora/omnívora para un ave, alimentándose de insectos, lagartijas, roedores pequeños, arañas, escorpiones y, de manera notable, serpientes venenosas como las cascabeles, a las que derrota mediante rápidas emboscadas.",
+      "Desempeña un papel importante en el control de poblaciones de roedores e insectos dentro de su ecosistema desértico."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir hasta 7 u 8 años en libertad.",
+      "A pesar de su fama en los dibujos animados, no puede correr a la velocidad del sonido, pero sus carreras cortas son sumamente ágiles."
+  ],
+
+  "longevidad": {
+      "enLibertad": "7-8 años",
+      "enCautividad": "Hasta 9 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Cuculiformes",
+      "familia": "Cuculidae",
+      "genero": "Geococcyx",
+      "especie": "G. californianus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Pérdida y fragmentación de hábitat por urbanización",
+          "Atropellos en carreteras",
+          "Depredación por animales domésticos como gatos y perros"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de áreas naturales en parques estatales y federales",
+          "Estudios de ecología y comportamiento en su hábitat natural"
+      ],
+      "descripcionConservacion": [
+          "Las poblaciones de correcaminos norteño se mantienen estables de manera general, adaptándose bien a la presencia humana en algunas zonas rurales y suburbanas, aunque enfrentan riesgos locales por la pérdida de matorral nativo."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "220-540 g",
+          "hembraAdulta": "220-540 g",
+          "maximoRegistrado": null
+      },
+      "alturaHombro": null,
+      "longitudCuerpoCola": {
+          "macho": "50-60 cm (incluyendo la larga cola)",
+          "hembra": "50-60 cm (incluyendo la larga cola)"
+      },
+      "colorPelaje": "Plumaje moteado en tonos marrones, grises, negros y blancos",
+      "caracteristicasEspeciales": "Cresta eréctil en la cabeza, patas con dos dedos hacia adelante y dos hacia atrás (zigosáctilas)",
+      "morfologia": [
+          "Cuerpo delgado y alargado",
+          "Pico largo, fuerte y ligeramente curvado",
+          "Cola muy larga utilizada como timón al correr y girar"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Desiertos, matorrales áridos, chaparrales y pastizales abiertos",
+      "distribucionGeografica": [
+          "Suroeste de Estados Unidos",
+          "Norte y centro de México"
+      ],
+      "adaptacionesHabitat": "Conservación del agua a través de glándulas de sal nasales y comportamiento termorregulador al sol",
+      "descripcionHabitat": [
+          "Prefiere áreas abiertas con matorrales dispersos, cactus y arbustos bajos que le permitan correr con facilidad y ofrecer puntos de refugio y anidación."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro / Omnívoro",
+      "presasComunes": [
+          "Lagartijas",
+          "Serpientes (incluyendo crías de cascabel)",
+          "Insectos grandes (saltamontes, escarabajos)",
+          "Roedores pequeños",
+          "Arañas y escorpiones",
+          "Ocasionalmente frutos o semillas"
+      ],
+      "estrategiaCaza": "Acecho paciente seguido de una carrera corta y un golpe certero con el pico",
+      "descripcionDieta": [
+          "Caza en solitario o en parejas, utilizando su velocidad y agilidad para capturar presas terrestres.",
+          "Golpea a las presas grandes contra el suelo o rocas antes de tragarlas enteras."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitario o en parejas monógamas territoriales",
+      "rolMacho": "Ayuda en la construcción del nido, alimenta a la hembra durante el cortejo y colabora en la incubación y alimentación de los polluelos",
+      "rolHembra": "Pone los huevos, colabora en la incubación y en el cuidado de las crías",
+      "actividadDiaria": "Diurna",
+      "comunicacion": [
+          "Llamadas de baja frecuencia similares a un arrullo o golpeteos con el pico"
+      ],
+      "descripcionComportamiento": [
+          "Son aves territoriales que defienden su espacio durante todo el año.",
+          "Pasan las horas más cálidas del día a la sombra y aprovechan las primeras horas de la mañana para termorregularse tomando el sol."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "1 año",
+          "hembra": "1 año"
+      },
+      "periodoGestacion": "18-20 días (incubación)",
+      "tamanoCamada": "2-6 huevos",
+      "cuidadoCrias": "Cuidado biparental (ambos padres alimentan y protegen a los polluelos)",
+      "descripcionReproduccion": [
+          "Forman parejas monógamas que suelen durar toda la vida. Construyen nidos en forma de plataforma con ramas en arbustos bajos o cactus.",
+          "Los huevos pueden eclosionar en momentos diferentes, lo que provoca que los polluelos tengan tamaños distintos."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Controla de manera natural las poblaciones de insectos, roedores y reptiles pequeños en el ecosistema desértico.",
+      "Forma parte de la cadena trófica como depredador intermedio y presa ocasional de rapaces y mamíferos mayores."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 4,
+      "inteligencia": 6,
+      "adaptabilidad": 8,
+      "fuerza": 2,
+      "velocidad": 8,
+      "tamano": 2,
+      "majestuosidad": 4,
+      "rareza": 3,
+      "supervivencia": 7,
+      "impactoEcologico": 5
+  },
+
+  "curiosidades": [
+      "Puede correr a velocidades de hasta 30-35 km/h en distancias cortas",
+      "Toma baños de sol matutinos levantando las plumas de la espalda para calentar su cuerpo negro subyacente",
+      "Es capaz de cazar y devorar serpientes venenosas de tamaño considerable",
+      "Tiene patas con dactilia zigodactila (dos dedos hacia adelante y dos hacia atrás)",
+      "Inspiró al famoso personaje de dibujos animados 'El Correcaminos' de Looney Tunes"
+  ]
+}
