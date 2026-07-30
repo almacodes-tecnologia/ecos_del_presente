@@ -1,0 +1,154 @@
+{
+  "id": "cucaracha_americana",
+  "nombre": "Cucaracha americana",
+  "nombreCientifico": "Periplaneta americana",
+  "fechaInformacion": "2026",
+
+  "imagen": "cucaracha_americana.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "La cucaracha americana es la especie de cucaracha voladora más grande que se encuentra comúnmente en entornos urbanos de todo el mundo.",
+      "A pesar de su nombre, es originaria de África tropical y fue introducida en América y Europa a través del comercio marítimo histórico."
+  ],
+
+  "descripcionLarga": [
+      "La cucaracha americana tiene un cuerpo de forma ovalada, aplanado dorsoventralmente, con un tamaño que suele oscilar entre los 34 y 53 milímetros de longitud. Presenta una coloración marrón rojiza brillante, distinguiéndose fácilmente por una mancha de un tono amarillo pálido o marrón claro en forma de ocho situada en el pronoto (la estructura dorsal detrás de la cabeza).",
+      "Tanto los machos como las hembras están provistos de alas largas que cubren todo su abdomen. Aunque prefieren correr a gran velocidad, los adultos son capaces de realizar vuelos cortos o planeos, especialmente cuando hace calor o se sienten amenazados.",
+      "Prosperan en ambientes húmedos, cálidos y oscuros, como redes de alcantarillado, sótanos, bodegas, conductos de calefacción y zonas de preparación de alimentos. Son insectos eminentemente nocturnos que evitan la luz directa del sol.",
+      "Tienen una dieta omnívora generalista muy amplia: se alimentan de materia orgánica en descomposición, papel, pegamento, restos de comida, almidón, telas y sustancias azucaradas, desempeñando un papel de descomponedor en la naturaleza, aunque son consideradas plagas en el ámbito urbano.",
+      "Son vectores potenciales de patógenos debido a que transitan por zonas insalubres, transportando bacterias, hongos y virus en sus patas y cuerpo hacia los alimentos."
+  ],
+
+  "observaciones": [
+      "Los ejemplares adultos pueden llegar a vivir de 1 a 2 años en condiciones óptimas.",
+      "Poseen una legendaria resistencia biológica, pudiendo sobrevivir varios días sin cabeza debido a su sistema nervioso descentralizado."
+  ],
+
+  "longevidad": {
+      "enLibertad": "1-2 años",
+      "enCautividad": "Hasta 2.5 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Arthropoda",
+      "clase": "Insecta",
+      "orden": "Blattodea",
+      "familia": "Blattidae",
+      "genero": "Periplaneta",
+      "especie": "P. americana"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "No evaluada (NE)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Campañas de control de plagas y fumigación urbana",
+          "Uso de insecticidas químicos"
+      ],
+      "esfuerzosConservacion": [],
+      "descripcionConservacion": [
+          "Al tratarse de una especie sinantrópica y cosmopolita ampliamente distribuida por el ser humano, sus poblaciones globales no enfrentan ningún riesgo de conservación; por el contrario, son objeto de control y erradicación."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": null,
+          "hembraAdulta": null,
+          "maximoRegistrado": null
+      },
+      "alturaHombro": null,
+      "longitudCuerpoCola": {
+          "macho": "34-53 mm",
+          "hembra": "34-53 mm"
+      },
+      "colorPelaje": "Marrón rojizo brillante con una marca de color amarillo pálido en el pronoto",
+      "caracteristicasEspeciales": "Alas desarrolladas que cubren todo el abdomen (capaces de planear), cercos largos en la parte posterior sensibles a las vibraciones",
+      "morfologia": [
+          "Cuerpo aplanado para introducirse en rendijas estrechas",
+          "Antenas filiformes extremadamente largas",
+          "Piezas bucales masticadoras potentes"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Entornos urbanos oscuros y húmedos, alcantarillas, sótanos, áreas tropicales y subtropicales al aire libre",
+      "distribucionGeografica": [
+          "Cosmopolita (presente en zonas tropicales y templadas de todo el mundo)",
+          "Originaria de África tropical"
+      ],
+      "adaptacionesHabitat": "Metabolismo resistente, capacidad de sobrevivir en condiciones de alta humedad y baja disponibilidad de oxígeno",
+      "descripcionHabitat": [
+          "En climas cálidos viven al aire libre bajo cortezas de árboles, pilas de leña y materia vegetal húmeda; en climas templados se refugian en infraestructuras subterráneas humanas y edificios."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Omnívoro generalista",
+      "presasComunes": null,
+      "estrategiaCaza": null,
+      "descripcionDieta": [
+          "Consume cualquier tipo de materia orgánica disponible, incluyendo restos de alimentos humanos, papel, cartón, pegamentos, cuero, madera podrida y otros insectos muertos."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Gregarias, suelen agruparse en refugios oscuros durante el día",
+      "rolMacho": null,
+      "rolHembra": null,
+      "actividadDiaria": "Nocturna",
+      "comunicacion": [
+          "Emisión de feromonas de agregación y para el apareamiento",
+          "Percepción de vibraciones a través de los cercos caudales"
+      ],
+      "descripcionComportamiento": [
+          "Son insectos muy huidizos que huyen de la luz a gran velocidad ante cualquier perturbación.",
+          "Muestran un comportamiento de marcaje químico en sus rutas de tránsito mediante excrementos y secreciones."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "4-5 meses",
+          "hembra": "4-5 meses"
+      },
+      "periodoGestacion": "30-50 días (incubación del ooteca)",
+      "tamanoCamada": "14-16 huevos por ooteca",
+      "cuidadoCrias": "Sin cuidado parental tras depositar la ooteca",
+      "descripcionReproduccion": [
+          "La hembra produce cápsulas de huevos llamadas ootecas, las cuales deposita o fija en lugares protegidos y seguros cerca de fuentes de alimento y humedad.",
+          "Pueden reproducirse por partenogénesis (sin fecundación por parte de un macho) en condiciones de aislamiento."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como descomponedor de materia orgánica muerta en la naturaleza.",
+      "Sirve como eslabón trófico inferior para aves, reptiles, anfibios y pequeños mamíferos insectívoros."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 1,
+      "inteligencia": 3,
+      "adaptabilidad": 10,
+      "fuerza": 2,
+      "velocidad": 8,
+      "tamano": 2,
+      "majestuosidad": 1,
+      "rareza": 1,
+      "supervivencia": 10,
+      "impactoEcologico": 4
+  },
+
+  "curiosidades": [
+      "A pesar de llamarse americana, es originaria de África tropical",
+      "Puede correr a una velocidad equivalente a unos 50 cuerpos por segundo, lo que la sitúa entre los animales terrestres más rápidos en proporción a su tamaño",
+      "Es capaz de sobrevivir semanas sin alimento y varios días sin cabeza debido a su anatomía nerviosa descentralizada",
+      "Los adultos poseen alas y pueden planear distancias cortas cuando se desploman desde zonas altas",
+      "Las hembras tienen la capacidad de reproducirse sin la intervención de machos mediante partenogénesis"
+  ]
+}
