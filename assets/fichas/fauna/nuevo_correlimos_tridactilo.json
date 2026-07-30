@@ -1,0 +1,164 @@
+{
+  "id": "correlimos_tridactilo",
+  "nombre": "Correlimos tridáctilo",
+  "nombreCientifico": "Calidris alba",
+  "fechaInformacion": "2026",
+
+  "imagen": "correlimos_tridactilo.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El correlimos tridáctilo es un pequeño ave limícola migratoria famosa por su característico hábito de correr incansablemente siguiendo el ritmo de las olas en las playas de arena.",
+      "Es una de las aves con mayor distribución geográfica del mundo, reproduciéndose en el ártico y pasando el invierno en costas de todo el planeta."
+  ],
+
+  "descripcionLarga": [
+      "El correlimos tridáctilo es un ave limícola pequeña y compacta. Durante la época reproductora en el ártico posee un plumaje rojizo y pardo en el dorso, mientras que en su plumaje invernal adopta tonos muy pálidos, casi blancos por debajo y gris claro por arriba, lo que le confiere un camuflaje perfecto en la arena de las playas.",
+      "Su nombre común se debe a una característica anatómica única dentro de su género: carece del dedo posterior (hallux), teniendo únicamente tres dedos en cada pata, una adaptación que aligera su extremidad y le permite correr con gran agilidad sobre la arena húmeda.",
+      "Se alimentan principalmente en la franja intermareal, corriendo rítmicamente hacia adelante para atrapar pequeños invertebrados marinos arrastrados por el agua y huyendo a toda velocidad hacia atrás para evitar mojarse con las olas entrantes.",
+      "Son aves altamente gregarias fuera de la época de cría, formando bandos compactos que realizan vuelos sincronizados sobre el mar y las costas antes de posarse.",
+      "Realizan migraciones de larga distancia extraordinarias, volando desde sus zonas de cría en el alto ártico hasta las costas de África, América del Sur, Australia y Europa."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir entre 4 y 8 años en libertad.",
+      "Es una de las especies de aves playeras más fáciles de reconocer por su comportamiento dinámico en la orilla del mar."
+  ],
+
+  "longevidad": {
+      "enLibertad": "4-8 años",
+      "enCautividad": null
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Charadriiformes",
+      "familia": "Scolopacidae",
+      "genero": "Calidris",
+      "especie": "C. alba"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": "Decreciendo",
+      "amenazasPrincipales": [
+          "Pérdida y alteración de hábitats costeros por la presión urbanística y turística",
+          "Molestias humanas en las playas durante sus periodos de descanso y alimentación",
+          "Cambio climático y su impacto en las zonas de tundra ártica"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de humedales y áreas costeras de importancia internacional",
+          "Restricciones de acceso a zonas de nidificación y descanso en playas protegidas"
+      ],
+      "descripcionConservacion": [
+          "A pesar de contar con una población global muy amplia y estable en su conjunto, algunas rutas migratorias muestran descensos locales debido a la degradación y masificación de las playas donde recalan."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "40-100 g",
+          "hembraAdulta": "40-100 g",
+          "maximoRegistrado": null
+      },
+      "alturaHombro": null,
+      "longitudCuerpoCola": {
+          "macho": "18-20 cm",
+          "hembra": "18-20 cm"
+      },
+      "colorPelaje": "Invernal gris pálido y blanco; estival con dorso rojizo moteado de negro",
+      "caracteristicasEspeciales": "Ausencia de dedo trasero (tridáctilo), pico corto y recto de color negro",
+      "morfologia": [
+          "Cuerpo rechoncho y compacto",
+          "Pico y patas negros",
+          "Alas puntiagudas adaptadas para vuelo migratorio rápido"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Costas arenosas, playas intermareales, estuarios y tundra ártica en reproducción",
+      "distribucionGeografica": [
+          "Ártico (zonas de reproducción)",
+          "Costas de América del Norte y del Sur",
+          "Costas de Europa, África y oeste de Asia",
+          "Australia y zonas costeras de Oceanía"
+      ],
+      "adaptacionesHabitat": "Pies tridáctilos para correr en arena mojada y metabolismo capaz de almacenar grandes reservas de grasa para la migración",
+      "descripcionHabitat": [
+          "En invierno y pasos migratorios frecuentan playas de arena abierta y zonas intermareales fangosas; en verano ocupan la tundra ártica seca y pedregosa."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro / Invertebrívoro",
+      "presasComunes": [
+          "Pequeños crustáceos (como anfípodos y copépodos)",
+          "Moluscos diminutos",
+          "Gusanos marinos",
+          "Insectos y sus larvas (en época de cría en la tundra)"
+      ],
+      "estrategiaCaza": "Picoteo rápido en la arena húmeda siguiendo el movimiento de las olas",
+      "descripcionDieta": [
+          "Sonda la arena con su pico corto para localizar presas enterradas mediante el tacto o la vista al retirarse el agua."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Gregario fuera de la época de reproducción, formando bandos numerosos",
+      "rolMacho": "Puede incubar una puesta en nidos separados mientras la hembra realiza otra",
+      "rolHembra": "Pone los huevos y a menudo abandona la crianza anticipadamente",
+      "actividadDiaria": "Diurna y adaptada a los ciclos de las mareas",
+      "comunicacion": [
+          "Llamadas breves y agudas de contacto durante el vuelo o la alimentación"
+      ],
+      "descripcionComportamiento": [
+          "Su comportamiento más llamativo es el desplazamiento sincrónico y constante de avance y retroceso junto a la rompiente de las olas.",
+          "Realizan vuelos coordinados en bandos muy compactos que giran al unísono."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "1 año",
+          "hembra": "1 año"
+      },
+      "periodoGestacion": "23-17 días (incubación)",
+      "tamanoCamada": "3-4 huevos",
+      "cuidadoCrias": "Cuidado uniparental o compartido breve dependiendo del sistema de apareamiento flexible",
+      "descripcionReproduccion": [
+          "Nidifican en el suelo de la tundra ártica en depresiones poco profundas revestidas de líquenes y hojas.",
+          "Los polluelos son precoces y abandonan el nido poco después de eclosionar para buscar su propio alimento bajo supervisión parental."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como bioindicador de la salud de los ecosistemas costeros y playas arenosas.",
+      "Sirve como eslabón clave en las cadenas tróficas intermareales y como fuente de alimento para aves rapaces migratorias."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 1,
+      "inteligencia": 5,
+      "adaptabilidad": 9,
+      "fuerza": 1,
+      "velocidad": 8,
+      "tamano": 1,
+      "majestuosidad": 3,
+      "rareza": 3,
+      "supervivencia": 7,
+      "impactoEcologico": 5
+  },
+
+  "curiosidades": [
+      "Carece por completo del dedo posterior (hallux), teniendo solo tres dedos en cada pata",
+      "Es famoso por correr incansablemente hacia adelante y hacia atrás siguiendo el ritmo de las olas",
+      "Realiza migraciones épicas que pueden superar los 10,000 kilómetros entre el ártico y sus cuarteles de invierno",
+      "Su plumaje cambia drásticamente de colores rojizos en verano a un blanco casi puro en invierno",
+      "Tiene un sistema de reproducción flexible donde machos y hembras pueden incubar puestas separadas simultáneamente"
+  ]
+}
