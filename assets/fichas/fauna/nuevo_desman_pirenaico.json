@@ -1,0 +1,167 @@
+{
+  "id": "desman_pirenaico",
+  "nombre": "Desmán pirenaico",
+  "nombreCientifico": "Galemys pyrenaicus",
+  "fechaInformacion": "2026",
+
+  "imagen": "desman_pirenaico.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El desmán pirenaico, también conocido popularmente como rata de agua con trompa, es un pequeño mamífero semiacuático de hábitos nocturnos endémico del norte de la península ibérica y los Pirineos franceses.",
+      "Es un fósil viviente emparentado lejanamente con los topos y las musarañas, caracterizado por su peculiar hocico en forma de trompa móvil."
+  ],
+
+  "descripcionLarga": [
+      "El desmán pirenaico es un mamífero insectívoro de pequeño tamaño, con un cuerpo que mide entre 11 y 16 centímetros, a los que se suma una larguísima cola aplanada lateralmente de similar longitud. Pesa habitualmente entre 35 y 80 gramos. Su pelaje es denso, impermeable y de tonos pardos oscuros o negruzcos por el dorso y más claros en el vientre, diseñado para atrapar una capa de aire que lo aísla del agua fría.",
+      "Su rasgo más llamativo es su hocico (la 'trompa'), una estructura carnosa hiperdesarrollada y móvil repleta de miles de órganos sensoriales táctiles (órganos de Eimer), que utiliza para localizar a sus presas bajo el agua en absoluta oscuridad mediante el tacto y la electrorrecepción.",
+      "Habita exclusivamente en cursos de agua limpios, rápidos y bien oxigenados de alta montaña o zonas atlánticas. Son animales eminentemente nocturnos y solitarios, que pasan el día refugiados en oquedades naturales de la orilla, debajo de rocas o en galerías que ellos mismos excavan.",
+      "Su dieta se compone casi en su totalidad de macroinvertebrados bentónicos que habitan en el fondo de los ríos, como larvas de efímeras, tricópteros, pleópteros y pequeños crustáceos de agua dulce.",
+      "Es una especie extremadamente frágil y amenazada debido a su alta sensibilidad a la alteración de los ecosistemas fluviales, la contaminación y la fragmentación de los ríos por infraestructuras humanas."
+  ],
+
+  "observaciones": [
+      "Su esperanza de vida en libertad suele rondar entre los 3 y 3.5 años.",
+      "Es uno de los mamíferos más amenazados de Europa y un auténtico icono de la conservación de los ríos de montaña ibéricos."
+  ],
+
+  "longevidad": {
+      "enLibertad": "3-3.5 años",
+      "enCautividad": null
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Eulipotyphla",
+      "familia": "Talpidae",
+      "genero": "Galemys",
+      "especie": "G. pyrenaicus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "En peligro (EN)",
+      "tendenciaPoblacion": "Decreciendo",
+      "amenazasPrincipales": [
+          "Fragmentación y alteración del hábitat fluvial por construcción de presas, embalses y minicentrales hidroeléctricas",
+          "Contaminación del agua y pérdida de la calidad ecológica de los ríos",
+          "Canalización y limpieza drástica de riberas",
+          "Especies invasoras competidoras o depredadoras como el visón americano",
+          "Cambio climático y reducción del caudal de los ríos de montaña"
+      ],
+      "esfuerzosConservacion": [
+          "Proyectos de conservación europeos (como Life Pyrenean Desman)",
+          "Estudios de seguimiento mediante telemetría y análisis de ADN ambiental en excrementos",
+          "Restauración de la conectividad fluvial y mejora de la calidad de las aguas"
+      ],
+      "descripcionConservacion": [
+          "El desmán pirenaico sufre un declive continuo y acelerado en gran parte de su área de distribución histórica, habiendo desaparecido por completo de numerosas cuencas fluviales donde antes era abundante."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "35-80 g",
+          "hembraAdulta": "35-80 g",
+          "maximoRegistrado": null
+      },
+      "alturaHombro": null,
+      "longitudCuerpoCola": {
+          "macho": "11-16 cm (cuerpo) + 12-16 cm (cola)",
+          "hembra": "11-16 cm (cuerpo) + 12-16 cm (cola)"
+      },
+      "colorPelaje": "Pardo oscuro o negruzco en el dorso, grisáceo claro en la zona ventral",
+      "caracteristicasEspeciales": "Hocico en forma de trompa móvil muy táctil, patas posteriores palmeadas con fuertes uñas, cola larga aplanada lateralmente",
+      "morfologia": [
+          "Cuerpo alargado y fusiforme adaptado a la natación",
+          "Ojos y orejas diminutos y ocultos bajo el pelo (vista muy reducida)",
+          "Patas delanteras cortas cavadoras y traseras nadadoras"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Ríos de montaña limpios, oxigenados, de curso rápido y aguas frías",
+      "distribucionGeografica": [
+          "Norte de la península ibérica (Pirineos, Cordillera Cantábrica, Sistema Ibérico norte y norte de Portugal)",
+          "Pirineos franceses"
+      ],
+      "adaptacionesHabitat": "Pelaje impermeable de doble capa, patas palmeadas y hocico táctil altamente especializado para la vida acuática",
+      "descripcionHabitat": [
+          "Vive exclusivamente en tramos fluviales con orillas naturales con vegetación de ribera bien conservada, bloques de piedra grandes en el lecho y corrientes rápidas ricas en oxígeno."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro / Insectívoro acuático",
+      "presasComunes": [
+          "Larvas de efímeras",
+          "Larvas de tricópteros",
+          "Pleópteros",
+          "Pequeños crustáceos de agua dulce",
+          "Pequeños moluscos acuáticos"
+      ],
+      "estrategiaCaza": "Búsqueda táctil activa explorando el fondo del río con su trompa móvil",
+      "descripcionDieta": [
+          "Consume diariamente una cantidad de alimento equivalente a una gran parte de su propio peso corporal, removiendo piedras y gravas del fondo fluvial en busca de macroinvertebrados."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitarios y territoriales fuera de la época de celo",
+      "rolMacho": null,
+      "rolHembra": null,
+      "actividadDiaria": "Principalmente nocturna y crepuscular",
+      "comunicacion": [
+          "Emisión de chillidos ultrasónicos y de baja frecuencia",
+          "Marcaje territorial mediante secreciones de glándulas almizcleras"
+      ],
+      "descripcionComportamiento": [
+          "Son animales extremadamente esquivos y difíciles de observar en la naturaleza.",
+          "Pasan las horas diurnas resguardados en madrigueras subterráneas o bajo rocas, saliendo al anochecer para nadar y cazar activamente en el río."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+      "madurezSexual": {
+          "macho": "1 año",
+          "hembra": "1 año"
+      },
+      "periodoGestacion": "Aprox. 30 días",
+      "tamanoCamada": "1-5 crías por parto",
+      "cuidadoCrias": "Cuidado maternal en el nido subterráneo",
+      "descripcionReproduccion": [
+          "El periodo de reproducción abarca desde finales de invierno hasta principios de verano, pudiendo realizar varias camadas al año si las condiciones son favorables.",
+          "Construyen nidos esféricos con musgo y hojas secas situados en galerías excavadas en la orilla del río protegidas del agua."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como un excelente bioindicador de la salud, calidad y conservación de los ecosistemas fluviales de montaña.",
+      "Controla las poblaciones de macroinvertebrados en las cabeceras de los ríos."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 2,
+      "inteligencia": 4,
+      "adaptabilidad": 2,
+      "fuerza": 1,
+      "velocidad": 5,
+      "tamano": 1,
+      "majestuosidad": 3,
+      "rareza": 10,
+      "supervivencia": 3,
+      "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+      "Es un 'fósil viviente' que apenas ha cambiado su morfología en millones de años",
+      "Tiene un hocico en forma de trompa repleto de miles de receptores táctiles con los que 've' el fondo del río bajo el agua",
+      "Consume diariamente una cantidad de comida equivalente a su propio peso corporal para mantener su alto metabolismo",
+      "Sus ojos son tan pequeños que son prácticamente ciegos, dependiendo por completo del tacto y el olfato",
+      "Solo sobrevive en ríos con aguas de excelente calidad y alta oxigenación, por lo que su presencia indica un río totalmente sano"
+  ]
+}
