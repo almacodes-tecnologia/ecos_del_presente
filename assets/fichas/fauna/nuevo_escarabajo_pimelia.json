@@ -1,0 +1,158 @@
+añado aquí una nota para que dé error y poder revisar este fichero 
+
+{
+  "id": "escarabajo_pimelia",
+  "nombre": "Escarabajo pimelia",
+  "nombreCientifico": "Pimelia rotundata",
+  "fechaInformacion": "2026",
+
+  "imagen": "escarabajo_pimelia.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El escarabajo pimelia es un coleóptero detritívoro de gran tamaño y cuerpo globoso, perfectamente adaptado a la vida en los ambientes áridos y esteparios de la península ibérica.",
+      "Destaca por su total incapacidad para volar debido a sus élitros soldados y por su característico comportamiento defensivo al ser molestado."
+  ],
+
+  "descripcionLarga": [
+      "El escarabajo pimelia (específicamente centrado en especies representativas ibéricas como Pimelia rotundata) es un insecto robusto que alcanza longitudes de entre 20 y 30 milímetros. Su exoesqueleto presenta un color negro mate uniforme y una morfología muy abombada y redondeada.",
+      "Una de sus adaptaciones evolutivas más fascinantes para soportar la sequía extrema es la presencia de una cámara de aire hermética situada bajo sus élitros soldados (que le impiden volar). Esta cavidad le permite reducir drásticamente la pérdida de agua por evaporación y regular su humedad corporal bajo el sol implacable.",
+      "Son animales eminentemente terrestres de hábitos crepusculares y nocturnos. Durante las horas de calor intenso del día, se refugian bajo piedras profundas, grietas del suelo o enterrados parcialmente en la arena.",
+      "Su alimentación es de carácter detritívoro y saprófago. Desempeñan una labor ecológica crucial al reciclar materia orgánica seca, restos vegetales muertos, raíces y excrementos en ecosistemas donde la descomposición es lenta.",
+      "Ante cualquier señal de amenaza, despliega una estrategia defensiva muy icónica: se detiene, baja la cabeza e isométricamente levanta la parte posterior del abdomen hacia arriba, adoptando una postura de 'stand' de la que puede llegar a expulsar secreciones químicas malolientes."
+  ],
+
+  "observaciones": [
+      "Los ejemplares adultos pueden vivir varios meses, logrando superar incluso el año de vida si las condiciones ambientales son favorables.",
+      "Es un organismo emblemático de los pastizales secos, arenales costeros y estepas cerealistas del sur y centro de España."
+  ],
+
+  "longevidad": {
+      "enLibertad": "1 año (adulto)",
+      "enCautividad": null
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Arthropoda",
+      "clase": "Insecta",
+      "orden": "Coleoptera",
+      "familia": "Tenebrionidae",
+      "genero": "Pimelia",
+      "especie": "P. rotundata"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC) / No evaluada específicamente a nivel global por especie",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Destrucción, alteración y fragmentación de los hábitats esteparios naturales",
+          "Intensificación de la agricultura y uso masivo de plaguicidas",
+          "Atropellos recurrentes en caminos rurales y carreteras secundarias"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de ZEPA (Zonas de Especial Protección para las Aves) esteparias que salvaguardan indirectamente a su fauna asociada"
+      ],
+      "descripcionConservacion": [
+          "Aunque no cuenta con una evaluación individualizada masiva en las listas rojas globales para cada una de sus especies locales, sus poblaciones se mantienen razonablemente estables en áreas de matorral y secarcanos bien conservados."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": null,
+          "hembraAdulta": null,
+          "maximoRegistrado": null
+      },
+      "alturaHombro": null,
+      "longitudCuerpoCola": {
+          "macho": "20-30 mm",
+          "hembra": "20-30 mm"
+      },
+      "colorPelaje": "Negro mate azabache uniforme",
+      "caracteristicasEspeciales": "Élitros completamente soldados (ausencia total de vuelo), cámara subelitral para retención de humedad",
+      "morfologia": [
+          "Cuerpo globoso, ancho y muy abombado",
+          "Patas largas y delgadas adaptadas para la marcha continua sobre sustratos sueltos",
+          "Antenas compuestas por segmentos cortos adaptados a la percepción táctil y química"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Estepas ibéricas, campos de cultivo de secano, arenales litorales y matorrales mediterráneos abiertos",
+      "distribucionGeografica": [
+          "Península ibérica (principalmente centro, sur y este de España)",
+          "Portugal"
+      ],
+      "adaptacionesHabitat": "Impermeabilidad del exoesqueleto y soldadura de élitros para evitar la desecación bajo condiciones desérticas",
+      "descripcionHabitat": [
+          "Prefiere terrenos abiertos, soleados y con escasa cobertura vegetal arbórea, habitando suelos calizos o arenosos donde le resulte fácil encontrar refugio bajo piedras."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Detritívoro / Herbívoro",
+      "presasComunes": null,
+      "estrategiaCaza": null,
+      "descripcionDieta": [
+          "Consume restos vegetales marchitos, hojas caídas, detritos orgánicos del suelo, raíces superficiales y excrementos secos de animales herbívoros."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitarios, aunque pueden coincidir varios ejemplares bajo la misma piedra o refugio diurno",
+      "rolMacho": null,
+      "rolHembra": null,
+      "actividadDiaria": "Principalmente nocturna y crepuscular",
+      "comunicacion": [
+          "Reconocimiento mediante feromonas y contactos táctiles con las antenas"
+      ],
+      "descripcionComportamiento": [
+          "Se desplazan por el suelo con un caminar pausado, metódico y constante en busca de recursos alimenticios.",
+          "Ante la presencia de un depredador, realizan una exhibición disuasoria levantando rígidamente la parte trasera de su cuerpo."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "1 año",
+          "hembra": "1 año"
+      },
+      "periodoGestacion": null,
+      "tamanoCamada": null,
+      "cuidadoCrias": "Sin cuidado parental",
+      "descripcionReproduccion": [
+          "El apareamiento tiene lugar tras los periodos de lluvia estacionales. Las hembras depositan los huevos de forma individual bajo tierra o en grietas protegidas.",
+          "Las larvas, de aspecto alargado y endurecido, se desarrollan en el subsuelo alimentándose de materia orgánica y raíces subterráneas."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Actúa como un eficiente agente descomponedor y reciclador de nutrientes en los ecosistemas áridos y semiáridos.",
+      "Constituye una fuente de alimentación básica para numerosas aves esteparias, reptiles y mamíferos insectívoros nocturnos."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 1,
+      "inteligencia": 2,
+      "adaptabilidad": 9,
+      "fuerza": 3,
+      "velocidad": 2,
+      "tamano": 2,
+      "majestuosidad": 2,
+      "rareza": 3,
+      "supervivencia": 8,
+      "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+      "Tiene los élitros soldados entre sí, lo que significa que ha perdido por completo la capacidad de volar",
+      "Posee una cámara de aire interna bajo su caparazón que le ayuda a retener la humedad corporal en los días más calurosos",
+      "Adopta una postura muy característica levantando el trasero hacia el cielo cuando se asusta o se siente amenazado",
+      "Puede segregar sustancias químicas de olor desagradable para repeler de forma efectiva a sus atacantes",
+      "Es uno de los insectos caminantes más representativos y fáciles de ver en los caminos de tierra de los secarcanos ibéricos"
+  ]
+}
