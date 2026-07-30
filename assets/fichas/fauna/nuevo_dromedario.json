@@ -1,0 +1,162 @@
+{
+  "id": "dromedario",
+  "nombre": "Dromedario",
+  "nombreCientifico": "Camelus dromedarius",
+  "fechaInformacion": "2026",
+
+  "imagen": "dromedario.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El dromedario, también conocido como camello arábigo, es un gran mamífero artiodáctilo caracterizado por poseer una sola joroba en su dorso.",
+      "Es una especie fundamental en las culturas de regiones áridas y desérticas, habiendo sido domesticada por completo desde hace miles de años."
+  ],
+
+  "descripcionLarga": [
+      "El dromedario es un animal robusto y de gran envergadura, con una altura a la cruz que puede superar los dos metros y un peso que oscila habitualmente entre los 400 y 600 kilogramos. A diferencia de su pariente el camello bactriano, cuenta con una única joroba central, la cual está compuesta por tejido adiposo (grasa) que el animal utiliza como reserva energética y hídrica.",
+      "Está extraordinariamente adaptado para soportar las duras condiciones de los desiertos cálidos y áridos. Posee pestañas dobles muy largas, fosas nasales que puede cerrar herméticamente para evitar la entrada de arena durante las tormentas, y almohadillas plantares anchas y callosas en las patas que le permiten caminar sobre la arena blanda sin hundirse.",
+      "Son animales herbívoros rumiantes capaces de consumir vegetación espinosa, seca o salada que otras especies desprecian. Su fisiología excepcional les permite soportar largos periodos de sequía extrema, pudiendo perder hasta un tercio de su masa corporal en agua sin sufrir daños fatales y recuperarla rápidamente bebiendo grandes volúmenes en pocos minutos.",
+      "Prácticamente no existen poblaciones silvestres de dromedarios en la actualidad; la inmensa mayoría son animales domésticos criados para el transporte, la carga, la producción de leche y carne, o introducidos de forma feral en regiones como el centro de Australia.",
+      "Desempeñan un papel histórico insustituible como 'el barco del desierto', posibilitando las rutas comerciales y la vida humana en los entornos desérticos más inhóspitos del norte de África y Oriente Medio."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir entre 40 y 50 años en cautividad o bajo cuidado humano.",
+      "Es capaz de beber hasta 100 litros de agua en apenas diez minutos cuando se encuentra deshidratado."
+  ],
+
+  "longevidad": {
+      "enLibertad": null,
+      "enCautividad": "40-50 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Artiodactyla",
+      "familia": "Camelidae",
+      "genero": "Camelus",
+      "especie": "C. dromedarius"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Domesticado (poblaciones silvestres extintas)",
+      "tendenciaPoblacion": "Estable",
+      "amenazasPrincipales": [
+          "Pérdida de formas de vida nómadas tradicionales",
+          "Enfermedades infecciosas del ganado (como el MERS-CoV o tripanosomiasis)"
+      ],
+      "esfuerzosConservacion": [
+          "Cría y selección tradicional en comunidades ganaderas del norte de África y Oriente Medio",
+          "Gestión de poblaciones cimarronas en Australia"
+      ],
+      "descripcionConservacion": [
+          "Al tratarse de una especie principalmente doméstica, no cuenta con un estatus de conservación silvestre tradicional en la naturaleza, aunque las poblaciones asilvestradas introducidas en Australia se manejan como fauna de control debido a su impacto ambiental."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": "400-600 kg",
+          "hembraAdulta": "300-540 kg",
+          "maximoRegistrado": "1000 kg"
+      },
+      "alturaHombro": {
+          "macho": "2.1-2.3 m",
+          "hembra": "1.8-2.0 m"
+      },
+      "longitudCuerpoCola": {
+          "macho": "2.2-3.4 m",
+          "hembra": "2.2-3.4 m"
+      },
+      "colorPelaje": "Tono uniforme que varía desde el marrón claro o beige hasta el gris oscuro o castaño",
+      "caracteristicasEspeciales": "Una sola joroba dorsal, labios gruesos divididos, pestañas dobles y fosas nasales obturables",
+      "morfologia": [
+          "Cuerpo esbelto con extremidades largas y delgadas",
+          "Cuello largo y curvado",
+          "Pies con dos dedos provistos de almohadillas anchas y uña ancha en forma de pezuña"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Desiertos cálidos, semidesiertos y regiones áridas",
+      "distribucionGeografica": [
+          "Norte de África",
+          "Oriente Medio y Península Arábiga",
+          "Cuerno de África",
+          "Introducido en el centro de Australia (población feral)"
+      ],
+      "adaptacionesHabitat": "Tolerancia a temperaturas extremas, capacidad de concentrar la orina y desecar heces para ahorrar agua, joroba de almacenamiento graso",
+      "descripcionHabitat": [
+          "Habita llanuras desérticas, zonas esteparias y eriales áridos donde la escasez de agua y el calor limitan la presencia de otros mamíferos grandes."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Herbívoro rumiante",
+      "presasComunes": null,
+      "estrategiaCaza": null,
+      "descripcionDieta": [
+          "Se alimenta de arbustos espinosos, plantas halófitas (ricas en sal), hierbas secas y hojas de árboles adaptados a la aridez gracias a sus labios resistentes y su sistema digestivo especializado."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Viven en grupos o harenes formados por un macho dominante, varias hembras y sus crías",
+      "rolMacho": "Defensa del harén frente a otros machos y liderazgo en los desplazamientos del grupo",
+      "rolHembra": "Cuidado directo de las crías y cohesión del grupo",
+      "actividadDiaria": "Diurna",
+      "comunicacion": [
+          "Emisión de gemidos, bramidos y ronquidos guturales",
+          "Señales posturales y olfativas"
+      ],
+      "descripcionComportamiento": [
+          "Son animales gregarios y pacíficos en apariencia, aunque los machos pueden volverse agresivos y territoriales durante la época de celo.",
+          "Pasan gran parte del día caminando en busca de alimento en extensas áreas áridas."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo Placentario",
+      "madurezSexual": {
+          "macho": "5-6 años",
+          "hembra": "3-4 años"
+      },
+      "periodoGestacion": "12-13 meses",
+      "tamanoCamada": "1 cría por parto",
+      "cuidadoCrias": "Cuidado maternal prolongado durante más de un año",
+      "descripcionReproduccion": [
+          "La reproducción está condicionada por la estacionalidad de las lluvias y la disponibilidad de pasto.",
+          "Las hembras paren una sola cría capaz de ponerse en pie y caminar pocas horas después del nacimiento."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Animal utilitario clave para la subsistencia humana en ambientes desérticos extremos.",
+      "Las poblaciones asilvestradas en Australia actúan como herbívoros de gran impacto sobre la flora nativa."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 3,
+      "inteligencia": 6,
+      "adaptabilidad": 10,
+      "fuerza": 9,
+      "velocidad": 6,
+      "tamano": 8,
+      "majestuosidad": 6,
+      "rareza": 2,
+      "supervivencia": 10,
+      "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+      "Posee una sola joroba en su espalda, a diferencia del camello bactriano que tiene dos",
+      "Puede beber hasta 100 litros de agua en tan solo diez minutos para reponerse de una gran deshidratación",
+      "Sus fosas nasales pueden cerrarse por completo para impedir que la arena fina penetre durante las tormentas del desierto",
+      "Tiene tres párpados en cada ojo: dos con pestañas para protegerse del sol y la arena, y un tercero translúcido que actúa como limpiaparabrisas",
+      "Prácticamente no quedan poblaciones silvestres originales en libertad, siendo casi en su totalidad una especie domesticada o feral"
+  ]
+}
