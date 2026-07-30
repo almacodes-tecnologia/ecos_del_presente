@@ -1,0 +1,167 @@
+{
+  "id": "culebra_de_collar",
+  "nombre": "Culebra de collar",
+  "nombreCientifico": "Natrix natrix",
+  "fechaInformacion": "2026",
+
+  "imagen": "culebra_de_collar.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "La culebra de collar es una serpiente no venenosa de hábitos semiacuáticos muy extendida por el continente europeo y partes de Asia.",
+      "Es fácilmente reconocible por el collar característico de color amarillo, blanco o anaranjado que luce en la parte posterior de la cabeza."
+  ],
+
+  "descripcionLarga": [
+      "La culebra de collar es un ofidio de tamaño medio a grande, cuya longitud total suele oscilar entre los 80 y 120 centímetros, pudiendo alcanzar ejemplares excepcionales mayor tamaño. Su cuerpo es robusto, con escamas dorsales quilladas y una cabeza bien diferenciada del cuello, provista de ojos con pupilas redondas.",
+      "Su coloración base varía desde el gris verdoso hasta tonos pardos o marrones claros, frecuentemente salpicados de pequeñas manchas negras dispuestas en filas a lo largo del dorso. Su seña de identidad más evidente es el collar claro situado justo detrás de la cabeza, bordearlo por una banda negra.",
+      "Están estrechamente ligadas a los medios acuáticos, habitando en las proximidades de charcas, arroyos, riberas de ríos, lagos y zonas húmedas donde abunda la vegetación densa. Son excelentes nadadoras y pasan gran parte del día buscando activamente a sus presas.",
+      "Su dieta se compone casi de forma exclusiva de anfibios vivos, como ranas, sapos y tritones, a los que captura mediante acecho o persecución directa en el agua o la orilla. Al no poseer veneno, inmoviliza a sus presas tragándoselas directamente mientras aún están vivas.",
+      "Cuando se sienten amenazadas, despliegan un repertorio defensivo muy característico: pueden emitir un bufido sonoro, aplanar la cabeza para parecer más peligrosas, segregar un líquido maloliente por las glándulas cloacales o incluso fingir la muerte (tanatosis) dejándose boca arriba y con la boca abierta."
+  ],
+
+  "observaciones": [
+      "Puede llegar a vivir de 10 a 15 años en libertad.",
+      "Es una especie totalmente inofensiva para los seres humanos, ya que carece de colmillos venenosos y raramente llega a morder, prefiriendo la huida."
+  ],
+
+  "longevidad": {
+      "enLibertad": "10-15 años",
+      "enCautividad": "Hasta 20 años"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Reptilia",
+      "orden": "Squamata",
+      "familia": "Colubridae",
+      "genero": "Natrix",
+      "especie": "N. natrix"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": "Decreciendo",
+      "amenazasPrincipales": [
+          "Destrucción, desecación y fragmentación de humedales y riberas naturales",
+          "Atropellos en carreteras cercanas a cursos de agua",
+          "Persecución directa injustificada por parte de humanos al confundirla con serpientes venenosas",
+          "Uso de pesticidas que reducen las poblaciones de anfibios de los que se alimenta"
+      ],
+      "esfuerzosConservacion": [
+          "Protección legal de sus hábitats húmedos naturales",
+          "Campañas de educación ambiental para desmitificar su peligrosidad y promover su conservación"
+      ],
+      "descripcionConservacion": [
+          "A pesar de mantener una distribución muy amplia en Europa, sus poblaciones locales experimentan descensos notables debido a la alteración y pérdida de los ecosistemas acuáticos de agua dulce."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": null,
+          "hembraAdulta": null,
+          "maximoRegistrado": null
+      },
+      "alturaHombro": null,
+      "longitudCuerpoCola": {
+          "macho": "80-100 cm",
+          "hembra": "100-120 cm (las hembras son notablemente mayores)"
+      },
+      "colorPelaje": "Gris, verdoso o pardo con manchas negras y un collar distintivo blanco, amarillo o naranja en la nuca",
+      "caracteristicasEspeciales": "Collar nucal claro bordeado de negro, pupilas redondas, escamas dorsales quilladas",
+      "morfologia": [
+          "Cuerpo robusto y cilíndrico",
+          "Cabeza ovalada y bien diferenciada del tronco",
+          "Cola larga que representa aproximadamente una cuarta parte de su longitud total"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Zonas húmedas, riberas de ríos, charcas, pantanos, acequias y praderas con vegetación frondosa",
+      "distribucionGeografica": [
+          "Europa (desde la península ibérica hasta Escandinavia y Europa del Este)",
+          "Noroeste de África",
+          "Partes de Asia occidental y central"
+      ],
+      "adaptacionesHabitat": "Alta capacidad natatoria y tolerancia a ambientes palustres y ribereños",
+      "descripcionHabitat": [
+          "Prefiere entornos con presencia de agua dulce permanente o temporal, donde disponga de refugios terrestres como matorrales densos, montones de piedras o troncos caídos para termorregularse."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Carnívoro (especializado en anfibios)",
+      "presasComunes": [
+          "Ranas comunes",
+          "Sapos",
+          "Tritones",
+          "Peces pequeños (ocasionalmente)",
+          "Renacuajos"
+      ],
+      "estrategiaCaza": "Acecho activo y persecución en el agua o en la orilla",
+      "descripcionDieta": [
+          "Busca activamente a sus presas utilizando su sentido del olfato (órgano de Jacobson). Al carecer de veneno, captura a los anfibios con la boca y los ingiere vivos, a menudo empezando por la cabeza."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Solitaria, aunque pueden agruparse en número elevado en los refugios de hibernación",
+      "rolMacho": null,
+      "rolHembra": null,
+      "actividadDiaria": "Diurna",
+      "comunicacion": [
+          "Uso intensivo de señales químicas mediante la lengua bífida y el órgano vomeronasal",
+          "Bufidos de advertencia y emisión de secreciones cloacales malolientes ante el peligro"
+      ],
+      "descripcionComportamiento": [
+          "Son serpientes activas durante las horas diurnas que dedican gran parte del tiempo a termorregularse tomando el sol.",
+          "Ante una amenaza directa, su primera opción es la huida hacia el agua; si son acorraladas, despliegan defensas pasivas como la tanatosis (fingir la muerte)."
+      ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "2-3 años",
+          "hembra": "3 años"
+      },
+      "periodoGestacion": "4-6 semanas (incubación de los huevos tras la puesta)",
+      "tamanoCamada": "10-40 huevos",
+      "cuidadoCrias": "Sin cuidado parental tras la puesta",
+      "descripcionDieta": null,
+      "descripcionReproduccion": [
+          "Tras salir de la hibernación en primavera, se aparean, a menudo formando 'bolas de apareamiento' donde varios machos compiten por una hembra.",
+          "Las hembras depositan los huevos en lugares cálidos y húmedos con materia orgánica en descomposición (como montones de hojas, estiércol o serrín), donde el calor natural acelera el desarrollo de los embriones."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Controla de manera natural las poblaciones de anfibios en los ecosistemas acuáticos y ribereños.",
+      "Sirve como eslabón intermedio en la cadena trófica, siendo presa de aves rapaces, mamíferos carnívoros y grandes reptiles."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": 1,
+      "inteligencia": 4,
+      "adaptabilidad": 7,
+      "fuerza": 3,
+      "velocidad": 6,
+      "tamano": 4,
+      "majestuosidad": 5,
+      "rareza": 2,
+      "supervivencia": 7,
+      "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+      "Es completamente inofensiva y no posee veneno, por lo que no representa ningún peligro para las personas",
+      "Tiene la capacidad de fingir la muerte de manera muy convincente (tanatosis), quedándose completamente flácida y boca arriba",
+      "Al verse acorralada, puede secretar un líquido con un olor fétido sumamente desagradable por sus glándulas cloacales para disuadir a los depredadores",
+      "Las hembras son notablemente más grandes que los machos",
+      "Se agrupa a veces en grandes cantidades para pasar la temporada fría hibernando bajo tierra o en huecos protegidos"
+  ]
+}
