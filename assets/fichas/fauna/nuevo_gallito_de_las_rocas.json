@@ -1,0 +1,203 @@
+{
+  "id": "gallito_de_las_rocas",
+  "nombre": "Gallito de las rocas",
+  "nombreCientifico": "Rupicola peruvianus",
+  "fechaInformacion": "2026",
+
+  "imagen": "gallito_de_las_rocas.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El gallito de las rocas es un ave de la familia Cotingidae característica de los bosques húmedos y nubosos de los Andes.",
+      "Los machos presentan un llamativo plumaje naranja o rojizo y una gran cresta, y se reúnen en grupos de exhibición llamados leks para atraer a las hembras."
+  ],
+
+  "descripcionLarga": [
+      "El gallito de las rocas, también conocido como gallito de las rocas andino o tunqui, es un ave paseriforme de la familia Cotingidae. Su nombre científico es Rupicola peruvianus.",
+      "Presenta un marcado dimorfismo sexual. Los machos poseen un plumaje muy llamativo de tonos naranja, rojizo o carmesí, combinado con zonas negras en las alas, mientras que las hembras presentan una coloración predominantemente marrón y una cresta considerablemente menor.",
+      "Una de sus características más distintivas es la gran cresta de plumas del macho, de forma redondeada o discoidal, que puede proyectarse por encima del pico.",
+      "Habita principalmente en bosques húmedos y nubosos de las vertientes orientales de los Andes, normalmente en zonas montañosas y con frecuencia cerca de ríos, quebradas, cascadas y otros cursos de agua.",
+      "Su alimentación es principalmente frugívora. Consume una gran variedad de frutos y contribuye a la dispersión de las semillas de las plantas que consume. También puede consumir insectos y pequeños vertebrados.",
+      "Durante la reproducción, los machos se reúnen en leks, lugares comunales de exhibición donde compiten y realizan elaborados despliegues visuales y sonoros para atraer a las hembras.",
+      "Los machos pueden aparearse con varias hembras y no participan en la construcción del nido ni en el cuidado de las crías.",
+      "La hembra construye el nido, normalmente utilizando barro y material vegetal, en paredes rocosas, repisas, cuevas u otros lugares protegidos. La hembra también incuba los huevos y se ocupa del cuidado de los polluelos."
+  ],
+
+  "observaciones": [
+      "Existe un marcado dimorfismo sexual: el macho es mucho más llamativo que la hembra.",
+      "Los machos forman leks para realizar exhibiciones de cortejo.",
+      "La hembra realiza por sí sola la incubación y el cuidado parental.",
+      "Es principalmente frugívoro y desempeña un papel importante como dispersor de semillas.",
+      "Es el ave nacional del Perú."
+  ],
+
+  "longevidad": {
+      "enLibertad": null,
+      "enCautividad": null
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Passeriformes",
+      "familia": "Cotingidae",
+      "genero": "Rupicola",
+      "especie": "R. peruvianus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": null,
+      "amenazasPrincipales": [
+          "Pérdida y degradación del hábitat forestal",
+          "Perturbación de los lugares de reproducción",
+          "Alteraciones de los bosques húmedos y nubosos donde vive"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de bosques húmedos y nubosos",
+          "Conservación de áreas naturales protegidas",
+          "Seguimiento de las poblaciones y de los lugares de reproducción",
+          "Protección de los hábitats utilizados por los leks"
+      ],
+      "descripcionConservacion": [
+          "El gallito de las rocas está clasificado globalmente como de Preocupación menor (LC). La conservación de los bosques húmedos y nubosos andinos resulta fundamental para mantener sus poblaciones y los lugares utilizados para la alimentación, reproducción y exhibición."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": null,
+          "hembraAdulta": null,
+          "maximoRegistrado": null
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": null,
+          "hembra": null
+      },
+      "colorPelaje": "No posee pelaje; el macho presenta plumaje naranja, rojizo o carmesí con zonas negras, mientras que la hembra presenta plumaje marrón o marrón rojizo",
+      "caracteristicasEspeciales": "Gran cresta redondeada y aplanada en la cabeza, mucho más desarrollada en el macho",
+      "morfologia": [
+          "Cuerpo compacto",
+          "Pico corto y de color amarillento",
+          "Patas amarillentas",
+          "Cresta de plumas permanentemente desplegada",
+          "Marcado dimorfismo sexual",
+          "Macho con plumaje naranja o rojizo muy llamativo",
+          "Hembra con plumaje marrón más discreto"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Bosques húmedos y nubosos de montaña, bosques de Yungas y bosques de piedemonte",
+      "distribucionGeografica": [
+          "Venezuela",
+          "Colombia",
+          "Ecuador",
+          "Perú",
+          "Bolivia"
+      ],
+      "adaptacionesHabitat": "Pico y patas adaptados a una vida arborícola y alimentación principalmente basada en frutos",
+      "descripcionHabitat": [
+          "Habita principalmente en bosques húmedos y nubosos de las regiones montañosas de los Andes.",
+          "Suele encontrarse en zonas de vegetación densa próximas a ríos, quebradas, arroyos y otras fuentes de agua.",
+          "La especie se distribuye por las vertientes andinas desde Venezuela hasta Bolivia."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Principalmente frugívoro",
+      "presasComunes": [
+          "Frutos",
+          "Bayas",
+          "Insectos",
+          "Pequeños vertebrados"
+      ],
+      "estrategiaCaza": "Búsqueda y consumo de frutos en la vegetación; captura ocasional de pequeños animales",
+      "descripcionDieta": [
+          "La alimentación del gallito de las rocas es principalmente frugívora.",
+          "Consume frutos de numerosas especies vegetales y puede desplazarse entre diferentes árboles en busca de alimento.",
+          "De forma complementaria puede consumir insectos y pequeños vertebrados.",
+          "Las semillas de los frutos consumidos pueden ser dispersadas posteriormente, contribuyendo a la regeneración del bosque."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Principalmente solitario fuera de los lugares de exhibición; los machos forman leks durante la reproducción",
+      "rolMacho": "Realiza exhibiciones y compite por el acceso a las hembras en los leks; no participa en el cuidado de las crías",
+      "rolHembra": "Selecciona pareja, construye el nido, incuba los huevos y cuida de los polluelos",
+      "actividadDiaria": "Principalmente diurna",
+      "comunicacion": [
+          "Vocalizaciones durante las exhibiciones",
+          "Llamadas de los machos",
+          "Llamadas de las hembras",
+          "Movimientos de cabeza",
+          "Saltos y movimientos corporales",
+          "Aleteos",
+          "Chasquidos de pico"
+      ],
+      "descripcionComportamiento": [
+          "Los machos se reúnen en leks donde realizan exhibiciones visuales y sonoras para atraer a las hembras.",
+          "Durante las exhibiciones los machos pueden inclinarse, mover la cabeza, saltar, aletear y enfrentarse mediante comportamientos ritualizados.",
+          "Fuera de los leks son mucho más discretos y pueden resultar difíciles de detectar entre la vegetación.",
+          "Los machos defienden pequeños espacios de exhibición dentro de los leks y compiten entre ellos por la atención de las hembras."
+      ]
+  },
+
+  "reproduccion": {
+      "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": null,
+          "hembra": null
+      },
+      "periodoGestacion": "Aproximadamente 26-28 días de incubación",
+      "tamanoCamada": "1-3 huevos",
+      "cuidadoCrias": "Cuidado exclusivamente por la hembra",
+      "descripcionReproduccion": [
+          "El gallito de las rocas utiliza un sistema de apareamiento basado en leks, donde varios machos realizan exhibiciones para atraer a las hembras.",
+          "Los machos pueden aparearse con varias hembras y no forman parejas reproductoras permanentes.",
+          "La hembra construye el nido utilizando principalmente barro y material vegetal, normalmente sobre paredes o repisas rocosas y en lugares protegidos.",
+          "Los estudios de campo han registrado puestas de entre uno y tres huevos, con un promedio de dos huevos.",
+          "La incubación es realizada exclusivamente por la hembra y dura aproximadamente 26-28 días.",
+          "Los polluelos permanecen en el nido aproximadamente 38-42 días antes de abandonarlo.",
+          "La hembra es la responsable del cuidado parental y del aprovisionamiento de los polluelos."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "Como especie principalmente frugívora, contribuye a la dispersión de semillas de numerosas plantas del bosque andino.",
+      "La dispersión de semillas favorece la regeneración y mantenimiento de los bosques húmedos donde vive.",
+      "Forma parte de las redes ecológicas de los bosques montanos andinos y utiliza diferentes recursos vegetales a lo largo de su área de distribución."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": null,
+      "inteligencia": null,
+      "adaptabilidad": null,
+      "fuerza": null,
+      "velocidad": null,
+      "tamano": null,
+      "majestuosidad": null,
+      "rareza": null,
+      "supervivencia": null,
+      "impactoEcologico": null
+  },
+
+  "curiosidades": [
+      "Es el ave nacional del Perú.",
+      "El macho posee una espectacular cresta redondeada que cubre parcialmente el pico.",
+      "Los machos se reúnen en leks para realizar exhibiciones de cortejo.",
+      "Los machos pueden aparearse con varias hembras.",
+      "La hembra construye el nido y se encarga sola de la incubación y del cuidado de los polluelos.",
+      "Su alimentación es principalmente frugívora.",
+      "Es un importante dispersor de semillas del bosque andino.",
+      "El macho presenta una coloración naranja o rojiza muy llamativa, mientras que la hembra es principalmente marrón.",
+      "Los nidos pueden construirse sobre paredes rocosas, repisas y otros lugares protegidos."
+  ]
+}
