@@ -1,0 +1,204 @@
+{
+  "id": "grillo_de_lava",
+  "nombre": "Grillo de Lava",
+  "nombreCientifico": "Caconemobius fori",
+  "fechaInformacion": "2026",
+
+  "imagen": "grillo_de_lava.webp",
+
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El grillo de lava es un pequeño grillo endémico de la isla de Hawái especializado en vivir sobre coladas de lava desnudas y prácticamente sin vegetación.",
+    "Caconemobius fori es una especie adaptada a uno de los ambientes terrestres más extremos de Hawái, donde se refugia en grietas de la lava y se alimenta principalmente de materia orgánica transportada por el viento."
+  ],
+
+  "descripcionLarga": [
+    "Caconemobius fori es un pequeño ortóptero de la familia Gryllidae descrito científicamente en 1978. Es endémico de la isla de Hawái y está estrechamente asociado a los campos de lava sin vegetación.",
+    "Los adultos miden aproximadamente 9 milímetros de longitud corporal. El cuerpo es oscuro y presenta un aspecto brillante que proporciona un excelente camuflaje sobre la lava volcánica oscura.",
+    "Es un grillo áptero: carece de alas funcionales. Esta característica limita su capacidad de dispersión y hace especialmente importante la conexión entre las coladas de lava que puede colonizar.",
+    "Es estrictamente nocturno. Durante las horas de mayor calor permanece refugiado en grietas y fisuras de la lava y sale durante la noche para buscar alimento.",
+    "Su hábitat presenta temperaturas extremas, sequedad, fuertes vientos y una disponibilidad muy limitada de recursos producidos localmente. El grillo aprovecha materia orgánica transportada por el viento desde otros lugares.",
+    "Entre los recursos que consume se encuentran restos vegetales y espuma marina transportados por el viento. De esta forma puede sobrevivir en superficies volcánicas prácticamente desprovistas de vegetación.",
+    "La especie puede aparecer en coladas de lava de diferentes edades. Estudios realizados en la isla de Hawái encontraron Caconemobius fori en coladas de hasta aproximadamente 50 años que todavía permanecían sin vegetación significativa.",
+    "Las investigaciones recientes indican que su presencia no depende únicamente de la edad de la lava. La cantidad y el estado de la vegetación y la conexión con otros campos de lava también parecen ser factores importantes.",
+    "Su reproducción presenta adaptaciones al ambiente extremadamente pobre en recursos. Las hembras producen menos huevos que algunos grillos relacionados, pero los huevos son relativamente grandes.",
+    "Caconemobius fori constituye un ejemplo excepcional de especialización ecológica en un ambiente volcánico reciente y participa en las primeras comunidades animales que pueden establecerse sobre determinadas coladas de lava."
+  ],
+
+  "observaciones": [
+    "Es endémico de la isla de Hawái.",
+    "Es un grillo sin alas.",
+    "Es estrictamente nocturno.",
+    "Su longitud corporal es de aproximadamente 9 milímetros.",
+    "Presenta una coloración oscura y brillante que se confunde con la lava.",
+    "Se refugia durante el día en grietas y fisuras de la lava.",
+    "Se alimenta de materia orgánica transportada por el viento.",
+    "Puede vivir en coladas de lava que permanecen sin vegetación durante décadas.",
+    "La especie fue descrita científicamente en 1978 por Gurney y Rentz.",
+    "Las hembras producen pocos huevos relativamente grandes en comparación con grillos terrestres relacionados."
+  ],
+
+  "longevidad": {
+    "enLibertad": null,
+    "enCautividad": null
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Arthropoda",
+    "clase": "Insecta",
+    "orden": "Orthoptera",
+    "familia": "Gryllidae",
+    "genero": "Caconemobius",
+    "especie": "fori"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": null,
+    "tendenciaPoblacion": null,
+    "amenazasPrincipales": [
+      "Pérdida de hábitat de lava desnuda por la sucesión de la vegetación",
+      "Fragmentación y aislamiento de las coladas de lava adecuadas",
+      "Limitada capacidad de dispersión debido a la ausencia de alas",
+      "Alteraciones de los ecosistemas volcánicos"
+    ],
+    "esfuerzosConservacion": [
+      "Protección de los ecosistemas volcánicos de la isla de Hawái",
+      "Investigación y seguimiento de las poblaciones de Caconemobius",
+      "Conservación de los campos de lava sin vegetación"
+    ],
+    "descripcionConservacion": [
+      "No se ha encontrado una categoría específica de la Lista Roja de la UICN para Caconemobius fori. La especie es endémica de la isla de Hawái y depende de un hábitat volcánico muy especializado. Su conservación está vinculada a la protección de los campos de lava y de los procesos naturales que mantienen estos ambientes."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": null,
+      "hembraAdulta": null,
+      "maximoRegistrado": null
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "8.6-9.5 mm",
+      "hembra": "8.4-10.0 mm"
+    },
+    "colorPelaje": "Cuerpo de color marrón oscuro a negro, con aspecto brillante.",
+    "caracteristicasEspeciales": "Carece de alas y presenta un cuerpo pequeño y oscuro adaptado para camuflarse sobre la lava volcánica.",
+    "morfologia": [
+      "Cuerpo pequeño",
+      "Coloración oscura y brillante",
+      "Grandes ojos compuestos",
+      "Antenas largas",
+      "Ausencia de alas",
+      "Patas posteriores adaptadas para el salto",
+      "Ovipositor alargado en las hembras"
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Coladas de lava desnudas y prácticamente sin vegetación",
+    "distribucionGeografica": [
+      "Isla de Hawái, Estados Unidos"
+    ],
+    "adaptacionesHabitat": "Camuflaje sobre la lava oscura, comportamiento nocturno, refugio en grietas y capacidad para aprovechar materia orgánica transportada por el viento.",
+    "descripcionHabitat": [
+      "Vive principalmente sobre coladas de lava que presentan poca o ninguna vegetación establecida.",
+      "Se ha encontrado en diferentes campos de lava asociados principalmente al Kīlauea.",
+      "Durante el día utiliza grietas y fisuras como refugio frente al calor y la desecación.",
+      "La especie puede persistir durante décadas en coladas que permanecen prácticamente desnudas.",
+      "Los estudios realizados entre 2021 y 2022 encontraron ejemplares en coladas del Kīlauea de aproximadamente 45-52 años de antigüedad.",
+      "La investigación científica indica que la conexión entre campos de lava y el grado de colonización vegetal pueden ser más importantes que la edad de la colada por sí sola."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Omnívoro oportunista / detritívoro",
+    "presasComunes": [
+      "No se conocen presas animales específicas con suficiente detalle"
+    ],
+    "estrategiaCaza": "Forrajeo nocturno de materia orgánica disponible sobre la superficie de la lava.",
+    "descripcionDieta": [
+      "La especie depende principalmente de materia orgánica transportada por el viento hacia los campos de lava.",
+      "Entre los recursos documentados se encuentran restos de material vegetal y espuma marina.",
+      "Los vientos pueden transportar estos materiales desde zonas situadas a varios kilómetros de distancia.",
+      "Los investigadores utilizan cebos como queso o pasta de gambas para capturar ejemplares en estudios de campo, pero estos cebos no deben interpretarse como parte demostrada de su dieta natural."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Principalmente solitario; la organización social detallada de la especie no está bien estudiada",
+    "rolMacho": null,
+    "rolHembra": "Produce los huevos y utiliza un ovipositor relativamente largo adaptado a las condiciones del hábitat.",
+    "actividadDiaria": "Nocturna",
+    "comunicacion": [
+      "No se conoce suficientemente su sistema de comunicación"
+    ],
+    "descripcionComportamiento": [
+      "Es estrictamente nocturno y permanece oculto durante las horas de mayor calor.",
+      "Sale de las grietas de la lava durante la noche para desplazarse y buscar alimento.",
+      "La ausencia de alas limita su capacidad para dispersarse entre campos de lava separados.",
+      "A diferencia de muchos grillos, los machos de Caconemobius fori no poseen el espolón tibial especializado relacionado con la producción de regalos nupciales observado en otros miembros de su grupo.",
+      "Los detalles de su comportamiento de apareamiento y de su comunicación todavía son poco conocidos."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": null,
+      "hembra": null
+    },
+    "periodoGestacion": "Incubación de los huevos; duración exacta no establecida de forma suficiente",
+    "tamanoCamada": "Número exacto de huevos por puesta no establecido de forma suficiente",
+    "cuidadoCrias": "No se ha documentado cuidado parental posterior a la puesta.",
+    "descripcionReproduccion": [
+      "Caconemobius fori se reproduce mediante huevos.",
+      "Las hembras presentan relativamente pocos huevos, pero de mayor tamaño que los de algunos grillos terrestres relacionados estudiados en comparación.",
+      "El ovipositor de las hembras es relativamente largo en relación con su tamaño corporal.",
+      "La longitud del ovipositor puede facilitar la colocación de los huevos en las grietas del sustrato volcánico.",
+      "Los estudios de reproducción de 2024 aportaron información nueva sobre la especie, pero numerosos aspectos de su biología reproductiva todavía permanecen sin estudiar."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Es uno de los artrópodos especializados en colonizar campos de lava desnudos de la isla de Hawái.",
+    "Participa en el aprovechamiento de materia orgánica transportada por el viento hacia ecosistemas volcánicos con muy pocos recursos locales.",
+    "Forma parte de las primeras comunidades animales que pueden establecerse en determinados flujos de lava.",
+    "Contribuye al funcionamiento de estos ecosistemas volcánicos extremos como consumidor y reciclador de materia orgánica."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 6,
+    "adaptabilidad": 10,
+    "fuerza": 1,
+    "velocidad": 5,
+    "tamano": 1,
+    "majestuosidad": 3,
+    "rareza": 10,
+    "supervivencia": 10,
+    "impactoEcologico": 8
+  },
+
+  "curiosidades": [
+    "Es endémico de la isla de Hawái.",
+    "Vive sobre lava volcánica prácticamente sin vegetación.",
+    "Carece de alas.",
+    "Mide aproximadamente 9 milímetros.",
+    "Es estrictamente nocturno.",
+    "Durante el día se refugia en grietas de la lava.",
+    "Puede sobrevivir en coladas de lava que permanecen sin vegetación durante décadas.",
+    "Obtiene alimento de materia orgánica transportada por el viento.",
+    "Puede consumir restos vegetales y aprovechar espuma marina transportada por el viento.",
+    "Los investigadores utilizan queso y pasta de gambas como cebos para estudiarlo.",
+    "Las hembras producen menos huevos, pero de mayor tamaño que algunos grillos relacionados.",
+    "Su ovipositor es relativamente largo para su tamaño.",
+    "Los machos carecen del espolón tibial especializado relacionado con los regalos nupciales de otros grillos del grupo.",
+    "Es una especie especialmente adaptada a un ecosistema volcánico extremo."
+  ]
+}
