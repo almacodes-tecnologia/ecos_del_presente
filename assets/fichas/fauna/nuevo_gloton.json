@@ -1,0 +1,218 @@
+{
+  "id": "gloton",
+  "nombre": "Glotón",
+  "nombreCientifico": "Gulo gulo",
+  "fechaInformacion": "2026",
+
+  "imagen": "gloton.webp",
+
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El glotón es el mayor miembro terrestre de la familia Mustelidae y destaca por su cuerpo compacto, sus grandes patas y su extraordinaria fuerza para su tamaño.",
+    "Habita principalmente en regiones boreales y árticas del hemisferio norte, donde puede recorrer grandes distancias en busca de alimento."
+  ],
+
+  "descripcionLarga": [
+    "El glotón, Gulo gulo, es un mamífero carnívoro de la familia Mustelidae. Tiene un cuerpo robusto y musculoso, patas cortas pero muy fuertes y una cabeza relativamente grande.",
+    "Su distribución natural se extiende por regiones boreales y subárticas de Eurasia y Norteamérica. Está especialmente asociado a bosques boreales, tundra y zonas montañosas.",
+    "Es principalmente solitario y mantiene territorios extensos. Los individuos pueden recorrer grandes distancias y son capaces de desplazarse por terrenos nevados gracias a sus grandes patas.",
+    "Es un animal oportunista. Puede cazar presas de diferentes tamaños, pero también depende en gran medida de la carroña, especialmente durante el invierno.",
+    "Su potente mandíbula y sus fuertes dientes le permiten consumir tejidos, huesos y restos congelados que resultan difíciles de aprovechar para muchos otros depredadores.",
+    "Puede enfrentarse a animales considerablemente mayores que él cuando intenta defender una fuente de alimento, aunque normalmente evita enfrentamientos innecesarios.",
+    "El glotón es principalmente terrestre y tiene una excelente capacidad para desplazarse sobre nieve profunda. Sus patas anchas funcionan como raquetas naturales.",
+    "Las hembras utilizan madrigueras y refugios naturales para criar. Aunque el apareamiento tiene lugar meses antes del nacimiento, la implantación del embrión se retrasa y el desarrollo activo comienza posteriormente.",
+    "La especie necesita grandes extensiones de hábitat relativamente poco alterado. La fragmentación del territorio y la reducción de zonas adecuadas para reproducción, especialmente aquellas con nieve persistente, pueden afectar a sus poblaciones."
+  ],
+
+  "observaciones": [
+    "Es el miembro terrestre de mayor tamaño de la familia Mustelidae.",
+    "Tiene una fuerza excepcional en relación con su tamaño corporal.",
+    "Sus grandes patas facilitan el desplazamiento sobre nieve profunda.",
+    "Es principalmente solitario y territorial.",
+    "Puede recorrer distancias muy grandes dentro de su territorio.",
+    "Es un importante consumidor de carroña en los ecosistemas boreales y subárticos.",
+    "La reproducción presenta implantación embrionaria retardada."
+  ],
+
+  "longevidad": {
+    "enLibertad": "7-12 años",
+    "enCautividad": "Hasta 17 años"
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Mammalia",
+    "orden": "Carnivora",
+    "familia": "Mustelidae",
+    "genero": "Gulo",
+    "especie": "gulo"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Decreciendo",
+    "amenazasPrincipales": [
+      "Pérdida y fragmentación del hábitat",
+      "Cambio climático",
+      "Reducción de la cobertura de nieve adecuada para la reproducción",
+      "Mortalidad causada por actividades humanas",
+      "Trampeo y caza en algunas regiones",
+      "Reducción de presas y carroña disponible"
+    ],
+    "esfuerzosConservacion": [
+      "Protección y conservación de grandes áreas de hábitat",
+      "Mantenimiento de corredores ecológicos",
+      "Seguimiento de las poblaciones",
+      "Protección de zonas de reproducción",
+      "Regulación de la caza y el trampeo donde sea necesario",
+      "Investigación sobre los efectos del cambio climático"
+    ],
+    "descripcionConservacion": [
+      "El glotón está clasificado globalmente como Preocupación menor (LC), aunque algunas poblaciones regionales se encuentran amenazadas y muestran descensos. Su necesidad de grandes territorios y su asociación con zonas de nieve persistente hacen que la pérdida y fragmentación del hábitat y el cambio climático sean preocupaciones importantes para su conservación."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "8-18 kg",
+      "hembraAdulta": "6-12 kg",
+      "maximoRegistrado": "32 kg"
+    },
+    "alturaHombro": {
+      "macho": "30-45 cm",
+      "hembra": "30-45 cm"
+    },
+    "longitudCuerpoCola": {
+      "macho": "65-110 cm",
+      "hembra": "60-90 cm"
+    },
+    "colorPelaje": "Marrón oscuro a negro, con bandas más claras de color marrón o crema a ambos lados del cuerpo.",
+    "caracteristicasEspeciales": "Cuerpo muy robusto, mandíbula poderosa, grandes patas adaptadas a la nieve y garras fuertes y parcialmente retráctiles.",
+    "morfologia": [
+      "Cuerpo compacto y musculoso",
+      "Cabeza grande y ancha",
+      "Mandíbulas y dientes muy fuertes",
+      "Patas anchas adaptadas a la nieve",
+      "Garras largas y fuertes",
+      "Cola relativamente corta y peluda",
+      "Pelaje denso que proporciona aislamiento térmico"
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Bosques boreales, tundra, taiga y regiones montañosas subárticas",
+    "distribucionGeografica": [
+      "Canadá",
+      "Alaska",
+      "Norte de Estados Unidos",
+      "Escandinavia",
+      "Rusia",
+      "Siberia"
+    ],
+    "adaptacionesHabitat": "Pelaje denso, grandes patas para desplazarse sobre nieve profunda, resistencia al frío y capacidad para recorrer grandes distancias.",
+    "descripcionHabitat": [
+      "Habita principalmente regiones boreales y subárticas con grandes extensiones de terreno poco fragmentado.",
+      "También ocupa áreas montañosas y tundra, especialmente donde existen suficientes recursos alimenticios.",
+      "Las zonas con nieve profunda y persistente tienen especial importancia para las hembras reproductoras.",
+      "Necesita territorios extensos debido a su baja densidad poblacional."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro oportunista y carroñero",
+    "presasComunes": [
+      "Renos",
+      "Ciervos",
+      "Alces",
+      "Caribúes",
+      "Ovejas",
+      "Pequeños mamíferos",
+      "Liebres",
+      "Roedores",
+      "Aves"
+    ],
+    "estrategiaCaza": "Caza oportunista y aprovechamiento de carroña, con capacidad para almacenar y defender alimento.",
+    "descripcionDieta": [
+      "Su alimentación varía según la estación y la disponibilidad de alimento.",
+      "Puede cazar pequeños y medianos mamíferos y, en determinadas circunstancias, atacar animales mucho mayores que él.",
+      "La carroña constituye una fuente de alimento especialmente importante durante el invierno.",
+      "Puede consumir restos congelados, incluidos huesos y tejidos de animales muertos.",
+      "Es capaz de almacenar alimento y regresar posteriormente para consumirlo."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Principalmente solitario y territorial",
+    "rolMacho": "Defiende un territorio amplio y puede mantener contacto con varias hembras dentro de su área.",
+    "rolHembra": "Mantiene un territorio, cría a los cachorros y selecciona refugios adecuados para la reproducción.",
+    "actividadDiaria": "Principalmente crepuscular y nocturna, aunque puede estar activo durante cualquier momento del día.",
+    "comunicacion": [
+      "Marcaje mediante olor",
+      "Vocalizaciones",
+      "Gruñidos",
+      "Chillidos",
+      "Posturas corporales"
+    ],
+    "descripcionComportamiento": [
+      "Los glotones adultos viven generalmente de forma solitaria y defienden grandes territorios.",
+      "Utilizan señales olfativas para marcar sus territorios y comunicarse con otros individuos.",
+      "Son animales persistentes y resistentes capaces de desplazarse grandes distancias en terrenos difíciles.",
+      "Pueden defender agresivamente la carroña frente a otros animales, incluidos depredadores de mayor tamaño.",
+      "Su actividad puede variar según la estación, la disponibilidad de alimento y las condiciones ambientales."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Vivíparo con implantación embrionaria retardada",
+    "madurezSexual": {
+      "macho": "2-3 años",
+      "hembra": "2-3 años"
+    },
+    "periodoGestacion": "30-50 días de desarrollo activo; la implantación embrionaria se retrasa y la gestación desde el apareamiento puede abarcar aproximadamente 10-12 meses",
+    "tamanoCamada": "1-5 crías",
+    "cuidadoCrias": "La hembra proporciona todo el cuidado parental.",
+    "descripcionReproduccion": [
+      "El apareamiento suele producirse durante el verano.",
+      "Después de la fecundación se produce una implantación embrionaria retardada, por lo que el desarrollo del embrión no comienza inmediatamente.",
+      "El nacimiento suele producirse a finales del invierno o principios de la primavera.",
+      "Las hembras dan a luz en madrigueras o refugios protegidos, frecuentemente asociados a zonas con nieve.",
+      "Las camadas suelen estar formadas por una a cinco crías.",
+      "La madre permanece con las crías y las alimenta hasta que alcanzan suficiente independencia."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Actúa como depredador oportunista y carroñero dentro de los ecosistemas boreales y subárticos.",
+    "Contribuye al reciclaje de nutrientes mediante el consumo de cadáveres y restos animales.",
+    "Puede influir en las poblaciones de pequeños y medianos mamíferos mediante la depredación.",
+    "Su presencia está asociada a ecosistemas extensos y relativamente poco fragmentados."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 9,
+    "inteligencia": 7,
+    "adaptabilidad": 9,
+    "fuerza": 10,
+    "velocidad": 7,
+    "tamano": 5,
+    "majestuosidad": 8,
+    "rareza": 8,
+    "supervivencia": 10,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Es el mayor miembro terrestre de la familia de las comadrejas.",
+    "Tiene una fuerza extraordinaria para su tamaño.",
+    "Sus grandes patas funcionan como raquetas naturales sobre la nieve.",
+    "Puede enfrentarse a animales mucho mayores para defender alimento.",
+    "Es capaz de consumir huesos y restos congelados.",
+    "Puede recorrer enormes distancias dentro de su territorio.",
+    "La implantación del embrión se retrasa después de la fecundación.",
+    "Las hembras utilizan refugios protegidos y zonas con nieve para criar.",
+    "Es un importante consumidor de carroña en los ecosistemas boreales.",
+    "Su nombre científico es Gulo gulo."
+  ]
+}
