@@ -1,0 +1,206 @@
+{
+  "id": "garza_real_blanca",
+  "nombre": "Garza Real Blanca",
+  "nombreCientifico": "Ardea alba",
+  "fechaInformacion": "2026",
+
+  "imagen": "garza_real_blanca.webp",
+
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La garza real blanca es una gran ave zancuda de la familia Ardeidae, caracterizada por su plumaje blanco, sus largas patas y su largo cuello.",
+    "Habita principalmente en humedales y zonas de aguas poco profundas, donde captura peces y otros animales mediante rápidos movimientos de su largo pico."
+  ],
+
+  "descripcionLarga": [
+    "La garza real blanca, Ardea alba, es una gran ave acuática perteneciente a la familia Ardeidae. Presenta un cuerpo esbelto, cuello muy largo, patas largas y un pico largo y puntiagudo.",
+    "Su plumaje es completamente blanco. Las patas son negras y el pico es normalmente amarillo. Durante la época reproductora aparecen largos plumeros ornamentales en la espalda y pueden producirse cambios de coloración en las zonas desnudas de la cabeza.",
+    "Es una especie asociada principalmente a humedales de aguas poco profundas. Puede encontrarse en lagos, lagunas, marismas, ríos, estuarios, arrozales y otras zonas húmedas.",
+    "Es principalmente carnívora. Los peces constituyen una parte importante de su alimentación, aunque también consume anfibios, reptiles, crustáceos, insectos, pequeños mamíferos y pequeñas aves.",
+    "Normalmente caza permaneciendo inmóvil o caminando lentamente por aguas poco profundas. Cuando una presa se aproxima, extiende rápidamente el cuello y utiliza su largo pico para capturarla.",
+    "Puede alimentarse tanto de forma solitaria como formando concentraciones en lugares donde existe abundante alimento.",
+    "La reproducción puede producirse en colonias. Construye nidos con ramas y otros materiales vegetales, normalmente en árboles, arbustos o vegetación próxima al agua.",
+    "Ambos progenitores participan en la incubación y en el cuidado de los polluelos. Los huevos pueden eclosionar de forma asincrónica, por lo que los polluelos de una misma nidada pueden presentar diferentes tamaños."
+  ],
+
+  "observaciones": [
+    "Es una de las garzas de mayor tamaño.",
+    "Su plumaje es completamente blanco.",
+    "Durante la época reproductora desarrolla largos plumeros ornamentales en la espalda.",
+    "El cuello se mantiene recogido durante el vuelo y puede extenderse rápidamente para capturar presas.",
+    "Vuela con el cuello recogido en forma de S y las patas extendidas hacia atrás."
+  ],
+
+  "longevidad": {
+    "enLibertad": "Hasta aproximadamente 22 años",
+    "enCautividad": null
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Pelecaniformes",
+    "familia": "Ardeidae",
+    "genero": "Ardea",
+    "especie": "alba"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Estable",
+    "amenazasPrincipales": [
+      "Pérdida y degradación de humedales",
+      "Contaminación de los ecosistemas acuáticos",
+      "Alteración de los hábitats de alimentación y reproducción",
+      "Perturbación de las colonias reproductoras"
+    ],
+    "esfuerzosConservacion": [
+      "Protección y restauración de humedales",
+      "Conservación de zonas de reproducción",
+      "Protección de hábitats acuáticos",
+      "Seguimiento de las poblaciones",
+      "Reducción de la contaminación de los ecosistemas acuáticos"
+    ],
+    "descripcionConservacion": [
+      "La garza real blanca está clasificada como de Preocupación menor (LC) a escala mundial. La protección de los humedales y de las zonas utilizadas para la alimentación y reproducción resulta importante para mantener sus poblaciones."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "1-2.1 kg",
+      "hembraAdulta": "1-2.1 kg",
+      "maximoRegistrado": null
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "80-104 cm",
+      "hembra": "80-104 cm"
+    },
+    "colorPelaje": "Plumaje completamente blanco; patas y pies negros y pico normalmente amarillo",
+    "caracteristicasEspeciales": "Cuello y patas muy largos; envergadura aproximada de 1.3 a 1.7 metros. Durante la época reproductora desarrolla largos plumeros ornamentales en la espalda.",
+    "morfologia": [
+      "Cuerpo grande y esbelto",
+      "Cuello largo y flexible",
+      "Patas largas de color negro",
+      "Pico largo, recto y puntiagudo",
+      "Pico normalmente amarillo",
+      "Pies negros",
+      "Plumaje completamente blanco"
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Humedales de agua dulce, salobre y salada, lagos, lagunas, marismas, ríos, estuarios, arrozales y zonas costeras",
+    "distribucionGeografica": [
+      "Europa",
+      "África",
+      "Asia",
+      "América del Norte",
+      "América Central",
+      "América del Sur",
+      "Oceanía"
+    ],
+    "adaptacionesHabitat": "Patas y cuello largos adaptados para desplazarse y alimentarse en aguas poco profundas, y pico largo especializado en la captura de presas.",
+    "descripcionHabitat": [
+      "Utiliza principalmente humedales con aguas poco profundas donde puede caminar y localizar presas.",
+      "Puede vivir tanto en ambientes de agua dulce como en zonas salobres y costeras.",
+      "También utiliza arrozales, canales, campos inundados y otras zonas modificadas por el ser humano cuando proporcionan alimento adecuado."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro",
+    "presasComunes": [
+      "Peces",
+      "Anfibios",
+      "Reptiles",
+      "Crustáceos",
+      "Insectos",
+      "Pequeños mamíferos",
+      "Pequeñas aves"
+    ],
+    "estrategiaCaza": "Acecho y captura mediante un rápido movimiento de extensión del cuello y el pico.",
+    "descripcionDieta": [
+      "Los peces constituyen una parte importante de su alimentación, especialmente en humedales donde son abundantes.",
+      "También consume anfibios, reptiles, crustáceos, insectos, pequeños mamíferos y pequeñas aves.",
+      "Puede permanecer inmóvil esperando que una presa se aproxime y después lanzar rápidamente el pico para capturarla.",
+      "También puede caminar lentamente por aguas poco profundas mientras busca activamente presas."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Puede alimentarse de forma solitaria o en grupos y puede reproducirse en colonias.",
+    "rolMacho": "Participa en la construcción del nido, defensa del lugar de nidificación, incubación y cuidado de los polluelos.",
+    "rolHembra": "Participa en la construcción del nido, incubación y cuidado de los polluelos.",
+    "actividadDiaria": "Principalmente diurna",
+    "comunicacion": [
+      "Vocalizaciones",
+      "Posturas corporales",
+      "Despliegues de las alas",
+      "Movimientos del cuello y la cabeza"
+    ],
+    "descripcionComportamiento": [
+      "Fuera de las colonias reproductoras puede observarse alimentándose de forma solitaria o formando concentraciones en lugares con abundante alimento.",
+      "Durante la reproducción utiliza diferentes comportamientos visuales para atraer a la pareja y defender el lugar de nidificación.",
+      "Cuando vuela mantiene el cuello recogido en forma de S y las patas extendidas hacia atrás.",
+      "Puede permanecer inmóvil durante largos periodos mientras espera el momento adecuado para capturar una presa."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "2-3 años",
+      "hembra": "2-3 años"
+    },
+    "periodoGestacion": "23-26 días de incubación",
+    "tamanoCamada": "1-6 huevos",
+    "cuidadoCrias": "Ambos padres incuban los huevos y alimentan y protegen a los polluelos.",
+    "descripcionReproduccion": [
+      "La garza real blanca puede reproducirse en colonias, aunque el tamaño y la estructura de estas pueden variar según la localidad.",
+      "El nido se construye principalmente con ramas, palos y otros materiales vegetales y suele situarse sobre árboles, arbustos o vegetación próxima al agua.",
+      "La puesta puede contener entre uno y seis huevos.",
+      "Ambos progenitores participan en la incubación.",
+      "La incubación dura aproximadamente entre 23 y 26 días.",
+      "Los huevos pueden eclosionar de forma asincrónica, por lo que los polluelos de una misma nidada pueden presentar diferentes tamaños.",
+      "Ambos progenitores participan en la alimentación y cuidado de los polluelos."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Es un depredador de numerosos animales acuáticos y terrestres y forma parte de las redes tróficas de los humedales.",
+    "Contribuye a regular las poblaciones de peces, anfibios, invertebrados y otros animales que forman parte de su dieta.",
+    "Su presencia está estrechamente vinculada a la disponibilidad de humedales adecuados para alimentarse y reproducirse."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": null,
+    "inteligencia": null,
+    "adaptabilidad": null,
+    "fuerza": null,
+    "velocidad": null,
+    "tamano": null,
+    "majestuosidad": null,
+    "rareza": null,
+    "supervivencia": null,
+    "impactoEcologico": null
+  },
+
+  "curiosidades": [
+    "Es una de las garzas de mayor tamaño.",
+    "Su plumaje es completamente blanco.",
+    "Vuela con el cuello recogido en forma de S.",
+    "Sus patas y cuello largos le permiten alimentarse en aguas poco profundas.",
+    "Captura las presas mediante rápidos movimientos de extensión del cuello y el pico.",
+    "Durante la época reproductora desarrolla largos plumeros ornamentales.",
+    "Puede reproducirse en colonias junto a otras aves acuáticas.",
+    "Ambos progenitores participan en la incubación y alimentación de los polluelos.",
+    "Los huevos de una misma puesta pueden eclosionar en momentos diferentes."
+  ]
+}
