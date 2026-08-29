@@ -1,0 +1,219 @@
+{
+  "id": "gaviota_marfil",
+  "nombre": "Gaviota Marfil",
+  "nombreCientifico": "Pagophila eburnea",
+  "fechaInformacion": "2026",
+
+  "imagen": "gaviota_marfil.webp",
+
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La gaviota marfil es una gaviota de tamaño mediano que habita principalmente en las regiones árticas y está estrechamente asociada al hielo marino.",
+    "Su característico plumaje blanco, sus patas negras y su pico claro con la punta amarillenta la distinguen de otras gaviotas."
+  ],
+
+  "descripcionLarga": [
+    "La gaviota marfil, Pagophila eburnea, es una especie de la familia Laridae adaptada a las condiciones extremas del Ártico. Es una gaviota compacta y relativamente robusta, con plumaje adulto completamente blanco.",
+    "Los adultos presentan plumaje blanco, ojos oscuros, patas negras y un pico relativamente grueso que suele ser gris azulado en la base, más claro hacia el extremo y normalmente amarillento o anaranjado en la punta.",
+    "Los individuos inmaduros presentan una coloración diferente, con manchas oscuras en la cara, pecho, flancos, alas y cola. Adquieren el plumaje adulto durante su segundo invierno.",
+    "Es una de las aves que crían más al norte del planeta. Durante todo el año mantiene una estrecha relación con ambientes marinos árticos y con el hielo marino.",
+    "Durante la época reproductora nidifica en colonias aisladas situadas en afloramientos rocosos y nunataks del Ártico. Los nidos suelen encontrarse en lugares remotos y de difícil acceso.",
+    "Se alimenta de peces e invertebrados marinos y también es una consumidora oportunista de carroña. Puede aprovechar restos de mamíferos marinos y alimentos dejados por otros depredadores.",
+    "Una de sus asociaciones alimentarias más conocidas es el seguimiento de osos polares para aprovechar restos de sus presas. También puede alimentarse de cadáveres de focas y otros animales marinos.",
+    "La reproducción es relativamente poco productiva para una gaviota de su tamaño. Normalmente pone uno o dos huevos y algunos años puede no reproducirse cuando las condiciones ambientales son desfavorables.",
+    "La pérdida y transformación del hielo marino, los cambios en la disponibilidad de presas, la contaminación y las alteraciones climáticas representan amenazas importantes para la especie."
+  ],
+
+  "observaciones": [
+    "Está estrechamente asociada al hielo marino del Ártico.",
+    "Es una de las aves reproductoras más septentrionales del mundo.",
+    "Los adultos presentan un plumaje completamente blanco.",
+    "Los individuos jóvenes presentan manchas oscuras que desaparecen al adquirir el plumaje adulto.",
+    "Su estrategia reproductiva incluye años en los que puede no reproducirse cuando las condiciones ambientales son desfavorables.",
+    "Puede aprovechar carroña y seguir a osos polares para alimentarse de restos de sus presas."
+  ],
+
+  "longevidad": {
+    "enLibertad": "Hasta al menos 28 años",
+    "enCautividad": null
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Charadriiformes",
+    "familia": "Laridae",
+    "genero": "Pagophila",
+    "especie": "eburnea"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Casi amenazada (NT)",
+    "tendenciaPoblacion": "Decreciendo",
+    "amenazasPrincipales": [
+      "Pérdida y reducción del hielo marino",
+      "Cambio climático",
+      "Cambios en la disponibilidad de presas",
+      "Contaminación marina",
+      "Contaminantes atmosféricos como el mercurio",
+      "Perturbación de las colonias reproductoras",
+      "Contaminación por hidrocarburos",
+      "Caza en algunas zonas de su área de distribución"
+    ],
+    "esfuerzosConservacion": [
+      "Protección de las colonias reproductoras",
+      "Protección de los ecosistemas marinos y del hielo ártico",
+      "Seguimiento de las poblaciones",
+      "Investigación sobre movimientos y distribución",
+      "Reducción de la contaminación marina",
+      "Protección de las zonas de alimentación y reproducción"
+    ],
+    "descripcionConservacion": [
+      "La gaviota marfil está clasificada globalmente como Casi amenazada (NT). Su dependencia de los ecosistemas marinos y del hielo ártico la hace especialmente vulnerable a los cambios climáticos y ambientales. La reducción del hielo marino puede alterar tanto sus zonas de alimentación como la disponibilidad de sus presas."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "500-720 g",
+      "hembraAdulta": "500-720 g",
+      "maximoRegistrado": null
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "40-43 cm",
+      "hembra": "40-43 cm"
+    },
+    "colorPelaje": "Plumaje adulto completamente blanco; pico gris azulado en la base y claro hacia el extremo con punta generalmente amarillenta o anaranjada; patas negras",
+    "caracteristicasEspeciales": "Cuerpo compacto, alas relativamente largas y envergadura de aproximadamente 108-120 cm. Los individuos inmaduros presentan manchas oscuras en cara, pecho, alas y cola.",
+    "morfologia": [
+      "Cuerpo compacto y robusto",
+      "Cabeza redondeada",
+      "Pico relativamente grueso",
+      "Patas relativamente cortas",
+      "Patas negras",
+      "Ojos oscuros",
+      "Alas adaptadas al vuelo sobre ambientes marinos árticos"
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Hielo marino, costas árticas, zonas de hielo flotante, aguas marinas próximas al borde del hielo y afloramientos rocosos para reproducción",
+    "distribucionGeografica": [
+      "Ártico de Canadá",
+      "Groenlandia",
+      "Rusia",
+      "Svalbard",
+      "Alaska",
+      "Océano Ártico",
+      "Atlántico Norte"
+    ],
+    "adaptacionesHabitat": "Plumaje denso, comportamiento asociado al hielo marino y capacidad para aprovechar recursos alimenticios dispersos en ambientes árticos extremos.",
+    "descripcionHabitat": [
+      "Durante la reproducción utiliza colonias situadas en afloramientos rocosos y nunataks del Ártico.",
+      "Fuera de la época reproductora permanece principalmente en ambientes marinos asociados al hielo flotante y al borde del hielo.",
+      "Las polinias y otras zonas de aguas abiertas dentro del hielo pueden proporcionar importantes áreas de alimentación.",
+      "Durante el invierno puede desplazarse hacia zonas más meridionales, pero continúa asociado a ambientes marinos fríos y al hielo marino."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro oportunista y carroñero",
+    "presasComunes": [
+      "Peces",
+      "Crustáceos",
+      "Moluscos",
+      "Otros invertebrados marinos",
+      "Huevos y polluelos de aves",
+      "Pequeños vertebrados"
+    ],
+    "estrategiaCaza": "Captura de presas en la superficie del agua, inmersiones y aprovechamiento oportunista de carroña.",
+    "descripcionDieta": [
+      "Se alimenta principalmente de peces e invertebrados marinos.",
+      "Puede capturar presas mediante inmersiones desde el aire o mediante búsqueda de alimento en la superficie.",
+      "Es también una importante carroñera y aprovecha cadáveres y restos de mamíferos marinos.",
+      "Puede seguir a osos polares para aprovechar restos de las presas capturadas por estos.",
+      "Su alimentación oportunista le permite aprovechar recursos muy variables del ecosistema ártico."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario o gregario dependiendo de la época y disponibilidad de alimento; reproductor colonial",
+    "rolMacho": "Participa en la defensa del territorio, incubación y cuidado de los polluelos.",
+    "rolHembra": "Participa en la defensa del territorio, incubación y cuidado de los polluelos.",
+    "actividadDiaria": "Diurna y posiblemente crepuscular según las condiciones de luz árticas",
+    "comunicacion": [
+      "Llamadas de contacto",
+      "Vocalizaciones territoriales",
+      "Llamadas durante el cortejo",
+      "Posturas corporales",
+      "Despliegues de alas"
+    ],
+    "descripcionComportamiento": [
+      "Durante la reproducción forma colonias que pueden variar considerablemente de tamaño.",
+      "Las parejas muestran fidelidad a determinadas zonas de reproducción y pueden regresar a las mismas colonias.",
+      "Fuera de la época reproductora puede desplazarse ampliamente siguiendo el hielo marino y la disponibilidad de alimento.",
+      "Su comportamiento carroñero le permite aprovechar los restos dejados por grandes depredadores árticos.",
+      "Puede permanecer cerca del borde del hielo durante migraciones y en invierno."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "2-3 años",
+      "hembra": "2-3 años"
+    },
+    "periodoGestacion": "24-26 días de incubación",
+    "tamanoCamada": "1-2 huevos",
+    "cuidadoCrias": "Ambos progenitores participan en la incubación y cuidado de los polluelos.",
+    "descripcionReproduccion": [
+      "La gaviota marfil se reproduce en colonias situadas en lugares rocosos y aislados del Ártico.",
+      "Construye nidos sencillos sobre salientes rocosos, generalmente utilizando vegetación y otros materiales disponibles.",
+      "Normalmente pone uno o dos huevos.",
+      "Ambos progenitores participan en la incubación.",
+      "La incubación dura aproximadamente entre 24 y 26 días.",
+      "Los polluelos comienzan a abandonar el nido pocos días después de la eclosión, aunque continúan dependiendo de los adultos para recibir alimento.",
+      "Los jóvenes alcanzan la capacidad de vuelo aproximadamente un mes después de la eclosión.",
+      "La reproducción puede fallar completamente en algunos años cuando las condiciones ambientales son desfavorables."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Forma parte de las redes tróficas del ecosistema marino ártico como depredador de pequeños organismos y como carroñero.",
+    "Contribuye al aprovechamiento de restos de animales marinos dentro del ecosistema polar.",
+    "Su estrecha relación con el hielo marino la convierte en una especie especialmente representativa de los ecosistemas árticos.",
+    "Su estado poblacional proporciona información relevante sobre los cambios que afectan a los ecosistemas marinos del Ártico."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 5,
+    "inteligencia": 7,
+    "adaptabilidad": 8,
+    "fuerza": 5,
+    "velocidad": 7,
+    "tamano": 4,
+    "majestuosidad": 9,
+    "rareza": 9,
+    "supervivencia": 9,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Es una de las aves que crían más al norte del planeta.",
+    "Su plumaje adulto es completamente blanco.",
+    "Sus patas son negras durante toda la vida.",
+    "Puede seguir a osos polares para aprovechar los restos de sus presas.",
+    "Es una especie estrechamente asociada al hielo marino.",
+    "Los adultos adquieren el plumaje completo durante su segundo invierno.",
+    "Normalmente pone solamente uno o dos huevos.",
+    "Puede no reproducirse en años con condiciones ambientales desfavorables.",
+    "Se han registrado individuos de al menos 28 años de edad.",
+    "Su nombre científico Pagophila significa aproximadamente 'amante del hielo'."
+  ]
+}
