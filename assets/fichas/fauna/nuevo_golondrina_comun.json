@@ -1,0 +1,217 @@
+{
+  "id": "golondrina_comun",
+  "nombre": "Golondrina Común",
+  "nombreCientifico": "Hirundo rustica",
+  "fechaInformacion": "2026",
+
+  "imagen": "golondrina_comun.webp",
+
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La golondrina común es una pequeña ave migratoria ampliamente distribuida por Europa, Asia, África y América.",
+    "Es reconocible por su característica cola profundamente ahorquillada, su garganta rojiza y sus partes superiores de color azul oscuro."
+  ],
+
+  "descripcionLarga": [
+    "La golondrina común, Hirundo rustica, es un pequeño pájaro de la familia Hirundinidae adaptado al vuelo ágil y a la captura de insectos en el aire.",
+    "Presenta las partes superiores de color azul oscuro o azul metálico, la frente y la garganta de color rojizo y las partes inferiores claras. Su característica cola profundamente ahorquillada presenta largas plumas externas.",
+    "Es una especie migratoria. Las poblaciones que se reproducen en Europa realizan migraciones de larga distancia hacia África subsahariana durante el invierno.",
+    "Pasa gran parte de su tiempo en vuelo y captura insectos principalmente en el aire. Puede alimentarse sobre campos, humedales, pastizales, cultivos y otras zonas donde abundan los insectos voladores.",
+    "Construye sus nidos principalmente en estructuras artificiales como establos, graneros, cobertizos y otros edificios, aunque también puede utilizar superficies naturales protegidas.",
+    "El nido tiene forma de cuenco y está construido principalmente con barro mezclado con material vegetal.",
+    "Es una especie social fuera de la época reproductora y puede formar grandes concentraciones en dormideros, especialmente durante la migración.",
+    "La migración supone desplazamientos de miles de kilómetros entre las zonas de reproducción y las áreas de invernada.",
+    "La disponibilidad de insectos, la pérdida de lugares de nidificación y las condiciones meteorológicas pueden afectar considerablemente a su éxito reproductor y supervivencia."
+  ],
+
+  "observaciones": [
+    "Es una de las aves migratorias más conocidas de Europa.",
+    "Las poblaciones europeas pasan el invierno principalmente al sur del Sahara.",
+    "Captura la mayoría de sus presas durante el vuelo.",
+    "Su cola profundamente ahorquillada es una de sus características más distintivas.",
+    "Suele utilizar construcciones humanas para instalar sus nidos.",
+    "Puede realizar dos o incluso tres puestas en una temporada reproductora en condiciones favorables."
+  ],
+
+  "longevidad": {
+    "enLibertad": "Hasta 11 años",
+    "enCautividad": null
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Passeriformes",
+    "familia": "Hirundinidae",
+    "genero": "Hirundo",
+    "especie": "rustica"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Decreciendo",
+    "amenazasPrincipales": [
+      "Disminución de insectos voladores",
+      "Pérdida de lugares adecuados para nidificar",
+      "Intensificación agrícola",
+      "Uso de pesticidas",
+      "Cambio climático",
+      "Condiciones meteorológicas adversas durante la migración",
+      "Pérdida y degradación de hábitats de alimentación"
+    ],
+    "esfuerzosConservacion": [
+      "Protección de lugares de nidificación",
+      "Conservación de hábitats agrícolas y de pastizales",
+      "Reducción del uso de pesticidas",
+      "Conservación de humedales y otras zonas ricas en insectos",
+      "Seguimiento de las poblaciones migratorias",
+      "Protección de los lugares de concentración y dormideros"
+    ],
+    "descripcionConservacion": [
+      "La golondrina común está clasificada globalmente como Preocupación menor (LC), aunque numerosas poblaciones han sufrido descensos. La disponibilidad de insectos, la transformación de los paisajes agrícolas y la pérdida de lugares de nidificación son factores importantes para su conservación."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "17-20 g",
+      "hembraAdulta": "16-20 g",
+      "maximoRegistrado": null
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "17-19 cm",
+      "hembra": "17-19 cm"
+    },
+    "colorPelaje": "Partes superiores azul oscuro metálico, frente y garganta rojizas, pecho y vientre blanquecinos y cola oscura profundamente ahorquillada.",
+    "caracteristicasEspeciales": "Cola profundamente ahorquillada con largas plumas externas; alas largas y puntiagudas adaptadas al vuelo rápido y maniobrable.",
+    "morfologia": [
+      "Cuerpo pequeño y aerodinámico",
+      "Alas largas y puntiagudas",
+      "Cola profundamente ahorquillada",
+      "Pico corto",
+      "Patas cortas",
+      "Garganta rojiza",
+      "Plumaje superior azul oscuro metálico"
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Campos agrícolas, pastizales, praderas, humedales, zonas rurales, pueblos y áreas abiertas",
+    "distribucionGeografica": [
+      "Europa",
+      "Asia",
+      "África",
+      "América del Norte",
+      "América Central",
+      "América del Sur"
+    ],
+    "adaptacionesHabitat": "Vuelo rápido y maniobrable para capturar insectos, capacidad para nidificar en construcciones humanas y gran capacidad migratoria.",
+    "descripcionHabitat": [
+      "Durante la reproducción utiliza principalmente paisajes abiertos donde exista abundancia de insectos voladores.",
+      "Es frecuente en zonas agrícolas, pastizales, praderas y humedales.",
+      "Utiliza habitualmente edificios y otras estructuras humanas para construir sus nidos.",
+      "Las poblaciones migratorias utilizan diferentes tipos de hábitat durante sus desplazamientos y en las zonas de invernada."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Insectívoro",
+    "presasComunes": [
+      "Moscas",
+      "Mosquitos",
+      "Escarabajos",
+      "Hormigas voladoras",
+      "Avispas",
+      "Abejas",
+      "Mariposas",
+      "Polillas"
+    ],
+    "estrategiaCaza": "Captura de insectos voladores durante el vuelo.",
+    "descripcionDieta": [
+      "Se alimenta principalmente de insectos que captura en vuelo.",
+      "Puede cazar a diferentes alturas dependiendo de las condiciones meteorológicas y de la disponibilidad de insectos.",
+      "Las moscas y otros insectos voladores constituyen una parte importante de su alimentación.",
+      "Durante periodos de escasez puede complementar su dieta con otros pequeños invertebrados."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Solitario o en pareja durante la reproducción; gregario durante la migración y en los dormideros",
+    "rolMacho": "Participa en la defensa del territorio y en la alimentación de los polluelos.",
+    "rolHembra": "Construye y mantiene el nido, incuba los huevos y participa en la alimentación de los polluelos.",
+    "actividadDiaria": "Diurna",
+    "comunicacion": [
+      "Canto durante la época reproductora",
+      "Llamadas de contacto",
+      "Llamadas de alarma",
+      "Vocalizaciones durante el vuelo"
+    ],
+    "descripcionComportamiento": [
+      "Es una especie principalmente aérea que pasa una parte considerable del día volando y alimentándose.",
+      "Durante la reproducción mantiene territorios alrededor del nido, aunque puede criar en colonias laxas.",
+      "Fuera de la época reproductora forma grandes grupos en dormideros y durante la migración.",
+      "La migración se realiza principalmente durante el día y puede incluir grandes desplazamientos sobre tierra y mar.",
+      "Las parejas pueden reutilizar lugares de nidificación en temporadas posteriores."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "1 año",
+      "hembra": "1 año"
+    },
+    "periodoGestacion": "14-19 días de incubación",
+    "tamanoCamada": "3-7 huevos",
+    "cuidadoCrias": "Ambos progenitores incuban los huevos y alimentan a los polluelos.",
+    "descripcionReproduccion": [
+      "La golondrina común suele formar parejas monógamas durante la temporada reproductora.",
+      "Construye un nido en forma de cuenco utilizando barro y material vegetal.",
+      "El nido suele estar situado en edificios, establos, graneros, puentes y otras estructuras protegidas.",
+      "La puesta suele contener entre tres y siete huevos.",
+      "La incubación dura aproximadamente entre 14 y 19 días.",
+      "Los polluelos son alimentados por ambos progenitores.",
+      "Los jóvenes abandonan el nido aproximadamente entre 18 y 23 días después de la eclosión.",
+      "Una pareja puede realizar más de una puesta durante la misma temporada reproductora."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Consume grandes cantidades de insectos voladores y forma parte del control natural de sus poblaciones.",
+    "Conecta ecosistemas de reproducción europeos y asiáticos con los ecosistemas africanos donde pasa el invierno.",
+    "Es una especie característica de los paisajes agrícolas y rurales tradicionales.",
+    "Su presencia puede indicar la disponibilidad de insectos y la conservación de hábitats abiertos adecuados."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 2,
+    "inteligencia": 7,
+    "adaptabilidad": 9,
+    "fuerza": 2,
+    "velocidad": 9,
+    "tamano": 2,
+    "majestuosidad": 7,
+    "rareza": 2,
+    "supervivencia": 8,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Puede recorrer miles de kilómetros durante sus migraciones.",
+    "Captura la mayoría de sus presas mientras vuela.",
+    "Su cola profundamente ahorquillada es una de sus características más reconocibles.",
+    "Construye sus nidos principalmente con barro.",
+    "Utiliza con frecuencia edificios humanos para reproducirse.",
+    "Las poblaciones europeas pasan el invierno principalmente en África subsahariana.",
+    "Puede realizar más de una puesta en una misma temporada.",
+    "Es capaz de beber mientras vuela rozando la superficie del agua.",
+    "Los jóvenes pueden reunirse en grandes grupos después de abandonar el nido.",
+    "Es una de las aves migratorias más ampliamente distribuidas del mundo."
+  ]
+}
