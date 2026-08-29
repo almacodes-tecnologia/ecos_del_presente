@@ -1,0 +1,204 @@
+{
+  "id": "gaviota_de_lava",
+  "nombre": "Gaviota de Lava",
+  "nombreCientifico": "Leucophaeus fuliginosus",
+  "fechaInformacion": "2026",
+
+  "imagen": "gaviota_de_lava.webp",
+
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La gaviota de lava es una especie endémica de las islas Galápagos y está considerada una de las gaviotas más raras del mundo.",
+    "Es una gaviota de tamaño mediano, de plumaje oscuro, que vive principalmente en zonas costeras del archipiélago."
+  ],
+
+  "descripcionLarga": [
+    "La gaviota de lava, Leucophaeus fuliginosus, es una especie de la familia Laridae endémica del archipiélago de Galápagos.",
+    "Los adultos presentan una coloración predominantemente oscura, con la cabeza de color marrón hollín a negro, alas gris oscuro con una característica línea blanca en el borde anterior, vientre gris pálido y cola con partes blancas.",
+    "El pico y las patas son negros y el interior de la boca presenta una llamativa coloración escarlata. También presenta cejas blancas por encima y por debajo de los ojos.",
+    "Es una especie principalmente costera que utiliza playas, costas rocosas, zonas intermareales y otros ambientes próximos al mar.",
+    "Es omnívora y oportunista. Puede alimentarse de peces, pequeños crustáceos, reptiles jóvenes y otros animales, además de aprovechar carroña y restos de origen marino.",
+    "La especie presenta un comportamiento reproductor poco habitual entre las gaviotas: las parejas suelen nidificar de forma solitaria y mantienen territorios alrededor del nido.",
+    "Construye el nido en el suelo, normalmente protegido por vegetación costera. La puesta consta de uno o dos huevos y ambos miembros de la pareja participan en la incubación.",
+    "Los polluelos abandonan el nido pocos días después de la eclosión y permanecen dentro del territorio de sus progenitores mientras continúan siendo atendidos por los adultos."
+  ],
+
+  "observaciones": [
+    "Es endémica de las islas Galápagos.",
+    "Es considerada la gaviota más rara del mundo.",
+    "A diferencia de muchas otras gaviotas, suele nidificar de manera solitaria.",
+    "Las parejas reproductoras defienden territorios alrededor de sus nidos.",
+    "El interior escarlata de la boca constituye una de sus características visuales más llamativas.",
+    "La especie no realiza migraciones regulares fuera del archipiélago."
+  ],
+
+  "longevidad": {
+    "enLibertad": "Hasta aproximadamente 49 años",
+    "enCautividad": null
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Charadriiformes",
+    "familia": "Laridae",
+    "genero": "Leucophaeus",
+    "especie": "fuliginosus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Vulnerable (VU)",
+    "tendenciaPoblacion": "Estable",
+    "amenazasPrincipales": [
+      "Pérdida y degradación del hábitat",
+      "Perturbación humana en las zonas costeras y de reproducción",
+      "Depredadores introducidos",
+      "Actividad urbana y desarrollo de infraestructuras",
+      "Tamaño poblacional extremadamente reducido"
+    ],
+    "esfuerzosConservacion": [
+      "Protección de los hábitats costeros de Galápagos",
+      "Control de especies introducidas",
+      "Seguimiento de las poblaciones",
+      "Protección de las zonas de reproducción",
+      "Investigación sobre la ecología y genética de la especie"
+    ],
+    "descripcionConservacion": [
+      "La gaviota de lava está clasificada como Vulnerable (VU). Es endémica de Galápagos y posee una población mundial extremadamente pequeña, estimada en varios cientos de individuos. La pérdida de hábitat, las molestias humanas y los depredadores introducidos representan amenazas importantes para una especie con una distribución geográfica tan limitada."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "380 g",
+      "hembraAdulta": "380 g",
+      "maximoRegistrado": null
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "51-55 cm",
+      "hembra": "51-55 cm"
+    },
+    "colorPelaje": "Cabeza marrón hollín a negra, alas gris oscuro con una línea blanca en el borde anterior, vientre gris pálido, parte superior de la cola blanca y parte inferior marrón",
+    "caracteristicasEspeciales": "Pico y patas negros, interior de la boca escarlata y cejas blancas. Tamaño aproximado de 53 cm.",
+    "morfologia": [
+      "Cuerpo de tamaño mediano",
+      "Cabeza oscura",
+      "Alas gris oscuro",
+      "Línea blanca característica en el borde anterior de las alas",
+      "Pico negro",
+      "Patas negras",
+      "Cola con parte superior blanca",
+      "Interior de la boca de color escarlata"
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Costas rocosas, playas, zonas intermareales, lagunas costeras y otros ambientes costeros de las islas Galápagos",
+    "distribucionGeografica": [
+      "Islas Galápagos (Ecuador)"
+    ],
+    "adaptacionesHabitat": "Adaptación a ambientes costeros y capacidad para aprovechar diversos recursos alimenticios marinos y terrestres.",
+    "descripcionHabitat": [
+      "Es una especie estrictamente endémica del archipiélago de Galápagos.",
+      "Se encuentra principalmente en ambientes costeros, donde obtiene buena parte de sus recursos alimenticios.",
+      "Se ha registrado principalmente en Santa Cruz, Genovesa, San Cristóbal e Isabela, aunque también ha sido observada en otras islas del archipiélago."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Omnívoro oportunista",
+    "presasComunes": [
+      "Peces",
+      "Pequeños crustáceos",
+      "Lagartijas",
+      "Iguanas jóvenes",
+      "Tortugas marinas recién nacidas"
+    ],
+    "estrategiaCaza": "Captura oportunista, búsqueda de alimento en zonas costeras y aprovechamiento de carroña y restos disponibles.",
+    "descripcionDieta": [
+      "Es una especie oportunista capaz de utilizar una amplia variedad de recursos alimenticios.",
+      "Puede capturar peces y pequeños crustáceos en aguas poco profundas.",
+      "También puede consumir reptiles jóvenes, incluyendo lagartijas, iguanas y tortugas marinas recién nacidas.",
+      "Aprovecha carroña y restos de animales marinos, incluyendo placenta de lobos marinos de Galápagos.",
+      "También puede aprovechar restos de pescado asociados a la actividad pesquera."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Principalmente solitaria durante la reproducción; puede reunirse con otros individuos en zonas de alimentación",
+    "rolMacho": "Participa en la defensa territorial, incubación y cuidado de los polluelos.",
+    "rolHembra": "Participa en la defensa territorial, incubación y cuidado de los polluelos.",
+    "actividadDiaria": "Diurna",
+    "comunicacion": [
+      "Vocalizaciones",
+      "Llamadas territoriales",
+      "Posturas corporales",
+      "Movimientos de cabeza y cuello",
+      "Despliegues de alas"
+    ],
+    "descripcionComportamiento": [
+      "Las parejas reproductoras defienden activamente el territorio alrededor del nido.",
+      "Las hembras pueden mostrar una elevada agresividad frente a intrusos durante la reproducción.",
+      "A diferencia de muchas gaviotas, las parejas suelen mantener una considerable distancia respecto a otros nidos.",
+      "Es una especie no migratoria que permanece en el archipiélago de Galápagos."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": null,
+      "hembra": null
+    },
+    "periodoGestacion": "Aproximadamente 32 días de incubación",
+    "tamanoCamada": "1-2 huevos",
+    "cuidadoCrias": "Ambos progenitores incuban los huevos y cuidan y alimentan a los polluelos.",
+    "descripcionReproduccion": [
+      "La gaviota de lava suele reproducirse de forma solitaria, con una separación considerable entre territorios de parejas diferentes.",
+      "Construye el nido en el suelo, normalmente protegido por vegetación costera.",
+      "La puesta consta de uno o dos huevos.",
+      "Ambos miembros de la pareja participan en la incubación, turnándose aproximadamente cada dos horas según las observaciones realizadas en Genovesa.",
+      "La incubación dura aproximadamente 32 días.",
+      "Los polluelos abandonan el nido aproximadamente cuatro o cinco días después de la eclosión y permanecen dentro del territorio protegido por sus progenitores.",
+      "Los jóvenes continúan recibiendo cuidados de los adultos después de abandonar el nido."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Forma parte de las redes tróficas costeras de las islas Galápagos como consumidor oportunista de peces, invertebrados, reptiles y carroña.",
+    "Contribuye al aprovechamiento y reciclaje de materia orgánica procedente de animales marinos.",
+    "Su reducida distribución y estrecha asociación con los ecosistemas costeros hacen que forme parte del patrimonio natural exclusivo de Galápagos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 8,
+    "inteligencia": 7,
+    "adaptabilidad": 8,
+    "fuerza": 4,
+    "velocidad": 7,
+    "tamano": 4,
+    "majestuosidad": 7,
+    "rareza": 10,
+    "supervivencia": 8,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "Es endémica de las islas Galápagos.",
+    "Está considerada la gaviota más rara del mundo.",
+    "Su población mundial se estima en solo varios cientos de individuos.",
+    "Su cabeza presenta una coloración marrón hollín a negra.",
+    "El interior de su boca es de color escarlata.",
+    "Es una de las pocas gaviotas que suele nidificar de forma solitaria.",
+    "Las parejas pueden defender territorios de aproximadamente 2.000 m².",
+    "La puesta suele contener uno o dos huevos.",
+    "Los polluelos abandonan el nido pocos días después de nacer.",
+    "Puede alimentarse incluso de placenta de lobos marinos de Galápagos."
+  ]
+}
