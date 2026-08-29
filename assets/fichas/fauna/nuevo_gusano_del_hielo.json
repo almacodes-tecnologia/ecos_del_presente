@@ -1,0 +1,202 @@
+{
+  "id": "gusano_del_hielo",
+  "nombre": "Gusano del Hielo",
+  "nombreCientifico": "Mesenchytraeus solifugus",
+  "fechaInformacion": "2026",
+
+  "imagen": "gusano_del_hielo.webp",
+
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El gusano del hielo es un pequeño anélido que vive en glaciares del noroeste de Norteamérica y completa todo su ciclo vital en hielo y nieve.",
+    "Es uno de los animales pluricelulares más especializados para vivir permanentemente en ambientes cercanos al punto de congelación."
+  ],
+
+  "descripcionLarga": [
+    "Mesenchytraeus solifugus es un pequeño gusano segmentado de la familia Enchytraeidae especializado en vivir en hielo glaciar. Es conocido como gusano de hielo de los glaciares o glacier ice worm.",
+    "La especie está restringida a glaciares costeros del noroeste de Norteamérica, desde Alaska hasta Oregón, con poblaciones también conocidas en Columbia Británica.",
+    "Puede completar todo su ciclo vital en condiciones próximas a 0 °C. Su fisiología está extraordinariamente adaptada al frío y su metabolismo funciona de manera especialmente eficiente a temperaturas muy bajas.",
+    "Su cuerpo es alargado, flexible y de color oscuro. Esta pigmentación absorbe gran parte de la radiación y, al mismo tiempo, permite que el animal resulte difícil de distinguir sobre determinadas superficies glaciares.",
+    "Posee pequeñas cerdas llamadas quetas que le permiten agarrarse al hielo y desplazarse entre los cristales y las pequeñas irregularidades de la superficie.",
+    "Durante las horas con mayor radiación solar suele retirarse hacia el interior del hielo. En determinadas condiciones puede encontrarse en la superficie al amanecer y al atardecer.",
+    "Se alimenta principalmente de algas de la nieve y otros materiales orgánicos transportados por el viento hacia el glaciar.",
+    "La especie presenta un intervalo térmico extremadamente estrecho. Los estudios de distribución han mostrado que los gusanos de hielo no ocupan glaciares donde las temperaturas invernales de la superficie del verano anterior descienden aproximadamente por debajo de -7 °C.",
+    "Puede alcanzar densidades muy elevadas en determinadas zonas de los glaciares, especialmente cerca de la línea de equilibrio y en arroyos y charcas supraglaciares.",
+    "Su origen evolutivo está relacionado con anélidos enchytraeidos acuáticos. Los estudios filogenéticos indican que la adaptación al ambiente glaciar se produjo a partir de un ancestro acuático."
+  ],
+
+  "observaciones": [
+    "Es un anélido que completa todo su ciclo vital en hielo glaciar.",
+    "Es uno de los mayores metazoos obligadamente glaciares conocidos.",
+    "Su temperatura corporal y actividad están estrechamente ligadas al ambiente extremadamente frío.",
+    "Las temperaturas demasiado bajas o demasiado altas pueden resultar letales para la especie.",
+    "Se alimenta principalmente de algas de la nieve.",
+    "Puede desplazarse entre pequeños espacios existentes dentro del hielo.",
+    "Sus quetas curvadas ayudan a sujetarse al sustrato.",
+    "Puede alcanzar densidades de cientos o incluso miles de individuos por metro cuadrado en determinados sectores glaciares.",
+    "Su distribución natural está restringida al noroeste de Norteamérica."
+  ],
+
+  "longevidad": {
+    "enLibertad": "Se estima en aproximadamente 5-10 años",
+    "enCautividad": null
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Annelida",
+    "clase": "Clitellata",
+    "orden": "Enchytraeida",
+    "familia": "Enchytraeidae",
+    "genero": "Mesenchytraeus",
+    "especie": "solifugus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": null,
+    "tendenciaPoblacion": null,
+    "amenazasPrincipales": [
+      "Pérdida y reducción de los glaciares por el cambio climático",
+      "Alteración de los ecosistemas glaciares",
+      "Reducción del hábitat glaciar adecuado",
+      "Cambios extremos en las condiciones térmicas de los glaciares"
+    ],
+    "esfuerzosConservacion": [
+      "Protección de los ecosistemas glaciares",
+      "Seguimiento científico de las poblaciones",
+      "Investigación sobre su distribución y fisiología",
+      "Conservación de los glaciares y de sus ecosistemas asociados"
+    ],
+    "descripcionConservacion": [
+      "No se ha encontrado una categoría específica de la Lista Roja de la UICN para Mesenchytraeus solifugus. Su dependencia obligada de los glaciares hace que la conservación de estos ecosistemas sea fundamental para la supervivencia de la especie."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": null,
+      "hembraAdulta": null,
+      "maximoRegistrado": null
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "Aproximadamente 2-20 mm",
+      "hembra": "Aproximadamente 2-20 mm"
+    },
+    "colorPelaje": "Cuerpo de color oscuro, generalmente negro o azul oscuro.",
+    "caracteristicasEspeciales": "Cuerpo segmentado y flexible, pigmentación oscura, ausencia de ojos verdaderos y quetas curvadas que facilitan el desplazamiento sobre el hielo.",
+    "morfologia": [
+      "Cuerpo alargado y segmentado",
+      "Prostomio con un poro cefálico alargado",
+      "Numerosas estructuras sensoriales",
+      "Quetas externas curvadas en sus extremos",
+      "Cuerpo flexible capaz de introducirse entre pequeños espacios del hielo",
+      "Ausencia de ojos o manchas oculares verdaderas"
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Glaciares, campos de nieve, conos de avalancha, grietas, arroyos y charcas supraglaciares",
+    "distribucionGeografica": [
+      "Alaska",
+      "Columbia Británica",
+      "Washington",
+      "Oregón"
+    ],
+    "adaptacionesHabitat": "Fisiología especializada para temperaturas cercanas a 0 °C, cuerpo flexible, pigmentación oscura y estructuras sensoriales y locomotoras adaptadas al hielo.",
+    "descripcionHabitat": [
+      "Vive exclusivamente en ambientes glaciares y no se encuentra normalmente en otros tipos de terreno.",
+      "Puede ocupar la superficie del hielo, pequeñas grietas, túneles, arroyos glaciares y charcas supraglaciares.",
+      "Las mayores abundancias se han observado cerca de determinadas zonas de equilibrio de los glaciares.",
+      "Su distribución está fuertemente condicionada por la temperatura mínima que experimenta el glaciar durante el invierno.",
+      "No se encuentra en glaciares donde las condiciones térmicas sean demasiado frías para su supervivencia."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Herbívoro-detritívoro",
+    "presasComunes": [
+      "No caza presas animales de forma habitual"
+    ],
+    "estrategiaCaza": "Forrajeo sobre la superficie del hielo y dentro de pequeños ambientes acuáticos y capas de nieve.",
+    "descripcionDieta": [
+      "Su alimentación se basa principalmente en algas de la nieve.",
+      "También aprovecha polen y otras partículas orgánicas transportadas por el viento.",
+      "En arroyos y charcas glaciares puede desplazarse sobre el hielo y aprovechar materia orgánica transportada por el agua.",
+      "Su alimentación depende de los escasos recursos orgánicos disponibles en el ecosistema glaciar."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Gregario en determinadas zonas de los glaciares, aunque no presenta una estructura social compleja conocida",
+    "rolMacho": null,
+    "rolHembra": null,
+    "actividadDiaria": "Principalmente activo en superficie durante las horas de menor radiación solar",
+    "comunicacion": [
+      "No se conoce suficientemente un sistema de comunicación específico"
+    ],
+    "descripcionComportamiento": [
+      "Los gusanos de hielo aparecen con mayor frecuencia en la superficie durante las primeras y últimas horas del día.",
+      "Cuando aumenta la radiación solar pueden desplazarse hacia zonas más profundas del hielo.",
+      "Son capaces de desplazarse por pequeñas cavidades y películas de agua existentes dentro del glaciar.",
+      "Pueden concentrarse en grandes cantidades en determinados sectores donde las condiciones de temperatura y alimento son favorables.",
+      "Su comportamiento está fuertemente condicionado por la temperatura."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": null,
+      "hembra": null
+    },
+    "periodoGestacion": "Desconocido",
+    "tamanoCamada": null,
+    "cuidadoCrias": "No se ha documentado cuidado parental.",
+    "descripcionReproduccion": [
+      "La especie completa su ciclo vital en el ambiente glaciar.",
+      "La información disponible sobre su reproducción y desarrollo es limitada debido a la dificultad de estudiar sus poblaciones durante todo el año.",
+      "La reproducción está restringida a ambientes glaciares que mantienen las condiciones térmicas necesarias para la especie.",
+      "No se han encontrado datos suficientemente sólidos para establecer en esta ficha la duración exacta del desarrollo embrionario o el número habitual de huevos por puesta."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Es un consumidor especializado de algas de la nieve y materia orgánica dentro de los ecosistemas glaciares.",
+    "Forma parte de las redes tróficas de los glaciares y constituye una fuente de alimento para otros organismos.",
+    "Participa en el procesamiento de materia orgánica en uno de los ambientes terrestres más extremos.",
+    "Es un ejemplo excepcional de adaptación evolutiva de un animal pluricelular a la vida permanente en hielo."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 1,
+    "inteligencia": 5,
+    "adaptabilidad": 10,
+    "fuerza": 1,
+    "velocidad": 3,
+    "tamano": 1,
+    "majestuosidad": 5,
+    "rareza": 10,
+    "supervivencia": 10,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Es uno de los pocos animales capaces de completar todo su ciclo vital en hielo glaciar.",
+    "Puede alcanzar aproximadamente 2,5 cm de longitud.",
+    "Se alimenta principalmente de algas de la nieve.",
+    "Puede encontrarse en grandes concentraciones sobre determinados glaciares.",
+    "Las poblaciones pueden alcanzar cientos o miles de individuos por metro cuadrado.",
+    "Su intervalo de temperatura tolerable es extremadamente estrecho.",
+    "No ocupa glaciares cuyas condiciones invernales sean demasiado frías.",
+    "Sus quetas le permiten agarrarse al hielo.",
+    "Carece de ojos verdaderos y posee estructuras sensoriales especializadas.",
+    "Su nombre científico es Mesenchytraeus solifugus.",
+    "La especie fue descrita científicamente a finales del siglo XIX.",
+    "Su distribución natural se limita al noroeste de Norteamérica."
+  ]
+}
