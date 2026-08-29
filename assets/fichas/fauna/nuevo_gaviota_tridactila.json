@@ -1,0 +1,214 @@
+{
+  "id": "gaviota_tridactila",
+  "nombre": "Gaviota Tridáctila",
+  "nombreCientifico": "Rissa tridactyla",
+  "fechaInformacion": "2026",
+
+  "imagen": "gaviota_tridactila.webp",
+
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "La gaviota tridáctila es una gaviota marina de tamaño mediano que pasa gran parte de su vida en mar abierto y se acerca a las costas principalmente durante la época reproductora.",
+    "Es característica de los acantilados marinos del Atlántico Norte y del Pacífico Norte, donde forma grandes colonias de reproducción."
+  ],
+
+  "descripcionLarga": [
+    "La gaviota tridáctila, Rissa tridactyla, es un ave marina de la familia Laridae adaptada a una vida principalmente pelágica. Los adultos presentan cabeza y partes inferiores blancas, dorso y alas de color gris pizarra y puntas de las alas negras.",
+    "Su nombre común hace referencia a sus patas oscuras y a la reducción del dedo posterior, que está muy poco desarrollado en comparación con otras gaviotas.",
+    "Es una especie muy ligada al medio marino y rara vez se encuentra tierra adentro. Durante la reproducción regresa a acantilados y salientes rocosos donde forma colonias densas.",
+    "Los nidos se construyen sobre estrechas repisas de acantilados, utilizando principalmente barro, hierba, algas y otros materiales vegetales.",
+    "Se alimenta principalmente de pequeños peces y diversos invertebrados marinos. Entre sus presas se encuentran peces como el lanzón y otros pequeños peces pelágicos, además de crustáceos y gusanos marinos.",
+    "Captura buena parte de sus presas cerca de la superficie del agua. También puede aprovechar descartes y restos asociados a la actividad pesquera.",
+    "Durante la reproducción ambos progenitores participan en la incubación y en la alimentación de los polluelos.",
+    "Es una especie longeva para su tamaño. Los datos de anillamiento han documentado individuos que han superado los 28 años de edad.",
+    "Las poblaciones de algunas regiones han sufrido descensos importantes relacionados con la disponibilidad de alimento marino, el cambio climático, la contaminación y otros cambios en el ecosistema oceánico."
+  ],
+
+  "observaciones": [
+    "Pasa gran parte del año en mar abierto.",
+    "Forma colonias reproductoras muy numerosas en acantilados marinos.",
+    "Sus patas son negras, una característica que la diferencia de muchas otras gaviotas.",
+    "Los juveniles presentan un característico dibujo negro en forma de W sobre las alas y el dorso.",
+    "Los polluelos son alimentados por ambos progenitores.",
+    "Puede vivir más de 28 años en libertad.",
+    "Las poblaciones europeas han experimentado importantes descensos en las últimas décadas."
+  ],
+
+  "longevidad": {
+    "enLibertad": "Hasta 28 años y 6 meses",
+    "enCautividad": null
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Charadriiformes",
+    "familia": "Laridae",
+    "genero": "Rissa",
+    "especie": "tridactyla"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Vulnerable (VU)",
+    "tendenciaPoblacion": "Decreciendo",
+    "amenazasPrincipales": [
+      "Disminución de las poblaciones de peces presa",
+      "Cambio climático",
+      "Sobreexplotación de recursos pesqueros",
+      "Contaminación marina",
+      "Vertidos de petróleo",
+      "Capturas accidentales en artes de pesca",
+      "Perturbación de las colonias reproductoras"
+    ],
+    "esfuerzosConservacion": [
+      "Protección de las colonias de reproducción",
+      "Protección de áreas marinas importantes para la alimentación",
+      "Seguimiento de las poblaciones reproductoras",
+      "Reducción de la contaminación marina",
+      "Control de las interacciones con las actividades pesqueras",
+      "Protección de las zonas costeras utilizadas para nidificar"
+    ],
+    "descripcionConservacion": [
+      "La gaviota tridáctila está clasificada globalmente como Vulnerable (VU). La especie depende estrechamente de los ecosistemas marinos y sus poblaciones pueden verse afectadas por la reducción de sus presas, la sobreexplotación pesquera, el cambio climático y la contaminación.",
+      "En España la situación es especialmente delicada para las poblaciones reproductoras. El Inventario Español del Patrimonio Natural y la Biodiversidad recoge a la especie como Vulnerable a nivel español y en régimen de protección especial."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "300-530 g",
+      "hembraAdulta": "300-530 g",
+      "maximoRegistrado": null
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "38-40 cm",
+      "hembra": "38-40 cm"
+    },
+    "colorPelaje": "Plumaje blanco en cabeza y partes inferiores, dorso y alas gris pizarra y puntas de las alas negras; patas negras y pico amarillo.",
+    "caracteristicasEspeciales": "Puntas de las alas negras sin las manchas blancas características de otras gaviotas; patas negras y dedo posterior muy reducido.",
+    "morfologia": [
+      "Cuerpo compacto de tamaño mediano",
+      "Cabeza blanca",
+      "Dorso y alas gris pizarra",
+      "Puntas de las alas negras",
+      "Pico amarillo",
+      "Patas negras",
+      "Dedo posterior muy reducido",
+      "Alas adaptadas al vuelo sobre mar abierto"
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Mar abierto, aguas costeras, acantilados marinos y salientes rocosos",
+    "distribucionGeografica": [
+      "Atlántico Norte",
+      "Pacífico Norte",
+      "Ártico"
+    ],
+    "adaptacionesHabitat": "Adaptación a la vida pelágica, vuelo maniobrable sobre el mar y capacidad para nidificar en estrechas repisas de acantilados.",
+    "descripcionHabitat": [
+      "Pasa la mayor parte del año en aguas marinas y es una especie poco habitual tierra adentro.",
+      "Durante la reproducción utiliza acantilados costeros con repisas estrechas donde instala sus nidos.",
+      "Las colonias pueden situarse a gran altura sobre el nivel del mar.",
+      "Fuera de la época reproductora se dispersa ampliamente por el océano."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Carnívoro",
+    "presasComunes": [
+      "Pequeños peces",
+      "Lanzones",
+      "Capelanes",
+      "Crustáceos",
+      "Gusanos marinos",
+      "Otros invertebrados marinos"
+    ],
+    "estrategiaCaza": "Captura de pequeños peces e invertebrados principalmente cerca de la superficie del mar.",
+    "descripcionDieta": [
+      "Se alimenta principalmente de pequeños peces e invertebrados marinos.",
+      "Los peces pequeños constituyen una parte importante de la alimentación durante la época reproductora.",
+      "Puede capturar sus presas desde el aire o mientras permanece sobre la superficie del agua.",
+      "También puede aprovechar descartes y restos procedentes de la actividad pesquera."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Gregaria; forma grandes colonias durante la reproducción y se dispersa ampliamente durante el resto del año",
+    "rolMacho": "Participa en la defensa del territorio, incubación y alimentación de los polluelos.",
+    "rolHembra": "Participa en la defensa del territorio, incubación y alimentación de los polluelos.",
+    "actividadDiaria": "Diurna",
+    "comunicacion": [
+      "Llamadas de contacto",
+      "Vocalizaciones territoriales",
+      "Llamadas durante el cortejo",
+      "Llamadas de alarma",
+      "Posturas corporales"
+    ],
+    "descripcionComportamiento": [
+      "Es una especie muy gregaria durante la reproducción y puede formar colonias de gran tamaño.",
+      "Las parejas construyen sus nidos muy próximos unos a otros sobre repisas de acantilados.",
+      "Ambos progenitores participan en la incubación y en la alimentación de las crías.",
+      "Fuera de la época reproductora se dispersa por el océano y puede recorrer grandes distancias.",
+      "Es capaz de maniobrar con precisión para aterrizar y desplazarse sobre estrechas repisas rocosas."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "3-5 años",
+      "hembra": "3-5 años"
+    },
+    "periodoGestacion": "25-32 días de incubación",
+    "tamanoCamada": "1-3 huevos",
+    "cuidadoCrias": "Ambos progenitores incuban los huevos y alimentan y protegen a los polluelos.",
+    "descripcionReproduccion": [
+      "La gaviota tridáctila se reproduce en colonias situadas principalmente sobre acantilados costeros.",
+      "Construye un nido en forma de cuenco utilizando barro, hierba, algas y otros materiales.",
+      "La puesta habitual contiene dos huevos, aunque se han registrado puestas de uno a tres.",
+      "Ambos progenitores participan en la incubación, que dura aproximadamente entre 25 y 32 días.",
+      "Los polluelos permanecen en el nido mientras son alimentados y protegidos por ambos padres.",
+      "Los jóvenes tardan aproximadamente entre 33 y 54 días en alcanzar la capacidad de vuelo."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Forma parte de las redes tróficas marinas como depredador de pequeños peces e invertebrados.",
+    "Transfiere nutrientes del medio marino a las colonias de reproducción situadas en los acantilados.",
+    "Su dependencia de pequeños peces pelágicos la convierte en una especie sensible a cambios en la disponibilidad de recursos marinos.",
+    "Sus tendencias poblacionales pueden aportar información sobre el estado de los ecosistemas marinos."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 4,
+    "inteligencia": 7,
+    "adaptabilidad": 8,
+    "fuerza": 4,
+    "velocidad": 8,
+    "tamano": 4,
+    "majestuosidad": 8,
+    "rareza": 6,
+    "supervivencia": 8,
+    "impactoEcologico": 7
+  },
+
+  "curiosidades": [
+    "Su nombre hace referencia a sus patas negras y al reducido desarrollo del dedo posterior.",
+    "Es una de las gaviotas más asociadas al mar abierto.",
+    "Puede nidificar en repisas de acantilados extremadamente estrechas.",
+    "Los adultos tienen las puntas de las alas negras.",
+    "Los juveniles presentan un característico dibujo negro en forma de W sobre las alas.",
+    "La puesta habitual es de dos huevos.",
+    "Ambos progenitores participan en la incubación.",
+    "Los polluelos pueden tardar entre 33 y 54 días en volar.",
+    "Se han registrado individuos de más de 28 años de edad.",
+    "En el Reino Unido las poblaciones han sufrido un fuerte descenso, relacionado entre otros factores con la disponibilidad de pequeños peces como los lanzones."
+  ]
+}
