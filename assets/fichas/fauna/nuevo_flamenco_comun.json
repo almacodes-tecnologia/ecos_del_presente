@@ -179,19 +179,18 @@
     "Contribuye al movimiento y procesamiento de materia orgánica en los ecosistemas acuáticos donde se alimenta.",
     "Su dependencia de humedales funcionales hace que su presencia y reproducción estén estrechamente relacionadas con el estado de estos ecosistemas."
   ],
-
-  "atributosFantasia": {
-    "agresividad": null,
-    "inteligencia": null,
-    "adaptabilidad": null,
-    "fuerza": null,
-    "velocidad": null,
-    "tamano": null,
-    "majestuosidad": null,
-    "rareza": null,
-    "supervivencia": null,
-    "impactoEcologico": null
-  },
+"atributosFantasia": {
+  "agresividad": 3,
+  "inteligencia": 6,
+  "adaptabilidad": 8,
+  "fuerza": 4,
+  "velocidad": 7,
+  "tamano": 7,
+  "majestuosidad": 9,
+  "rareza": 5,
+  "supervivencia": 7,
+  "impactoEcologico": 6
+},
 
   "curiosidades": [
     "Puede formar colonias reproductoras de miles de parejas.",
