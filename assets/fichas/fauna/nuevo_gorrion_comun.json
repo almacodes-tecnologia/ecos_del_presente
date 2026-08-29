@@ -1,0 +1,207 @@
+{
+  "id": "gorrion_comun",
+  "nombre": "Gorrión Común",
+  "nombreCientifico": "Passer domesticus",
+  "fechaInformacion": "2026",
+
+  "imagen": "gorrion_comun.webp",
+
+  "galeria": [],
+
+  "introduccionAnimal": [
+    "El gorrión común es una pequeña ave paseriforme estrechamente asociada a los asentamientos humanos.",
+    "Es una especie muy extendida que puede vivir tanto en ambientes urbanos como rurales y presenta una alimentación variada."
+  ],
+
+  "descripcionLarga": [
+    "El gorrión común, Passer domesticus, es un pequeño pájaro de la familia Passeridae. Es una de las aves más estrechamente relacionadas con los ambientes humanos y está presente en ciudades, pueblos, zonas agrícolas y otros lugares habitados.",
+    "Existe un marcado dimorfismo sexual. El macho adulto presenta la cabeza gris, una zona negra alrededor de la garganta y el pecho y partes superiores pardas, mientras que la hembra tiene un plumaje más uniforme de tonos pardos.",
+    "Es principalmente sedentario en muchas regiones, aunque puede realizar desplazamientos locales dependiendo de la disponibilidad de alimento y de las condiciones ambientales.",
+    "Su alimentación es variada e incluye principalmente semillas y otros alimentos vegetales, aunque durante la época reproductora consume también una cantidad importante de invertebrados para alimentar a los polluelos.",
+    "Construye sus nidos en cavidades y huecos de edificios y otras estructuras, aunque también puede utilizar vegetación y cajas nido.",
+    "Es una especie social que suele formar grupos, especialmente fuera de la época reproductora, y puede concentrarse en grandes bandos para alimentarse o descansar.",
+    "Aunque sigue siendo una especie común en gran parte de su distribución, numerosas poblaciones han experimentado descensos importantes, especialmente en determinadas zonas urbanas y agrícolas."
+  ],
+
+  "observaciones": [
+    "Existe un marcado dimorfismo sexual en el plumaje.",
+    "El macho presenta una característica mancha negra en la garganta y el pecho.",
+    "La hembra tiene un plumaje predominantemente pardo y carece de la mancha negra del macho.",
+    "Está estrechamente asociado a edificios y asentamientos humanos.",
+    "Los polluelos reciben una alimentación con mayor proporción de invertebrados que los adultos.",
+    "Puede formar grandes grupos fuera de la época reproductora.",
+    "BTO registra una edad máxima de 12 años y 12 días para un ejemplar anillado."
+  ],
+
+  "longevidad": {
+    "enLibertad": "Hasta 12 años y 12 días",
+    "enCautividad": null
+  },
+
+  "taxonomia": {
+    "reino": "Animalia",
+    "filo": "Chordata",
+    "clase": "Aves",
+    "orden": "Passeriformes",
+    "familia": "Passeridae",
+    "genero": "Passer",
+    "especie": "domesticus"
+  },
+
+  "estadoConservacion": {
+    "categoriaIUCN": "Preocupación menor (LC)",
+    "tendenciaPoblacion": "Decreciendo",
+    "amenazasPrincipales": [
+      "Pérdida de lugares adecuados para nidificar",
+      "Disminución de recursos alimenticios",
+      "Intensificación agrícola",
+      "Uso de pesticidas",
+      "Cambios en los entornos urbanos",
+      "Pérdida de vegetación y zonas de alimentación"
+    ],
+    "esfuerzosConservacion": [
+      "Conservación de lugares adecuados para nidificar",
+      "Instalación y mantenimiento de cajas nido",
+      "Conservación de zonas verdes urbanas",
+      "Mantenimiento de hábitats agrícolas favorables",
+      "Reducción del uso innecesario de pesticidas",
+      "Seguimiento de las poblaciones"
+    ],
+    "descripcionConservacion": [
+      "Aunque el gorrión común continúa siendo una especie ampliamente distribuida y clasificada globalmente como Preocupación menor, numerosas poblaciones han experimentado descensos. La transformación de los entornos urbanos y agrícolas y la reducción de recursos alimenticios y lugares de nidificación son factores relevantes para su conservación."
+    ]
+  },
+
+  "caracteristicasFisicas": {
+    "peso": {
+      "machoAdulto": "24.5-30.5 g",
+      "hembraAdulta": "24-31 g",
+      "maximoRegistrado": null
+    },
+    "alturaHombro": {
+      "macho": null,
+      "hembra": null
+    },
+    "longitudCuerpoCola": {
+      "macho": "14-16 cm",
+      "hembra": "14-16 cm"
+    },
+    "colorPelaje": "El macho presenta partes superiores pardas, cabeza gris, garganta y pecho negros y partes inferiores grises; la hembra presenta un plumaje predominantemente pardo y más uniforme.",
+    "caracteristicasEspeciales": "Marcada diferencia de plumaje entre sexos; el macho presenta una característica zona negra en la garganta y el pecho.",
+    "morfologia": [
+      "Cuerpo pequeño y compacto",
+      "Pico corto, grueso y cónico",
+      "Alas relativamente cortas y redondeadas",
+      "Patas adaptadas para posarse y caminar",
+      "Cola de longitud media",
+      "Plumaje sexualmente dimórfico"
+    ]
+  },
+
+  "habitat": {
+    "tipo": "Zonas urbanas, pueblos, áreas agrícolas, jardines, parques y otros ambientes modificados por el ser humano",
+    "distribucionGeografica": [
+      "Europa",
+      "Asia",
+      "África",
+      "América del Norte",
+      "América del Sur",
+      "Australia",
+      "Nueva Zelanda"
+    ],
+    "adaptacionesHabitat": "Gran capacidad para aprovechar construcciones humanas como refugio y lugares de nidificación y para explotar recursos alimenticios asociados a los asentamientos humanos.",
+    "descripcionHabitat": [
+      "Está fuertemente asociado a los asentamientos humanos y puede encontrarse tanto en ciudades como en zonas rurales.",
+      "Utiliza edificios, tejados, aleros y otras estructuras para refugiarse y reproducirse.",
+      "También ocupa zonas agrícolas, parques, jardines y áreas con vegetación.",
+      "La disponibilidad de alimento y de lugares adecuados para construir el nido influye en su presencia y abundancia."
+    ]
+  },
+
+  "dieta": {
+    "tipo": "Omnívoro",
+    "presasComunes": [
+      "Insectos",
+      "Larvas de insectos",
+      "Otros pequeños invertebrados"
+    ],
+    "estrategiaCaza": "Forrajeo principalmente terrestre y búsqueda oportunista de alimento en vegetación, suelo y entornos humanos.",
+    "descripcionDieta": [
+      "Los adultos consumen principalmente semillas y otros alimentos vegetales, complementándolos con invertebrados.",
+      "Durante la reproducción aumenta la importancia de los invertebrados en la alimentación destinada a los polluelos.",
+      "Busca alimento principalmente en el suelo y entre la vegetación.",
+      "También aprovecha alimentos disponibles en los asentamientos humanos."
+    ]
+  },
+
+  "comportamiento": {
+    "estructuraSocial": "Gregario; forma grupos y bandos, especialmente fuera de la época reproductora",
+    "rolMacho": "Participa en la defensa del lugar de nidificación y en la alimentación de los polluelos.",
+    "rolHembra": "Participa en la construcción y mantenimiento del nido, incubación y alimentación de los polluelos.",
+    "actividadDiaria": "Diurna",
+    "comunicacion": [
+      "Gorjeos",
+      "Llamadas de contacto",
+      "Llamadas de alarma",
+      "Vocalizaciones territoriales",
+      "Vocalizaciones durante el cortejo"
+    ],
+    "descripcionComportamiento": [
+      "Es una especie social que suele vivir en grupos y puede formar grandes bandos.",
+      "Los machos pueden defender pequeñas áreas alrededor del lugar de nidificación.",
+      "Fuera de la época reproductora aumenta el comportamiento gregario.",
+      "Es una especie muy adaptable que aprovecha numerosos recursos presentes en los ambientes urbanos y rurales.",
+      "Su proximidad habitual al ser humano le permite explotar recursos alimenticios y lugares de refugio proporcionados por las construcciones."
+    ]
+  },
+
+  "reproduccion": {
+    "tipoReproduccion": "Ovíparo",
+    "madurezSexual": {
+      "macho": "1 año",
+      "hembra": "1 año"
+    },
+    "periodoGestacion": "11-14 días de incubación",
+    "tamanoCamada": "2-8 huevos",
+    "cuidadoCrias": "Ambos progenitores participan en la alimentación y cuidado de los polluelos.",
+    "descripcionReproduccion": [
+      "El gorrión común suele reproducirse en parejas, aunque puede formar colonias laxas cuando existen numerosos lugares adecuados para nidificar.",
+      "Construye sus nidos principalmente en cavidades y huecos de edificios y otras estructuras.",
+      "La puesta puede contener varios huevos y una pareja puede realizar varias puestas durante una temporada reproductora.",
+      "La incubación es realizada principalmente por la hembra, con participación del macho.",
+      "Ambos progenitores alimentan a los polluelos.",
+      "Los polluelos permanecen en el nido hasta alcanzar un desarrollo suficiente para abandonarlo."
+    ]
+  },
+
+  "importanciaEcologica": [
+    "Forma parte de las cadenas alimentarias de los ecosistemas urbanos y rurales.",
+    "Consume semillas e invertebrados y sirve a su vez como presa para diferentes depredadores.",
+    "Contribuye al transporte y dispersión de semillas de algunas plantas.",
+    "Es una especie estrechamente vinculada a los ecosistemas urbanos y puede utilizarse como indicador de cambios en la biodiversidad de estos ambientes."
+  ],
+
+  "atributosFantasia": {
+    "agresividad": 4,
+    "inteligencia": 7,
+    "adaptabilidad": 10,
+    "fuerza": 2,
+    "velocidad": 6,
+    "tamano": 2,
+    "majestuosidad": 4,
+    "rareza": 1,
+    "supervivencia": 8,
+    "impactoEcologico": 6
+  },
+
+  "curiosidades": [
+    "El macho y la hembra presentan plumajes claramente diferentes.",
+    "El macho posee una característica mancha negra en la garganta y el pecho.",
+    "Está estrechamente asociado a los asentamientos humanos.",
+    "Puede formar grandes bandos fuera de la época reproductora.",
+    "Los polluelos reciben una mayor proporción de alimento animal durante su desarrollo.",
+    "Puede criar varias veces durante una misma temporada reproductora.",
+    "BTO ha registrado un ejemplar de 12 años y 12 días.",
+    "A pesar de ser considerado común, sus poblaciones han disminuido en numerosas zonas."
+  ]
+}
