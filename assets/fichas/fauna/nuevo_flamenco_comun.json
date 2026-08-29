@@ -1,0 +1,208 @@
+{
+  "id": "flamenco_comun",
+  "nombre": "Flamenco común",
+  "nombreCientifico": "Phoenicopterus roseus",
+  "fechaInformacion": "2026",
+
+  "imagen": "flamenco_comun.webp",
+
+  "galeria": [
+  ],
+
+  "introduccionAnimal": [
+      "El flamenco común es una gran ave acuática gregaria de la familia Phoenicopteridae, reconocible por sus largas patas, su cuello largo y su característico pico curvado.",
+      "Habita principalmente humedales poco profundos, salinos o salobres, donde obtiene alimento filtrando el agua y el sedimento con su especializado pico."
+  ],
+
+  "descripcionLarga": [
+      "El flamenco común es un ave de gran tamaño perteneciente a la familia Phoenicopteridae. Su nombre científico es Phoenicopterus roseus y es el flamenco de mayor tamaño y distribución más amplia entre las especies actuales de flamencos.",
+      "Presenta un cuerpo alargado, cuello muy largo, patas largas y un pico grande curvado hacia abajo. El plumaje adulto es predominantemente blanquecino y rosado, con zonas de coloración más intensa en las alas.",
+      "Es una especie extremadamente gregaria que vive y se alimenta en grupos que pueden reunir cientos o miles de individuos. También forma colonias de reproducción.",
+      "Obtiene su alimento principalmente mediante filtración. Introduce el pico en aguas poco profundas y utiliza las estructuras especializadas de su pico para separar del agua y del sedimento pequeños organismos y materia orgánica.",
+      "Su alimentación incluye microalgas, semillas, restos vegetales, nematodos, anélidos, crustáceos, moluscos, insectos acuáticos y sus larvas, además de pequeños peces en determinadas circunstancias.",
+      "La reproducción tiene lugar en colonias. La pareja construye normalmente un nido de barro con forma de montículo o cono truncado, generalmente situado en islas o zonas aisladas dentro de los humedales.",
+      "La puesta habitual consta de un solo huevo. Ambos miembros de la pareja participan en la incubación, que normalmente dura entre 27 y 31 días.",
+      "Después de nacer, los pollos permanecen inicialmente en el nido y posteriormente se incorporan a grupos de jóvenes llamados guarderías o crèches, que son atendidos y vigilados por adultos.",
+      "El flamenco común depende de humedales adecuados para alimentarse y reproducirse. La alteración del régimen hídrico, la pérdida y degradación del hábitat y las molestias en las colonias reproductoras pueden afectar negativamente a su éxito reproductivo."
+  ],
+
+  "observaciones": [
+      "Los machos son de mayor tamaño que las hembras.",
+      "La coloración rosada del plumaje está relacionada con los pigmentos presentes en su alimentación.",
+      "Es una especie colonial y altamente gregaria.",
+      "Los pollos son alimentados por ambos progenitores mediante una secreción producida por los adultos.",
+      "Las colonias reproductoras son especialmente sensibles a las alteraciones de las condiciones ambientales y a las molestias humanas."
+  ],
+
+  "longevidad": {
+      "enLibertad": "Más de 40 años",
+      "enCautividad": "58,8 años registrados"
+  },
+
+  "taxonomia": {
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Aves",
+      "orden": "Phoenicopteriformes",
+      "familia": "Phoenicopteridae",
+      "genero": "Phoenicopterus",
+      "especie": "P. roseus"
+  },
+
+  "estadoConservacion": {
+      "categoriaIUCN": "Preocupación menor (LC)",
+      "tendenciaPoblacion": null,
+      "amenazasPrincipales": [
+          "Pérdida y degradación del hábitat",
+          "Alteración o reducción de los niveles de agua en los humedales",
+          "Molestias humanas en las colonias reproductoras",
+          "Envenenamiento por plomo",
+          "Colisiones con vallas y tendidos eléctricos",
+          "Enfermedades",
+          "Caza"
+      ],
+      "esfuerzosConservacion": [
+          "Protección de humedales",
+          "Protección y gestión de colonias reproductoras",
+          "Seguimiento de las poblaciones",
+          "Conservación y restauración de hábitats adecuados para la alimentación y reproducción",
+          "Reducción de las molestias humanas en las zonas de reproducción"
+      ],
+      "descripcionConservacion": [
+          "El flamenco común está clasificado actualmente como de Preocupación menor (LC) por la UICN. A pesar de su situación global, la especie depende de humedales adecuados y sus colonias reproductoras pueden verse afectadas por la pérdida y degradación del hábitat, cambios en los niveles de agua y molestias humanas."
+      ]
+  },
+
+  "caracteristicasFisicas": {
+      "peso": {
+          "machoAdulto": null,
+          "hembraAdulta": null,
+          "maximoRegistrado": null
+      },
+      "alturaHombro": {
+          "macho": null,
+          "hembra": null
+      },
+      "longitudCuerpoCola": {
+          "macho": null,
+          "hembra": null
+      },
+      "colorPelaje": "No posee pelaje; plumaje predominantemente blanco y rosado, con zonas de coloración más intensa en las alas",
+      "caracteristicasEspeciales": "Cuello muy largo, patas largas y pico grande curvado hacia abajo y especializado en la filtración",
+      "morfologia": [
+          "Cuerpo grande y alargado",
+          "Cuello extremadamente largo",
+          "Patas largas de color rosado",
+          "Pico grande y curvado hacia abajo",
+          "Pico especializado para la alimentación por filtración",
+          "Alas con plumas rosadas y zonas de coloración roja y negra"
+      ]
+  },
+
+  "habitat": {
+      "tipo": "Humedales poco profundos, lagos salinos o salobres, lagunas costeras, marismas, salinas y otros humedales adecuados",
+      "distribucionGeografica": [
+          "Europa meridional",
+          "África",
+          "Asia occidental"
+      ],
+      "adaptacionesHabitat": "Patas largas y especializadas para desplazarse por aguas someras y pico adaptado a la filtración de alimento en el agua y el sedimento",
+      "descripcionHabitat": [
+          "Durante la reproducción utiliza principalmente humedales poco profundos de carácter salino o alcalino, incluidos lagos salados, lagunas costeras, marismas y salinas.",
+          "Fuera del periodo reproductor también puede utilizar estuarios, deltas, arrozales, embalses, zonas costeras y otros humedales.",
+          "Las colonias reproductoras suelen establecerse en lugares aislados dentro de los humedales, como islas."
+      ]
+  },
+
+  "dieta": {
+      "tipo": "Omnívoro filtrador",
+      "presasComunes": [
+          "Microalgas",
+          "Crustáceos",
+          "Moluscos",
+          "Nematodos",
+          "Anélidos",
+          "Insectos acuáticos",
+          "Larvas de insectos",
+          "Pequeños peces"
+      ],
+      "estrategiaCaza": "Filtración del agua y del sedimento mediante el pico especializado, normalmente en aguas poco profundas",
+      "descripcionDieta": [
+          "El flamenco común obtiene alimento principalmente mediante filtración, introduciendo el pico en el agua o el sedimento y separando las partículas alimenticias.",
+          "Su alimentación comprende microorganismos, microalgas, pequeños invertebrados acuáticos, crustáceos, moluscos, insectos y materia vegetal.",
+          "También puede consumir pequeños peces y otros organismos acuáticos en función de las condiciones del humedal.",
+          "Los pigmentos presentes en parte de su alimentación contribuyen a la coloración rosada de su plumaje."
+      ]
+  },
+
+  "comportamiento": {
+      "estructuraSocial": "Especie altamente gregaria; forma grupos de cientos o miles de individuos y colonias reproductoras",
+      "rolMacho": "Participa en la construcción del nido, incubación, defensa y cuidado de la descendencia",
+      "rolHembra": "Participa en la construcción del nido, incubación y cuidado de la descendencia",
+      "actividadDiaria": "Diurna y nocturna",
+      "comunicacion": [
+          "Vocalizaciones",
+          "Posturas corporales",
+          "Movimientos de cabeza",
+          "Despliegues de las alas durante el cortejo"
+      ],
+      "descripcionComportamiento": [
+          "El flamenco común es una especie social que desarrolla gran parte de sus actividades en grupos numerosos.",
+          "Los individuos mantienen contacto mediante diferentes vocalizaciones y comportamientos corporales.",
+          "Durante el cortejo realizan movimientos ritualizados de cabeza, despliegues de las alas y otras posturas coordinadas.",
+          "Las crías se agrupan posteriormente en guarderías o crèches, donde permanecen bajo la vigilancia de adultos mientras sus progenitores continúan alimentándose."
+      ]
+  },
+
+  "reproduccion": {
+      "tipoReproduccion": "Ovíparo",
+      "madurezSexual": {
+          "macho": "5-6 años",
+          "hembra": "5-6 años"
+      },
+      "periodoGestacion": "27-31 días de incubación",
+      "tamanoCamada": "1 huevo",
+      "cuidadoCrias": "Cuidado parental por ambos progenitores y posterior agrupación de los pollos en guarderías",
+      "descripcionReproduccion": [
+          "El flamenco común se reproduce en colonias y forma parejas durante el periodo reproductor.",
+          "El macho y la hembra construyen juntos un nido, normalmente de barro, con forma de montículo o cono truncado y una depresión en la parte superior.",
+          "La puesta habitual consta de un solo huevo.",
+          "Ambos progenitores incuban el huevo por turnos durante aproximadamente 27-31 días.",
+          "Los pollos permanecen en el nido durante los primeros 2-3 días y posteriormente comienzan a desplazarse acompañados por adultos.",
+          "Más adelante los pollos se integran en guarderías o crèches formadas por numerosos jóvenes, mientras los progenitores continúan proporcionando alimento y cuidados.",
+          "Los pollos reciben de sus progenitores una secreción alimenticia conocida como leche de buche o crop milk."
+      ]
+  },
+
+  "importanciaEcologica": [
+      "El flamenco común forma parte de las redes tróficas de los humedales y consume microorganismos, algas y pequeños invertebrados acuáticos.",
+      "Sus grandes concentraciones en humedales forman parte de la dinámica ecológica de estos ecosistemas.",
+      "Su dependencia de humedales adecuados hace que la especie esté estrechamente vinculada a la conservación de estos ecosistemas."
+  ],
+
+  "atributosFantasia": {
+      "agresividad": null,
+      "inteligencia": null,
+      "adaptabilidad": null,
+      "fuerza": null,
+      "velocidad": null,
+      "tamano": null,
+      "majestuosidad": null,
+      "rareza": null,
+      "supervivencia": null,
+      "impactoEcologico": null
+  },
+
+  "curiosidades": [
+      "Es el flamenco de mayor tamaño y distribución más amplia entre las especies actuales de flamencos.",
+      "Su nombre científico es Phoenicopterus roseus.",
+      "La puesta habitual consta de un solo huevo.",
+      "Ambos progenitores incuban el huevo.",
+      "Los pollos forman guarderías o crèches después de abandonar el nido.",
+      "Los padres alimentan a los pollos mediante una secreción producida por ellos mismos.",
+      "Su pico está especializado para filtrar alimento del agua y del sedimento.",
+      "Su plumaje rosado está relacionado con los pigmentos presentes en su alimentación.",
+      "Puede vivir más de 40 años.",
+      "Es una especie extremadamente gregaria que puede formar concentraciones de cientos o miles de individuos."
+  ]
+}
