@@ -15,7 +15,7 @@
 
   "descripcionLarga": [
     "La garza real blanca, Ardea alba, es una gran ave acuática perteneciente a la familia Ardeidae. Presenta un cuerpo esbelto, cuello muy largo, patas largas y un pico largo y puntiagudo.",
-    "Su plumaje es completamente blanco. Las patas son negras y el pico es normalmente amarillo. Durante la época reproductora aparecen largos plumeros ornamentales en la espalda y pueden producirse cambios de coloración en las zonas desnudas de la cabeza.",
+    "Su plumaje es completamente blanco. Las patas son negras y el pico es normalmente amarillo. Durante la época reproductora desarrolla largos plumeros ornamentales en la espalda y pueden producirse cambios de coloración en las zonas desnudas de la cabeza.",
     "Es una especie asociada principalmente a humedales de aguas poco profundas. Puede encontrarse en lagos, lagunas, marismas, ríos, estuarios, arrozales y otras zonas húmedas.",
     "Es principalmente carnívora. Los peces constituyen una parte importante de su alimentación, aunque también consume anfibios, reptiles, crustáceos, insectos, pequeños mamíferos y pequeñas aves.",
     "Normalmente caza permaneciendo inmóvil o caminando lentamente por aguas poco profundas. Cuando una presa se aproxima, extiende rápidamente el cuello y utiliza su largo pico para capturarla.",
@@ -75,8 +75,8 @@
       "maximoRegistrado": null
     },
     "alturaHombro": {
-      "macho": null,
-      "hembra": null
+      "macho": "80-104 cm",
+      "hembra": "80-104 cm"
     },
     "longitudCuerpoCola": {
       "macho": "80-104 cm",
