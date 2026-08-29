@@ -10,28 +10,31 @@
 
   "introduccionAnimal": [
     "El halcón peregrino es una rapaz de distribución prácticamente mundial y uno de los animales más rápidos conocidos.",
-    "Es un especialista en la captura de aves en vuelo, que suele abatir a sus presas mediante espectaculares picados a gran velocidad."
+    "Es un especialista en la captura de aves en vuelo y puede realizar espectaculares picados a velocidades superiores a 300 km/h."
   ],
 
   "descripcionLarga": [
-    "El halcón peregrino es un ave rapaz de la familia Falconidae presente en gran parte del mundo. Habita una enorme variedad de regiones y ambientes, desde costas y montañas hasta zonas urbanas.",
-    "Es un halcón de tamaño mediano, con alas largas y puntiagudas y una silueta característica durante el vuelo. Los adultos presentan las partes superiores de color gris azulado y las inferiores claras con barras oscuras.",
-    "Es principalmente ornitófago y captura sobre todo otras aves. Entre sus presas pueden encontrarse palomas, estorninos, limícolas y otras aves de tamaño pequeño o mediano.",
-    "Su técnica de caza más característica consiste en ganar altura y realizar un picado extremadamente rápido sobre la presa. Puede utilizar sus garras para golpear o capturar al ave durante el descenso.",
-    "La velocidad máxima del halcón peregrino durante un picado es objeto de diferentes mediciones y depende de las condiciones y de la técnica utilizada. Se han registrado velocidades superiores a 300 km/h en picados especialmente rápidos.",
-    "Tiene una distribución geográfica extraordinariamente amplia y está presente en todos los continentes excepto la Antártida.",
-    "Las parejas suelen mantener territorios y utilizan lugares elevados, como acantilados, para reproducirse. También puede criar en edificios altos dentro de ciudades.",
-    "Durante el siglo XX sufrió fuertes descensos poblacionales en muchas regiones debido principalmente a la contaminación por pesticidas organoclorados como el DDT. Las restricciones sobre estos compuestos permitieron una importante recuperación de numerosas poblaciones."
+    "El halcón peregrino es un ave rapaz de la familia Falconidae presente en gran parte del mundo. Su enorme distribución comprende todos los continentes excepto la Antártida.",
+    "Es un halcón de tamaño mediano, compacto y robusto, con alas largas y puntiagudas y una cola relativamente corta. Los adultos presentan las partes superiores de color gris azulado y las inferiores claras con barras oscuras.",
+    "La cabeza es oscura y presenta una característica bigotera negra que contrasta con las zonas claras de las mejillas y la garganta.",
+    "Las hembras son considerablemente mayores que los machos, un ejemplo marcado de dimorfismo sexual en tamaño.",
+    "Se alimenta principalmente de otras aves y puede capturar presas de tamaños muy diferentes, desde pequeños paseriformes hasta aves acuáticas y limícolas.",
+    "Su técnica de caza más característica consiste en ganar altura y realizar un picado extremadamente rápido sobre una presa en vuelo. Durante estos descensos puede alcanzar velocidades superiores a 300 km/h.",
+    "También puede capturar presas mediante persecuciones aéreas y ataques desde posiciones elevadas.",
+    "Puede reproducirse en acantilados y paredes rocosas, pero también utiliza estructuras artificiales como torres, edificios altos y otras construcciones.",
+    "Durante el siglo XX sufrió fuertes descensos poblacionales en numerosas regiones debido principalmente a la contaminación por pesticidas organoclorados, especialmente el DDT.",
+    "Tras la prohibición o restricción de estos contaminantes y la puesta en marcha de programas de conservación, numerosas poblaciones experimentaron una importante recuperación."
   ],
 
   "observaciones": [
-    "Es uno de los animales más rápidos conocidos cuando realiza un picado de caza.",
+    "Es uno de los animales más rápidos conocidos durante un picado de caza.",
     "Puede superar los 300 km/h durante determinados picados.",
+    "Las hembras son mayores que los machos.",
+    "Está presente en todos los continentes excepto la Antártida.",
+    "Puede reproducirse en acantilados y también en edificios altos.",
     "Se alimenta principalmente de otras aves.",
-    "Tiene una distribución natural prácticamente mundial.",
-    "Puede reproducirse en acantilados, montañas y edificios altos.",
-    "Las poblaciones sufrieron importantes descensos históricos debido al DDT y otros contaminantes.",
-    "La especie se ha recuperado notablemente en muchas regiones después de las restricciones al uso de determinados pesticidas."
+    "Las poblaciones sufrieron graves descensos históricos debido al DDT y otros contaminantes.",
+    "La especie se ha recuperado notablemente en muchas regiones después de las restricciones sobre determinados pesticidas."
   ],
 
   "longevidad": {
@@ -62,7 +65,7 @@
       "Restricción del uso de pesticidas organoclorados como el DDT",
       "Protección de lugares de nidificación",
       "Programas de seguimiento de poblaciones",
-      "Programas de recuperación y reintroducción en áreas donde había desaparecido",
+      "Programas de recuperación y reintroducción",
       "Instalación de plataformas y lugares artificiales de nidificación"
     ],
     "descripcionConservacion": [
@@ -72,8 +75,8 @@
 
   "caracteristicasFisicas": {
     "peso": {
-      "machoAdulto": "0.33-1.0 kg",
-      "hembraAdulta": "0.47-1.5 kg",
+      "machoAdulto": "Aproximadamente 0.5-0.7 kg",
+      "hembraAdulta": "Aproximadamente 0.7-1.3 kg",
       "maximoRegistrado": null
     },
     "alturaHombro": {
@@ -82,22 +85,23 @@
     },
     "longitudCuerpoCola": {
       "macho": "36-49 cm",
-      "hembra": "46-54 cm"
+      "hembra": "45-58 cm"
     },
-    "colorPelaje": "Plumaje de las partes superiores gris azulado oscuro; partes inferiores blanquecinas o crema con barras y manchas oscuras. Cabeza oscura con característica bigotera negra.",
-    "caracteristicasEspeciales": "Alas largas y puntiagudas, cuerpo aerodinámico y potente musculatura adaptada al vuelo rápido y a los picados de caza.",
+    "colorPelaje": "Plumaje de las partes superiores gris azulado oscuro; partes inferiores blanquecinas o crema con barras oscuras. Cabeza oscura con una característica bigotera negra.",
+    "caracteristicasEspeciales": "Alas largas y puntiagudas, cuerpo aerodinámico, potente musculatura de vuelo y una bigotera negra muy característica. Envergadura aproximadamente de 91-112 cm, con variación geográfica.",
     "morfologia": [
+      "Cuerpo compacto y robusto",
       "Alas largas y puntiagudas",
-      "Cuerpo aerodinámico",
+      "Cola relativamente corta",
       "Pico corto, fuerte y ganchudo",
       "Garras robustas y afiladas",
-      "Bigotera negra característica en la cabeza",
+      "Bigotera negra característica",
       "Gran capacidad visual para localizar presas a distancia"
     ]
   },
 
   "habitat": {
-    "tipo": "Acantilados, montañas, costas, zonas abiertas y áreas urbanas",
+    "tipo": "Acantilados, montañas, costas, humedales, zonas abiertas y áreas urbanas",
     "distribucionGeografica": [
       "Europa",
       "Asia",
@@ -107,12 +111,13 @@
       "Australia",
       "Oceanía"
     ],
-    "adaptacionesHabitat": "Gran capacidad de adaptación a diferentes ambientes y utilización de acantilados, edificios y otras estructuras elevadas como lugares de nidificación.",
+    "adaptacionesHabitat": "Gran capacidad para utilizar diferentes ambientes y aprovechar acantilados, paredes rocosas y estructuras artificiales elevadas como lugares de nidificación.",
     "descripcionHabitat": [
-      "Puede vivir en una gran variedad de ambientes siempre que existan zonas adecuadas para nidificar y suficientes aves que sirvan de alimento.",
+      "Puede vivir en una gran variedad de ambientes siempre que existan lugares adecuados para reproducirse y suficientes aves que sirvan de alimento.",
       "Los acantilados y paredes rocosas son lugares tradicionales de reproducción.",
-      "En muchas ciudades utiliza edificios altos, torres y otras estructuras artificiales como sustitutos de los acantilados.",
-      "Las zonas costeras pueden proporcionar abundantes aves acuáticas y marinas como presas."
+      "También puede utilizar edificios altos, torres, puentes y otras estructuras artificiales.",
+      "Las zonas costeras y los humedales proporcionan una gran variedad de aves que pueden formar parte de su alimentación.",
+      "Puede encontrarse desde zonas costeras hasta regiones montañosas."
     ]
   },
 
@@ -127,20 +132,20 @@
       "Gaviotas",
       "Otras aves de pequeño y mediano tamaño"
     ],
-    "estrategiaCaza": "Picado desde gran altura y captura o golpe de la presa durante el vuelo.",
+    "estrategiaCaza": "Picado desde altura y captura o golpe de la presa durante el vuelo.",
     "descripcionDieta": [
       "Las aves constituyen la mayor parte de su alimentación.",
       "Puede capturar presas muy diferentes dependiendo de la región y de su disponibilidad.",
       "Una de sus técnicas más características consiste en elevarse y lanzarse en un picado a gran velocidad sobre una presa en vuelo.",
       "También puede perseguir activamente a sus presas o capturarlas después de un ataque desde un posadero.",
-      "Ocasionalmente puede consumir pequeños mamíferos u otros animales, pero las aves son su principal recurso alimenticio."
+      "Ocasionalmente puede consumir pequeños mamíferos u otros animales, aunque las aves constituyen su principal recurso alimenticio."
     ]
   },
 
   "comportamiento": {
     "estructuraSocial": "Principalmente solitario fuera de la época reproductora; forma parejas durante la reproducción",
-    "rolMacho": "Defensa del territorio y participación en la alimentación de la hembra y los polluelos.",
-    "rolHembra": "Incubación principalmente y cuidado de los polluelos.",
+    "rolMacho": "Participa en la defensa del territorio y proporciona alimento a la hembra y a los polluelos.",
+    "rolHembra": "Realiza la mayor parte de la incubación y participa en el cuidado de los polluelos.",
     "actividadDiaria": "Diurna",
     "comunicacion": [
       "Llamadas territoriales",
@@ -149,7 +154,7 @@
       "Vocalizaciones durante el cortejo"
     ],
     "descripcionComportamiento": [
-      "Es territorial durante la época reproductora y normalmente mantiene una distancia respecto a otras parejas.",
+      "Es territorial durante la época reproductora y normalmente mantiene distancia respecto a otras parejas.",
       "Las parejas realizan vuelos de cortejo y defienden conjuntamente su territorio.",
       "Puede recorrer grandes áreas en busca de presas.",
       "Los ejemplares jóvenes se dispersan después de abandonar el territorio natal antes de establecerse como adultos reproductores.",
@@ -167,8 +172,8 @@
     "tamanoCamada": "3-4 huevos",
     "cuidadoCrias": "Ambos progenitores participan en el cuidado y alimentación de los polluelos.",
     "descripcionReproduccion": [
-      "Las parejas suelen utilizar lugares elevados, especialmente repisas de acantilados, para construir el nido o realizar la puesta.",
-      "El halcón peregrino normalmente no construye un nido elaborado y puede realizar la puesta directamente sobre una repisa o depresión adecuada.",
+      "Las parejas suelen utilizar lugares elevados, especialmente repisas de acantilados, para realizar la puesta.",
+      "El halcón peregrino normalmente no construye un nido elaborado y puede poner los huevos directamente sobre una repisa o depresión adecuada.",
       "La hembra realiza la mayor parte de la incubación mientras el macho proporciona alimento y participa en la defensa del territorio.",
       "Ambos progenitores alimentan a los polluelos después de la eclosión.",
       "Los jóvenes permanecen bajo el cuidado de los adultos durante un periodo después de abandonar el nido mientras desarrollan sus habilidades de vuelo y caza."
@@ -185,10 +190,10 @@
     "agresividad": 7,
     "inteligencia": 8,
     "adaptabilidad": 9,
-    "fuerza": 6,
+    "fuerza": 7,
     "velocidad": 10,
     "tamano": 5,
-    "majestuosidad": 9,
+    "majestuosidad": 10,
     "rareza": 4,
     "supervivencia": 9,
     "impactoEcologico": 8
@@ -198,7 +203,7 @@
     "Es uno de los animales más rápidos conocidos.",
     "Puede superar los 300 km/h durante determinados picados.",
     "Está presente en todos los continentes excepto la Antártida.",
-    "Las hembras son considerablemente más grandes que los machos.",
+    "Las hembras son considerablemente mayores que los machos.",
     "Su principal alimento son otras aves.",
     "Puede criar en edificios altos dentro de grandes ciudades.",
     "La característica bigotera negra es uno de sus rasgos más reconocibles.",
